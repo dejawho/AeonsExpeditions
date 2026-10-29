@@ -1,0 +1,1405 @@
+[
+ {
+  "title": "Absorbing Wraith",
+  "box": "The Caverns",
+  "life": 85,
+  "difficulty": 8,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Gravehold suffers 1 damage for each card in stasis. If three or fewer cards are in stasis, Freeze a card.",
+  "setup": "Place the Freeze token on the least expensive supply pile.\n\nFreeze a card. If playing with 1-3 players, Freeze an additional card.",
+  "rules": "When a card is placed into stasis, place it next to this mat.\n\nDuring any player's main phase, that player may spend Æ to place that many Æ tokens on a card in stasis. When a card in stasis has Æ tokens on it equal to its cost plus 2, the current player gains it. Aether that can only be used to gain cards can be used on cards in stasis.\n\nFreeze a card means to place the top card of the supply pile with the Freeze token into stasis and Advance.\n\nAdvance means to place the Freeze token on the next most expensive supply pile. If there are no supply piles more expensive than the supply pile with the Freeze token, move the Freeze token to the least expensive supply pile instead.\n\nCards in stasis cannot be developed.\n\nCards in stasis are not in the supply.\n\nWhen the supply pile with the Freeze token on it is empty, Advance.\n\nWhen all supply piles are empty, the players lose.\n\nWhen a player is exhausted, destroy all of the cards in the two least expensive supply piles instead of Unleash twice.",
+  "increased_difficulty": "RULES: Gaining cards in stasis costs an additional 1 Æ.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "SETUP: You must include the most expensive card in your Barracks in your supply. Two different players each suffer 2 damage."
+   ]
+  },
+  "deck_source": "Absorbing Wraith",
+  "url": "https://aeonsend.wiki.gg/wiki/Absorbing_Wraith",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Ageless Walker",
+  "box": "The New Age",
+  "life": 80,
+  "difficulty": 5,
+  "battles": [
+   3
+  ],
+  "unleash": "Any player exiles a card in hand or the top card of their discard pile.",
+  "setup": "Each player places a Curse of Aging card in their discard pile.\n\nPlace a card from the most expensive supply pile faceup next to this mat. This card is the start of the exiled pile.",
+  "rules": "When a card is exiled, place it faceup on top of the exiled pile, even if the exiled pile is empty.\n\nCards may be gained from the top of the exiled pile, as if it were a supply pile, by paying their cost plus 1 Æ.\n\nThe players may look through the exiled pile at any time.",
+  "increased_difficulty": "RULES: When a player resolves Curse of Aging they do not draw a card.",
+  "expedition_modifiers": {},
+  "deck_source": "Ageless Walker",
+  "url": "https://aeonsend.wiki.gg/wiki/Ageless_Walker",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Arachnos",
+  "box": "The New Age",
+  "life": 70,
+  "difficulty": 4,
+  "battles": [
+   2,
+   5
+  ],
+  "unleash": "Move the Arachnos token one space forward on the Ritual Track.",
+  "setup": "Place the Ritual Track next to this mat.\n\nPlace the Arachnos token on the start position.\n\nPlace the World Devourer cards next to this mat in ascending order with the lowest tier on top.",
+  "rules": "Players may spend Æ equal to the number shown on the Ritual Track for the current position of the Arachnos token to move it back one space on the Track.\n\nWhen the Arachnos token reaches the end of the Ritual Track or Arachnos has more than eight nemesis tokens, the ritual is complete.\n\nWhen the players would win the game and World Devourer has not entered play yet, Arachnos loses a nemesis token and the ritual is complete.\n\nWhen the ritual is complete, resolve the following: remove the nemesis deck, all minions, and powers from the game. Do not finish resolving any nemesis cards that were being resolved when the ritual was completed. Skip the Nemesis draw phase for the rest of the game. Find the World Devourer card that has a tier number equal to the number of nemesis tokens Arachnos has and place it into play. Flip over the Ritual Track.\n\nWhile World Devourer is in play, Arachnos cannot be dealt damage, and the players win when World Devourer is discarded.\n\nWhen a player is exhausted while World Devourer is in play, World Devourer gains 10 life instead of Unleash twice.",
+  "increased_difficulty": "SETUP: Arachnos gains two nemesis tokens and Unleash twice.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "The nemesis starts with 18 additional life.",
+    "SETUP: Gravehold suffers 4 damage. Two different players each suffer 2 damage. Arachnos gains four nemesis tokens. Unleash twice."
+   ]
+  },
+  "deck_source": "Arachnos",
+  "url": "https://aeonsend.wiki.gg/wiki/Arachnos",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Bishop of Scrolls",
+  "box": "Legacy of Gravehold",
+  "life": 50,
+  "difficulty": 2,
+  "battles": [
+   1
+  ],
+  "unleash": "Draw a card from the unnamed deck and place it into play.",
+  "setup": "Place the unnamed deck facedown next to this mat.\n\nPlace an unnamed into play and resolve its \"IMMEDIATELY:\" effect. Place another unnamed into play and resolve its \"IMMEDIATELY:\" effect.\n\nIn a 1/2/3 player game, place a third unnamed into play and resolve its \"IMMEDIATELY:\" effect.",
+  "rules": "When an unnamed is placed into play, do not resolve its \"PERSISTENT:\" effect during the nemesis main phase this turn.\n\nWhen an unnamed is discarded, place it in the unnamed discard pile.\n\nWhen the unnamed deck is empty and an unnamed would be drawn, shuffle the unnamed discard pile facedown to form a new unnamed deck.\n\nIf there are no cards in the unnamed deck or discard pile when an unnamed would be drawn, resolve the \"PERSISTENT:\" effect of each unnamed in play.\n\nIf there are ever no unnamed cards in play, no cards in the unnamed discard pile, and no cards in the unnamed deck, the players lose.\n\nAt the end of the game, if there are eight or more cards under this mat, randomly banish cards until there are seven cards remaining.\n\nAt the end of the game, if there are fewer than five cards under this mat, resolve the \"PERSISTENT:\" effect of the unnamed with the most letters in its name until there are five cards under this mat.\n\nAt the end of the game once there are five to seven cards under this mat, place all of the cards under this mat into envelope 15 and reseal the envelope.",
+  "increased_difficulty": "RULES: Each unnamed comes into play with 2 additional life.",
+  "expedition_modifiers": {},
+  "deck_source": "Bishop of Scrolls",
+  "url": "https://aeonsend.wiki.gg/wiki/Bishop_of_Scrolls",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Bishop: Returned",
+  "box": "Legacy of Gravehold",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   3
+  ],
+  "unleash": "Bishop: Returned gains a nemesis token.",
+  "setup": "Banish the Bishop: Returned specific cards in deck L2-BR that have art that matches the Bishop of Scrolls minions you named and placed in envelope 15.\n\nWhen playing outside of the legacy campaign, there is no setup.",
+  "rules": "At the end of the nemesis turn, if Bishop: Returned has 5 or more nemesis tokens, reinforcements are summoned. Reveal the top two cards of the nemesis deck. Place a minion revealed this way into play. Discard the remaining revealed cards. Then, Bishop: Returned loses 4 nemesis tokens.\n\nWhen a nemesis card would be drawn and the nemesis deck is empty, shuffle all of the minions in the nemesis discard pile facedown to form a new nemesis deck. Then, draw a card from the nemesis deck. For the rest of the game, when a tier 1 minion enters play, Bishop: Returned gains 2 nemesis tokens. Additionally, when a tier 2 minion enters play, Bishop: Returned gains 1 nemesis token.",
+  "increased_difficulty": "RULES: When reinforcements are summoned, Bishop: Returned loses 3 nemesis tokens instead of 4.",
+  "expedition_modifiers": {},
+  "deck_source": "Bishop: Returned",
+  "url": "https://aeonsend.wiki.gg/wiki/Bishop:_Returned",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Bladius",
+  "box": "Legacy",
+  "life": 40,
+  "difficulty": 1,
+  "battles": [
+   1
+  ],
+  "unleash": "The player with the fewest opened breaches suffers 2 damage.",
+  "setup": null,
+  "rules": "If Bladius would draw a card and cannot, it escapes and the players lose.",
+  "increased_difficulty": "SETUP: Bladius starts the game with 90 life.",
+  "expedition_modifiers": {},
+  "deck_source": "Bladius",
+  "url": "https://aeonsend.wiki.gg/wiki/Bladius",
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Blight Lord",
+  "box": "The Nameless",
+  "life": 70,
+  "difficulty": 4,
+  "battles": [
+   2,
+   5
+  ],
+  "unleash": "Any player gains a Tainted Jade.",
+  "setup": "Add an additional supply pile consisting of a number of Tainted Jade equal to the number of players plus four.\n\nPlace the Tainted Track next to this mat. Place the Blight Lord token on the first space of the Tainted Track.",
+  "rules": "* When a Tainted Jade is destroyed, return it to the Tainted Jade supply pile.\n* When a player would gain a Tainted Jade and that supply pile is empty, that player suffers 1 damage instead.\n* At the start of each nemesis turn before resolving any other effects, count the number of Tainted Jades in the Tainted Jade supply pile. If there is only one, advance the Tainted Track once. If there are zero, advance the Tainted Track twice.\n* When the Tainted Track is advanced to a space with an effect listed on it, resolve that effect immediately.",
+  "increased_difficulty": "SETUP: Remove two Tainted Jades from the starting supply pile.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "The Unleash from this card resolves after checking to see if the Tainted Track advances.",
+    "SETUP: Gravehold suffers 5 damage. Two different players each suffer 2 damage."
+   ]
+  },
+  "deck_source": "Blight Lord",
+  "url": "https://aeonsend.wiki.gg/wiki/Blight_Lord",
+  "boxes": [
+   "The Nameless"
+  ]
+ },
+ {
+  "title": "Burrower",
+  "box": "Return To Gravehold",
+  "life": 80,
+  "difficulty": 8,
+  "battles": [
+   4
+  ],
+  "unleash": "Destroy the top card of any supply pile. If the supply has no cards in it, any player discards a card in hand instead.",
+  "setup": "Shuffle the trap cards facedown.\n\nFor each supply pile, place one trap card facedown at the bottom of that pile. Then, place two copies of the card for that supply pile faceup on top of that trap. Next, place a trap facedown on top of those two cards. Repeat this until there is only one copy of that supply card left. Set that card faceup on top of the pile.",
+  "rules": "When a facedown trap is the top card of a supply pile during the nemesis turn, reveal and resolve it.\n\nWhen a facedown trap card is the top card of a supply pile during a player turn, discard it.\n\nWhen a player becomes exhausted, that player discards three cards in hand and one prepped spell instead of Unleash twice.",
+  "increased_difficulty": "RULES: When a trap is resolved, resolve it twice.",
+  "expedition_modifiers": {},
+  "deck_source": "Burrower",
+  "url": "https://aeonsend.wiki.gg/wiki/Burrower",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Carapace Queen",
+  "box": "Aeon's End (Core Box)",
+  "life": 60,
+  "difficulty": 3,
+  "battles": [
+   1,
+   5
+  ],
+  "unleash": "Place two husks into play.",
+  "setup": "Place the Husk Track next to this mat. Place two husks into play on the first two spaces of the Husk Track.",
+  "rules": "* Each husk is a minion that has 1 life.\n* When a husk is placed into play, place it in the next available space on the Husk Track.\n* When a player deals damage to a husk, that player may suffer 1 damage to distribute the damage dealt over multiple husks.\n* If Carapace Queen has fifteen husks in play and must place another into play, Gravehold suffers 1 damage instead.",
+  "increased_difficulty": "UNLEASH: Place three husks into play instead of two.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "The nemesis starts with 15 additional life.",
+    "Place Endless Throng on top of the nemesis deck instead of shuffling it into Tier 1.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Carapace Queen",
+  "url": "https://aeonsend.wiki.gg/wiki/Carapace_Queen",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Clouded Mesmer",
+  "box": "Evolution",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   4
+  ],
+  "unleash": "The player with the target token gains the top card of the compulsion deck. Then, that player passes the target token to the player on their left.",
+  "setup": "When setting up the supply you must have three gem supply piles, two relic supply piles and four spell supply piles.\n\nShuffle the compulsion cards and place them faceup next to the nemesis mat to form the compulsion deck.\n\nGive any player the target token.",
+  "rules": "When you gain a compulsion card, place it faceup in front of your player mat. It stays there until it is returned to the compulsion deck.\n\nIf you would gain a compulsion card and the compulsion deck is empty, Gravehold suffers 3 damage.\n\nCards in the Develop zone are considered part of the supply when resolving compulsion cards.\n\nWhen a player is exhausted, that player returns all compulsions in their play area to the bottom of the compulsion deck and Gravehold suffers 2 damage for each compulsion returned this way instead of Unleash twice.",
+  "increased_difficulty": "SETUP: The supply must contain a gem that costs 6 Æ or more, a relic that costs 7 Æ or more, and a spell that costs 8 Æ or more.",
+  "expedition_modifiers": {},
+  "deck_source": "Clouded Mesmer",
+  "url": "https://aeonsend.wiki.gg/wiki/Clouded_Mesmer",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Corruption's Core",
+  "box": "Past and Future",
+  "life": 60,
+  "difficulty": 8,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Corruption's Core gains a nemesis token.",
+  "setup": "Shuffle the voidling cards facedown to create the voidling deck. Place the voidling deck next to the nemesis mat.\n\nEach player places a Void token on their lowest numbered breach. If you are playing with 1/2 players, Corruption's Core gains 2 nemesis tokens.",
+  "rules": "Spells cast from a breach with a Void token on it deal 2 additional damage and the nemesis Unleashes in addition to any other effects the breach has.\n\nBreaches with a Void token on them cannot be destroyed.\n\nAt the end of the nemesis turn, if Corruption's Core has 3 nemesis tokens or more, Corruption's Core beckons. Draw a card from the voidling deck and place it into play. Then, Corruption's Core loses 3 nemesis tokens. Repeat this until Corruption's Core has 2 nemesis tokens or less.\n\nWhen a voidling is discarded, place it into the voidling discard pile.\n\nIf you would draw a voidling and the voidling deck is empty, shuffle the voidling discard pile facedown to create a new voidling deck.\n\nIf you would draw a voidling and the voidling deck and discard pile are both empty, the players lose.",
+  "increased_difficulty": "RULES: Voidlings come into play with an additional 2 life.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Corruption's Core",
+  "url": "https://aeonsend.wiki.gg/wiki/Corruption's_Core",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Crooked Mask",
+  "box": "Aeon's End (Core Box)",
+  "life": 70,
+  "difficulty": 5,
+  "battles": [
+   2
+  ],
+  "unleash": "Any player gains a corruption and places it on top of their deck. That player shuffles their discard pile into their deck.",
+  "setup": "Shuffle all of the corruption cards together and place them facedown to form the corruption deck.",
+  "rules": "* When a corruption is destroyed, place it on the bottom of the corruption deck.\n* When a player would gain a corruption and the corruption deck is empty, Gravehold suffers 2 damage instead.\n* At the start of each player's turn, before that player's casting phase, that player resolves all corruptions in their hand, in any order.\n* At the end of each player's main phase, that player resolves all corruptions they drew during their turn.\n* Corruptions may not be played at any other time.\n* When a player gains a corruption, that player may not look at the corruption unless it is placed into their hand.",
+  "increased_difficulty": "RULES: When a corruption is destroyed, place it into any player's discard pile instead of returning it to the corruption deck.",
+  "expedition_modifiers": {},
+  "deck_source": "Crooked Mask",
+  "url": "https://aeonsend.wiki.gg/wiki/Crooked_Mask",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Crooked Mask (Beyond the Breach)",
+  "box": "Beyond the Breach",
+  "life": 70,
+  "difficulty": 5,
+  "battles": [
+   2,
+   5
+  ],
+  "unleash": "Any player gains a corruption and places it on top of their deck. That player shuffles their discard pile into their deck.",
+  "setup": "Shuffle all of the corruption cards together and place them facedown to form the corruption deck.",
+  "rules": "* When a corruption is destroyed, place it on the bottom of the corruption deck.\n* When a player would gain a corruption and the corruption deck is empty, Gravehold suffers 2 damage instead.\n* At the start of each player's turn, before that player's casting phase, that player resolves all corruptions in their hand, in any order.\n* At the end of each player's main phase, that player resolves all corruptions they drew during their turn.\n* Corruptions may not be played at any other time.\n* When a player gains a corruption, that player may not look at the corruption unless it is placed into their hand.\n* Corruptions have a cost of 0 Æ when in a player's hand.",
+  "increased_difficulty": "SETUP: Each player gains a corruption and place it on the bottom of their deck.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "The nemesis starts with 10 additional life.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Crooked Mask",
+  "url": "https://aeonsend.wiki.gg/wiki/Crooked_Mask_(Beyond_the_Breach)",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Deathmind",
+  "box": "Legacy",
+  "life": 80,
+  "difficulty": 6,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Remove one power token from Sever Link.",
+  "setup": "Arrange the supply in a three by three grid. Place the piles so that the gems start the top row, then relics, and finally spells. Within each card type, arrange the piles by cost, least expensive to most expensive.\n\nRead the additional rules on the other side of this mat for information about Bridge tokens. Then, choose six spaces orthogonally between supply piles, and place a Bridge token in each of those six spaces. Place them so that each token is between only two piles, and there is at most one token between each two piles.\n\nPlace Sever Link into play with three power tokens.",
+  "rules": "Players cannot gain the last card in a supply pile.\n\nDuring any player's main phase, that player may spend 5 Æ or lose 4 pulse tokens to establish a neural bridge with Brama and place a Bridge token in between any two orthogonally adjacent supply piles.\n\nBridge tokens cannot be placed between two supply piles which already have a Bridge token.\n\nSupply piles with Bridge tokens between them are connected. Two supply piles are connected if a path can be traced from one supply pile to the other via Bridge tokens.\n\nWhen a player gains a card from a supply pile not connected to the first supply pile in the top row, that player suffers 2 damage.",
+  "increased_difficulty": "RULES: Players may spend 6 Æ or lose 5 pulse tokens to establish a neural bridge instead of 5 Æ or 4 pulse tokens.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Deathmind",
+  "url": "https://aeonsend.wiki.gg/wiki/Deathmind",
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Erythiza, Consumed",
+  "box": "Past and Future",
+  "life": 30,
+  "difficulty": 8,
+  "battles": [
+   4
+  ],
+  "unleash": "Resolve the effect of the space of the Corruption Track that the city token is on.",
+  "setup": "Place the Corruption Mat next to the nemesis mat. Place the city token on the start space of the Corruption Track.\n\nPlace the damage token on the 0 of the Damage Track that corresponds to your player count on the Corruption Mat.\n\nPlace the Mega Breach next to the Corruption Mat with the closed side faceup and the 2 Æ focus cost aligned with the arrow on the Corruption Mat.",
+  "rules": "While the Mega Breach is closed, prevent all damage to Erythiza, Consumed. When a player would deal damage to Erythiza, Consumed, increase the Damage Track by the amount of damage dealt. When the damage token reaches the end of the Damage Track, immediately reset the damage token to 0 and either move the city token back up to two spaces on the Corruption Track or any player gains 2 Æ tokens. Once the damage token is reset, resume tracking the instance of damage.\n\nDuring each player's main phase, that player may spend Æ equal to the current focus cost of the Mega Breach to rotate it clockwise one side. When a player does this, that player increases the Damage Track by 2.\n\nThe Mega Breach cannot be rotated counterclockwise when the focus cost is 2 Æ.\n\nWhen a player spends 6 Æ to rotate the Mega Breach, it is opened. Flip the Mega Breach over. Read the rules written on it. Also, flip the Corruption Track over and place the city token on the one space there. Read the additional rules written there as well.\n\nWhen a player becomes exhausted, players collectively discard four cards instead of Unleash twice.\n\nIf the nemesis would draw a card and the nemesis deck is empty, the players lose.",
+  "increased_difficulty": "RULES: When the damage token reaches the end of the Damage Track, you may not choose for any player to gain 2 Æ tokens. You must choose to move the city token back up to two spaces on the Corruption Track instead.",
+  "expedition_modifiers": {},
+  "deck_source": "Erythiza, Consumed",
+  "url": "https://aeonsend.wiki.gg/wiki/Erythiza,_Consumed",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Experiment 153",
+  "box": "Outcasts",
+  "life": null,
+  "difficulty": 3,
+  "battles": [
+   1
+  ],
+  "unleash": "Move any maw token two spaces forward toward the end of its track.",
+  "setup": "Place the Growth Mat next to this mat.\n\nPlace the four maw tokens on the four starting spaces on the Growth Mat.\n\nMove two different maw tokens one space forward.\n\nExperiment 153 does not use the nemesis life dial. Instead, give each maw 20 life.",
+  "rules": "When you move a maw token forward onto a space with an effect, resolve that effect.\n\nIf a maw token starts to move forward any number of spaces while it's at the end of its track, instead resolve the effect of the space that it's currently on.\n\nWhen a player would deal damage to Experiment 153, that player deals all of that damage to a single maw instead.\n\nWhen a player deals 3 or more damage with one instance to a maw, move that maw token back one space.\n\nWhen a maw token is on the first or fourth space of its track, it cannot be moved back.\n\nWhen a maw is reduced to 0 life, discard that token and move another token back two spaces.\n\nThe players win when the Growth Mat has no maw tokens on it.",
+  "increased_difficulty": "UNLEASH: After resolving the Unleash, move any maw token one space forward toward the end of its track.",
+  "expedition_modifiers": {},
+  "deck_source": "Experiment 153",
+  "url": "https://aeonsend.wiki.gg/wiki/Experiment_153",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Fate Shepherd",
+  "box": "Legacy of Gravehold",
+  "life": 70,
+  "difficulty": 3,
+  "battles": [
+   1
+  ],
+  "unleash": "Any player gains a card from the supply. That player or Gravehold suffers damage equal to the cost of that card minus 1.",
+  "setup": "None.",
+  "rules": "When a player becomes exhausted, the players collectively return three cards in hand that cost 3 Æ or more to the supply instead of Unleash twice.",
+  "increased_difficulty": "UNLEASH: After resolving the Unleash, destroy the least expensive card in the supply.",
+  "expedition_modifiers": {},
+  "deck_source": "Fate Shepherd",
+  "url": "https://aeonsend.wiki.gg/wiki/Fate_Shepherd",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Fenrix",
+  "box": "The New Age",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   4
+  ],
+  "unleash": "Fenrix gains one nemesis token.",
+  "setup": "Each player gains a Position token that matches their player color.\n\nPlace the claw cards facedown to form the claw deck.\n\nIf you are playing with 1/2/3 players, the nemesis gains 2/2/1 nemesis tokens.",
+  "rules": "At the end of the nemesis turn, if Fenrix has four or more nemesis tokens, place a claw into play and Fenrix loses two nemesis tokens. Repeat this until Fenrix has less than four nemesis tokens.\n\nWhen a claw is discarded from play, place it facedown on top of the claw deck and return all Position tokens on that claw to the corresponding players.\n\nDuring any player's main phase, that player may place their Position token on a claw, even if it's already placed on a claw.\n\nPrevent all damage dealt to claws by players without a Position token on that claw.\n\nWhen the claw deck is empty, the players lose.",
+  "increased_difficulty": "SETUP: Place a claw into play.",
+  "expedition_modifiers": {},
+  "deck_source": "Fenrix",
+  "url": "https://aeonsend.wiki.gg/wiki/Fenrix",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Fortress",
+  "box": "Return To Gravehold",
+  "life": 90,
+  "difficulty": 5,
+  "battles": [
+   2,
+   5
+  ],
+  "unleash": "Move the Fortress token forward one space on the Fortress Track.",
+  "setup": "Place the Fortress Track next to this mat.\n\nPlace the Fortress token on the start space corresponding to your player count on the Fortress Track. If you are playing with 1/2/3 players, Fortress gains 3 rubble tokens.\n\nPlace the Fortress Reminder card into play.",
+  "rules": "At the start of each nemesis turn, Unleash.\n\nWhen a player deals damage to Fortress, if the Fortress token is on the top section of the Fortress Track, that player deals 1 additional damage. If the Fortress token is on the bottom section of the Fortress Track, that damage is reduced by 3 and then 1 rubble token is discarded. Then, if Fortress has no rubble tokens, move the Fortress token to the top space of the Fortress Track.\n\nFortress cannot gain rubble while it is on the top section of the Fortress Track.\n\nWhen the Fortress token moves from the top section of the Fortress Track to the bottom section, Fortress gains 3 rubble tokens.\n\nFortress can have any number of rubble tokens.",
+  "increased_difficulty": "RULES: When Fortress moves to the 3p start space he gains 2 additional rubble tokens.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Fortress",
+  "url": "https://aeonsend.wiki.gg/wiki/Fortress",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Fountain of Souls",
+  "box": "Outcasts",
+  "life": 70,
+  "difficulty": 8,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Place three souls on the start space corresponding to your player count on the Fountain of Souls track.",
+  "setup": "Place the Fountain of Souls Track next to this mat. Place the lantern token on the 0 space of the Lantern Charge Track.\n\nAdd an additional supply pile consisting of all the Soulfires. When playing with 3/4 players, the players collectively gain 1/2 Soulfires from the Soulfire supply pile.\n\nPlace two souls on the start space corresponding to your player count on the Fountain of Souls Track.\n\nPlace the Soul Reminder card into play.",
+  "rules": "At the start of the nemesis turn, move each soul one space clockwise around the Fountain of Souls Track.\n\nWhen the lantern has three fuel, any player may use the lantern during their main phase to discard up to five souls distributed among two adjacent spaces. Then, the lantern loses all of its fuel.\n\nSouls cannot be damaged and are not minions.",
+  "increased_difficulty": "RULES: When a soul is placed on the Fountain of Souls track, immediately move it one space clockwise around the Fountain of Souls Track.\n\nUNLEASH: Place four souls instead of three on the start space corresponding to your player count on the Fountain of Souls Track.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "SETUP: Two different players each suffer 2 damage."
+   ]
+  },
+  "deck_source": "Fountain of Souls",
+  "url": "https://aeonsend.wiki.gg/wiki/Fountain_of_Souls",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Fungal Mesh",
+  "box": "Legacy",
+  "life": 70,
+  "difficulty": 4,
+  "battles": [
+   2
+  ],
+  "unleash": "Fungal Mesh gains one nemesis token.",
+  "setup": null,
+  "rules": "At the end of the nemesis turn, if Fungal Mesh has two or more nemesis tokens, it possesses a player:\n* If there are no prepped spells, Gravehold suffers 4 damage.\n* If there is at least one prepped spell, any player casts a prepped spell. The damage that spell deals must be dealt to Gravehold or any player instead of a minion or the nemesis. If a spell that costs 0 Æ was cast this way, destroy it.\n* Fungal Mesh loses two nemesis tokens.\n* Repeat this until Fungal Mesh has one or less nemesis tokens.",
+  "increased_difficulty": "Rules: When a player must cast a spell at the end of the nemesis turn, that spell deals 1 additional damage.",
+  "expedition_modifiers": {},
+  "deck_source": "Fungal Mesh",
+  "url": "https://aeonsend.wiki.gg/wiki/Fungal_Mesh",
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Gate Witch",
+  "box": "War Eternal",
+  "life": 70,
+  "difficulty": 7,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Gate Witch games one nemesis token.",
+  "setup": "Gate Witch gains one nemesis token.",
+  "rules": "At the end of the nemesis turn, if Gate Witch has five or more nemesis tokens and there is exactly one nemesis turn order card in the turn order discard pile, it accelerates times: shuffle a nemesis turn order card into the turn order deck, and the Gate Witch loses four nemesis tokens.",
+  "increased_difficulty": "RULES: When Gate Witch accelerates time, it loses three nemesis tokens instead of four nemesis tokens.",
+  "expedition_modifiers": {
+   "4": [
+    "When Gate Witch accelerates time, it loses five nemesis tokens instead of four nemesis tokens."
+   ],
+   "5": [
+    "The nemesis starts with 20 additional life.",
+    "SETUP: Gate Witch starts with 4 nemesis tokens instead of 1."
+   ]
+  },
+  "deck_source": "Gate Witch",
+  "url": "https://aeonsend.wiki.gg/wiki/Gate_Witch",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Griefweaver",
+  "box": "Legacy of Gravehold",
+  "life": 60,
+  "difficulty": 8,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Draw a card from the fetter deck and place it into play.",
+  "setup": "When creating the supply, you may include at most 4 gem supply piles, 3 relic piles, or 5 spell piles. This does not allow you to have more than 9 supply piles.\n\nShuffle all of the fetter cards facedown to form the fetter deck.\n\nPlace fetters into play until there are four covered supply piles. If there are no uncovered gem supply piles, place fetters until there are five covered supply piles, then discard a fetter from a gem supply pile. Shuffle any extra fetters drawn back into the fetter deck. Gravehold cannot suffer damage during this setup.",
+  "rules": "A supply pile is covered if there is a fetter on it.\n\nPlayers cannot gain or destroy cards from covered supply piles.\n\nIf there are ever no uncovered supply piles, the players lose.\n\nIf the fetter deck is empty and a fetter would be placed into play, shuffle the fetter discard pile facedown to reform the fetter deck.",
+  "increased_difficulty": "SETUP: Before placing fetters, destroy a supply pile.\n\nRULES: Each fetter comes into play with 1 additional life.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Griefweaver",
+  "url": "https://aeonsend.wiki.gg/wiki/Griefweaver",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Herald of the End",
+  "box": "Past and Future",
+  "life": 10,
+  "difficulty": 4,
+  "battles": [
+   2
+  ],
+  "unleash": "Resolve the \"Unleash:\" effect of the hydra card in play.",
+  "setup": "Shuffle the hydra cards facedown and place one into play faceup.\n\nIf you are playing with 1/2/3 players, Herald of the End gains 2/2/1 nemesis tokens.",
+  "rules": "At the end of every turn, reset Herald of the End's life to 10.\n\nWhen Herald of the End's life is reduced to 0, players do not win. Instead, place the hydra card that is in play into the hydra discard pile. Then, draw a card from the top of the hydra deck, and place it into play. Prevent all damage that would be dealt to Herald of the End for the rest of the turn.\n\nIf you would draw a card from the hydra deck and you cannot, the players win.\n\nAt the end of any player's turn, if Herald of the End has 1-5 life, place the hydra card in play on the bottom of the hydra deck and draw a card from the top of the hydra deck.\n\nWhen the nemesis deck is empty, the players lose.\n\nMinions do not resolve their persistent effect the turn they come into play.\n\nWhen a player is exhausted, Herald of the End gains 2 nemesis tokens instead of Unleash twice.",
+  "increased_difficulty": "SETUP: Set Herald of the End's life to 14 instead of 10.\n\nRULES:At the end of every turn, reset Herald of the End's life to 14 instead of 10.",
+  "expedition_modifiers": {},
+  "deck_source": "Herald of the End",
+  "url": "https://aeonsend.wiki.gg/wiki/Herald_of_the_End",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Hollow Crown",
+  "box": "War Eternal",
+  "life": 1,
+  "difficulty": 5,
+  "battles": [
+   3
+  ],
+  "unleash": "Resolve the Blood Magic effect of the acolyte with the highest life.",
+  "setup": "* Shuffle all of the acolyte cards together and place them facedown to form the acolyte deck.\n* Draw two cards from the acolyte deck and place them into play.\n* When playing with beginner rules, discard the top card of the acolyte deck.",
+  "rules": "* Hollow Crow cannot be dealt damage.\n* When there are no acolytes in play at the end of any turn, the players win the game.\n* When an acolyte is discarded, place it in the acolyte discard pile and draw a new acolyte.\n* When multiple Blood Magic effects would be resolved at the same time, resolve them in order starting with the acolyte that has been in play the longest.\n* When a player is exhausted, Gravehold suffers 4 damage instead of Unleash twice. Resolve the rest of the on exhaust effects.",
+  "increased_difficulty": "UNLEASH: Resolve the Blood Magic effect of each acolyte in play instead of the acolyte with the highest life without those acolytes suffering damage from their Blood Magic effects.",
+  "expedition_modifiers": {},
+  "deck_source": "Hollow Crown",
+  "url": "https://aeonsend.wiki.gg/wiki/Hollow_Crown",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Horde-Crone",
+  "box": "The Depths",
+  "life": 60,
+  "difficulty": 6,
+  "battles": [
+   2
+  ],
+  "unleash": "Shuffle the trogg discard pile into the trogg deck. Draw a card from the trogg deck and place it into play.",
+  "setup": "Shuffle all of the trogg cards together and place them facedown to form the trogg deck. Draw a card from the trogg deck and place it into play.",
+  "rules": "* There are three types of troggs in the trogg deck: Orps, Yuds, and Zoms.\n* When a trogg enters play, resolve the effect on that card equal to number of troggs in play of that trogg type. The first trogg has no effect.\n* When a trogg is discarded, place it in the trogg discard pile.\n(This is not the same as the nemesis discard pile.)",
+  "increased_difficulty": "RULES: All troggs have three life instead of two life.",
+  "expedition_modifiers": {},
+  "deck_source": "Horde-Crone",
+  "url": "https://aeonsend.wiki.gg/wiki/Horde-Crone",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Infested Mutation",
+  "box": "Past and Future",
+  "life": 60,
+  "difficulty": 6,
+  "battles": [
+   3
+  ],
+  "unleash": "Resolve the effect of the highest number level on the Miasma Track where globules are.",
+  "setup": "Place the Miasma Track next to the nemesis mat.\n\nPlace 4 globules onto the Miasma Track. If you are playing with 1/2 players, place 2 more globules onto the Miasma Track.\n\nShuffle the ooze cards facedown to form the ooze deck, and set it next to the Miasma Track.",
+  "rules": "Each globule is a minion that has 1 life.\n\nWhen you would place a globule onto the Miasma Track, place it in the next available space on the lowest numbered level on the Miasma Track.\n\nWhen a player deals damage to a globule, that player must deal damage to a globule in the highest numbered level of the Miasma Track. That player may distribute the damage dealt over any number of globules on the same level.\n\nThe last globule on level 1 cannot be discarded.\n\nOozes do not resolve their persistent effect the turn they come into play.\n\nWhen an ooze is discarded, place it into the ooze discard pile.\n\nIf you would draw an ooze but the ooze deck is empty, shuffle the ooze discard pile facedown to reform the ooze deck.\n\nWhen a globule would be placed into play and there are no available spaces on the Miasma Track, Gravehold suffers 1 damage instead.",
+  "increased_difficulty": "RULES: When a player defeats a non-globule minion, place 2 globules on the Miasma Track.",
+  "expedition_modifiers": {},
+  "deck_source": "Infested Mutation",
+  "url": "https://aeonsend.wiki.gg/wiki/Infested_Mutation",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Knight of Shackles",
+  "box": "The Void",
+  "life": 70,
+  "difficulty": 4,
+  "battles": [
+   1,
+   5
+  ],
+  "unleash": "Knight of Shackles focuses its closed breach with the lowest focus cost.",
+  "setup": "* Place the Knight of Shackles breach mat next to this mat.\n* Place the four Knight of Shackles breach tokens on the breach mat to their matching positions.",
+  "rules": "* During any player's main phase, that player may spend Æ equal to the focus cost of one of the Knight of Shackles' closed breaches to turn that breach 90° counterclockwise. Once one of Knight of Shackle's breaches is opened, it will remain open for the rest of the game.\n* When Knight of Shackles opens a breach, resolve the effect listed on that breach.\n** Breach I: Two different players each suffer 2 damage.\n** Breach II: Place the most recently discarded minion in the nemesis discard pile back into play. (Ignore its PERSISTENT: effect this turn.)\n** Breach III: Gravehold suffers 7 damage.\n** Breach IV: Knight of Shackles succeeds in summoning its full skeletal legion. Gravehold is overrun and the players lose the game.",
+  "increased_difficulty": "RULES: Knight of Shackles's breaches' focus cost is increased by 1 Æ.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "The nemesis starts with 20 additional life.",
+    "SETUP: Unleash."
+   ]
+  },
+  "deck_source": "Knight of Shackles",
+  "url": "https://aeonsend.wiki.gg/wiki/Knight_of_Shackles",
+  "boxes": [
+   "The Void"
+  ]
+ },
+ {
+  "title": "Maelstrom: Risen",
+  "box": "Legacy",
+  "life": 65,
+  "difficulty": 8,
+  "battles": [
+   4
+  ],
+  "unleash": "Draw a card from the beacon deck and place it into play.",
+  "setup": "Shuffle all of the beacon cards together and place them facedown to form the beacon deck.\n\nDraw two cards from the beacon deck and place them into play. Do not resolve any \"IMMEDIATELY:\" effects on those cards.\n\nReplace one of the nemesis turn order cards in the turn order deck with Maelstrom's Assault turn order card.",
+  "rules": "When Maelstrom: Risen's Assault turn order card is drawn, Gravehold suffers 1 damage for each beacon in play. Then, Maelstrom: Risen takes a turn as normal. The Assault turn order card is considered a nemesis turn order card.\n\nWhen a beacon is discarded, place it in the beacon discard pile next to the beacon deck. (This is not the same as the nemesis discard pile.)\n\nWhen the beacon deck is empty and a card would be drawn from it, shuffle the beacon discard pile and place it facedown to form the beacon deck.\n\nWhen there are ten beacons in play, Maelstrom: Risen opens a massive, destructive breach and the players lose.",
+  "increased_difficulty": "RULES: When Maelstrom: Risen's Assault turn order card is drawn and Gravehold suffers damage, Gravehold suffers 2 additional damage.",
+  "expedition_modifiers": {
+   "4": [
+    "During setup, include two less upgraded basic nemesis cards in each tier."
+   ]
+  },
+  "deck_source": "Maelstrom: Risen",
+  "url": "https://aeonsend.wiki.gg/wiki/Maelstrom:_Risen",
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Maggoth",
+  "box": "The New Age",
+  "life": 45,
+  "difficulty": 3,
+  "battles": [
+   1
+  ],
+  "unleash": "Place two maggots into play.",
+  "setup": "Place the Nest Mat next to this mat.\n\nPlace two maggots into play on the bottom row of the Nest Mat.",
+  "rules": "Each maggot is a minion that has 1 life.\n\nEach fly is a minion that has 2 life. When a player deals exactly 1 damage to a fly, replace it with a maggot.\n\nWhen a player deals damage to a maggot or fly, that player must deal damage to a maggot or fly in the topmost row of the Nest Mat. That player may distribute the damage dealt over any number of maggots or flies on the same row.\n\nWhen a fly hatches, flip the bottommost maggot over to the fly side, if able.\n\nWhen a maggot or fly is placed into play, place it in the bottommost row of the Nest Mat that has space for it.\n\nWhen a row is filled, resolve the effect directly above that row.",
+  "increased_difficulty": "RULES: When Maggoth Unleashes, place one fly and one maggot into play instead of two maggots.",
+  "expedition_modifiers": {},
+  "deck_source": "Maggoth",
+  "url": "https://aeonsend.wiki.gg/wiki/Maggoth",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Magus of Cloaks",
+  "box": "War Eternal",
+  "life": 35,
+  "difficulty": 7,
+  "battles": [
+   3
+  ],
+  "unleash": "Magus of Cloaks gains two nemesis tokens.\nOR\nGravehold suffers 2 damage.",
+  "setup": "Magus of Cloaks gains four nemesis tokens.",
+  "rules": "* When Magus of Cloaks would be dealt damage, reduce that damage by the number of nemesis tokens he has. Then, Magus of Cloaks loses one nemesis token.\n* Magus of Cloaks can never have less than two nemesis tokens or more than eight nemesis tokens.",
+  "increased_difficulty": "RULES: Magus of Cloaks can never have less than three nemesis tokens or more than nine nemesis tokens.",
+  "expedition_modifiers": {},
+  "deck_source": "Magus of Cloaks",
+  "url": "https://aeonsend.wiki.gg/wiki/Magus_of_Cloaks",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Maiden of Thorns",
+  "box": "The Void",
+  "life": 80,
+  "difficulty": 4,
+  "battles": [
+   3
+  ],
+  "unleash": "Maiden of Thorns gains one nemesis token.",
+  "setup": "* The supply must contain at least five supply piles with different costs.\n* Destroy two cards in each gem supply pile.\n* Place the Thorn marker Gravehold side up on the least expensive supply pile. The supply pile that the Thorn is on is the Thorn supply pile. When the nemesis tier is 2, replace this token with the \"+1 damage\" version of the token. When the nemesis tier is 3, replace this token with the \"+2 damage\" version of the token.",
+  "rules": "* At the end of the nemesis turn, if Maiden of Thorns has two or more nemesis tokens, it Impales. Any player of Gravehold (based on the Thorn marker) suffers damage equal to the number of cards in the Thorn supply pile. That player or Gravehold suffers additional damage equal to the nemesis tier minus one. Maiden of Thorns loses two nemesis tokens, and Advance. Repeat this until Maiden of Thorns has 0 or 1 nemesis tokens.\n* Advance means to flip the Thorn marker over and place it on the next most expensive supply pile. If there are no supply piles more expensive than the Thorn supply pile, move the Thorn marker to the least expensive supply pile instead.\n* When the Thorn supply pile is empty, Advance.\n* When all supply piles are empty, the players lose.",
+  "increased_difficulty": "RULES: When Maiden of Thorns Impales, if the nemesis tier is 2, that player or Gravehold suffers twice as much damage instead of 1 additional damage. If the nemesis tier is 3, that player or Gravehold suffers three times as much damage instead of 2 additional damage.",
+  "expedition_modifiers": {},
+  "deck_source": "Maiden of Thorns",
+  "url": "https://aeonsend.wiki.gg/wiki/Maiden_of_Thorns",
+  "boxes": [
+   "The Void"
+  ]
+ },
+ {
+  "title": "Mist Revealed",
+  "box": "Legacy of Gravehold",
+  "life": 80,
+  "difficulty": 10,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Resolve all of the \"UNLEASH:\" effects of fragments in play. Then, draw a card from the fragment deck and place it into play.",
+  "setup": "None.",
+  "rules": "When a fragment is discarded, place it in the fragment discard pile.\n\nWhen the fragment deck is empty and a fragment would be drawn, shuffle the fragment discard pile facedown to form a new fragment deck.\n\nIf a fragment minion is silenced, only remove the silence token when that minon's Unleash: effect would resolve and ignore that effect.\n\nWhen a player becomes exhausted, draw a card from the fragment deck and place it into play instead of Unleash twice.\n\nIf all of the fragment cards are in play, Mist succeeds at creating the ultimate Nameless and the players lose the game.\n\nMist Revealed has no maximum life.",
+  "increased_difficulty": "RULES: At the beginning of the nemesis turn, resolve the \"UNLEASH:\" effect of the oldest fragment in play.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "Mist Revealed",
+  "url": "https://aeonsend.wiki.gg/wiki/Mist_Revealed",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mother of Rust",
+  "box": "Legacy of Gravehold",
+  "life": null,
+  "difficulty": 4,
+  "battles": [
+   2
+  ],
+  "unleash": "Mother of Rust gains a nemesis token.\n\nDraw a card from the rustborn deck and place it into play.",
+  "setup": "Shuffle the rustborn cards facedown to form the rustborn deck.\n\nPlace one rustborn into play.",
+  "rules": "If there are no rustborn in play, place a rustborn into play.\n\nAt the end of the nemesis turn, if Mother of Rust has 4 or more nemesis tokens, the rustborn rush. Resolve all of the RUSH: effects on rustborn in play. Then, Mother of Rust loses 4 nemesis tokens. Only resolve this effect once per turn even if Mother of Rust has enough nemesis tokens to have the rustborn rush again.\n\nWhen a rustborn is discarded, place it in the rustborn discard pile.\n\nPrevent all damage dealt to Mother of Rust.\n\nThe players win the game when there are no rustborn in the rustborn deck and no rustborn in play.\n\nWhen a player becomes exhausted, place two rustborn into play instead of Unleash twice. Do not activate the \"RUSH:\" effects of those rustborn this turn.\n\nWhen a rustborn would be placed into play and the rustborn deck is empty, all rustborn in play gain 1 life. This can cause rustborn to have more than their maximum life.",
+  "increased_difficulty": "RULES: When any number of rustborn are placed into play, place an additional rustborn into play.",
+  "expedition_modifiers": {},
+  "deck_source": "Mother of Rust",
+  "url": "https://aeonsend.wiki.gg/wiki/Mother_of_Rust",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Necroswarm",
+  "box": "Into The Wild",
+  "life": 70,
+  "difficulty": 7,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Place a bramble into play at location 5.",
+  "setup": "Place the Bramble Invasion Track next to this mat.\n\nShuffle all of the bramble movement cards together and place them facedown to form the bramble movement deck. Place the bramble reminder card into play.\n\nPlace a bramble into play at location 5.",
+  "rules": "At the start of the nemesis turn, the brambles rush Gravehold. When the brambles rush Gravehold, resolve the following:\n* If there is at least one bramble in play, draw a bramble movement card and move each bramble that many spaces toward Gravehold. Otherwise, Unleash.\n* When a bramble reaches Gravehold, discard it and Gravehold suffers 4 damage.\n\nBrambles are minions that can only be dealt damage equal to or greater than the damage number at its location on the Bramble Invasion Track. If damage is dealt this way, discard it from play.\n\nWhen the bramble movement deck is empty and a card would be drawn from it, shuffle the bramble movement card discard pile and place it facedown to form the bramble movement deck. Then, draw a card from the bramble movement deck.",
+  "increased_difficulty": "SETUP: Return to the box one Brambles Rush 1 card and one Brambles Rush 0 card from the bramble movement deck. Then, Unleash twice.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty.",
+    "SETUP: Two different players each suffer 2 damage."
+   ]
+  },
+  "deck_source": "Necroswarm",
+  "url": "https://aeonsend.wiki.gg/wiki/Necroswarm",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Oracle of Filth",
+  "box": "Beyond the Breach",
+  "life": 80,
+  "difficulty": 6,
+  "battles": [
+   2
+  ],
+  "unleash": "Pupil of Oblivion gains 2 life.",
+  "setup": "Replace two supply piles with Vortex Blast and Abyssal Vial. These are part of the supply.\n\nPlace 4/5/6/7 Crystals for 1/2/3/4 players from the box next to this mat to form the vortex deck.\n\nPlace the Pupil of Oblivion into play with 2 life.",
+  "rules": "When a player deals damage to Oracle of Filth with a source other than Vortex Blast, reduce that damage to 0.\n\nWhen a card is placed into the vortex, place it on top of the vortex deck.\n\nWhen Oracle of Filth Expunges, shuffle the cards in the vortex, then deal cards facedown evenly from the vortex starting with any player until six cards have been dealt. Each player places the cards they were dealt on top of their deck in any order.\n\nWhen a player would be dealt a card from the vortex and can't, Gravehold suffers 4 damage instead.\n\nCards can only be placed into the vortex or removed from it when effects specify to do so.\n\nThe Pupil of Oblivion has no maximum life and cannot be reduced below 1 life.",
+  "increased_difficulty": "RULES: After each time Oracle of Filth Expunges, Oracle of Filth or Pupil of Oblivion gains 3 life.",
+  "expedition_modifiers": {},
+  "deck_source": "Oracle of Filth",
+  "url": "https://aeonsend.wiki.gg/wiki/Oracle_of_Filth",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Paradox of Bone",
+  "box": "Legacy of Gravehold",
+  "life": 80,
+  "difficulty": 8,
+  "battles": [
+   4
+  ],
+  "unleash": "Gravehold suffers damage equal to the difference between the values of the two tokens on the Bone track.\n\nMove the token that is further along the track one space forward on the track.",
+  "setup": "Place the Bone track next to this mat. Place the gem/relic token and spell token on the 0 space of the track.",
+  "rules": "Whenever a player gains a gem or a relic, move the gem/relic token forward one space on the track. Whenever a player gains a spell, move the spell token one space forward on the track.\n\nWhen a player becomes exhausted, the players collectively discard four gems instead of Unleash twice.",
+  "increased_difficulty": "RULES: Cards in the supply that have the same type as the token that is furthest back on the Bone track cost an additional 1 Æ. If both tokens are on the same space, ignore this.",
+  "expedition_modifiers": {},
+  "deck_source": "Paradox of Bone",
+  "url": "https://aeonsend.wiki.gg/wiki/Paradox_of_Bone",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Paradox of Myth",
+  "box": "Legacy of Gravehold",
+  "life": 50,
+  "difficulty": 8,
+  "battles": [
+   4
+  ],
+  "unleash": null,
+  "setup": "Shuffle all of the villagers facedown to form the villager deck.\n\nPlace two villagers into play.\n\nPlace the Myth Unleash token on the Unleash section of the nemesis mat with the starting side faceup.",
+  "rules": "On their turn, any player may spend 3 Æ to remove a power token from a power in play. The last power token on a card cannot be removed this way.\n\nWhen a villager is discarded, place it in the villager discard pile.\n\nWhen the villager deck is empty, shuffle the villager discard pile facedown to form the villager deck.\n\nWhen a villager would be placed into play and there are no cards in the villager deck or discard pile, resolve the \"PERSISTENT:\" effect of all the villagers in play.\n\nDo not resolve the \"PERSISTENT:\" effects of villagers the turn they are placed into play.\n\nParadox of Myth has no maximum life.",
+  "increased_difficulty": "RULES: Each villager comes into play with 1 additional life and 1 shield.",
+  "expedition_modifiers": {},
+  "deck_source": "Paradox of Myth",
+  "url": "https://aeonsend.wiki.gg/wiki/Paradox_of_Myth",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Paradox of Myth and Bone",
+  "box": "Legacy of Gravehold",
+  "life": 40,
+  "difficulty": 5,
+  "battles": [
+   3
+  ],
+  "unleash": "MYTH UNLEASH: If Myth has more life than Bone, Bone gains 3 life. Otherwise, Bone unleashes.\n\nBONE UNLEASH: Gravehold or any player suffers 2 damage.",
+  "setup": "Replace the nemesis turn order cards in the turn order deck with the Bone and Myth turn order cards.\n\nWhen making the nemesis deck, you will make one deck for Myth and one deck for Bone. Use only Myth nemesis specific cards for Myth's deck and only Bone nemesis specific cards for Bone's deck. No basic or upgraded basic cards are used. For all player counts, use all of the tier 3 cards. For 1/2/3/4 players, use 3/4/5/5 tier 2 cards. For 1/2/3/4 players, use 2/3/4/5 tier 1 cards.\n\nPlace the Myth nemesis dial next to the normal nemesis dial, and set both of those dials to 40 life. For 1/2 players, Myth and Bone each gain 10 life.",
+  "rules": "When the Myth turn order card is drawn, resolve all of Myth's powers and minions in play and draw a card from Myth's nemesis deck and place it into play in Myth's play area.\n\nWhen the Bone turn order card is drawn, resolve all of Bone's minions in play and draw a card from Bone's nemesis deck and place it into play in Bone's play area if it is a minion.\n\nOn their turn, any player may spend 3 Æ to remove a power token from a power in play. The last power token on a card cannot be removed in this way.\n\nMyth and Bone are considered two separate nemeses. The Myth nemesis dial will be used to keep track of Myth's life. The normal nemesis dial will be used to keep track of Bone's life.\n\nMyth and Bone both have no maximum life.\n\nWhen an effect affects the nemesis, the players choose which nemesis is affected.\n\nWhen a player becomes exhausted, the nemesis with the lowest life gains 7 life instead of Unleash twice.\n\nWhen Myth or Bone is reduced to 0 life, the players win. When there are no nemesis cards left in play or in either nemesis deck, the players win and the nemesis with the lower life is defeated. (See Errata section)",
+  "increased_difficulty": "RULES: \"MYTH PERSISTENT:\" effects and \"BONE PERSISTENT: effects trigger on both nemesis turns.",
+  "expedition_modifiers": {},
+  "deck_source": "Paradox of Myth and Bone",
+  "url": "https://aeonsend.wiki.gg/wiki/Paradox_of_Myth_and_Bone",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Prince of Gluttons",
+  "box": "Aeon's End (Core Box)",
+  "life": 70,
+  "difficulty": 5,
+  "battles": [
+   2
+  ],
+  "unleash": "1-2 players: Devour three cards from the least expensive supply pile.\n\n3-4 players: Devour two cards from the least expensive supply pile.",
+  "setup": "Place one gem from each gem supply, starting with the most expensive, faceup in a pile next to this mat. This pile is the devoured pile.",
+  "rules": "* When a card is Devoured, place it on top of the devoured pile, even if the devoured pile is empty.\n* Cards may be gained from the top of the devoured pile as if it were a supply pile.\n* The players may look through the devoured pile at any time.\n* Cards in the devoured pile cannot be Devoured.\n* Prince of Gluttons does not start a Devour on an empty supply pile.\n* When Prince of Gluttons would Devour a card from a supply pile that is empty Gravehold suffers 2 damage per card instead.\n(Example: Devour two cards from a supply pile with only one card.)\n* If all supply piles are empty except for the devoured pile, the players lose.",
+  "increased_difficulty": "SETUP: Place an additional nine cards from any of the supply piles on top of the devoured pile in any order.",
+  "expedition_modifiers": {},
+  "deck_source": "Prince of Gluttons",
+  "url": "https://aeonsend.wiki.gg/wiki/Prince_of_Gluttons",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Rageborne",
+  "box": "Aeon's End (Core Box)",
+  "life": 70,
+  "difficulty": 2,
+  "battles": [
+   1
+  ],
+  "unleash": "Rageborne gains one Fury token.",
+  "setup": "Shuffle all of the Strike cards together and place them facedown to form the strike deck.\nRageborne gains one Fury token.",
+  "rules": "When Rageborne Strikes, resolve the following in order:\n* Draw a card from the strike deck and resolve it.\n* Shuffle that card back into the strike deck.\n* Rageborne loses three Fury tokens.\nAt the end of the nemesis turn, if Rageborne has four or more Fury tokens, it Strikes once.",
+  "increased_difficulty": "RULES: After Rageborne Strikes, it loses one Fury token instead of three.",
+  "expedition_modifiers": {},
+  "deck_source": "Rageborne",
+  "url": "https://aeonsend.wiki.gg/wiki/Rageborne",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Rampaging Vin",
+  "box": "The Returned",
+  "life": 60,
+  "difficulty": 8,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "If a player is adjacent to Vin, an adjacent player suffers 1 damage. Otherwise, Vin moves one space toward the closest player. Remove 1 power token from Enrage.",
+  "setup": "Place the Rampaging Vin board next to this mat. Place the Rampaging Vin standee on the Nemesis Start space. Each player places their standee on one of the player start spaces on that board.\n\nEach player gains a Grace Conduit and places it into their hand. Return any remaining copies of Grace Conduit to the box.\n\nPlace Enrage into play.",
+  "rules": "Spaces which are orthogonal or diagonal to each other are adjacent.\n\nWhen a player deals damage to an enemy on the board and is not within two spaces of it, reduce that damage to 1.\n\nPlayers, minions, and the nemesis cannot occupy the same space as each other.\n\nDuring any player's main phase, that player may lose 1 charge to move any player one space. Players may use this effect any number of times.\n\nWhen a player moves into a space that has a chasm, that player suffers 1 damage.\n\nWhen a player becomes exhausted, Gravehold suffers 4 damage instead of Unleash twice. Resolve the rest of the on exhaust effects.",
+  "increased_difficulty": "RULES: When a player deals damage to an enemy on the board that they are not adjacent to it, reduce that damage to 1.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "SETUP: Gravehold suffers 8 damage."
+   ]
+  },
+  "deck_source": "Rampaging Vin",
+  "url": "https://aeonsend.wiki.gg/wiki/Rampaging_Vin",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Risen Thrall",
+  "box": "Outcasts",
+  "life": 50,
+  "difficulty": 5,
+  "battles": [
+   3
+  ],
+  "unleash": "Place a thrall into play.",
+  "setup": "Shuffle the thrall cards with the Shambling Infantry and Soldier of Rot sides faceup to form the thrall deck.\n\nPlace the Thrall Reminder card into play.",
+  "rules": "During any player's main phase, that player may spend 2 Æ to flip over a thrall in play. If it is an illusion, discard it.\n\nWhen the thrall deck is empty and you need to draw one, shuffle the discard pile with the Shambling Infantry and Soldier of Rot sides faceup to form the thrall deck.\n\nWhen a faceup thrall is discarded, do not flip it over.\n\nAt the start of the nemesis turn, if there are 1/2/3/4 Soldiers of Rot in play, Gravehold suffers 1/1/2/4 damage.\n\nAt the start of the nemesis turn, if there are 1/2/3/4 Shambling Infantry in play, any player suffers 1/1/2/3 damage.\n\nIf there are twelve thralls in play and the nemesis Unleashes, Gravehold suffers 4 damage.",
+  "increased_difficulty": "RULES: Each thrall comes into play with 2 additional life. When a thrall makes a player or Gravehold suffer damage, that player or Gravehold suffers 1 additional damage.",
+  "expedition_modifiers": {},
+  "deck_source": "Risen Thrall",
+  "url": "https://aeonsend.wiki.gg/wiki/Risen_Thrall",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Rust Amalgam",
+  "box": "Legacy of Gravehold",
+  "life": 50,
+  "difficulty": 6,
+  "battles": [
+   3
+  ],
+  "unleash": "Place the top card of the parasite deck facedown on the bottom of the deck of the player with the target token. Then, that player passes the target token to the player on their left.",
+  "setup": "Shuffle all of the parasite cards faceup to form the parasite deck.\n\nThe first player gains the target token.",
+  "rules": "When the parasite deck is empty and a player would need to place a parasite on the bottom of their deck, the players lose.\n\nWhen playing solo, when you pass the target token, place it on the nemesis mat. While the target token is on the nemesis mat, ignore effects that affect the player with the target token. When the target token is passed while it is on the nemesis mat, it is passed to you.",
+  "increased_difficulty": "UNLEASH: Before passing the target token, the player with the target token destroys a card in their hand or discard pile.",
+  "expedition_modifiers": {},
+  "deck_source": "Rust Amalgam",
+  "url": "https://aeonsend.wiki.gg/wiki/Rust_Amalgam",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rust Superion",
+  "box": "Legacy of Gravehold",
+  "life": 50,
+  "difficulty": 5,
+  "battles": [
+   2
+  ],
+  "unleash": "Draw a card from the syphon deck and place it into play on an opened breach that doesn't have a syphon on it.",
+  "setup": "Shuffle all of the syphon cards facedown to form the syphon deck.",
+  "rules": "When a syphon dies, place it in the syphon discard pile.\n\nWhen a syphon is drawn and there is no opened breach without a syphon on it, discard it and Gravehold suffers 2 damage.\n\nWhen a breach with a syphon on it is destroyed, place that syphon in the syphon discard pile and Gravehold suffers 2 damage.\n\nWhen the syphon deck is empty and a syphon would be drawn, shuffle the syphon discard pile facedown to form the syphon deck. If there are no cards in the syphon discard pile to form the syphon deck, the players lose.",
+  "increased_difficulty": "RULES: Each syphon comes into play with 1 additional life.",
+  "expedition_modifiers": {},
+  "deck_source": "Rust Superion",
+  "url": "https://aeonsend.wiki.gg/wiki/Rust_Superion",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Spawning Horror",
+  "box": "Legacy",
+  "life": 50,
+  "difficulty": 3,
+  "battles": [
+   1
+  ],
+  "unleash": "Breeding Chamber gains 3 life.",
+  "setup": "Place the Breeding Chamber card into play with 4 life. When playing with four players, Breeding Chamber starts the game with 1 life.\n\nShuffle all of the pod cards together and place them facedown to form the pod deck.",
+  "rules": "At the end of the nemesis turn, if Breeding Chamber has 11 or more life, it imbues a pod: draw a card from the pod deck, place it into play, and Breeding Chamber loses 10 life. Repeat this until Breeding Chamber has 10 or less life.\n\nWhen a pod is discarded, place it in the pod discard pile. (This is not the same as the nemesis discard pile.)\n\nWhen the pod deck is empty, shuffle the pod discard pile to form a new pod deck.\n\nWhen there are seven pods in play, Spawning Horror completes its metamorphosis and the players lose.",
+  "increased_difficulty": "UNLEASH: Breeding Chamber gains 5 life instead of 3.",
+  "expedition_modifiers": {},
+  "deck_source": "Spawning Horror",
+  "url": "https://aeonsend.wiki.gg/wiki/Spawning_Horror",
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Stonemonger",
+  "box": "Past and Future",
+  "life": 75,
+  "difficulty": 4,
+  "battles": [
+   2
+  ],
+  "unleash": "Stonemonger gains a nemesis token.",
+  "setup": "When setting up the supply, only use six supply piles. None of your supply piles can be gems. (When playing an expedition, return any supply piles you don't use to your Barracks instead of banishing them.)\n\nAdd Stonemonger's three gem supply piles to the six supply piles you have chosen.\n\nShuffle the ravener cards together and place them facedown next to the nemesis mat to form the ravener deck.\n\nIf you are playing with 1/2/3 players, Unleash.",
+  "rules": "At the end of Stonemonger's turn, if it has 4 nemesis tokens or more, Stonemonger incites a frenzy. Draw the top card of the ravener deck and place it into play. Then, Stonemonger loses 4 nemesis tokens. Repeat this until Stonemonger has 3 nemesis tokens or less.\n\nWhen a ravener is discarded, place it into the ravener discard pile.\n\nIf a card would be drawn from the ravener deck and it is empty, shuffle the ravener discard pile to form a new ravener deck. If a card would be drawn from the ravener deck and it and the ravener discard pile are empty, the players lose.",
+  "increased_difficulty": "RULES: When Stonemonger incites a frenzy, it loses 3 nemesis tokens instead of 4 nemesis tokens.",
+  "expedition_modifiers": {},
+  "deck_source": "Stonemonger",
+  "url": "https://aeonsend.wiki.gg/wiki/Stonemonger",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "The Blight",
+  "box": "The Descent",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   3
+  ],
+  "unleash": "Any player gains a Tainted Halo.",
+  "setup": "Add an additional supply pile consisting of a number of Tainted Halos equal to the number of players plus 5.\n\nShuffle the blighted cards facedown to create the blighted deck.",
+  "rules": "At the end of the nemesis turn, if The Blight has 4 or more nemesis tokens, it taints the living: draw a card from the blighted deck, place it into play, and The Blight loses 3 nemesis tokens. Repeat this if The Blight has 4 or more nemesis tokens.\n\nWhen a blighted is defeated, place it in the blighted discard pile.\n\nWhen there are no cards in the blighted deck and one would be drawn, shuffle the blighted discard pile facedown to form the blighted deck. If a blighted would be drawn and there is no blighted deck or discard pile, Gravehold suffers 15 damage.\n\nIf a player would gain a Tainted Halo and there are none in the Tainted Halo pile, The Blight gains 2 nemesis tokens instead.\n\nWhen a Tainted Halo is destroyed, return it to the Tainted Halo supply pile.\n\nWhen a player becomes exhausted, that player discards their three most expensive cards in hand instead of Unleash twice.",
+  "increased_difficulty": "SETUP: Remove two Tainted Halos from the Tainted Halo supply pile. The nemesis gains 1 nemesis token.",
+  "expedition_modifiers": {},
+  "deck_source": "The Blight",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Blight",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Burning Kor",
+  "box": "Southern Village",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   4
+  ],
+  "unleash": "Place two embers on the Burning Kor Movement Mat at a single random ignition point.",
+  "setup": "Place the Ember Reminder card into play.\n\nGive each player a The Burning Kor player card.\n\nPlace the Burning Kor Movement Mat next to this mat. Place each player's mage token on this mat orthogonally adjacent to Gravehold.\n\nUnleash.",
+  "rules": "At the start of the nemesis turn, move each ember two spaces along its path starting with the embers closest to Gravehold.\n\nWhen an ember would move and cannot, it moves as far as possible and then deals 1 damage to the player or Gravehold in the space it would move into.\n\nEmbers are minions and have 1 life.\n\nConsult the The Burning Kor player aid for information about damaging embers and movement on the Burning Kor Movement Mat.",
+  "increased_difficulty": "UNLEASH: Place three embers instead of two on the Burning Kor Movement Mat at a single random ignition point.\n\nRULES: Embers move three spaces instead of two.",
+  "expedition_modifiers": {},
+  "deck_source": "The Burning Kor",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Burning_Kor",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "The Changeling Nest",
+  "box": "Past and Future",
+  "life": 40,
+  "difficulty": 6,
+  "battles": [
+   3
+  ],
+  "unleash": "Any player or Gravehold suffers 3 damage minus the number of cocoons in play.",
+  "setup": "Place all cocoons into play with the cocoon side faceup. Do not look at the back of the cocoon cards.",
+  "rules": "When a cocoon would be discarded from play, flip it over and resolve the immediate effect on the back, then place it in the cocoon discard pile.\n\nThe Changeling Nest cannot be dealt damage while any cocoons are in play.\n\nCocoons have no maximum life.\n\nIf the nemesis would draw a card and the nemesis deck is empty, the players lose.",
+  "increased_difficulty": "UNLEASH: When Changeling Nest Unleashes, any player or Gravehold suffers 4 damage minus the number of cocoons in play instead of 3 damage.",
+  "expedition_modifiers": {},
+  "deck_source": "The Changeling Nest",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Changeling_Nest",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "The Coven",
+  "box": "The Descent",
+  "life": null,
+  "difficulty": 5,
+  "battles": [
+   2
+  ],
+  "unleash": "Remove 1 power token from either Diatribe of Despair or Melody of Madness.",
+  "setup": "Place Daughter of Doom and Matron of Malice into play. Then, place into play the correct version of Diatribe of Despair and Melody of Madness based on player count.",
+  "rules": "Prevent all damage dealt to The Coven.\n\nDo not discard Diatribe of Despair or Melody of Madness even if one of the witches is defeated.\n\nDaughter of Doom and Matron of Malice are minions and witches.\n\nWhen Daughter of Doom or Matron of Malice is defeated, turn it facedown. When both Daughter of Doom and Matron of Malice are facedown, the players win the game.",
+  "increased_difficulty": "RULES: After Diatribe of Despair or Melody of Madness finishes resolving, Unleash twice.",
+  "expedition_modifiers": {},
+  "deck_source": "The Coven",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Coven",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Endless Decay",
+  "box": "Origins",
+  "life": 70,
+  "difficulty": 5,
+  "battles": [
+   3,
+   5
+  ],
+  "unleash": "The Endless Decay gains a nemesis token.",
+  "setup": "Place into play the version of Deteriorate that corresponds to your player count as indicated on the bottom of Deteriorate.\n\nShuffle the entropy cards together facedown to form the entropy deck.",
+  "rules": "At the end of The Endless Decay's turn, if it has 4 nemesis tokens or more, The Endless Decay refracts. Remove 4 nemesis tokens from The Endless Decay and resolve the nemesis main phase again. The Endless Decay can only refract once per turn.\n\nDuring any player's main phase, they may pay 4 Æ to add a power token to Deteriorate.\n\nEntropy cards do not resolve the turn they come into play.\n\nEntropy cards cannot be removed from play.\n\nIf you would draw an entropy card and cannot, the players lose.",
+  "increased_difficulty": "SETUP: Remove 2 power tokens from Deteriorate.\n\nRULES: When Deteriorate resolves, add 1 power token less to it.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "SETUP: Put the Atrophy into play from the Entropy deck."
+   ]
+  },
+  "deck_source": "The Endless Decay",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Endless_Decay",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "The Infecter",
+  "box": "The Descent",
+  "life": 60,
+  "difficulty": 4,
+  "battles": [
+   1
+  ],
+  "unleash": "If the Infecter has 0 nemesis tokens, it gains a nemesis token, then reveal the top card of the infection deck, and the player with the fewest infections gains that infection. Otherwise, each player resolves all of their infections, and The Infecter loses a nemesis token.",
+  "setup": "Shuffle all of the infection cards together and place them facedown to form the infection deck.",
+  "rules": "Infections stay in front of players permanently.\n\nIf a player would gain an infection and cannot, each player resolves all of their infections instead.\n\nWhen a player is exhausted, any player gains two infections instead of Unleash twice.",
+  "increased_difficulty": "SETUP: The players collectively gain three infections.",
+  "expedition_modifiers": {},
+  "deck_source": "The Infecter",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Infecter",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Reliquary",
+  "box": "The Abyss",
+  "life": 70,
+  "difficulty": 6,
+  "battles": [
+   3
+  ],
+  "unleash": "Remove 1 power token from any obsession.",
+  "setup": "Shuffle all of the obsession cards together and place them facedown to form the obsession deck. Draw two obsessions and place them into play. Add 2 power tokens to each obsession for each player in the game, in addition to the POWER number shown on the card.\n\nShuffle all of the cataclysm cards together and place them facedown to form the cataclysm deck.",
+  "rules": "Obsessions have no maximum number of power tokens.\n\nCataclysms do not resolve their PERSISTENT: effects the turn they come into play.\n\nWhen a cataclysm is discarded, place it in the cataclysm discard pile.\n\nThe top card of the cataclysm deck is always revealed.\n\nWhen the cataclysm deck is empty, shuffle the cataclysm discard pile facedown to form a new cataclysm deck.\n\nIf you would draw a cataclysm and can't, the players lose the game.",
+  "increased_difficulty": "SETUP: Draw an obsession and place it into play. Add 2 power tokens to it for each player in the game, in addition to the POWER number shown on the card (see Rulings).",
+  "expedition_modifiers": {},
+  "deck_source": "The Reliquary",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Reliquary",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "The Terror in Brass",
+  "box": "Beyond the Breach",
+  "life": 99,
+  "difficulty": 5,
+  "battles": [
+   1
+  ],
+  "unleash": "If Regeneration is in play, The Terror in Brass gains 5 life. Otherwise, advance the Worldsplitter Track.",
+  "setup": "Place the mat with the Worldsplitter Track and Armor Chart next to this mat, normal difficulty side up.\n\nPlace a nemesis token on the \"Cast any player's prepped spell\" space of the Armor Chart. Place The Terror in Brass token on the Start space of the Worldsplitter Track.\n\nSet aside the Regeneration power next to this mat faceup.",
+  "rules": "When every space on the Armor Chart is covered, The Terror in Brass is vulnerable.\n\nWhen The Terror becomes vulnerable, place the Regeneration power card into play if it isn't already in play.\n\nDouble all damage dealt to The Terror while it is vulnerable.\n\nWhen a player deals damage to The Terror while The Terror is not vulnerable, reduce that damage to 1.\n\nDuring any player's main phase, that player may spend 3 Æ to place a nemesis token on an uncovered space on the Armor Chart and resolve its effect.\n\nWhen the Worldsplitter Track is advanced, move The Terror in Brass token up one space on the Worldsplitter Track and then resolve the effect of that space.",
+  "increased_difficulty": "RULES: Place the Worldsplitter Track into play with the increased difficulty side faceup.",
+  "expedition_modifiers": {},
+  "deck_source": "The Terror in Brass",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Terror_in_Brass",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "The Timeless",
+  "box": "The Surface",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   3,
+   5
+  ],
+  "unleash": "The Timeless gains one nemesis token.",
+  "setup": "Each player places a Curse of Exhaustion card in their discard pile.\n\nPlace a card from the most expensive supply pile faceup next to this mat. This card is the start of the exiled pile.\n\nPlace the Finality cards in a faceup pile next to this mat to form the Finality pile.",
+  "rules": "At the end of The Timeless's turn, if it has three or more nemesis tokens, place a Finality into play, and The Timeless loses three nemesis tokens. Repeat this until The Timeless has two or less nemesis tokens.\n\nWhen a Finality is defeated, return it to the Finality pile.\n\nIf a Finality would be placed into play and there are none in the Finality pile, Gravehold suffers 10 damage instead.\n\nWhen a card is exiled, place it faceup on top of the exiled pile, even if the exiled pile is empty.\n\nCards may be gained from the top of the exiled pile, as if it were a supply pile, by paying their cost plus 1 Æ.\n\nThe exiled pile is not considered part of the supply.\n\nThe players may look through the exiled pile at any time, but they may not rearrange it.",
+  "increased_difficulty": "RULES: Finalities come into play with an additional 1 life. When resolving a Finality's PERSISTENT: effect, players may not exile the top card of their discard pile.",
+  "expedition_modifiers": {
+   "5": [
+    "During setup, swap one of the nemesis turn order cards for the Unleash turn order card.",
+    "Play using Increased Difficulty."
+   ]
+  },
+  "deck_source": "The Timeless",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Timeless",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "The Wailing",
+  "box": "Shattered Dreams",
+  "life": 50,
+  "difficulty": 6,
+  "battles": [
+   3
+  ],
+  "unleash": "The player with the Target token gains two Cracked Onyx. That player passes the Target token to the player on their left.",
+  "setup": "Add an additional supply pile consisting of twenty Cracked Onyx.\n\nGive player 1 that Target token.\n\nPlace into play the version of Shatter that corresponds to your player count as indicated on the bottom of Shatter.\n\nThe Wailing gains one nemesis token.",
+  "rules": "During any player's main phase, that player may spend 7 Æ to force The Wailing to lose a nemesis token. If you are playing solo with one mage, it costs 2 Æ less to force The Wailing to lose a nemesis token.\n\nWhen a player would gain a Cracked Onyx and that supply pile is empty, that player suffers 1 damage instead.",
+  "increased_difficulty": "RULES: When Shatter resolves, add 1 less power token to it. It costs players an additional 1 Æ to force The Wailing to lose a nemesis token.",
+  "expedition_modifiers": {},
+  "deck_source": "The Wailing",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Wailing",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "The Wanderer",
+  "box": "The Ancients",
+  "life": 40,
+  "difficulty": 5,
+  "battles": [
+   3
+  ],
+  "unleash": "Any pylon gains 2 life\nOR\nAny player suffers 2 damage.\nOR\nThe Wanderer gains 3 life.",
+  "setup": "Place the four Dampening Pylons into play.\n\nThen, each pylon suffers 1 damage.",
+  "rules": "Reduce all damage that is dealt to The Wanderer by abilities and player cards to 1.\n\nDuring any player's main phase, that player may spend any amount of Æ to deal an equal amount of damage to The Wanderer.\n\nWhen a pylon is discarded from play, place it into the pylon discard pile.",
+  "increased_difficulty": "RULES: When a player deals damage to a Dampening Pylon, reduce that damage by 1.",
+  "expedition_modifiers": {},
+  "deck_source": "The Wanderer",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Wanderer",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "The Wrath",
+  "box": "The Descent",
+  "life": 6,
+  "difficulty": 8,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "The Wrath gains 1 nemesis token.",
+  "setup": "Place the Wrath Track into play with the normal difficulty side faceup. Place the strike token on space 0.\n\nUnleash.",
+  "rules": "At the end of the nemesis turn, if The Wrath has 4 or more nemesis tokens, it rampages: Gravehold suffers 7 damage and The Wrath loses 3 nemesis tokens. Repeat this if The Wrath has 4 or more nemesis tokens.\n\nWhen a player deals damage to the nemesis, prevent that damage, advance the strike token an amount of spaces on the Wrath Track equal to the amount of damage prevented this way, and resolve the effect the token lands on.\n\nDo not resolve effects the strike token passed over but did not land on.\n\nIf the token would move past the space 14, instead place it on space 14 and do not move it anymore from that instance of damage.",
+  "increased_difficulty": "SETUP: Place the Wrath Track into play with the increased difficulty side faceup.",
+  "expedition_modifiers": {
+   "5": [
+    "Play using Increased Difficulty.",
+    "SETUP: Two different players each suffer 3 damage."
+   ]
+  },
+  "deck_source": "The Wrath",
+  "url": "https://aeonsend.wiki.gg/wiki/The_Wrath",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Thief of Dreams",
+  "box": "Outcasts",
+  "life": 80,
+  "difficulty": 4,
+  "battles": [
+   2
+  ],
+  "unleash": "Draw a card from the Dream deck and place it in space 1 of the Dream Mat.",
+  "setup": "Replace a nemesis turn order card with the Delirium turn order card.\n\nSet the Dream Mat next to this mat.\n\nSet aside four copies of each relic and spell from each relic and spell supply pile. Set aside six copies of each gem from each gem supply pile except for the one with the lowest cost. Shuffle all of the set aside cards together and set them facedown to form the Dream deck. Place this next to the Dream Mat.\n\nUnleash twice.",
+  "rules": "When the Delirium turn order card is drawn, Unleash and then the Nemesis takes a turn as normal.\n\nWhen a new card is placed on the Dream Mat, as needed move the other cards one space forward to make space for it.\n\nWhen a supply card is pushed to space 6, place it on the bottom of the Dream deck and any player suffers 2 damage.\n\nCards on the Dream Mat are considered part of the supply. When an effect refers to a supply pile, it is not referring to the Dream Mat.\n\nDuring any player's main phase, that player may spend 3 Æ to destroy a supply card on the Dream Mat.\n\nWhen there are no supply cards on the Dream Mat, Unleash.\n\nIf the Dream deck is empty and there are no supply cards on the Dream Mat, the players win.\n\nWhen a player becomes exhausted, Gravehold suffers 5 damage instead of Unleash twice.",
+  "increased_difficulty": "RULES: Both turn order cards are Delirium turn order cards. When a supply card is pushed to space 6, place it on the bottom of the Dream deck and any player suffers 3 damage instead of 2.",
+  "expedition_modifiers": {},
+  "deck_source": "Thief of Dreams",
+  "url": "https://aeonsend.wiki.gg/wiki/Thief_of_Dreams",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Thrice-Dead Prophet",
+  "box": "The Outer Dark",
+  "life": 40,
+  "difficulty": 5,
+  "battles": [
+   2
+  ],
+  "unleash": "Thrice-Dead Prophet gains 5 life. Then, if it has 60 or more life, it gains one nemesis token.",
+  "setup": "None.",
+  "rules": "* At the end of the nemesis turn, if Thrice-Dead Prophet has four or more nemesis tokens, discard the top card of the nemesis deck and Thrice-Dead Prophet loses four nemesis tokens.\n* Thrice-Dead Prophet has no maximum life.\n* When Thrice-Dead Prophet has 99 or more life, it ascends to immortality and the players lose.\n* When the nemesis deck is empty, the Thrice-Dead Prophet has completed the final ritual and the players lose.",
+  "increased_difficulty": "SETUP: Thrice-Dead Prophet gains 15 life.",
+  "expedition_modifiers": {},
+  "deck_source": "Thrice-Dead Prophet",
+  "url": "https://aeonsend.wiki.gg/wiki/Thrice-Dead_Prophet",
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Twice-Dead Prophet",
+  "box": "Beyond the Breach",
+  "life": 50,
+  "difficulty": 6,
+  "battles": [
+   3
+  ],
+  "unleash": "Twice-Dead Prophet gains 2 life and one nemesis token.",
+  "setup": "Shuffle all of the prophecy cards together and place them facedown to form the prophecy deck.\n\nWhen playing with 1/2/3/4 players, Twice-Dead Prophet gains 2/2/1/0 nemesis tokens.",
+  "rules": "At the end of the nemesis turn, if Twice-Dead Prophet has six or more nemesis tokens, place the top card of the prophecy deck into play. Then, Twice-Dead Prophet loses four nemesis tokens.\n\nThe top card of the prophecy deck is always revealed.\n\nWhen a prophecy is resolved or discarded, place it on the bottom of the prophecy deck. When a prophecy is discarded, place the card underneath it on top of the nemesis discard pile.\n\nWhen a power is played off a prophecy, do not remove any power tokens from it this turn. When a minion is played off a prophecy, do not resolve its PERSISTENT: effect this turn. Twice-Dead Prophet has no maximum life.\n\nWhen Twice-Dead Prophet has 99 or more life, it ascends to immortality and the players lose.\n\nWhen the nemesis deck is empty, the players lose.",
+  "increased_difficulty": "SETUP: Twice-Dead Prophet gains 20 life.",
+  "expedition_modifiers": {},
+  "deck_source": "Twice-Dead Prophet",
+  "url": "https://aeonsend.wiki.gg/wiki/Twice-Dead_Prophet",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Umbra Titan",
+  "box": "War Eternal",
+  "life": 70,
+  "difficulty": 3,
+  "battles": [
+   1
+  ],
+  "unleash": "If there is one nemesis turn order card in the turn order discard pile, any player suffers 2 damage. If there are two nemesis turn order cards in the turn order discard pile, Gravehold suffers 2 damage.\nOR\nUmbra Titan loses one nemesis token.",
+  "setup": "Umbra Titan gains eight nemesis tokens.",
+  "rules": "When Umbra Titan has zero nemesis tokens, Gravehold's foundation is undermined. Gravehold collapses into rubble and the players lose.",
+  "increased_difficulty": "SETUP: Umbra Titan starts with five nemesis tokens instead of eight.",
+  "expedition_modifiers": {},
+  "deck_source": "Umbra Titan",
+  "url": "https://aeonsend.wiki.gg/wiki/Umbra_Titan",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Wayward One",
+  "box": "The Nameless",
+  "life": 60,
+  "difficulty": 7,
+  "battles": [
+   3
+  ],
+  "unleash": "Shift position. Then:\n\nAny player discards an aligned spell.\nOR\nGravehold suffers 3 damage.",
+  "setup": "Place the Wayward One Position Chart next to this mat.\n\nPlace the Wayward One token on that chart on position I.",
+  "rules": "* Shift Position: When Wayward One shifts position, move its token on the Position Chart as follows: I » II » III » IV » I\n* Aligned: Prepped spells or breaches matching the current position of the nemesis, or a minion that has a position, are considered aligned with that nemesis or minion. If a spell is prepped in at least one aligned breach, then that spell is aligned. All spells are aligned to minions that are not aligned.\n* Misaligned: Any spell that isn't aligned is misaligned. Misaligned spells deal half their damage, rounded up, to the nemesis or minion to which it is misaligned.",
+  "increased_difficulty": "RULES: Misaligned spells deal 1 damage instead of half rounded up.",
+  "expedition_modifiers": {},
+  "deck_source": "Wayward One",
+  "url": "https://aeonsend.wiki.gg/wiki/Wayward_One",
+  "boxes": [
+   "The Nameless"
+  ]
+ },
+ {
+  "title": "Wayward Reflection",
+  "box": "Beyond the Breach",
+  "life": 65,
+  "difficulty": 8,
+  "battles": [
+   4
+  ],
+  "unleash": "Gravehold suffers 2 damage.\nOR\nAny player loses 2 charges.",
+  "setup": "Place the Wayward Reflection Position Chart next to this mat.\n\nPlace the Wayward Reflection token on that chart on position I.\n\nShuffle the shift cards facedown to form the shift deck and place it next to this mat. Place Final Awakening into play.",
+  "rules": "Aligned: Spells prepped to or cast from a breach matching the position of Wayward Reflection are aligned.\n\nMisaligned: Spells prepped to or cast from a breach not matching the position of Wayward Reflection are misaligned.\n\nWhen a player casts an aligned spell that would deal damage to an aligned enemy, that player gains 1 charge.\n\nWhen a player casts a misaligned spell that would deal damage to an aligned enemy, reduce the damage that spell would deal to 1 unless that player loses 2 charges.\n\nThe top card of the shift deck is always revealed.",
+  "increased_difficulty": "RULES: Spells that cost 0 Æ are misaligned.",
+  "expedition_modifiers": {},
+  "deck_source": "Wayward Reflection",
+  "url": "https://aeonsend.wiki.gg/wiki/Wayward_Reflection",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Wraithmonger",
+  "box": "The Outer Dark",
+  "life": 70,
+  "difficulty": 6,
+  "battles": [
+   4
+  ],
+  "unleash": "The player with the fewest Terror tiles claims the highest numbered unclaimed Terror tiles and resolves its effect.",
+  "setup": "Place all the Terror tiles on the Wraithmonger Terror mat corresponding to their number.",
+  "rules": "* Any player may lose 4 charges during their main phase to return all Terror tiles claimed by all players to the Wraithmonger Terror mat.\n* When Terror tile 1 is claimed, the players immediately lose the game.\n* When a player claims a Terror tile, that player places it on top of the ability text of their player mat. Players with Terror tiles cannot activate their abilities.\n* When a player is exhausted, Gravehold suffers 4 damage instead of Unleash twice. Resolve the rest of the on exhaust effect.",
+  "increased_difficulty": "SETUP: Remove Terror tile 7 from the game.",
+  "expedition_modifiers": {},
+  "deck_source": "Wraithmonger",
+  "url": "https://aeonsend.wiki.gg/wiki/Wraithmonger",
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Xaxos: Ascended",
+  "box": "Legacy",
+  "life": 90,
+  "difficulty": 9,
+  "battles": [
+   4,
+   5
+  ],
+  "unleash": "Draw a spell from his spell deck and put it onto the leftmost breach with no spell prepped to it. If all of his breaches have a spell prepped to them already, cast the drawn spell instead.",
+  "setup": "Place Xaxos: Ascended's breach mat next to this mat.\n\nDivide Xaxos: Ascended's spell cards by cost. Shuffle each cost separately. Place the 5-cost cards facedown next to the breach mat where it says \"Concentrate Deck.\" Place the 4-cost cards facedown on top of the 5-cost cards. Place the 3-cost cards facedown on top of the 4-cost cards. This is the concentrate deck. Place the top five cards of the concentrate deck facedown next to the mat where it says \"Spell Deck.\" These cards are the spell deck.",
+  "rules": "At the start of the nemesis turn, Xaxos: Ascended casts all of his prepped spells in order from left to right. Place cast spells facedown on the bottom of the spell deck.\n\nDuring any player's main phase, that player may lose charges equal to the cost of one of Xaxos: Ascended's prepped spells to place it facedown on the bottom of the spell deck.\n\nWhen Xaxos: Ascended CONCENTRATES, place the top card of the concentrate deck facedown on the bottom of the spell deck.\n\nWhen Xaxos: Ascended would CONCENTRATES and the concentrate deck is empty Unleash instead.\n\nWhen a player is exhausted, Gravehold suffers 5 damage instead of Unleash twice. Resolve the rest of the exhaust effects.",
+  "increased_difficulty": "SETUP: After the spell deck is set up, destroy the top two cards of the spell deck. Then, Xaxos: Ascended Concentrates twice.",
+  "expedition_modifiers": {
+   "4": [
+    "During setup, include three less upgraded basic nemesis cards in each tier."
+   ],
+   "5": [
+    "SETUP: After the spell deck is set up, destroy the top three cards of the spell deck. Then, the nemesis Concentrates three times."
+   ]
+  },
+  "deck_source": "Xaxos: Ascended",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos:_Ascended",
+  "boxes": [
+   "Legacy"
+  ]
+ }
+]

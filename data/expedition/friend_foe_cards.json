@@ -1,0 +1,1112 @@
+[
+ {
+  "title": "Amplify",
+  "owner": "Adelheim, the Blacksmith",
+  "role": "friend",
+  "type": null,
+  "effect": "Adelheim, the Blacksmith gains 2 charges.\nOR\nAny player destroys a Spark in hand or discard pile and gains a Forged Spark.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Ancient Knowledge",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": null,
+  "effect": "Grimoire gains 2 charges.\nOR\nAny player loses 1 charge. If they do, they Develop a card in the Develop zone and place that card on top of their deck.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Ancient Secrets",
+  "owner": "Myrna, the Scholar",
+  "role": "friend",
+  "type": null,
+  "effect": "Myrna, the Scholar gains 2 charges.\nOR\nMyrna, the Scholar loses 1 Knowledge. If she does, reveal the turn order deck and return it in any order.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Arcane Infusion",
+  "owner": "Fawn, the Alchemist",
+  "role": "friend",
+  "type": null,
+  "effect": "Adelheim, the Blacksmith gains 2 charges.\nOR\nAny player destroys a Spark in hand or discard pile and gains a Forged Spark.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Arcane Wisdom",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws two cards and discards two cards.\nOR\nAny player gains 2 Æ tokens.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Archive",
+  "owner": "Myrna, the Scholar",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws three cards and discards any cards drawn this way that cost 3 Æ or more.\nOR\nMyrna loses any amount of Knowledge. The players collectively draw cards equal to the Knowledge lost this way.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Bite",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player gains a gem from the supply that costs 4 Æ or less. Draw a tendril.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Blazing Furnace",
+  "owner": "Adelheim, the Blacksmith",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player destroys a Crystal in hand or discard pile and gains a Forged Crystal.\nOR\nAny player returns up to two cards from their discard pile that cost 0 Æ to their hand.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Blistered Flesh",
+  "owner": "The Swarm",
+  "role": "foe",
+  "type": null,
+  "effect": "Place a Broodling into play and Gravehold suffers 2 damage.\nOR\nThe Swarm gains 3 charges and the friend gains 1 charge.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Bolstering Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Any player casts one of their prepped spells. That spell deals an additional 2 damage.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Broodling",
+  "owner": "The Swarm",
+  "role": "foe",
+  "type": "Minion",
+  "effect": "When this is discarded, return it to the Broodling deck.\nPERSISTENT: Any player suffers 1 damage and discards a card.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Bubbling Brew",
+  "owner": "Fawn, the Alchemist",
+  "role": "friend",
+  "type": null,
+  "effect": "Fawn, the Alchemist gains 2 charges.\nOR\nAny player places a spell that costs 2 Æ or more from their hand into the Cauldron and draws a card.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Burn Bright",
+  "owner": "The Cultist",
+  "role": "foe",
+  "type": null,
+  "effect": "The Cultist gains 2 charges.\nOR\nVolatile Pylon gains 4 life.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Burnish",
+  "owner": "Adelheim, the Blacksmith",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player destroys a Crystal or Spark in hand. That player gains the corresponding Forged card and places it into their hand.\nOR\nAny player loses 2 charges. If they do, Adelheim, the Blacksmith gains 4 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Buy Time",
+  "owner": "Dai, the Youth",
+  "role": "friend",
+  "type": null,
+  "effect": "Dai gains 1 charge, and any player focuses their closed breach with the lowest focus cost.\nOR\nAny player with no closed breaches gains 2 charges.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Carrion Claw",
+  "owner": "The Scavenger",
+  "role": "foe",
+  "type": null,
+  "effect": "The Scavenger gains 2 charges.\nOR\nAny player loses 2 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Chew",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": null,
+  "effect": "If The Hunger is dormant, destroy a card from four different supply piles, and The Hunger gains a charge. Otherwise, draw a tendril.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Coiled Tendril",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": "Minion",
+  "effect": "IMMEDIATELY: This gains 1 life for each empty supply pile. This has no maximum life.\nPERSISTENT: If The Hunger is dormant, any player suffers 2 damage. Otherwise, any player suffers 3 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Collect",
+  "owner": "Joanna, the Merchant",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws two cards and then discards two cards in hand.\nOR\nAny player may place up to two gems from their hand into the Market.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Consuming Void (Grimoire)",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": "Spell;Incantation",
+  "effect": "When you Develop this, Grimoire gains 1 charge.\n\nCast: Destroy up to two cards in hand. Deal 3 damage for each card destroyed in this way.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Corrode",
+  "owner": "Jeweled Wrath",
+  "role": "foe",
+  "type": null,
+  "effect": "The players collectively discard three non-gem cards in hand.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Corruption's Kiss",
+  "owner": "The Mask",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player gains a nemesis token and gains a card from the supply that costs 4 Æ or less. The Mask gains 1 charge.\nOR\nAny player loses a nemesis token. That player destroys a card in hand that costs 5 Æ or more or suffers 5 damage.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Cursed Shard (Jeweled Wrath)",
+  "owner": "Jeweled Wrath",
+  "role": "foe",
+  "type": "Gem",
+  "effect": "When destroyed, return this card to the Cursed Shard pile.\nGain 1 Æ. Place this on top of your deck.\nOR\nSpend 2 Æ. If you do, destroy this.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Danger Sense",
+  "owner": "Lash, the Dreamer",
+  "role": "friend",
+  "type": null,
+  "effect": "Lash gains 1 charge.\nReveal the top card of the nemesis deck.\nReveal the top card of the turn order deck. You may place it on the bottom of the turn order deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Dark Bargain",
+  "owner": "The Traitor",
+  "role": "foe",
+  "type": null,
+  "effect": "The Traitor gains 1 charge. The players may discard the top card of the nemesis deck. If they don't, The Traitor gains an additional 2 charges.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Decaying Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Any player may destroy up to two cards in hand or discard pile.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Delve",
+  "owner": "Myrna, the Scholar",
+  "role": "friend",
+  "type": null,
+  "effect": "Myrna, the Scholar gains 2 charges.\nOR\nMyrna, the Scholar loses 1 Knowledge. If she does, any player gains 4 Æ tokens.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Descend and Devour",
+  "owner": "The Swarm",
+  "role": "foe",
+  "type": null,
+  "effect": "Place a Broodling into play.\nThe Swarm gains 1 charge.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Devil's Bargain",
+  "owner": "The Mask",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player gains a nemesis token and 2 charges. The Mask gains 1 charge.\nOR\nAny player loses a nemesis token. That player loses 4 charges or suffers 5 damage.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Diminish",
+  "owner": "The Corrosion",
+  "role": "foe",
+  "type": null,
+  "effect": "Place a Draining Sign into play.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Disintegrating Scythe (Grimoire)",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": "Spell;Incantation",
+  "effect": "When you Develop this, gain 1 life.\n\nCast: Deal 8 damage. Suffer 1 damage. Place this on top of any player's discard pile.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Draining Sign",
+  "owner": "The Corrosion",
+  "role": "foe",
+  "type": "Power",
+  "effect": "TO DISCARD: Spend 5 Æ. Return this card to the Draining Sign pile.\nPOWER 3: Any player suffers 4 damage. Return this to the Draining Sign pile.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Echoing Thunder",
+  "owner": "The Storm",
+  "role": "foe",
+  "type": null,
+  "effect": "The Storm gains 2 charges.\nOR\nAny player discards a card in hand that costs 4 Æ or more.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Empower",
+  "owner": "The Corrosion",
+  "role": "foe",
+  "type": null,
+  "effect": "Remove 1 power token from each power in play, and the nemesis gains 6 life.\nOR\nPlace a Draining Sign into play.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Encrust (Jeweled Wrath)",
+  "owner": "Jeweled Wrath",
+  "role": "foe",
+  "type": null,
+  "effect": "Jeweled Wrath gains 2 charges.\nOR\nAny player places three cards that cost 0 Æ in their discard pile on top of their deck.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Energize",
+  "owner": "Dalana, the Healer",
+  "role": "friend",
+  "type": null,
+  "effect": "Dalana, the Healer gains 2 charges.\nOR\nAny player gains 1 charge.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Enhance",
+  "owner": "Dalana, the Healer",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player focuses a breach.\nOR\nAny player discards a prepped spell. If they do, Dalana, the Healer gains 3 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Essence Mirror",
+  "owner": "Qu, the Rift Walker",
+  "role": "friend",
+  "type": null,
+  "effect": "Qu gains 2 charges.\nOR\nAny player gains an Æ token.\nFlip the Builder/Destroyer card.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Exchange",
+  "owner": "Joanna, the Merchant",
+  "role": "friend",
+  "type": null,
+  "effect": "Joanna, the Merchant gains 1 charge. Any player may lose 1 charge. If they do, Joanna, the Merchant gains an additional 2 charges.\nOR\nAny player may place a gem in hand or discard pile into the Market.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Existence Rupture",
+  "owner": "The Anomaly",
+  "role": "foe",
+  "type": null,
+  "effect": "Resolve the PERSISTENT: effect of a minion in play and that minion gains 1 life.\nOR\nThe Anomaly gains 3 charges and the friend gains 1 charge.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Fate Schism",
+  "owner": "Qu, the Rift Walker",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws two cards and then discards two cards in hand.\nOR\nQu gains 1 charge, and any player preps a spell in hand to an opened or closed breach.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Feed the Flames",
+  "owner": "The Cultist",
+  "role": "foe",
+  "type": null,
+  "effect": "The Cultist gains 1 charge.\nAny player may discard a gem in hand that costs 3 Æ or more. If they don't, Volatile Pylon gains 3 life.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Fission",
+  "owner": "Sahala, the Apprentice",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws a card.\nOR\nAny player destroys a Temporal Claw attached to one of their breaches. If they do, that player draws four cards.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Forked Lightning",
+  "owner": "The Storm",
+  "role": "foe",
+  "type": null,
+  "effect": "The Storm gains 2 charges.\nOR\nAny player discards a prepped spell, gains a Shock, and places it on top of their deck.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Fractalize",
+  "owner": "The Storm",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player suffers 1 damage, gains a Shock, and places it into their hand.\nOR\nAny player suffers 3 damage and may return a Shock in hand to its supply pile.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Fractured Rift",
+  "owner": "The Anomaly",
+  "role": "foe",
+  "type": null,
+  "effect": "Reveal the top card of the nemesis deck. If it's a minion, The Anomaly gains 2 charges. Otherwise, discard it.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Galaxy Warp",
+  "owner": "Sahala, the Apprentice",
+  "role": "friend",
+  "type": null,
+  "effect": "Sahala gains 2 charges.\nOR\nAny player places a spell in their discard pile into their hand.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Gather Ingredients",
+  "owner": "Fawn, the Alchemist",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player gains a spell that costs 5 Æ or less from the supply.\nOR\nAny player gains 1 charge.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Glowing Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Any player gain 2 charges.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Growing Shadow",
+  "owner": "The Traitor",
+  "role": "friend",
+  "type": null,
+  "effect": "Place the bottom card of the nemesis deck on top of the nemesis deck.\nOR\nThe Traitor gains 3 charges and any player gains 1 charge.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Guiding Star",
+  "owner": "Sahala, the Apprentice",
+  "role": "friend",
+  "type": null,
+  "effect": "Sahala gains 2 charges.\nOR\nAny player gains a spell from the supply that costs 4 Æ or less.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Imbue Inevitability",
+  "owner": "The Corrosion",
+  "role": "foe",
+  "type": null,
+  "effect": "The Corrosion gains 2 charges.\nOR\nPlace the bottommost power card from the nemesis discard pile into play. Any player gains 2 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Imbued Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Any player gains a shield token and draws a card.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Incendiary Catalyst",
+  "owner": "Fawn, the Alchemist",
+  "role": "friend",
+  "type": "Spell",
+  "effect": "Cast: Deal 3 damage. You may place a spell that costs 2 Æ or more from your hand or discard pile into the Cauldron.\nUse this card only when playing with the friend Fawn, the Alchemist.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Inspect Wares",
+  "owner": "Joanna, the Merchant",
+  "role": "friend",
+  "type": null,
+  "effect": "Joanna, the Merchant gains 2 charges.\nOR\nAny player may a card from their hand or discard pile into the Market.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Inspire",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": null,
+  "effect": "Xaxos, the Arcane Researcher gains 2 charges.\nOR\nDeal 3 damage to a minion.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Leech",
+  "owner": "The Corrosion",
+  "role": "foe",
+  "type": null,
+  "effect": "The Corrosion gains 2 charges.\nOR\nAny player discards a gem in hand that costs 3 Æ or more.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Light Drain",
+  "owner": "Creeping Dark",
+  "role": "foe",
+  "type": null,
+  "effect": "Remove 1 power token from Spreading Shadow. Repeat this twice.\nOR\nCreeping Dark gains 2 charges.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Melt",
+  "owner": "The Cultist",
+  "role": "foe",
+  "type": null,
+  "effect": "If Volatile Pylon has 5 or more life, any player discards two cards in hand. Otherwise, Volatile Pylon gains 4 life.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Moment's Respite",
+  "owner": "Lash, the Dreamer",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws two cards, then places two cards in hand on top of their deck.\nOR\nAny player deals 2 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Monstrous Inferno (Grimoire)",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": "Spell;Incantation",
+  "effect": "When you Develop this, deal 2 damage.\n\nCast: Deal 5 damage divided however you choose to the nemesis and any number of minions.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Munch",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": null,
+  "effect": "Destroy a card from the least expensive supply pile. The Hunger gains 2 charges.\nOR\nAny player discards a card in hand and suffers 3 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Nova Burst",
+  "owner": "Sahala, the Apprentice",
+  "role": "friend",
+  "type": null,
+  "effect": "Sahala gains 1 charge. Any player may discard a spell in hand that costs 3 Æ or more. If they do, Sahala gains 2 additional charges.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Pay the Piper",
+  "owner": "The Mask",
+  "role": "foe",
+  "type": null,
+  "effect": "The Mask gains 2 charges.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Plunge",
+  "owner": "Creeping Dark",
+  "role": "foe",
+  "type": null,
+  "effect": "Add a power token to Spreading Shadow. Any player destroys a card in hand that costs 1 Æ or more.\nOR\nAny player discards two gems.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Poisonous Promises",
+  "owner": "The Mask",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player gains a nemesis token and 1 Æ token.\nOR\nAny player loses a nemesis token and discards four cards in hand. The Mask gains 1 charge.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Polished Steel",
+  "owner": "Adelheim, the Blacksmith",
+  "role": "friend",
+  "type": null,
+  "effect": "Adelheim, the Blacksmith gains 2 charges.\nOR\nAny player discards a card in hand that costs 2 Æ or more. If they do, they gain 3 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Pooling Black",
+  "owner": "Creeping Dark",
+  "role": "foe",
+  "type": null,
+  "effect": "Creeping Dark gains 3 charges. Add 2 power tokens to Spreading Shadow.\nOR\nAny player discards a gem in hand that costs 2 Æ or more.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Prepare",
+  "owner": "Fawn, the Alchemist",
+  "role": "friend",
+  "type": null,
+  "effect": "Fawn, the Alchemist gains 2 charges.\nOR\nAny player gains an Incendiary Catalyst and an Æ token.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Prepare for Battle",
+  "owner": "Dai, the Youth",
+  "role": "friend",
+  "type": null,
+  "effect": "Dai gains 2 charges.\nOR\nAny player gains a relic from the supply that costs 4 Æ or less.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Quick Recovery",
+  "owner": "Dai, the Youth",
+  "role": "friend",
+  "type": null,
+  "effect": "Dai gains 2 charges.\nOR\nAny player discards a relic in hand. If they do,that player gains 5 Æ tokens.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Radiance (Grimoire)",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": "Spell;Incantation",
+  "effect": "When you Develop this, Gravehold gains 1 life.Cast: Deal 4 damage. Each ally draws a card.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Reality Warp",
+  "owner": "The Anomaly",
+  "role": "foe",
+  "type": null,
+  "effect": "The Anomaly gains 2 charges.\nOR\nAny player discards two gems in hand and suffers 1 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Reclaim",
+  "owner": "The Scavenger",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player discards their two most expensive cards in hand and then draws a card.\nOR\nGravehold suffers 3 damage.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Restore",
+  "owner": "Dalana, the Healer",
+  "role": "friend",
+  "type": null,
+  "effect": "Dalana, the Healer gains 2 charges.\nOR\nAny player returns a card from their discard pile to their hand.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Ritual",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": null,
+  "effect": "Xaxos, the Arcane Researcher gains 2 charges.\nOR\nAny player returns a card from their discard pile to their hand.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Ritual of Flame",
+  "owner": "The Cultist",
+  "role": "foe",
+  "type": "Power",
+  "effect": "POWER 5: Any player or Gravehold suffers damage equal to the life of Volatile Pylon minus 1.\nPlace 5 power tokens on this instead of discarding it.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Rushing Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Any player focuses a breach twice. They may prep a spell in hand to an opened or focused breach.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Rust (Jeweled Wrath)",
+  "owner": "Jeweled Wrath",
+  "role": "foe",
+  "type": null,
+  "effect": "Jeweled Wrath gains 1 charge. Any player destroys a gem in hand or discard pile that costs 1 Æ or more. If they can't, Jeweled Wrath gains an additional 2 charges.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Salvaged Baubles",
+  "owner": "Joanna, the Merchant",
+  "role": "friend",
+  "type": null,
+  "effect": "Joanna, the Merchant gains 1 charge.\nAny player may place a spell from their hand or discard pile into the Market.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Scout Ahead",
+  "owner": "Dai, the Youth",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws a card.\nOR\nAny player places a relic in their discard pile into their hand.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Screeching Wail",
+  "owner": "The Scavenger",
+  "role": "foe",
+  "type": null,
+  "effect": "The Scavenger gains 1 charge. Any player may discard a prepped spell that costs 3 Æ or more. If they don't, the Scavenger gains an additional 2 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Shadow Slash",
+  "owner": "The Scavenger",
+  "role": "foe",
+  "type": null,
+  "effect": "Gravehold suffers 3 damage.\nOR\nThe Scavenger gains 3 charges and the friend gains 1 charge.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Shock",
+  "owner": "The Storm",
+  "role": "foe",
+  "type": "Spell",
+  "effect": "When destroyed, return this card to the Shock supply pile.Cast: Deal 1 damage. Discard a card in hand. If that card costs 3 Æ or more, destroy this.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Slipstream",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player reveals the top three cards of their deck, places one of the revealed cards into their hand, and then places a card in hand on top of their deck.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Smothering Smog",
+  "owner": "The Cultist",
+  "role": "foe",
+  "type": null,
+  "effect": "Volatile Pylon gains 2 life and any player loses 1 charge.\nOR\nThe Cultist gains 3 charges and and the friend gains 1 charge.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Snuff Out",
+  "owner": "Creeping Dark",
+  "role": "foe",
+  "type": null,
+  "effect": "Creeping Dark gains 2 charges.\nOR\nAny player discards a gem. Remove 1 power token from Spreading Shadow.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Soothing Aura",
+  "owner": "Dalana, the Healer",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player draws a card.\nOR\nAny player gains 2 Æ tokens.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Splinter",
+  "owner": "Jeweled Wrath",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player discards three cards in hand. A different player gains 1 Æ token.\nOR\nJeweled Wrath gains 4 charges and any player gains 2 charges.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Spreading Clouds",
+  "owner": "The Storm",
+  "role": "foe",
+  "type": null,
+  "effect": "Any player gains a Shock.\nGravehold suffers 2 damage.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Spreading Shadow",
+  "owner": "Creeping Dark",
+  "role": "foe",
+  "type": "Power",
+  "effect": "This card starts with power tokens according to the setup for Creeping Dark.\nPOWER X: For each nemesis token Creeping Dark has, Gravehold suffers 3 damage. Then, Creeping Dark gains one nemesis token.\nDo not discard this power from play. Instead, add 7 power tokens to this card.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Study",
+  "owner": "Myrna, the Scholar",
+  "role": "friend",
+  "type": null,
+  "effect": "Myrna, the Scholar gains 1 charge. You may have the foe gain 1 charge. If you do, Myrna gains an additional 2 charges.\nOR\nMyrna, the Scholar loses 2 Knowledges. If she does, any player casts a prepped spell without discarding it.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Study (Grimoire)",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": null,
+  "effect": "Grimoire gains 2 charges.\nOR\nAny player discards a card in hand. If they do, that player develops an Incantation.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Summoning Screech",
+  "owner": "The Swarm",
+  "role": "foe",
+  "type": null,
+  "effect": "Place a Broodling into play with 4 life.\nOR\nGravehold suffers 3 damage.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Swallow",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": null,
+  "effect": "Destroy a card from the most expensive supply pile. The Hunger gains 2 charges.\nOR\nAny player destroys a card in hand that costs 5 Æ or more. That player gains a card from the supply that costs less than the destroyed card.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Swelling Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Gravehold gains 3 life. This can cause Gravehold to have more than its maximum life.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Swiping Tendril",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": "Minion",
+  "effect": "IMMEDIATELY: This gains 1 life for each empty supply pile. This has no maximum life.\nPERSISTENT: If The Hunger is dormant, Unleash. Otherwise, Unleash twice.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Teamwork",
+  "owner": "Lash, the Dreamer",
+  "role": "friend",
+  "type": null,
+  "effect": "Lash gains 1 charge.\nThe players may collectively discard two prepped spells.\nIf they do, Lash gains 2 additional charges.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Temporal Claw",
+  "owner": "Sahala, the Apprentice",
+  "role": "friend",
+  "type": "Relic",
+  "effect": "Attach this to a breach that doesn't have a relic attached to it.\nSpells cast from this breach deal 1 additional damage.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Time Siphon",
+  "owner": "The Anomaly",
+  "role": "foe",
+  "type": null,
+  "effect": "The Anomaly gains 1 charge. The players may discard two prepped spells. If they don't, The Anomaly gains an additional 2 charges.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Turn the Page",
+  "owner": "Grimoire, the Archive",
+  "role": "friend",
+  "type": null,
+  "effect": "Place the top card of the Incantation deck on the bottom. Grimoire gains 2 charges.\nOR\nAny player casts a spell in hand. Grimoire gains 1 charge.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Twist of Fate",
+  "owner": "Lash, the Dreamer",
+  "role": "friend",
+  "type": null,
+  "effect": "Lash gains 2 charges.\nOR\nAny player gains 1 Æ token. Reveal the top card of the turn order deck. You may place it on the bottom of the turn order deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Twisted Destiny",
+  "owner": "Qu, the Rift Walker",
+  "role": "friend",
+  "type": null,
+  "effect": "Flip the Builder/Destroyer card, and Qu gains 2 charges.\nOR\nIf Qu is in Builder form, any player draws a card. Otherwise, any player returns a spell from their discard pile to their hand.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Twisting Tendril",
+  "owner": "The Hunger",
+  "role": "foe",
+  "type": "Minion",
+  "effect": "IMMEDIATELY: This gains 1 life for each empty supply pile. This has no maximum life.\nPERSISTENT: If The Hunger is dormant, Gravehold suffers 2 damage. Otherwise, Gravehold suffers 3 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Twisting Tendrils",
+  "owner": "The Traitor",
+  "role": "foe",
+  "type": null,
+  "effect": "The Traitor gains 2 charges.\nOR\nUnleash.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Void Bubble",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": null,
+  "effect": "Xaxos, the Arcane Researcher gains 1 charge. Reveal the top card of the boon deck. You may place that card on the bottom of that deck.\nOR\nThe players collectively prep up to two spells in hand to their opened or closed breaches.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Void Ripple",
+  "owner": "Qu, the Rift Walker",
+  "role": "friend",
+  "type": null,
+  "effect": "Any player deals 2 damage.\nOR\nAny player gains a gem from the supply that costs 3 Æ or less.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Volatile Pylon",
+  "owner": "The Cultist",
+  "role": "foe",
+  "type": "Minion",
+  "effect": "This enters play with 4 life. This minion has no maximum life. This minion's life cannot be reduced below 1.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Warding Boon",
+  "owner": "Xaxos, the Arcane Researcher",
+  "role": "friend",
+  "type": "Boon",
+  "effect": "Any player gains a shield token.\n\nAny player gains 1 charge.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Wraithtouch",
+  "owner": "The Traitor",
+  "role": "foe",
+  "type": null,
+  "effect": "A minion in play from the nemesis deck gains 4 life. This may cause it to have more than its maximum life.\nOR\nUnleash.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Wriggle",
+  "owner": "The Swarm",
+  "role": "foe",
+  "type": null,
+  "effect": "The Swarm gains 2 charges.\nOR\nGravehold suffers 3 damage.",
+  "boxes": [
+   "The Descent"
+  ]
+ }
+]

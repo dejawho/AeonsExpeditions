@@ -1,0 +1,169 @@
+{
+  "_about": "Aeon's End Expedition mode rules, structured for a generator. Transcribed from the wiki pages listed in each section's 'sources' (Expedition, Treasure, Supply, Nemesis Deck, Friends and Foes, Xaxos: Outcast, Game Modes, Turn Order Deck, Rulings, Legacy, Legacy of Gravehold). Battle 5 applies only with wave 9 (Beyond the Breach) content or later.",
+  "battles": {
+    "standard": 4,
+    "with_battle_5": 5,
+    "battle_5_requires": "nemesis randomizers with a Battle 5 back (Beyond the Breach or later)",
+    "sources": ["Expedition"]
+  },
+  "expedition_setup": {
+    "steps": [
+      {"id": "treasure_decks", "text": "Separate treasure cards by level into decks, shuffle each and place facedown (levels 1-3; also level 4 if playing Battle 5)."},
+      {"id": "starting_supply", "text": "Shuffle the gem, relic and spell randomizer decks separately. Draw 3 gems, 2 relics and 4 spells and add those player cards to the Barracks.", "draw": {"gem": 3, "relic": 2, "spell": 4}},
+      {"id": "starting_mages", "text": "Shuffle the mage randomizers and draw 4; add those mages to the Barracks. Redraw any you do not own.", "draw": {"mage": 4}},
+      {"id": "nemesis_decks", "text": "Divide the nemesis randomizers into one deck per battle according to their card backs (Battle 1-4, plus Battle 5). Shuffle each facedown."},
+      {"id": "upgraded_basics", "text": "Set the Upgraded Basic nemesis cards aside (they say 'Upgraded Basic' at the bottom)."},
+      {"id": "xaxos_outcast", "text": "Optionally (Outcasts) play with Xaxos: Outcast instead of Gravehold for the whole expedition.", "optional": true}
+    ],
+    "barracks": "The Barracks stores everything available in the current expedition: player cards, mats, treasures, nemesis basic and upgraded basic cards.",
+    "sources": ["Expedition", "Barracks", "Randomizer"]
+  },
+  "player_setup_per_battle": {
+    "steps": [
+      "Each player chooses a mage from the Barracks and sets up its mat as usual.",
+      "Build a supply of 9 player cards (3 gems, 2 relics, 4 spells) from the Barracks. Banish every Barracks player card not used in this supply. (Battle 1 has exactly 9.)",
+      "Set up treasures according to the battle (see treasure_setup).",
+      "Do the remaining standard setup."
+    ],
+    "supply": {"gems": 3, "relics": 2, "spells": 4, "pile_size": {"gem": 7, "relic": 5, "spell": 5}},
+    "reset_between_games": "Everything resets between games except banished cards and anything an expedition specifies: destroyed cards and breaches, starting hands, charges.",
+    "sources": ["Expedition", "Supply", "Rulings"]
+  },
+  "treasure_setup": {
+    "by_battle": {
+      "1": {"level_1": null, "level_2": null, "level_3": null, "level_4": null},
+      "2": {"level_1": "each player", "level_2": null, "level_3": null, "level_4": null},
+      "3": {"level_1": "each player", "level_2": "one for the group", "level_3": null, "level_4": null},
+      "4": {"level_1": "each player", "level_2": "one for the group", "level_3": "each player", "level_4": null},
+      "5": {"level_1": "each player", "level_2": "one for the group", "level_3": "each player", "level_4": "each player"}
+    },
+    "levels": {
+      "1": {"kinds": ["Treasured Gem", "Treasured Spell"], "usage": "personal, goes into the starting deck", "gem_rule": "Replace a Crystal in your starting deck if able; otherwise replace any card.", "spell_rule": "Replace a Spark in your starting deck if able; otherwise replace any card.", "legacy_rule": "In The New Age and Outcasts printings: replace a Spark if no Crystal (gem) / a Crystal if no Spark (spell).", "returned_after_battle": true},
+      "2": {"kinds": ["Treasure Level 2"], "usage": "group treasure; any player may use it; only one in play unless it says otherwise"},
+      "3": {"kinds": ["Treasure Level 3"], "usage": "personal, placed on your player mat; only its owner may use it", "legacy_equipment": "A Legacy mage may use one of their equipment effects instead of a level 3 treasure."},
+      "4": {"kinds": ["Treasured Gem", "Treasured Spell", "Treasured Relic"], "usage": "personal, tucked under your player mat; gain it during your turn by paying its cost, like a supply card"}
+    },
+    "sources": ["Expedition", "Treasure"]
+  },
+  "nemesis_setup_per_battle": {
+    "draw": "Draw a nemesis randomizer from the deck matching the current battle. Redraw if you do not own it.",
+    "battle_1": "Standard nemesis deck.",
+    "battle_5": "Also follow the extra rules on the Battle 5 randomizer (nemeses.expedition_modifiers['5']).",
+    "upgraded_basic_replacement": {
+      "_about": "Number of basic nemesis cards replaced with upgraded basic cards in each tier.",
+      "1": {"tier_1": 0, "tier_2": 0, "tier_3": 0},
+      "2": {"tier_1": 1, "tier_2": 3, "tier_3": 3},
+      "3": {"tier_1": 2, "tier_2": 4, "tier_3": 5},
+      "4": {"tier_1": 3, "tier_2": 5, "tier_3": 7},
+      "5": {"tier_1": 3, "tier_2": 5, "tier_3": 7}
+    },
+    "solo_cap": "In solo, never add more upgraded basic cards than the number of basic cards you would normally use (1 / 3 / 7).",
+    "increased_difficulty_overrides": "Increased Difficulty rules override Expedition rules.",
+    "sources": ["Expedition", "Rulings"]
+  },
+  "nemesis_deck": {
+    "nemesis_cards_per_tier": 3,
+    "basic_cards_by_players": {
+      "1": {"tier_1": 1, "tier_2": 3, "tier_3": 7},
+      "2": {"tier_1": 3, "tier_2": 5, "tier_3": 7},
+      "3": {"tier_1": 5, "tier_2": 6, "tier_3": 7},
+      "4": {"tier_1": 8, "tier_2": 7, "tier_3": 7}
+    },
+    "order": "Shuffle each tier separately; stack tier 3 at the bottom, tier 2 on top of it, tier 1 on top. Never shuffle the deck afterwards.",
+    "tier_0": "Tier 0 cards are setup/special cards used as the nemesis mat instructs.",
+    "mixing_boxes": "Basic cards from any release may be mixed, but this can make the game harder.",
+    "sources": ["Nemesis Deck"]
+  },
+  "friends_and_foes": {
+    "optional": true,
+    "setup": [
+      "Choose one friend and one foe and place their mats.",
+      "Shuffle each 4-card attack deck facedown; reveal the top card and leave it faceup.",
+      "Add one turn order card for the friend and one for the foe.",
+      "Draw (players + 2) banner cards; each player chooses one for their starting hand and destroys a card of the same type from their hand (any card if unable). Return the rest.",
+      "Follow any setup on the back of their mats."
+    ],
+    "difficulty": "Friend only = easier, foe only = harder.",
+    "in_expedition": "Intentionally left open: random via randomizers, or pick to help; intended to be a different friend and foe each game.",
+    "gameplay": "On their turn order card, resolve the top card of their deck. They have no life and cannot be damaged. Abilities trigger as soon as they have enough charges.",
+    "sources": ["Friends and Foes", "Rulings", "Expedition"]
+  },
+  "xaxos_outcast": {
+    "replaces": "Gravehold",
+    "life": 30,
+    "max_charges": 8,
+    "rules": "Players may give charges they would gain to Xaxos: Outcast. At 8 charges he loses all charges and resolves a random card from his ability deck. Effects on Gravehold refer to him. He is not a player.",
+    "supply_note": "Do not use supply cards that interact with Xaxos: Outcast unless playing with the module.",
+    "sources": ["Xaxos: Outcast", "Rulings"]
+  },
+  "post_battle": {
+    "win": {
+      "find_treasure": {
+        "1": {"level": 1, "count": 5},
+        "2": {"level": 2, "count": 3},
+        "3": {"level": 3, "count": 5},
+        "4": {"level": 4, "count": 5, "extra": {"mage": 1, "gem": 1, "relic": 1, "spell": 1, "level_1": 2, "level_2": 1, "level_3": 2}}
+      },
+      "add_to_barracks": "Draw one gem, one relic and one spell randomizer and add those cards to the Barracks."
+    },
+    "lose": {
+      "add_to_barracks": "Add one card of your choice of source: a player card randomizer, a treasure deck you have already drawn from, or a random mage.",
+      "then": "Fight the same nemesis again, or start a new expedition."
+    },
+    "sources": ["Expedition", "Treasure"]
+  },
+  "scoring": {
+    "per_battle": {"first_try": 6, "second_try": 4, "third_try": 2, "later": 0},
+    "total": "Sum over all battles once the final battle is won.",
+    "sources": ["Expedition"]
+  },
+  "variants": [
+    {"id": "short", "name": "Short Expedition", "battles": "3 (4 with Battle 5)", "rules": "Skip Battle 1: draw the level 1 treasures as if Battle 1 were won, then start at Battle 2."},
+    {"id": "extended", "name": "Extended Expedition", "battles": "8 (10 with Battle 5)", "rules": "Draw player card randomizers after every battle; draw treasures only after even battles (L1 after 2, L2 after 4, L3 after 6, L4 after 8). Nemesis decks: battles 1-2 from Battle 1, 3-4 from Battle 2, 5-6 from Battle 3, 7-8 from Battle 4, 9-10 from Battle 5.", "nemesis_deck_for_battle": {"1": 1, "2": 1, "3": 2, "4": 2, "5": 3, "6": 3, "7": 4, "8": 4, "9": 5, "10": 5}, "treasure_after_battle": {"2": 1, "4": 2, "6": 3, "8": 4}},
+    {"id": "big_pockets", "name": "Big Pockets", "rules": "Unused player cards return to the Barracks instead of being banished."}
+  ],
+  "difficulty_levels": [
+    {"id": "beginner", "player_life": 12, "gravehold_life": 35, "nemesis_life": "printed - 10 (not below 10)", "increased_difficulty": false},
+    {"id": "standard", "player_life": 10, "gravehold_life": 30, "nemesis_life": "printed", "increased_difficulty": false},
+    {"id": "expert", "player_life": 10, "gravehold_life": 30, "nemesis_life": "printed", "increased_difficulty": true},
+    {"id": "extinction", "player_life": 8, "gravehold_life": 25, "nemesis_life": "printed + 10", "increased_difficulty": true}
+  ],
+  "turn_order_deck": {
+    "1": ["Player 1", "Player 1", "Player 2", "Player 2", "Nemesis", "Nemesis"],
+    "2": ["Player 1", "Player 1", "Player 2", "Player 2", "Nemesis", "Nemesis"],
+    "3": ["Player 1", "Player 2", "Player 3", "Wild", "Nemesis", "Nemesis"],
+    "4": ["Player 1/2", "Player 1/2", "Player 3/4", "Player 3/4", "Nemesis", "Nemesis"],
+    "solo_note": "A true solo game uses 4 player cards and 2 nemesis cards; any player card means the solo mage.",
+    "sources": ["Turn Order Deck", "Game Modes"]
+  },
+  "content_exclusions": {
+    "_about": "Content that cannot be used in Expedition mode, from the End of Campaign booklets and the wiki's No Randomizer category.",
+    "nemeses": [
+      {"title": "Maelstrom", "reason": "Legacy campaign only"},
+      {"title": "Haze Fiend", "reason": "Legacy campaign only"},
+      {"title": "Brama (Legacy of Gravehold)", "reason": "Legacy of Gravehold campaign only"},
+      {"title": "Z'hana (Legacy of Gravehold)", "reason": "Legacy of Gravehold campaign only"},
+      {"title": "Kusiciele Okazji", "reason": "regional promo without randomizer"},
+      {"title": "Szalony Kotokronikarz", "reason": "regional promo without randomizer"}
+    ],
+    "mages": [
+      {"title": "Legacy Mage", "reason": "player-built Legacy character; usable if you own one (equipment optional)"},
+      {"title": "Xae", "reason": "digital-only promo"}
+    ],
+    "nemesis_cards": [
+      {"pattern": "(Campaign)", "reason": "campaign versions are replaced by Stop END deck cards outside the campaign"},
+      {"title": "Bladius Attacks", "reason": "do not use when playing Bladius outside the campaign"},
+      {"title": "Grasp", "reason": "replaced by L2-END-019 (Voracious Spell Fetter) for Griefweaver"}
+    ],
+    "player_cards": [
+      {"rule": "Legacy of Gravehold boost / overheat cards", "reason": "not recommended outside the campaign (randomizers exist anyway)"},
+      {"rule": "cards that interact with Xaxos: Outcast", "reason": "only with the Xaxos: Outcast module"}
+    ],
+    "basic_cards": [
+      {"rule": "Legacy: use the Stop END deck basics (END55-END76), not the Evolve campaign basics"},
+      {"rule": "Legacy of Gravehold: use the basics of either the Bishop of Scrolls (L2-BS) or Fate Shepherd (L2-FS) deck, not both; replace Devil's Pact and Divide with L2-END-025/026"}
+    ],
+    "legacy_power": {"weak": ["Ia", "Id", "II"], "standard": ["III", "IV"], "strong": ["V", "VI", "VIII"], "note": "Legacy player card power by card-number prefix."},
+    "sources": ["Legacy", "Legacy of Gravehold", "Expedition", "Xaxos: Outcast", "Randomizer"]
+  }
+}

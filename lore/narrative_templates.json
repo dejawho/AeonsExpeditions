@@ -1,0 +1,433 @@
+{
+ "_about": "Prose templates used by scraper/storyteller.py. Placeholders in {braces}; every list is a pool of variants, and no variant is used twice in the same expedition (optional pools are simply skipped once used up). Second person plural, as on the Legacy / New Age campaign cards. No invented dialogue: the only quoted words are canon texts (nemesis mat stories and card flavor). Approach texts and fork choices must never name the nemesis.",
+ "titles": [
+  "{mission_name}",
+  "{place_title}",
+  "Beyond {place_title_mid}",
+  "The Road to {place_title_short}"
+ ],
+ "missions": {
+  "rescue_expedition": {
+   "name": "The Missing Expedition",
+   "prologue": [
+    "{quest_giver} calls you before the Council. A team of breach mages left days ago carrying some of the city's rarest artifacts, and no one has heard from them since. Your task is to bring back whoever still breathes, and whatever they carried.",
+    "The report arrives torn and bloodstained: an expedition has gone silent somewhere beyond the outposts. {quest_giver} sends you after it, to find the mages, the artifacts they carried, and whatever found them."
+   ]
+  },
+  "spreading_blight": {
+   "name": "The Spreading Blight",
+   "prologue": [
+    "It starts with the crops. Leaves wilt overnight, roots blacken, and the scouts come back pale. {quest_giver} listens to every report, then sends you out: something is coming, and it is killing the land ahead of it.",
+    "A messenger bursts into the hall while you are giving your report, out of breath and shaking. {omen} {quest_giver} turns to you: you have just returned, and you are the only ones ready."
+   ]
+  },
+  "harvest": {
+   "name": "The Harvest",
+   "prologue": [
+    "The forge has gone cold. Without new material there will be no new weapons, and without weapons there will be no city. {quest_giver} spreads a map before you: what the forge needs is out there, inside the bodies of the Nameless.",
+    "The city's equipment will not survive another siege. {quest_giver} has found what is needed to replace it, and has found the problem too: something else found it first."
+   ]
+  },
+  "the_hunt": {
+   "name": "The Hunt",
+   "prologue": [
+    "There is a beast that must die, and it falls to you to kill it. {quest_giver} gives you the trail and nothing else. You are not to come back until it is finished.",
+    "Tracks have been found that no one can explain. {quest_giver} studies them for a long time before deciding: this is not a hunt the city can refuse."
+   ]
+  },
+  "pilgrimage": {
+   "name": "The Pilgrimage",
+   "prologue": [
+    "The camp cannot stay. Every night the Nameless come closer, and every morning there are fewer of you. {quest_giver} gathers the survivors: somewhere there is a city still standing, and you will find it, or die looking.",
+    "The elders say that building anything permanent is hubris. {quest_giver} disagrees, and at dawn the clan packs what it can carry and walks."
+   ]
+  },
+  "ruins_delve": {
+   "name": "The Sunken Delve",
+   "prologue": [
+    "Beneath the black water lie the ruins of a lost home and everything that was left behind. {quest_giver} has finally granted permission to go down, with a warning: the ruins are not empty.",
+    "The air-holding spell will last only so long. {quest_giver} checks it one last time. Down there are the answers that were abandoned in the Fall, and you are going to bring them back."
+   ]
+  },
+  "outpost_defense": {
+   "name": "The Outpost Under Fire",
+   "prologue": [
+    "The watchtowers have stopped answering. Refugees fill the road, and every one of them tells the same story. {quest_giver} sends you out at once: the outpost cannot be allowed to fall.",
+    "A signal fire burns on the horizon, the one that means 'help us'. Whatever is out there stands between that outpost and the city, and {quest_giver} sends you to meet it."
+   ]
+  },
+  "into_the_void": {
+   "name": "Into the Void",
+   "prologue": [
+    "The threat cannot be stopped from this side of the breach. {quest_giver} explains the plan quietly, as if afraid of being heard: you will go through, and you will not linger, because time runs wrong in there.",
+    "A breach hangs open in the air, and something waits on the other side. Closing it would only buy time. {quest_giver} wants it ended where it lives."
+   ]
+  },
+  "the_traitor": {
+   "name": "The Traitor Among Us",
+   "prologue": [
+    "Artifacts are missing from the city vault, and the Nameless have started appearing exactly where the patrols are not. {quest_giver} suspects that someone is helping them, and wants to know who.",
+    "Cloaked figures have been seen at the edges of the last three battles. {quest_giver} does not want the city to know yet. You are to follow them, quietly."
+   ]
+  },
+  "time_fracture": {
+   "name": "The Fracture in Time",
+   "prologue": [
+    "The chronicles no longer agree with each other. Battles that were won are remembered as lost, and creatures long dead are sighted again. {quest_giver} has seen enough: something has broken time, and you will follow the fracture.",
+    "The same Nameless was sighted in two places at once. Either the scouts are mad or time is, and {quest_giver} sends you to find out which."
+   ]
+  }
+ },
+ "omens": [
+  "The bells are ringing on their own.",
+  "None of the scouts at the edge of the map have come back.",
+  "There is a breach in the sky, and it is getting bigger."
+ ],
+ "atmosphere": {
+  "dawn": [
+   "The jungle steams around you, loud with birds and with older, stranger things.",
+   "Far above the canopy, phoenix trails cut glowing lines across the sky.",
+   "Nothing here has a name yet. Not the rivers, not the beasts, not the things that hunt them.",
+   "The heat is heavy and wet, and every leaf drips."
+  ],
+  "world_that_was": [
+   "Steam trains whistle somewhere in the distance, carrying people who do not yet know how little time their world has left.",
+   "The great roads are still busy, but more travellers wear gloves and high collars than they used to.",
+   "In every town square there is a shrine to the names given up that year, and every year the list is longer.",
+   "The newspapers speak of progress. The people reading them look tired."
+  ],
+  "calamity": [
+   "Ash drifts like snow over the abandoned roads.",
+   "Every village you pass is empty, its doors left open as if the people meant to come back.",
+   "The sky has no stars any more. The elders say it used to.",
+   "There are no more cities to run to. There is only the next ridge, and the one after that."
+  ],
+  "descent": [
+   "The clan walks in silence: the elders at the front, the Followers carrying everything else.",
+   "There is no road, only the direction Brama points to each morning.",
+   "Every night the fire is smaller, because there is less to burn and more to fear.",
+   "The children have stopped asking how much further it is."
+  ],
+  "old_gravehold": [
+   "Torches gutter in the stale air of the cave, and somewhere far above, the bells of Gravehold keep their silence — for now.",
+   "Water drips from the vault of the cave. In Gravehold there is no day, only night unending.",
+   "The city smells of smoke, damp stone and old aether.",
+   "Every few hours the cave trembles, and the whole city holds its breath."
+  ],
+  "fall": [
+   "Smoke still rises from the collapsed tunnels behind you.",
+   "No one talks about the ones who did not make it out. Not yet.",
+   "The light of the surface hurts eyes that have only ever known torches.",
+   "Every sound in the open makes the survivors flinch."
+  ],
+  "new_gravehold": [
+   "Sunlight still feels strange on your skin, even after all these years on the surface.",
+   "The forest is loud with life — and lately, with things that are not alive at all.",
+   "Beyond the farms the old trails grow wild again, and the outposts light their fires early.",
+   "The wind carries the smell of rain, and of something burning far away."
+  ],
+  "civil_war": [
+   "Every road out of New Gravehold is watched now, by one side or the other.",
+   "Wild portals flicker at the edges of the fields like heat haze.",
+   "Friends who trained together no longer share a table. Everyone has chosen a side, or pretends not to have.",
+   "The council meets every night now, and the lamps in the hall burn until dawn."
+  ],
+  "after": [
+   "The old ruins stand in the fields like gravestones of a city nobody remembers.",
+   "The glyphs carved on the village gates are fresh. Someone has been busy.",
+   "Children here play at being breach mages, the way their ancestors once played at being heroes of Old Gravehold.",
+   "Peace has lasted so long here that people have forgotten how to be afraid."
+  ],
+  "default": [
+   "The air tastes of aether and old smoke.",
+   "Somewhere, a breach is waiting to open."
+  ]
+ },
+ "travel": {
+  "first": [
+   "The first days of the journey pass quietly — too quietly.",
+   "You leave the walls behind at dawn, and for a while the only sound is your own footsteps.",
+   "For the first leg of the journey, the worst enemy is the weather.",
+   "The expedition sets out before dawn, before anyone can change their mind."
+  ],
+  "middle": [
+   "You break camp before dawn and press on, the last battle still aching in your bones.",
+   "The wounds from the last fight have barely closed when you set out again.",
+   "The road ahead is longer than the one behind you, but not by much.",
+   "Two days of hard travel follow, with little sleep and less talk.",
+   "You march through a cold drizzle that does not stop for a day and a night.",
+   "The trail climbs, then falls, then climbs again. Nobody complains.",
+   "You travel light now, leaving behind everything you cannot fight with."
+  ],
+  "final": [
+   "This is the end of the road. Whatever waits ahead is the reason you came.",
+   "There will be no more roads after this one, and everyone knows it.",
+   "You have come too far to turn back now, and everything you have learned points to this place.",
+   "The last stretch of the journey is the hardest, and the quietest."
+  ]
+ },
+ "arrive": [
+  "The trail leads you to {setting}.",
+  "At last you reach {setting}.",
+  "The path ends at {setting}.",
+  "By nightfall you come to {setting}.",
+  "Your road ends, for now, at {setting}.",
+  "It is late when you reach {setting}.",
+  "Finally, {setting} comes into view."
+ ],
+ "signs": [
+  "The signs are impossible to miss: {s1}, and {s2}.",
+  "Everywhere there are marks of it: {s1}; {s2}.",
+  "The scouts' reports were accurate: {s1}, and {s2}.",
+  "Something has passed this way. The signs are clear: {s1}; {s2}.",
+  "There is no mistaking it now: {s1}, and {s2}.",
+  "It does not take long to find the signs: first {s1}, then {s2}.",
+  "All around you are the traces it leaves: {s1}; {s2}."
+ ],
+ "_signs_more": "Arrival at a battle whose first sign was already told: only what the news did not say.",
+ "signs_more": [
+  "The news was true, and there is more here than anyone told you: {s1}.",
+  "Everything the scouts described is here, and something they did not mention: {s1}.",
+  "It is worse than the reports. Now there is also {s1}.",
+  "No one exaggerated. If anything, the reports left out {s1}.",
+  "Seen up close, it is more than rumour: {s1}.",
+  "You find what you were warned about, and one thing more: {s1}."
+ ],
+ "tension": [
+  "Your gems grow warm in your hands. Something is waiting.",
+  "Somewhere close, the air begins to burn.",
+  "You check your breaches one last time.",
+  "The silence is the worst part.",
+  "No one sleeps that night.",
+  "The bells are far away. There is no one to call for help.",
+  "You form up, back to back, and wait."
+ ],
+ "encounter": [
+  "The breach tears open with a sound like ripping silk, and {nemesis} comes through.",
+  "The ground shudders. Out of the dark, {nemesis} rises to meet you.",
+  "The light dies around you. When it returns, {nemesis} is already there.",
+  "It does not hide any more. {nemesis_cap} stands before you, and the air itself recoils.",
+  "First comes the smell of burnt aether, then the sound, and then {nemesis} itself.",
+  "The waiting ends all at once: {nemesis} is upon you.",
+  "Out of the breach steps {nemesis}, exactly where the signs said it would be."
+ ],
+ "archetype": [
+  "Here is the {archetype} the signs warned you of.",
+  "Before you stands the {archetype} itself.",
+  "So this is the {archetype}.",
+  "There is no doubt left: this is the {archetype}.",
+  "Now you see what the signs were warning you of: the {archetype}."
+ ],
+ "displaced": [
+  "It should not be here at all: it belongs to another age.",
+  "Somehow it has crossed the ages to reach you.",
+  "By every chronicle, it belongs to a different time.",
+  "It has no business in this age, and yet here it is."
+ ],
+ "chronicle_named": [
+  "{speaker} once wrote of it: “{excerpt}”",
+  "You remember the account of {speaker}: “{excerpt}”",
+  "The archives keep the words of {speaker}: “{excerpt}”",
+  "{speaker} left a record of it: “{excerpt}”",
+  "The words of {speaker} survive in the archives: “{excerpt}”",
+  "{speaker} described it once: “{excerpt}”"
+ ],
+ "chronicle_source": [
+  "{source}: “{excerpt}”"
+ ],
+ "chronicle_anonymous": [
+  "The chronicles of Gravehold record it: “{excerpt}”",
+  "An old account, its author long forgotten, describes it: “{excerpt}”",
+  "The archives speak of it: “{excerpt}”",
+  "No one remembers who wrote it, but the account survives: “{excerpt}”",
+  "A page from the archives, its corners burnt, tells of it: “{excerpt}”"
+ ],
+ "old_warning": [
+  "An old saying comes to mind: “{flavor}”",
+  "The old songs have a line for this: “{flavor}”",
+  "Someone once wrote of these creatures: “{flavor}”",
+  "Somewhere it is written: “{flavor}”",
+  "An old line of warning comes back to you: “{flavor}”"
+ ],
+ "friend_foe": [
+  "{friend} fights at your side. Somewhere beyond the light, {foe} is waiting for its moment.",
+  "You are not alone: {friend} is with you. But neither is the enemy — {foe} has followed you here.",
+  "{friend} has come with you this far. So has {foe}.",
+  "With {friend} beside you, the odds seem less impossible. Then {foe} shows itself.",
+  "{friend} stands with you, and {foe} stands against you."
+ ],
+ "to_battle": [
+  "There is no more time. Open your breaches.",
+  "Fight.",
+  "Everyone you left behind is counting on you.",
+  "Begin.",
+  "There is nowhere left to run.",
+  "Your breaches flare open."
+ ],
+ "victory": [
+  "{nemesis_cap} falls, and together you force its breach closed.",
+  "With a final spell the breach collapses in on itself, and {nemesis} with it.",
+  "It is over almost as suddenly as it began: {nemesis} breaks apart, and the breach closes behind it.",
+  "{nemesis_cap} screams, falters and is gone. The breach seals with a sound like a door slamming shut.",
+  "The last spell lands. {nemesis_cap} sinks to the ground and does not rise again.",
+  "Slowly, impossibly, {nemesis} gives way, and the breach collapses behind it.",
+  "The breach shudders and folds in on itself. When the light returns, {nemesis} is gone."
+ ],
+ "treasure_sentence": {
+  "1": [
+   "Among the fallen lie personal artifacts — {treasures} — that will serve you well.",
+   "You recover what the fallen left behind: {treasures}."
+  ],
+  "2": [
+   "Deeper in the lair you uncover relics the whole party can use: {treasures}.",
+   "Hidden among the remains are old relics of the city: {treasures}."
+  ],
+  "3": [
+   "From its remains, masterwork equipment can be forged: {treasures}.",
+   "In a sealed chamber nearby you find equipment fit for veterans: {treasures}."
+  ],
+  "4": [
+   "Its hoard holds treasures of legend: {treasures}.",
+   "What it guarded was worth the fight: {treasures}."
+  ]
+ },
+ "recruit": [
+  "And in the silence afterwards you find {ally}, alive. {ally_intro}",
+  "From the shadows steps {ally}, who has been waiting a long time for someone to come. {ally_intro}",
+  "Among the ruins you find a survivor: {ally}. {ally_intro}"
+ ],
+ "reflection_origin": [
+  "The archives will record what you faced: {origin}",
+  "Later, the chronicles will tell it simply: {origin}",
+  "The chronicles will remember it: {origin}",
+  "In time, the archives will set it down: {origin}",
+  "What you faced will be remembered: {origin}",
+  "Only later do you understand what it was: {origin}",
+  "Those who study the Nameless will say this of it: {origin}",
+  "It is easier to understand once it is dead: {origin}",
+  "On the way back, the pieces fit together: {origin}"
+ ],
+ "next_clue": [
+  "But as you leave, you notice something that chills you: {next_sign}.",
+  "Before you can rest, word reaches you of {next_sign}.",
+  "The scouts bring news that does not let you rest for long: {next_sign}.",
+  "Then a runner finds your camp, with news of {next_sign}.",
+  "It is not over. Far ahead, there are reports of {next_sign}.",
+  "Before dawn, the first sign of what comes next reaches you: {next_sign}."
+ ],
+ "final_victory": [
+  "Silence settles over the battlefield. For the first time in a long while, no bells ring.",
+  "One by one, you lower your hands. The breach is gone, the air is still, and somehow you are all still standing.",
+  "It is over. You stand together among the ruins of the battle, too tired to cheer, too alive to weep."
+ ],
+ "fork_intro": [
+  "The trail splits before you.",
+  "Two roads lie ahead, and you cannot take both.",
+  "The scouts return with two reports, and they do not agree."
+ ],
+ "fork_option": [
+  "{setting_cap}. {teaser}"
+ ],
+ "harder_note": "The scouts say it is the harder road.",
+ "detour_note": [
+  "Either way, the roads meet again beyond.",
+  "Both trails lead back to the same road in the end."
+ ],
+ "finale_note": [
+  "Whichever you choose will decide how this expedition ends.",
+  "This choice will decide the fate of the expedition."
+ ],
+ "defeat": [
+  "Blackness strobes at the edge of your vision — then {rescuer} is standing over you, and the breach is fading. {nemesis_cap} has withdrawn, wounded but alive.",
+  "You retreat into the dark, carrying your wounded. {nemesis_cap} does not follow. It does not need to: it knows you will come back.",
+  "The fight is lost. {rescuer} drags you clear as the breach swallows the light.",
+  "Your breaches gutter out one by one, and there is nothing left to do but run. {nemesis_cap} lets you go.",
+  "You fall back in disorder. When you finally stop running, {nemesis} is nowhere to be seen — but it has not gone far.",
+  "The battle turns against you, and then turns into a rout. You escape with your lives and little else.",
+  "Someone shouts the retreat, and for once nobody argues. Behind you, the breach pulses like a heartbeat."
+ ],
+ "regroup": [
+  "You lick your wounds at {setting}.",
+  "You make a cold camp at {setting}, and no one complains.",
+  "For a day and a night you rest, rebuild your breaches and count what is left.",
+  "You bind your wounds and sharpen your focus, and wait for your strength to return.",
+  "Nobody speaks much while you recover. There is nothing to say that everyone does not already know.",
+  "You find shelter at {setting} and take stock: bruises, burns, and a little less pride.",
+  "The wounded are tended first. Only then does anyone sit down."
+ ],
+ "escalation": [
+  "Already the signs are returning: {sign}.",
+  "{nemesis_cap} grows bolder with every hour you spend recovering.",
+  "Next time it will be ready for you. So will you.",
+  "It is still out there, and it knows your faces now.",
+  "The next attempt will be harder. It always is.",
+  "Out there in the dark, it is waiting.",
+  "You have learned its rhythm. Next time, you will not be caught off guard."
+ ],
+ "epilogue_return": [
+  "The road home is long, and you walk most of it in silence. When the walls finally come into view, {party} are still with you — changed, but alive.",
+  "News of your victory travels faster than you do. By the time you reach home, people are already telling the story, and getting most of it wrong.",
+  "The city greets you with bells, for once ringing for joy."
+ ],
+ "epilogue_report": [
+  "You report to {quest_giver_short}, who listens to every word and thanks you — but before you leave, you learn that {twist}.",
+  "Later, in private, {quest_giver_short} tells you the truth: {twist}."
+ ],
+ "epilogue_rest": [
+  "For a few days, at least, there is peace. You sleep, and eat, and do not dream.",
+  "Your names are written in the archives that night, next to all the others.",
+  "In the market, someone is already selling charms said to be blessed by your expedition."
+ ],
+ "final_hook": [
+  "Suddenly, the doors of the hall slam open. The work of a breach mage is never done.",
+  "Somewhere beyond the walls, a breach flickers open. There will always be another one.",
+  "That night, the bells ring again."
+ ],
+ "era_bridge": [
+  "{bridge} That is the only explanation for how {outsiders} came to fight beside you.",
+  "{bridge} No one asks too many questions about how {outsiders} came to be here."
+ ],
+ "party": [
+  "{quest_giver_short} has chosen the expedition carefully: {party_intro}.",
+  "The expedition is small, but it is enough: {party_intro}."
+ ],
+ "departure": [
+  "You set out at first light.",
+  "You leave before the bells can ring again.",
+  "Few words are spoken as you check your gems one last time and set out."
+ ],
+ "nemeses_without_article": [
+  "Rageborne",
+  "Wraithmonger",
+  "Maelstrom",
+  "Maelstrom: Risen",
+  "Bladius",
+  "Deathmind",
+  "Arachnos",
+  "Maggoth",
+  "Fenrix",
+  "Necroswarm",
+  "Griefweaver",
+  "Stonemonger",
+  "Experiment 153",
+  "Erythiza, Consumed",
+  "Xaxos: Ascended",
+  "Mist Revealed",
+  "Rampaging Vin",
+  "Corruption's Core",
+  "Brama",
+  "Z'hana",
+  "Kusiciele Okazji",
+  "Szalony Kotokronikarz"
+ ],
+ "quest_giver_titles": [
+  "Commander",
+  "Professor",
+  "Strike Leader",
+  "Master"
+ ],
+ "chronicle_source_again": [
+  "Another page of the same writings tells of it: “{excerpt}”",
+  "The same writings have more to say: “{excerpt}”"
+ ]
+}

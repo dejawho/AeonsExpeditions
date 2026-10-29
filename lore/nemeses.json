@@ -1,0 +1,1731 @@
+{
+ "_about": "Narrative profile of every nemesis (keyed by wiki title, matching nemeses.title in the DB) plus friends/foes. signs = foreshadowing usable in a battle introduction; aftermath = what is left/learned after victory (good for treasure framing); hook = one-line premise. Game data (life, difficulty, expedition battles) lives in the nemeses table.",
+ "nemeses": [
+  {
+   "title": "Rageborne",
+   "era": "old_gravehold",
+   "archetype": "champion / executioner",
+   "origin": "The Nameless' champion, sent once Gravehold became a worthy foe; it killed breach commander Thraxir.",
+   "signs": [
+    "bells and beggars crying 'The end is near!' in Chasmwalk",
+    "rabid beasts with dead eyes",
+    "the cave walls quake as it bellows"
+   ],
+   "aftermath": "A Core of Rage remembered in the archives.",
+   "hook": "The executioner of Gravehold returns to finish what it started.",
+   "themes": [
+    "wrath",
+    "duel",
+    "vengeance for Thraxir"
+   ],
+   "sources": [
+    "Rageborne",
+    "Frenzy",
+    "Eviscerate",
+    "Core of Rage"
+   ],
+   "teaser": "Something out there kills for the sake of killing, and it has been waiting for a worthy foe."
+  },
+  {
+   "title": "Carapace Queen",
+   "era": "old_gravehold",
+   "archetype": "horde mother",
+   "origin": "Mother-of-Husks whose clockwork-like swarms have brought the most ruin upon Gravehold; destroyed before The Fall, but a Broodwomb survived.",
+   "signs": [
+    "the claxon call of her legions",
+    "skittering loud enough to drown screams",
+    "husks twitching on the cave floor"
+   ],
+   "aftermath": "Mountains of metallic husk scraps carried into The Depths; a carapace fragment of strange power.",
+   "hook": "'To kill one is to breed six' — the husks are coming again.",
+   "themes": [
+    "swarm",
+    "attrition",
+    "breeding"
+   ],
+   "sources": [
+    "Carapace Queen",
+    "Legion Beacon",
+    "Foul Multitudes",
+    "Maggoth",
+    "Carapace Fragment"
+   ],
+   "teaser": "The scouts heard skittering that way: thousands of small legs, and one great heartbeat beneath them."
+  },
+  {
+   "title": "Crooked Mask",
+   "era": "old_gravehold",
+   "archetype": "corrupting god",
+   "origin": "The god of corruption through temptation; its laugh is heard under the bells. Its Corrupters spread madness through the weak.",
+   "signs": [
+    "dust from a torn world that warps minds",
+    "whispers behind the eyes tempting mages into the abyss",
+    "a laugh under the bells and screams"
+   ],
+   "aftermath": "Mages recover their wits but remember what they were offered.",
+   "hook": "Something is offering Gravehold's hungry exactly what they need.",
+   "themes": [
+    "temptation",
+    "corruption",
+    "madness"
+   ],
+   "sources": [
+    "Crooked Mask",
+    "Tempt",
+    "Afflict (Crooked Mask)",
+    "Corrupter"
+   ],
+   "teaser": "Those who went that way came back smiling, and talking about what they had been promised."
+  },
+  {
+   "title": "Crooked Mask (Beyond the Breach)",
+   "era": "old_gravehold",
+   "archetype": "corrupted human",
+   "origin": "Indira realises the Mask laughs because it was once human — a mage corrupted enough to go mad but not wholly monster.",
+   "signs": [
+    "laughter where Nameless should roar",
+    "mages dragged toward the breach"
+   ],
+   "aftermath": "The question: who was it, and did we love them?",
+   "hook": "Somewhere close, a laugh rings out — and it sounds almost familiar.",
+   "themes": [
+    "lost friend",
+    "salvation",
+    "identity"
+   ],
+   "sources": [
+    "Crooked Mask (Beyond the Breach)"
+   ],
+   "teaser": "Somewhere down that road, something is laughing."
+  },
+  {
+   "title": "Prince of Gluttons",
+   "era": "old_gravehold",
+   "archetype": "memory eater",
+   "origin": "Fourth Nameless to besiege Gravehold; it devoured the city's history, even the name of the world, leaving only fear.",
+   "signs": [
+    "blank pages in the archive books",
+    "people forgetting loved ones",
+    "Godfeeders mending its wounds"
+   ],
+   "aftermath": "Blank books; a Glutton's Tooth that makes you hungry.",
+   "hook": "The archive's records are vanishing word by word.",
+   "themes": [
+    "lost history",
+    "memory",
+    "identity"
+   ],
+   "sources": [
+    "Prince of Gluttons",
+    "Digest",
+    "Book of Before",
+    "Glutton's Tooth"
+   ],
+   "teaser": "The villagers that way cannot remember their own names."
+  },
+  {
+   "title": "Horde-Crone",
+   "era": "old_gravehold",
+   "archetype": "awakener of the ancients",
+   "origin": "Stirred the trogg tribes (Yud, Orp, Zom) from their slumber in the deep to reclaim the city they built.",
+   "signs": [
+    "night raids from the depths without a sound",
+    "an underworld totem",
+    "hollow-eyed troggs"
+   ],
+   "aftermath": "The sleeping deity of the troggs remains somewhere below.",
+   "hook": "Gravehold's first builders want their home back — and they may have the right.",
+   "themes": [
+    "ancestors",
+    "rightful claim",
+    "the deep"
+   ],
+   "sources": [
+    "Horde-Crone",
+    "Night Raid",
+    "Underworld Totem",
+    "Crushing Masses"
+   ],
+   "teaser": "Old things are waking in the deep that way, and they remember this land as theirs."
+  },
+  {
+   "title": "Blight Lord",
+   "era": "calamity",
+   "archetype": "crystallizer",
+   "origin": "First Nameless to touch The World That Was; turned Karek and M'hlark to green glass.",
+   "signs": [
+    "people frozen in green horror outside the walls",
+    "tainted jade that calls the weak",
+    "goggles worn against Shard Spitters"
+   ],
+   "aftermath": "Breach glass that paves the dirt market; a pouch of noble gems lost beneath the walls.",
+   "hook": "Green crystal is creeping across the cave walls again.",
+   "themes": [
+    "petrification",
+    "ancient terror",
+    "kneeling is death"
+   ],
+   "sources": [
+    "Blight Lord",
+    "Creeping Viridian",
+    "Shard Spitter",
+    "Vitrify",
+    "Kusiciele Okazji"
+   ],
+   "teaser": "Everything that way is slowly turning to green glass."
+  },
+  {
+   "title": "The Blight",
+   "era": "calamity",
+   "archetype": "force of nature",
+   "origin": "The Blighted God in the age of the pilgrimage, guarding its crystal fields full of Raven's petrified family.",
+   "signs": [
+    "the horizon obscured by its immensity",
+    "familiar faces frozen in emerald"
+   ],
+   "aftermath": "The path to safety — but it cannot truly be defeated.",
+   "hook": "The only road to safety passes through a field of crystal statues.",
+   "themes": [
+    "grief",
+    "unstoppable",
+    "escape"
+   ],
+   "sources": [
+    "The Blight",
+    "Raven"
+   ],
+   "teaser": "The horizon that way glitters, and it is getting closer."
+  },
+  {
+   "title": "Wayward One",
+   "era": "old_gravehold",
+   "archetype": "lost ghost",
+   "origin": "Trapped neither here nor there, wailing; touching its dust fades you away. The mages fight it out of compassion.",
+   "signs": [
+    "a flickering wail over the west wall",
+    "people shifting out of the world for hours"
+   ],
+   "aftermath": "Strange maladies among survivors.",
+   "hook": "A tormented Nameless seeks an end to its struggle — give it one.",
+   "themes": [
+    "compassion",
+    "between worlds"
+   ],
+   "sources": [
+    "Wayward One",
+    "Irradiate",
+    "Blinking Terror"
+   ],
+   "teaser": "A wailing drifts on the wind from that way, more grief than threat."
+  },
+  {
+   "title": "The Wanderer",
+   "era": "new_gravehold",
+   "archetype": "lost ghost (relative)",
+   "origin": "Kin of another wandering Nameless, identified in the archives by Brama and Mazra.",
+   "signs": [
+    "a wavering, inconsistent form seen by scouts"
+   ],
+   "aftermath": "Proof that history repeats.",
+   "hook": "Scouts describe something Brama has fought before — the archives must say what.",
+   "themes": [
+    "cycles of history",
+    "archives"
+   ],
+   "sources": [
+    "The Wanderer"
+   ],
+   "teaser": "Something that way flickers in and out of the world, like a half-remembered dream."
+  },
+  {
+   "title": "Wayward Reflection",
+   "era": "after",
+   "archetype": "dimensional echo",
+   "origin": "A creature in two places at once, trapped in the borderland of a breach.",
+   "signs": [
+    "the same creature seen in two places"
+   ],
+   "aftermath": "Nook wonders what other dimensions exist.",
+   "hook": "Two sightings, miles apart, of the same Nameless at the same moment.",
+   "themes": [
+    "time",
+    "dimensions"
+   ],
+   "sources": [
+    "Wayward Reflection"
+   ],
+   "teaser": "The scouts saw the same shape in two places at once."
+  },
+  {
+   "title": "Gate Witch",
+   "era": "old_gravehold",
+   "archetype": "mistress of time",
+   "origin": "The 'ragged face of the infinite' Yan Magda saw in the Void; bends and breaks time.",
+   "signs": [
+    "days that seem shorter",
+    "a burnt-air smell before the bells"
+   ],
+   "aftermath": "Time gained back.",
+   "hook": "Time is running out — literally.",
+   "themes": [
+    "time",
+    "inevitability"
+   ],
+   "sources": [
+    "Gate Witch",
+    "Hasten"
+   ],
+   "teaser": "Those who went that way came back older, or younger, than they left."
+  },
+  {
+   "title": "Hollow Crown",
+   "era": "old_gravehold",
+   "archetype": "false god",
+   "origin": "Compels worship rather than fear; its masked acolytes were mages practising blood magic in the Craghollows.",
+   "signs": [
+    "people kneeling in tears as it passes",
+    "masked figures in the rubble",
+    "an acolyte walking into the humming breach"
+   ],
+   "aftermath": "The acolytes' names and masks.",
+   "hook": "Missing mages are seen kneeling in the ruins, masked.",
+   "themes": [
+    "cult",
+    "faith",
+    "betrayal"
+   ],
+   "sources": [
+    "Hollow Crown",
+    "Reign",
+    "Beseech",
+    "Edryss Tragg"
+   ],
+   "teaser": "People walk that way on their own, their faces wet with tears of joy."
+  },
+  {
+   "title": "Magus of Cloaks",
+   "era": "old_gravehold",
+   "archetype": "shadow lord",
+   "origin": "A thing of darkness: every blow peels away one cloak of shadow to reveal another.",
+   "signs": [
+    "torches failing",
+    "mindless splintered shadows"
+   ],
+   "aftermath": "A shimmering cloak woven out of aether.",
+   "hook": "The torches of Gravehold go out one by one.",
+   "themes": [
+    "darkness",
+    "illusion"
+   ],
+   "sources": [
+    "Magus of Cloaks",
+    "Shimmering Cloak of the Magus",
+    "Enshroud"
+   ],
+   "teaser": "On that road the torches go out, one by one."
+  },
+  {
+   "title": "Thrice-Dead Prophet",
+   "era": "old_gravehold",
+   "archetype": "deceiver / undying",
+   "origin": "Shambled from the void clad with the faces of forgotten gods; died three times as a feint; something was born from its corpse.",
+   "signs": [
+    "a vast body covered with gods' faces",
+    "victories that come too easily"
+   ],
+   "aftermath": "Something stirs inside its corpse — and Ulgimor is created.",
+   "hook": "It died. It's moving again.",
+   "themes": [
+    "false victory",
+    "forgotten gods"
+   ],
+   "sources": [
+    "Thrice-Dead Prophet",
+    "Immortal Triumph",
+    "Baneful Crux"
+   ],
+   "teaser": "Something huge lies dead on that road. The scouts swear it moved."
+  },
+  {
+   "title": "Twice-Dead Prophet",
+   "era": "old_gravehold",
+   "archetype": "deceiver (other timeline)",
+   "origin": "The Prophet as met by time-displaced Indira; its faces may be the statues of abandoned gods animated by grief.",
+   "signs": [
+    "gods' faces in frozen agony"
+   ],
+   "aftermath": "A question: did the Prophet kill the gods?",
+   "hook": "A battle the chronicles describe differently than you remember.",
+   "themes": [
+    "time travel",
+    "forgotten gods"
+   ],
+   "sources": [
+    "Twice-Dead Prophet"
+   ],
+   "teaser": "The chronicles describe what waits that way, but not the way you remember it."
+  },
+  {
+   "title": "Umbra Titan",
+   "era": "old_gravehold",
+   "archetype": "burrowing beast",
+   "origin": "Born from the Prophet's neck; burrows beneath the cave's skin; cave beasts worship it. Its shadow created Ulgimor.",
+   "signs": [
+    "the ground shakes before it strikes",
+    "Cryptids revering it"
+   ],
+   "aftermath": "A coal fragment of its shadow.",
+   "hook": "The floor trembles; nobody knows where to hide.",
+   "themes": [
+    "feral",
+    "tremors"
+   ],
+   "sources": [
+    "Umbra Titan",
+    "Seismic Roar",
+    "Yawning Black",
+    "Cryptid"
+   ],
+   "teaser": "Something vast moves beneath the stone that way, and the ground has learned to fear it."
+  },
+  {
+   "title": "Wraithmonger",
+   "era": "old_gravehold",
+   "archetype": "dream terror",
+   "origin": "Not born of the void: a shapeless horror inside every dreamer, manifesting when they sleep.",
+   "signs": [
+    "nobody dares to sleep",
+    "a flickering shape above the sleeping city"
+   ],
+   "aftermath": "Rest, finally.",
+   "hook": "The camp cannot sleep: every dream feeds the thing above it.",
+   "themes": [
+    "dreams",
+    "fear"
+   ],
+   "sources": [
+    "Wraithmonger",
+    "Sanity Hemorrhage",
+    "Beyonder"
+   ],
+   "teaser": "No one who camped that way has slept since."
+  },
+  {
+   "title": "Knight of Shackles",
+   "era": "old_gravehold",
+   "archetype": "fallen hero",
+   "origin": "The corrupted Thraxir, returned from The Depths commanding an army of the dead whose eyes are mage gems; knows Gravehold's defenses.",
+   "signs": [
+    "the dead missing from The Depths",
+    "a rider on a blighted steed",
+    "attacks that exploit Gravehold's defenses"
+   ],
+   "aftermath": "Thraxir may yet be saved.",
+   "hook": "The dead of Gravehold are marching — led by someone who knows the walls.",
+   "themes": [
+    "fallen friend",
+    "undeath",
+    "redemption"
+   ],
+   "sources": [
+    "Knight of Shackles",
+    "Fellblade",
+    "Siege",
+    "Rout"
+   ],
+   "teaser": "The dead are walking that way, in ranks, like soldiers."
+  },
+  {
+   "title": "Maiden of Thorns",
+   "era": "old_gravehold",
+   "archetype": "cruel weapon",
+   "origin": "Revels in cruelty and sups knowledge from mages' skulls.",
+   "signs": [
+    "mages who forget their names",
+    "impaled helms"
+   ],
+   "aftermath": "Adelheim's admiration of a 'perfect weapon'.",
+   "hook": "A new mage returns from patrol not knowing who he is.",
+   "themes": [
+    "cruelty",
+    "lost identity"
+   ],
+   "sources": [
+    "Maiden of Thorns",
+    "Gruesome Feast"
+   ],
+   "teaser": "The few who came back from that road no longer know who they are."
+  },
+  {
+   "title": "Bladius",
+   "era": "fall",
+   "archetype": "lieutenant",
+   "origin": "A bred-for-battle lieutenant of a greater Nameless, hunting survivors in the tunnels.",
+   "signs": [
+    "growls echoing in the dark tunnels"
+   ],
+   "aftermath": "A battle-scarred enemy who may return.",
+   "hook": "A lieutenant of something far worse ambushes survivors in the tunnels.",
+   "themes": [
+    "ambush",
+    "vengeance"
+   ],
+   "sources": [
+    "Bladius",
+    "Bladius Returns"
+   ],
+   "teaser": "Blades glint in the dark that way: a hunter bred for nothing but battle."
+  },
+  {
+   "title": "Maelstrom",
+   "era": "fall",
+   "archetype": "cataclysm",
+   "origin": "Drawn by Xaxos' experiment; colossal orb of spinning blades that destroyed Gravehold.",
+   "signs": [
+    "the largest breach ever seen",
+    "earthquakes and explosions"
+   ],
+   "aftermath": "The Fall.",
+   "hook": "The breach above the city is growing.",
+   "themes": [
+    "apocalypse",
+    "guilt"
+   ],
+   "sources": [
+    "Maelstrom"
+   ],
+   "teaser": "The sky that way is spinning."
+  },
+  {
+   "title": "Maelstrom: Risen",
+   "era": "new_gravehold",
+   "archetype": "returning cataclysm",
+   "origin": "Siphoned power beneath the rubble and rose from the sinkhole for revenge.",
+   "signs": [
+    "beacons dotting the ground",
+    "the sky darkened",
+    "a sound you have heard once before, the night Gravehold fell"
+   ],
+   "aftermath": "Its blades piercing the earth like monuments; an Eye of the Maelstrom that 'gives back'.",
+   "hook": "Scouts at the sinkhole report the rubble is moving.",
+   "themes": [
+    "revenge",
+    "final stand"
+   ],
+   "sources": [
+    "Maelstrom: Risen",
+    "Eye of the Maelstrom",
+    "Legacy"
+   ],
+   "teaser": "Something buried long ago is digging its way back out."
+  },
+  {
+   "title": "Spawning Horror",
+   "era": "new_gravehold",
+   "archetype": "ancient breeder",
+   "origin": "Has rested on the surface so long it became part of the world; spawns pods.",
+   "signs": [
+    "a breeding ground under a torn sky"
+   ],
+   "aftermath": "Pods that Malastar crafts into equipment.",
+   "hook": "A breeding ground of pods could arm the city — if its mother is killed.",
+   "themes": [
+    "harvest",
+    "resources"
+   ],
+   "sources": [
+    "Spawning Horror",
+    "Legacy"
+   ],
+   "teaser": "Pods are growing along that road, and something is tending them."
+  },
+  {
+   "title": "Fungal Mesh",
+   "era": "new_gravehold",
+   "archetype": "mind controller",
+   "origin": "Spores that overtake minds, turning scouts against each other; it took Brama.",
+   "signs": [
+    "scouts attacking each other",
+    "spore-encased victims"
+   ],
+   "aftermath": "Insight into Nameless mental powers.",
+   "hook": "Brama walks out of the trees — and raises her hands to cast at you.",
+   "themes": [
+    "possession",
+    "rescue"
+   ],
+   "sources": [
+    "Fungal Mesh",
+    "Brama, Infested Appears"
+   ],
+   "teaser": "Spores drift on the wind that way, and the scouts who breathed them turned on each other."
+  },
+  {
+   "title": "Haze Fiend",
+   "era": "new_gravehold",
+   "archetype": "stalking fog",
+   "origin": "A fog that appears and vanishes within an hour, draining camps of life; its natural camouflage.",
+   "signs": [
+    "crystals cracking",
+    "fog creeping from a hidden breach at night",
+    "a shadow grabbing survivors"
+   ],
+   "aftermath": "The haze lifts; only the fallen remain.",
+   "hook": "Outlying camps are found dead in the morning after a fog.",
+   "themes": [
+    "stealth",
+    "dread"
+   ],
+   "sources": [
+    "Haze Fiend",
+    "Legacy"
+   ],
+   "teaser": "A fog lies over that road, and the camps inside it have gone silent."
+  },
+  {
+   "title": "Deathmind",
+   "era": "new_gravehold",
+   "archetype": "memory devourer",
+   "origin": "Guards a powerful ore; wipes the memories and reflexes of scouts.",
+   "signs": [
+    "scouts returning without their memories"
+   ],
+   "aftermath": "The ore; the Bones of Deathmind.",
+   "hook": "The ore Malastar needs is guarded by something that eats minds.",
+   "themes": [
+    "memory",
+    "mental anchor"
+   ],
+   "sources": [
+    "Deathmind",
+    "Bones of Deathmind",
+    "Ease Brama's Burden"
+   ],
+   "teaser": "Scouts came back from there with empty eyes and no memories."
+  },
+  {
+   "title": "Xaxos: Ascended",
+   "era": "new_gravehold",
+   "archetype": "fallen mentor",
+   "origin": "Xaxos amplified by the Void, wielding breaches as no living mage has.",
+   "signs": [
+    "tendrils of darkness",
+    "breaches opening in a circle around one figure"
+   ],
+   "aftermath": "Xaxos taken by the void — or fled.",
+   "hook": "An old friend returns, and wants the breach to stay open.",
+   "themes": [
+    "betrayal",
+    "hubris"
+   ],
+   "sources": [
+    "Xaxos: Ascended",
+    "Pretalus of Lore Appears",
+    "Legacy"
+   ],
+   "teaser": "A familiar voice calls from that road, promising power."
+  },
+  {
+   "title": "Necroswarm",
+   "era": "new_gravehold",
+   "archetype": "corrupted guardian",
+   "origin": "A gentle plant Nameless far to the south that raised Inco; driven north by the traitor mage's glyphs to rot New Gravehold's crops.",
+   "signs": [
+    "wilting plants and carrion leaves",
+    "buzzing insects then sudden silence",
+    "glyphs carved in trees",
+    "exploding brambles"
+   ],
+   "aftermath": "A sapling where it fell.",
+   "hook": "The crops are dying — something old and once-kind is marching north.",
+   "themes": [
+    "manipulation",
+    "family",
+    "nature"
+   ],
+   "sources": [
+    "Necroswarm",
+    "Into The Wild",
+    "Inco (The Surface)"
+   ],
+   "teaser": "The plants are dying that way, and the rot is walking."
+  },
+  {
+   "title": "The Wailing",
+   "era": "new_gravehold",
+   "archetype": "infectious screamer",
+   "origin": "A flying Nameless whose screams seed blue onyx in the veins of those who hear it.",
+   "signs": [
+    "trees encased in blue onyx veined with darkness",
+    "victims slowing and freezing"
+   ],
+   "aftermath": "Onyx statues, like the jade victims of an older Nameless.",
+   "hook": "Forest scouts come back with stiffening joints and blue under their skin.",
+   "themes": [
+    "plague",
+    "history repeats"
+   ],
+   "sources": [
+    "The Wailing"
+   ],
+   "teaser": "A scream carries from that way, and the trees there have turned to stone."
+  },
+  {
+   "title": "Maggoth",
+   "era": "new_gravehold",
+   "archetype": "experiment",
+   "origin": "A Broodwomb that survived its mother's destruction, nursed by Arachnos into a giant insectoid.",
+   "signs": [
+    "cloaked watchers taking notes",
+    "a shout: 'Release it!'"
+   ],
+   "aftermath": "Arachnos' notes on Nameless growth.",
+   "hook": "The exiles in the woods have a pet — and they've let it loose near the city.",
+   "themes": [
+    "mad science",
+    "pet monster"
+   ],
+   "sources": [
+    "Maggoth",
+    "The New Age"
+   ],
+   "teaser": "Something big is crashing through the brush that way, and someone is following it, taking notes."
+  },
+  {
+   "title": "Arachnos",
+   "era": "new_gravehold",
+   "archetype": "transformed heretic",
+   "origin": "Xaxos' student fused with a Void spider, torturing Soskel with void energy.",
+   "signs": [
+    "a massive twisted breach with a kneeling figure",
+    "a man bound in webs inside the portal"
+   ],
+   "aftermath": "Rune-marked artifacts radiating Nameless energy.",
+   "hook": "The missing commander is being 'improved' inside a breach.",
+   "themes": [
+    "hubris",
+    "rescue"
+   ],
+   "sources": [
+    "Arachnos",
+    "The New Age"
+   ],
+   "teaser": "Webs as thick as ropes cross that road, and a breach hums behind them."
+  },
+  {
+   "title": "Ageless Walker",
+   "era": "new_gravehold",
+   "archetype": "transformed follower",
+   "origin": "Karak, aged to bones and beyond by Arachnos' ritual; ages everything it walks past.",
+   "signs": [
+    "leaves ageing and crumbling",
+    "piles of yellowed bones in cloaks",
+    "a friend suddenly old"
+   ],
+   "aftermath": "Restored youth to its victims.",
+   "hook": "A teammate is found alive — but eighty years older.",
+   "themes": [
+    "time",
+    "decay",
+    "sacrifice"
+   ],
+   "sources": [
+    "Ageless Walker",
+    "The New Age"
+   ],
+   "teaser": "Leaves wither as you look down that road, and the scouts' hair has gone grey."
+  },
+  {
+   "title": "Fenrix",
+   "era": "new_gravehold",
+   "archetype": "experiment beast",
+   "origin": "A captured wolf fed Void essence by Arachnos; six glowing eyes, a howl that brings blizzards.",
+   "signs": [
+    "gigantic paw prints",
+    "snow out of season"
+   ],
+   "aftermath": "A hidden bunker nearby.",
+   "hook": "Snow in summer, and paw prints as wide as an arm.",
+   "themes": [
+    "predator",
+    "storm"
+   ],
+   "sources": [
+    "Fenrix",
+    "The New Age"
+   ],
+   "teaser": "Snow is falling that way, though it is summer. And something howls."
+  },
+  {
+   "title": "Experiment 153",
+   "era": "new_gravehold",
+   "archetype": "pitiful creation",
+   "origin": "Arachnos' rabbit, accidentally sealed in the Void for months.",
+   "signs": [
+    "journal pages about a lost subject"
+   ],
+   "aftermath": "Peace for a tormented soul.",
+   "hook": "An exile's journal mentions a subject he abandoned. It's still out there.",
+   "themes": [
+    "pity",
+    "mad science"
+   ],
+   "sources": [
+    "Experiment 153",
+    "Fenrix"
+   ],
+   "teaser": "Something small and broken is loose that way, and it has grown."
+  },
+  {
+   "title": "Fountain of Souls",
+   "era": "new_gravehold",
+   "archetype": "devourer of souls",
+   "origin": "A living pool in the Void that subsumes aether crossing the breaches; its bubbles are almost recognisable.",
+   "signs": [
+    "shimmering aether in Void water"
+   ],
+   "aftermath": "Reborn friends — Dezmodia, Arachnos — and Thraxir's mind.",
+   "hook": "An old exile asks for help in the Void: something is drinking the souls of the dead.",
+   "themes": [
+    "afterlife",
+    "redemption"
+   ],
+   "sources": [
+    "Fountain of Souls",
+    "Xaxos: Outcast",
+    "Griefweaver"
+   ],
+   "teaser": "That road leads into the Void, toward a light that drinks the dead."
+  },
+  {
+   "title": "Thief of Dreams",
+   "era": "new_gravehold",
+   "archetype": "void cloud",
+   "origin": "A hole in reality in the Void's sky that clouds the mind.",
+   "signs": [
+    "spells feel distant",
+    "even the stars cannot be trusted"
+   ],
+   "aftermath": "A memento from 'a free trip to the Void'.",
+   "hook": "In the Void, the sky itself attacks.",
+   "themes": [
+    "alien",
+    "confusion"
+   ],
+   "sources": [
+    "Thief of Dreams",
+    "Treasured Stone"
+   ],
+   "teaser": "That road leads into the Void, where even the sky is hungry."
+  },
+  {
+   "title": "Risen Thrall",
+   "era": "new_gravehold",
+   "archetype": "minion become master",
+   "origin": "A follower of an older Nameless that grew powerful in the Void and leads its own army.",
+   "signs": [
+    "skeletal hordes"
+   ],
+   "aftermath": "Fear: do minions become Nameless?",
+   "hook": "A minion you once killed has its own army now.",
+   "themes": [
+    "escalation"
+   ],
+   "sources": [
+    "Risen Thrall"
+   ],
+   "teaser": "An army of bones marches that way, led by one of its own."
+  },
+  {
+   "title": "The Burning Kor",
+   "era": "new_gravehold",
+   "archetype": "living inferno",
+   "origin": "A man of flame driven south by New Gravehold's expansion into Azer's forests.",
+   "signs": [
+    "the forest burning around a walking man"
+   ],
+   "aftermath": "Azer saved, resentment of New Gravehold.",
+   "hook": "Azer asks for help: a burning man is walking toward the village.",
+   "themes": [
+    "consequences",
+    "fire"
+   ],
+   "sources": [
+    "The Burning Kor"
+   ],
+   "teaser": "The forest is burning that way, and the fire walks like a man."
+  },
+  {
+   "title": "Fortress",
+   "era": "new_gravehold",
+   "archetype": "shelled giant",
+   "origin": "An aquatic Nameless using the rubble of Gravehold's homes as a shell.",
+   "signs": [
+    "wreckage that rises from the chasm floor"
+   ],
+   "aftermath": "Insight into how Nameless adapt to our world.",
+   "hook": "The ruins of home stand up and attack.",
+   "themes": [
+    "lost home",
+    "underwater"
+   ],
+   "sources": [
+    "Fortress"
+   ],
+   "teaser": "The ruins that way are standing up."
+  },
+  {
+   "title": "Burrower",
+   "era": "new_gravehold",
+   "archetype": "tunnel shark",
+   "origin": "Glides through rock like water, leaving quicksand pitfalls.",
+   "signs": [
+    "vibrations in the rock",
+    "solid ground turning to quicksand"
+   ],
+   "aftermath": "Safer tunnels.",
+   "hook": "Tunnels that were solid yesterday collapse today.",
+   "themes": [
+    "ambush",
+    "terrain"
+   ],
+   "sources": [
+    "Burrower"
+   ],
+   "teaser": "The ground that way turns to quicksand without warning."
+  },
+  {
+   "title": "Bishop of Scrolls",
+   "era": "civil_war",
+   "archetype": "storyteller villain",
+   "origin": "A Void-wanderer who tells Gravehold's history as a fairy tale and collects Nameless for an army.",
+   "signs": [
+    "a voice asking 'Shall I tell you a story?'"
+   ],
+   "aftermath": "'That's a story for another time.'",
+   "hook": "Somewhere, someone is telling your story — and already knows how it ends.",
+   "themes": [
+    "narrator",
+    "fate",
+    "irony"
+   ],
+   "sources": [
+    "Bishop of Scrolls"
+   ],
+   "teaser": "A voice drifts from that road, telling a story you almost recognise."
+  },
+  {
+   "title": "Bishop: Returned",
+   "era": "civil_war",
+   "archetype": "storyteller villain",
+   "origin": "The Bishop's second tale: New Gravehold's walls, its excised dissidents, the inevitable new Fall.",
+   "signs": [
+    "stories that predict the next disaster"
+   ],
+   "aftermath": "'A story yet to be told.'",
+   "hook": "The storyteller is back, with the next chapter of your story.",
+   "themes": [
+    "prophecy",
+    "history repeats"
+   ],
+   "sources": [
+    "Bishop: Returned"
+   ],
+   "teaser": "The storyteller's voice is back, and its story has a new chapter."
+  },
+  {
+   "title": "Fate Shepherd",
+   "era": "civil_war",
+   "archetype": "relic thief",
+   "origin": "An inquisitive Nameless that turns relics and gems against their users.",
+   "signs": [
+    "relics misfiring"
+   ],
+   "aftermath": "Relics returned.",
+   "hook": "Your own relics grow restless in your hands, as if something were calling them.",
+   "themes": [
+    "betrayal of tools"
+   ],
+   "sources": [
+    "Fate Shepherd"
+   ],
+   "teaser": "Mages who went that way say their own relics turned against them."
+  },
+  {
+   "title": "Griefweaver",
+   "era": "civil_war",
+   "archetype": "giant of grief",
+   "origin": "Towers taller than New Gravehold's walls with a lust for gems; perhaps reconstituted from a fallen mage.",
+   "signs": [
+    "fingertips cresting the horizon against a purple sky"
+   ],
+   "aftermath": "The thought it may have been a comrade.",
+   "hook": "A giant that craves the gems a dead friend once carried.",
+   "themes": [
+    "grief",
+    "greed"
+   ],
+   "sources": [
+    "Griefweaver"
+   ],
+   "teaser": "Something taller than the city walls walks that way, searching for gems."
+  },
+  {
+   "title": "Mother of Rust",
+   "era": "civil_war",
+   "archetype": "swarm consciousness",
+   "origin": "Tiny Void scuttlers sharing one mind; together they take the shape of a woman.",
+   "signs": [
+    "things pouring from cracks in stones"
+   ],
+   "aftermath": "A single fragment that should not be spared.",
+   "hook": "The swarm stands up — and looks like someone you know.",
+   "themes": [
+    "swarm",
+    "mimicry"
+   ],
+   "sources": [
+    "Mother of Rust",
+    "Rust Amalgam"
+   ],
+   "teaser": "A tide of tiny metal things pours across that road."
+  },
+  {
+   "title": "Rust Amalgam",
+   "era": "civil_war",
+   "archetype": "consequence",
+   "origin": "A surviving fragment of an older swarm, pumped full of Void energy by a masked follower of Z'hana.",
+   "signs": [
+    "metal buggers latching onto skin"
+   ],
+   "aftermath": "Blood on the Void-mages' hands.",
+   "hook": "Someone fed a harmless fragment until it grew big as a house.",
+   "themes": [
+    "carelessness",
+    "civil war"
+   ],
+   "sources": [
+    "Rust Amalgam"
+   ],
+   "teaser": "Something metal and as big as a house is foaming at the mouth that way."
+  },
+  {
+   "title": "Rust Superion",
+   "era": "civil_war",
+   "archetype": "consequence",
+   "origin": "Created when Ilya's aether mixed with Void essence; Azer blames 'your city's wild Void mage'.",
+   "signs": [
+    "glyphs gone wrong"
+   ],
+   "aftermath": "Blame between Azer and New Gravehold.",
+   "hook": "A harmless glyph ritual created a monster — and everyone blames someone else.",
+   "themes": [
+    "blame",
+    "unintended consequences"
+   ],
+   "sources": [
+    "Rust Superion"
+   ],
+   "teaser": "A glyph ritual went wrong that way, and something came of it."
+  },
+  {
+   "title": "Paradox of Bone",
+   "era": "civil_war",
+   "archetype": "pure madness",
+   "origin": "The purest distillation of the Void: rage fleeing pain that never eases.",
+   "signs": [
+    "destruction without direction"
+   ],
+   "aftermath": "A kindness: ending its pain.",
+   "hook": "A beast tramples everything because it is in agony.",
+   "themes": [
+    "mercy",
+    "madness"
+   ],
+   "sources": [
+    "Paradox of Bone"
+   ],
+   "teaser": "Something in agony is trampling everything that way."
+  },
+  {
+   "title": "Paradox of Myth",
+   "era": "civil_war",
+   "archetype": "puppeteer",
+   "origin": "A chained mask that drains and heals victims, puppeting Tethered mages against their friends.",
+   "signs": [
+    "golden chains",
+    "Tethered mages holding hands with glowing tattoos, dangling like puppets"
+   ],
+   "aftermath": "Freed friends.",
+   "hook": "Missing Azerian Tethers return — on chains.",
+   "themes": [
+    "puppetry",
+    "bonds perverted"
+   ],
+   "sources": [
+    "Paradox of Myth",
+    "Restrained",
+    "Tethered"
+   ],
+   "teaser": "Golden chains have been seen that way, and the mages they hold."
+  },
+  {
+   "title": "Paradox of Myth and Bone",
+   "era": "civil_war",
+   "archetype": "parasitic pair",
+   "origin": "The mask's trap caught the beast Bone; together raw strength and control.",
+   "signs": [
+    "chains wrapped around a giant"
+   ],
+   "aftermath": "Two threats undone.",
+   "hook": "Something has put a leash on the biggest beast in the Void.",
+   "themes": [
+    "parasitism"
+   ],
+   "sources": [
+    "Paradox of Myth and Bone"
+   ],
+   "teaser": "Chains and bone: something has put a leash on a giant."
+  },
+  {
+   "title": "Mist Revealed",
+   "era": "civil_war",
+   "archetype": "tragic mastermind",
+   "origin": "Mist herself, with the full force of Void magic, engineering a Second Fall to unite humanity.",
+   "signs": [
+    "wild Void portals everywhere",
+    "a figure raising her arms to the swirling dark"
+   ],
+   "aftermath": "The World To Come.",
+   "hook": "The mentor everyone trusts is the one opening the portals.",
+   "themes": [
+    "betrayal",
+    "sacrifice",
+    "unity through hatred"
+   ],
+   "sources": [
+    "Mist Revealed",
+    "The Point of No Return"
+   ],
+   "teaser": "Every portal points that way, and someone you trust is waiting at the centre."
+  },
+  {
+   "title": "Brama (Legacy of Gravehold)",
+   "era": "civil_war",
+   "archetype": "rival leader",
+   "origin": "Brama as an enemy of the Void-mages: she will not watch what she built crumble.",
+   "signs": [
+    "exile sentences",
+    "guards at the gates"
+   ],
+   "aftermath": "A city changed forever.",
+   "hook": "The city's founder stands between you and your friends.",
+   "themes": [
+    "tradition",
+    "civil war"
+   ],
+   "sources": [
+    "Brama (Legacy of Gravehold)"
+   ],
+   "teaser": "The founder of the city waits that way, and she will not step aside."
+  },
+  {
+   "title": "Z'hana (Legacy of Gravehold)",
+   "era": "civil_war",
+   "archetype": "rival leader",
+   "origin": "Z'hana as an enemy of New Gravehold: a haven for everyone, dangerous or not.",
+   "signs": [
+    "glyphs",
+    "Azerian allies"
+   ],
+   "aftermath": "A city changed forever.",
+   "hook": "The traitor mage offers a better world. You must stop her.",
+   "themes": [
+    "freedom",
+    "civil war"
+   ],
+   "sources": [
+    "Z'hana (Legacy of Gravehold)"
+   ],
+   "teaser": "The traitor mage waits that way, with a better world to offer."
+  },
+  {
+   "title": "Erythiza, Consumed",
+   "era": "calamity",
+   "archetype": "lost city",
+   "origin": "The great city of scientists, its people turned Nameless in an instant.",
+   "signs": [
+    "a city where a city should not be",
+    "the air swallowing buildings"
+   ],
+   "aftermath": "Questions about the heroes who contained it.",
+   "hook": "The lost city has been found — and it's hungry.",
+   "themes": [
+    "catastrophe",
+    "mystery"
+   ],
+   "sources": [
+    "Erythiza, Consumed"
+   ],
+   "teaser": "A city stands that way where no city should be."
+  },
+  {
+   "title": "Infested Mutation",
+   "era": "calamity",
+   "archetype": "corrupted wildlife",
+   "origin": "Plants, animals and stones twisted by the calamity.",
+   "signs": [
+    "blistered refugees",
+    "corrupted plants"
+   ],
+   "aftermath": "A safer camp.",
+   "hook": "The forest itself has turned predator.",
+   "themes": [
+    "corruption",
+    "nature"
+   ],
+   "sources": [
+    "Infested Mutation"
+   ],
+   "teaser": "Even the plants that way have turned predator."
+  },
+  {
+   "title": "Stonemonger",
+   "era": "calamity",
+   "archetype": "wave of corruption",
+   "origin": "Born of the invisible eruption; 'blood like rubies, teeth like pearls'.",
+   "signs": [
+    "a market turned slaughter",
+    "faces turned hollow and ravenous"
+   ],
+   "aftermath": "Stories the elders won't tell.",
+   "hook": "The elders refuse to talk about what happened in the market.",
+   "themes": [
+    "trauma",
+    "memory"
+   ],
+   "sources": [
+    "Stonemonger"
+   ],
+   "teaser": "The survivors who came from that way will not talk about what they saw."
+  },
+  {
+   "title": "Oracle of Filth",
+   "era": "calamity",
+   "archetype": "origin of the calamity",
+   "origin": "The Hunger fused with a boy in the Royal Erythiza Academy's laboratory.",
+   "signs": [
+    "a scientist reluctant to destroy her specimen"
+   ],
+   "aftermath": "The source of the Calamity.",
+   "hook": "A lab accident in Erythiza could end the world.",
+   "themes": [
+    "science gone wrong",
+    "origins"
+   ],
+   "sources": [
+    "Oracle of Filth",
+    "The Hunger"
+   ],
+   "teaser": "That way lies a laboratory, and something in it is breathing."
+  },
+  {
+   "title": "The Changeling Nest",
+   "era": "new_gravehold",
+   "archetype": "living swamp",
+   "origin": "Glowing cocoons in a Void swamp holding stolen children; branches become antlers.",
+   "signs": [
+    "warmth in the cold Void",
+    "silence in a swamp"
+   ],
+   "aftermath": "A rescued child — Qu.",
+   "hook": "A cocoon in the Void holds a human silhouette.",
+   "themes": [
+    "rescue",
+    "changelings"
+   ],
+   "sources": [
+    "The Changeling Nest",
+    "The Timeless"
+   ],
+   "teaser": "Warm cocoons glow in a swamp that way, with shapes inside them."
+  },
+  {
+   "title": "Herald of the End",
+   "era": "new_gravehold",
+   "archetype": "dragon brood",
+   "origin": "Five dragon-like creatures bonded as one in the Void.",
+   "signs": [
+    "razor tails and spiked muzzles intertwined"
+   ],
+   "aftermath": "Xaxos asks which side is the real monster.",
+   "hook": "Five dragons, one will.",
+   "themes": [
+    "family",
+    "monstrosity"
+   ],
+   "sources": [
+    "Herald of the End"
+   ],
+   "teaser": "Five shadows circle together over that road, never apart."
+  },
+  {
+   "title": "Corruption's Core",
+   "era": "new_gravehold",
+   "archetype": "entropy",
+   "origin": "The heart of Void essence observed by Xaxos in exile.",
+   "signs": [
+    "skin hardening into scales"
+   ],
+   "aftermath": "A theory of Void essence.",
+   "hook": "The source of corruption itself has a body.",
+   "themes": [
+    "entropy",
+    "science"
+   ],
+   "sources": [
+    "Corruption's Core"
+   ],
+   "teaser": "That way the corruption is so thick that skin begins to harden."
+  },
+  {
+   "title": "The Reliquary",
+   "era": "new_gravehold",
+   "archetype": "dark mirror",
+   "origin": "A human-looking Nameless in the Void that rips open portals and pulls monsters through — as Xaxos once did.",
+   "signs": [
+    "portals opening from the Void side"
+   ],
+   "aftermath": "Xaxos fears he walks in spirals.",
+   "hook": "Someone on the other side is opening the portals.",
+   "themes": [
+    "mirror",
+    "guilt"
+   ],
+   "sources": [
+    "The Reliquary"
+   ],
+   "teaser": "Someone on the other side is opening portals that way."
+  },
+  {
+   "title": "The Timeless",
+   "era": "civil_war",
+   "archetype": "time-warped",
+   "origin": "An ancient-but-too-young creature screaming with the pain of warped time.",
+   "signs": [
+    "white hair on young faces"
+   ],
+   "aftermath": "Years given back — or lost.",
+   "hook": "Everyone who enters the woods comes out older.",
+   "themes": [
+    "time",
+    "age"
+   ],
+   "sources": [
+    "The Timeless"
+   ],
+   "teaser": "Those who go into the woods that way come out older."
+  },
+  {
+   "title": "The Endless Decay",
+   "era": "dawn",
+   "archetype": "corruption that slipped through",
+   "origin": "A corrupted animal that evaded the phoenixes long enough to become a Nameless; feeds on time.",
+   "signs": [
+    "predator and prey hunting together"
+   ],
+   "aftermath": "The circle of life restored.",
+   "hook": "Even the phoenixes are afraid.",
+   "themes": [
+    "nature",
+    "time"
+   ],
+   "sources": [
+    "The Endless Decay"
+   ],
+   "teaser": "Predator and prey are fleeing that way, side by side."
+  },
+  {
+   "title": "The Coven",
+   "era": "descent",
+   "archetype": "fallen community",
+   "origin": "What became of the women of Donnyton who tried to build something permanent.",
+   "signs": [
+    "a repaired town, abandoned"
+   ],
+   "aftermath": "A chunk of the Coven kept for the next fight.",
+   "hook": "The town that took you in years ago is not what it was.",
+   "themes": [
+    "hubris of permanence",
+    "loss"
+   ],
+   "sources": [
+    "The Coven",
+    "Essence Membrane"
+   ],
+   "teaser": "A town lies that way that once took travellers in. Its doors are shut now."
+  },
+  {
+   "title": "The Infecter",
+   "era": "descent",
+   "archetype": "living swamp",
+   "origin": "Less a creature than a place: earth softening to mud, swollen staggering heralds.",
+   "signs": [
+    "ground turning to sucking mud",
+    "trees gray and skeletal",
+    "landmarks disappearing"
+   ],
+   "aftermath": "A core destroyed before the miasma fills the lungs.",
+   "hook": "The road becomes a swamp — and the swamp is alive.",
+   "themes": [
+    "environment",
+    "sickness"
+   ],
+   "sources": [
+    "The Infecter"
+   ],
+   "teaser": "The road that way sinks into a swamp that seems to breathe."
+  },
+  {
+   "title": "The Wrath",
+   "era": "descent",
+   "archetype": "guardian dragon",
+   "origin": "Red-scaled guardian coiled over Gravehold at the pilgrimage's end.",
+   "signs": [
+    "a red sun painting the city rose",
+    "scales among the stalactites"
+   ],
+   "aftermath": "Gravehold: 'our end and our beginning'.",
+   "hook": "The promised city is guarded.",
+   "themes": [
+    "threshold",
+    "promised land"
+   ],
+   "sources": [
+    "The Wrath"
+   ],
+   "teaser": "That way, beneath a red sun, something guards the city."
+  },
+  {
+   "title": "Absorbing Wraith",
+   "era": "descent",
+   "archetype": "cold hunter",
+   "origin": "A heatless beast in frozen caverns, Quilius' destined quarry.",
+   "signs": [
+    "icy trails descending into the dark",
+    "breath freezing"
+   ],
+   "aftermath": "A step on Quilius' path.",
+   "hook": "Follow the frost into the blackest black.",
+   "themes": [
+    "hunt",
+    "destiny",
+    "cold"
+   ],
+   "sources": [
+    "Absorbing Wraith",
+    "Ice-Dusted Jewel"
+   ],
+   "teaser": "The trail that way is frozen, and the cold follows you."
+  },
+  {
+   "title": "Rampaging Vin",
+   "era": "old_gravehold",
+   "archetype": "charging beast",
+   "origin": "Charges head-on through narrow caves; Tressa fights it for her son.",
+   "signs": [
+    "narrow caves",
+    "a treasure stash"
+   ],
+   "aftermath": "A better world for Nook.",
+   "hook": "A treasure hunter's stash is the only weapon left.",
+   "themes": [
+    "parenthood",
+    "brute force"
+   ],
+   "sources": [
+    "Rampaging Vin"
+   ],
+   "teaser": "Something charges through the narrow caves that way, head down."
+  },
+  {
+   "title": "Clouded Mesmer",
+   "era": "after",
+   "archetype": "compulsion",
+   "origin": "Smoke that makes you need things and understands how magic works.",
+   "signs": [
+    "sudden cravings",
+    "bodies tugged like puppets"
+   ],
+   "aftermath": "Your will back.",
+   "hook": "A sweet smoke drifts over the path, and with it come strange new wants.",
+   "themes": [
+    "compulsion",
+    "enemy that learns"
+   ],
+   "sources": [
+    "Clouded Mesmer"
+   ],
+   "teaser": "A smoke lies over that road that makes you want things."
+  },
+  {
+   "title": "The Terror in Brass",
+   "era": "after",
+   "archetype": "metal swimmer",
+   "origin": "Swims through Cindercrown's 'indestructible' iron like water.",
+   "signs": [
+    "seals in the System failing"
+   ],
+   "aftermath": "Proof that walls are not enough.",
+   "hook": "The city's walls are the monster's ocean.",
+   "themes": [
+    "hubris",
+    "technology"
+   ],
+   "sources": [
+    "The Terror in Brass"
+   ],
+   "teaser": "The iron walls that way have been torn open from the inside."
+  },
+  {
+   "title": "Kusiciele Okazji",
+   "era": "old_gravehold",
+   "archetype": "tempting gems (promo)",
+   "origin": "Noble gems lost by an ancient Nameless, awakened by a forgotten spell; shrill cries of 'Buy! Buy! Buy!'. Regional promo.",
+   "signs": [
+    "a pleasant glow in a side cave"
+   ],
+   "aftermath": "Garu meditating in the Dew Garden for weeks.",
+   "hook": "Mages vanish chasing a lovely glow.",
+   "themes": [
+    "greed",
+    "temptation"
+   ],
+   "sources": [
+    "Kusiciele Okazji"
+   ],
+   "teaser": "Something glitters that way, and the mages who chased it never came back."
+  },
+  {
+   "title": "Szalony Kotokronikarz",
+   "era": "old_gravehold",
+   "archetype": "possessed chronicler (promo)",
+   "origin": "The Mad Cat Chronicler of Gravehold's archives, possessed by a Nameless trapped in a book. Regional promo.",
+   "signs": [
+    "books marching on their own"
+   ],
+   "aftermath": "Restored tomes.",
+   "hook": "The archive's books are marching.",
+   "themes": [
+    "archives",
+    "possession"
+   ],
+   "sources": [
+    "Szalony Kotokronikarz"
+   ],
+   "teaser": "The archive's books are marching that way."
+  }
+ ],
+ "friends": [
+  {
+   "title": "Adelheim, the Blacksmith",
+   "role": "friend",
+   "era": "descent",
+   "note": "Forges and recycles 0-cost cards; a smith keeping the clan armed.",
+   "sources": [
+    "Adelheim, the Blacksmith"
+   ]
+  },
+  {
+   "title": "Dalana, the Healer",
+   "role": "friend",
+   "era": "descent",
+   "note": "Heals; Brama's childhood friend.",
+   "sources": [
+    "Dalana, the Healer"
+   ]
+  },
+  {
+   "title": "Fawn, the Alchemist",
+   "role": "friend",
+   "era": "descent",
+   "note": "Alchemy and potions.",
+   "sources": [
+    "Fawn, the Alchemist"
+   ]
+  },
+  {
+   "title": "Myrna, the Scholar",
+   "role": "friend",
+   "era": "descent",
+   "note": "Keeper of ancestral knowledge.",
+   "sources": [
+    "Myrna, the Scholar"
+   ]
+  },
+  {
+   "title": "Joanna, the Merchant",
+   "role": "friend",
+   "era": "descent",
+   "note": "Trader; the dirt market provides.",
+   "sources": [
+    "Joanna, the Merchant"
+   ]
+  },
+  {
+   "title": "Xaxos, the Arcane Researcher",
+   "role": "friend",
+   "era": "descent",
+   "note": "Young Xaxos with mother's books.",
+   "sources": [
+    "Xaxos, the Arcane Researcher"
+   ]
+  },
+  {
+   "title": "Lash, the Dreamer",
+   "role": "friend",
+   "era": "old_gravehold",
+   "note": "Every breath is a victory.",
+   "sources": [
+    "Lash, the Dreamer"
+   ]
+  },
+  {
+   "title": "Grimoire, the Archive",
+   "role": "friend",
+   "era": "new_gravehold",
+   "note": "A book of every spell.",
+   "sources": [
+    "Grimoire, the Archive"
+   ]
+  },
+  {
+   "title": "Sahala, the Apprentice",
+   "role": "friend",
+   "era": "new_gravehold",
+   "note": "Guide to Qu.",
+   "sources": [
+    "Sahala, the Apprentice"
+   ]
+  },
+  {
+   "title": "Qu, the Rift Walker",
+   "role": "friend",
+   "era": "new_gravehold",
+   "note": "Just out of the Void.",
+   "sources": [
+    "Qu, the Rift Walker"
+   ]
+  },
+  {
+   "title": "Dai, the Youth",
+   "role": "friend",
+   "era": "after",
+   "note": "Scout of the System.",
+   "sources": [
+    "Dai, the Youth"
+   ]
+  }
+ ],
+ "foes": [
+  {
+   "title": "The Cultist",
+   "role": "foe",
+   "era": "descent",
+   "note": "A human keeper of the abandoned city, corrupted.",
+   "sources": [
+    "The Cultist"
+   ]
+  },
+  {
+   "title": "The Corrosion",
+   "role": "foe",
+   "era": "descent",
+   "note": "Hollow thing that only knows how to consume.",
+   "sources": [
+    "The Corrosion"
+   ]
+  },
+  {
+   "title": "The Scavenger",
+   "role": "foe",
+   "era": "descent",
+   "note": "Finishes off the half-dead after battle.",
+   "sources": [
+    "The Scavenger"
+   ]
+  },
+  {
+   "title": "The Swarm",
+   "role": "foe",
+   "era": "descent",
+   "note": "Small Void critters that multiply underground.",
+   "sources": [
+    "The Swarm"
+   ]
+  },
+  {
+   "title": "The Storm",
+   "role": "foe",
+   "era": "descent",
+   "note": "Lightning storm, mud and darkness.",
+   "sources": [
+    "The Storm"
+   ]
+  },
+  {
+   "title": "Jeweled Wrath",
+   "role": "foe",
+   "era": "old_gravehold",
+   "note": "A jewel-encrusted monster posing as treasure.",
+   "sources": [
+    "Jeweled Wrath"
+   ]
+  },
+  {
+   "title": "The Traitor",
+   "role": "foe",
+   "era": "old_gravehold",
+   "note": "A mage who believes only they can protect everyone ('I'll save them all').",
+   "sources": [
+    "The Traitor"
+   ]
+  },
+  {
+   "title": "The Mask",
+   "role": "foe",
+   "era": "new_gravehold",
+   "note": "A familiar-feeling thing from Qu's childhood.",
+   "sources": [
+    "The Mask"
+   ]
+  },
+  {
+   "title": "The Hunger",
+   "role": "foe",
+   "era": "calamity",
+   "note": "Filter feeder of corruption.",
+   "sources": [
+    "The Hunger"
+   ]
+  },
+  {
+   "title": "Creeping Dark",
+   "role": "foe",
+   "era": "after",
+   "note": "Brings darkness to hide something that must be seen.",
+   "sources": [
+    "Creeping Dark"
+   ]
+  },
+  {
+   "title": "The Anomaly",
+   "role": "foe",
+   "era": "after",
+   "note": "Time snapping in on itself after Nook's experiments.",
+   "sources": [
+    "The Anomaly"
+   ]
+  }
+ ]
+}

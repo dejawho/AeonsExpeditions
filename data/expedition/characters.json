@@ -1,0 +1,957 @@
+[
+ {
+  "title": "Adelheim",
+  "kind": "mage",
+  "character": "adelheim"
+ },
+ {
+  "title": "Alcheia",
+  "kind": "mage",
+  "character": "alcheia"
+ },
+ {
+  "title": "Arachnos (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "arachnos"
+ },
+ {
+  "title": "Arachnos (Outcasts)",
+  "kind": "mage",
+  "character": "arachnos"
+ },
+ {
+  "title": "Auren",
+  "kind": "mage",
+  "character": "auren"
+ },
+ {
+  "title": "Bayli",
+  "kind": "mage",
+  "character": "bayli"
+ },
+ {
+  "title": "Brama",
+  "kind": "mage",
+  "character": "brama"
+ },
+ {
+  "title": "Brama (The Descent)",
+  "kind": "mage",
+  "character": "brama"
+ },
+ {
+  "title": "Cairna",
+  "kind": "mage",
+  "character": "cairna"
+ },
+ {
+  "title": "Claudia",
+  "kind": "mage",
+  "character": "claudia"
+ },
+ {
+  "title": "Claudia (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "claudia"
+ },
+ {
+  "title": "Dezmodia",
+  "kind": "mage",
+  "character": "dezmodia"
+ },
+ {
+  "title": "Dezmodia (Beyond the Breach)",
+  "kind": "mage",
+  "character": "dezmodia"
+ },
+ {
+  "title": "Dezmodia (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "dezmodia"
+ },
+ {
+  "title": "Dezmodia (Outcasts)",
+  "kind": "mage",
+  "character": "dezmodia"
+ },
+ {
+  "title": "Dorian",
+  "kind": "mage",
+  "character": "dorian"
+ },
+ {
+  "title": "Garu",
+  "kind": "mage",
+  "character": "garu"
+ },
+ {
+  "title": "Gex",
+  "kind": "mage",
+  "character": "gex"
+ },
+ {
+  "title": "Gygar",
+  "kind": "mage",
+  "character": "gygar"
+ },
+ {
+  "title": "Gygar (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "gygar"
+ },
+ {
+  "title": "Ilya",
+  "kind": "mage",
+  "character": "ilya"
+ },
+ {
+  "title": "Ilya (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "ilya"
+ },
+ {
+  "title": "Inco",
+  "kind": "mage",
+  "character": "inco"
+ },
+ {
+  "title": "Inco (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "inco"
+ },
+ {
+  "title": "Inco (The Surface)",
+  "kind": "mage",
+  "character": "inco"
+ },
+ {
+  "title": "Indira",
+  "kind": "mage",
+  "character": "indira"
+ },
+ {
+  "title": "Indira (Beyond the Breach)",
+  "kind": "mage",
+  "character": "indira"
+ },
+ {
+  "title": "Indira (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "indira"
+ },
+ {
+  "title": "Janti",
+  "kind": "mage",
+  "character": "janti"
+ },
+ {
+  "title": "Jian",
+  "kind": "mage",
+  "character": "jian"
+ },
+ {
+  "title": "Kadir",
+  "kind": "mage",
+  "character": "kadir"
+ },
+ {
+  "title": "Kadir (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "kadir"
+ },
+ {
+  "title": "Kain",
+  "kind": "mage",
+  "character": "kain"
+ },
+ {
+  "title": "Kavoc",
+  "kind": "mage",
+  "character": "kavoc"
+ },
+ {
+  "title": "Kel",
+  "kind": "mage",
+  "character": "kel"
+ },
+ {
+  "title": "Kel (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "kel"
+ },
+ {
+  "title": "Kiri and Phoenix",
+  "kind": "mage",
+  "character": "kiri"
+ },
+ {
+  "title": "Lash",
+  "kind": "mage",
+  "character": "lash"
+ },
+ {
+  "title": "Leisan",
+  "kind": "mage",
+  "character": "leisan"
+ },
+ {
+  "title": "Lilly",
+  "kind": "mage",
+  "character": "lilly"
+ },
+ {
+  "title": "Lost",
+  "kind": "mage",
+  "character": "lost"
+ },
+ {
+  "title": "Lost (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "lost"
+ },
+ {
+  "title": "Lucien",
+  "kind": "mage",
+  "character": "lucien"
+ },
+ {
+  "title": "Malastar",
+  "kind": "mage",
+  "character": "malastar"
+ },
+ {
+  "title": "Malastar (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "malastar"
+ },
+ {
+  "title": "Mazahaedron",
+  "kind": "mage",
+  "character": "mazahaedron"
+ },
+ {
+  "title": "Mazahaedron (The Descent)",
+  "kind": "mage",
+  "character": "mazahaedron"
+ },
+ {
+  "title": "Mazra",
+  "kind": "mage",
+  "character": "mazra"
+ },
+ {
+  "title": "Mazra (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "mazra"
+ },
+ {
+  "title": "Mist",
+  "kind": "mage",
+  "character": "mist"
+ },
+ {
+  "title": "Mist (War Eternal)",
+  "kind": "mage",
+  "character": "mist"
+ },
+ {
+  "title": "Nadea",
+  "kind": "mage",
+  "character": "nadea"
+ },
+ {
+  "title": "Naftir",
+  "kind": "mage",
+  "character": "naftir"
+ },
+ {
+  "title": "Nook",
+  "kind": "mage",
+  "character": "nook"
+ },
+ {
+  "title": "Nook (Beyond the Breach)",
+  "kind": "mage",
+  "character": "nook"
+ },
+ {
+  "title": "Nook (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "nook"
+ },
+ {
+  "title": "Nym",
+  "kind": "mage",
+  "character": "nym"
+ },
+ {
+  "title": "Ohat and Ulgimor",
+  "kind": "mage",
+  "character": "ohat"
+ },
+ {
+  "title": "Ona",
+  "kind": "mage",
+  "character": "ona"
+ },
+ {
+  "title": "Phaedraxa",
+  "kind": "mage",
+  "character": "phaedraxa"
+ },
+ {
+  "title": "Qu",
+  "kind": "mage",
+  "character": "qu"
+ },
+ {
+  "title": "Qu (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "qu"
+ },
+ {
+  "title": "Qu (Outcasts)",
+  "kind": "mage",
+  "character": "qu"
+ },
+ {
+  "title": "Qu (The Surface)",
+  "kind": "mage",
+  "character": "qu"
+ },
+ {
+  "title": "Quilius",
+  "kind": "mage",
+  "character": "quilius"
+ },
+ {
+  "title": "Quilius (The Caverns)",
+  "kind": "mage",
+  "character": "quilius"
+ },
+ {
+  "title": "Raven",
+  "kind": "mage",
+  "character": "raven"
+ },
+ {
+  "title": "Razra",
+  "kind": "mage",
+  "character": "razra"
+ },
+ {
+  "title": "Razra (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "razra"
+ },
+ {
+  "title": "Reeve",
+  "kind": "mage",
+  "character": "reeve"
+ },
+ {
+  "title": "Remnant",
+  "kind": "mage",
+  "character": "remnant"
+ },
+ {
+  "title": "Remnant (Beyond the Breach)",
+  "kind": "mage",
+  "character": "remnant"
+ },
+ {
+  "title": "Reth",
+  "kind": "mage",
+  "character": "reth"
+ },
+ {
+  "title": "Rhia",
+  "kind": "mage",
+  "character": "rhia"
+ },
+ {
+  "title": "Rhys",
+  "kind": "mage",
+  "character": "rhys"
+ },
+ {
+  "title": "Sahala",
+  "kind": "mage",
+  "character": "sahala"
+ },
+ {
+  "title": "Shoshana",
+  "kind": "mage",
+  "character": "shoshana"
+ },
+ {
+  "title": "Soskel",
+  "kind": "mage",
+  "character": "soskel"
+ },
+ {
+  "title": "Soskel (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "soskel"
+ },
+ {
+  "title": "Sparrow",
+  "kind": "mage",
+  "character": "sparrow"
+ },
+ {
+  "title": "Stake",
+  "kind": "mage",
+  "character": "stake"
+ },
+ {
+  "title": "Talix",
+  "kind": "mage",
+  "character": "talix"
+ },
+ {
+  "title": "Talix (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "talix"
+ },
+ {
+  "title": "Taqren",
+  "kind": "mage",
+  "character": "taqren"
+ },
+ {
+  "title": "Taqren (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "taqren"
+ },
+ {
+  "title": "Taqren (Outcasts)",
+  "kind": "mage",
+  "character": "taqren"
+ },
+ {
+  "title": "Thraxir",
+  "kind": "mage",
+  "character": "thraxir"
+ },
+ {
+  "title": "Thraxir (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "thraxir"
+ },
+ {
+  "title": "Thraxir (The Descent)",
+  "kind": "mage",
+  "character": "thraxir"
+ },
+ {
+  "title": "Tressa",
+  "kind": "mage",
+  "character": "tressa"
+ },
+ {
+  "title": "Ulgimor",
+  "kind": "mage",
+  "character": "ohat"
+ },
+ {
+  "title": "Willow",
+  "kind": "mage",
+  "character": "willow"
+ },
+ {
+  "title": "Wolf",
+  "kind": "mage",
+  "character": "wolf"
+ },
+ {
+  "title": "Xaxos",
+  "kind": "mage",
+  "character": "xaxos"
+ },
+ {
+  "title": "Xaxos (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "xaxos"
+ },
+ {
+  "title": "Xaxos (The Abyss)",
+  "kind": "mage",
+  "character": "xaxos"
+ },
+ {
+  "title": "Xaxos (The Void)",
+  "kind": "mage",
+  "character": "xaxos"
+ },
+ {
+  "title": "Yan Magda",
+  "kind": "mage",
+  "character": "yan_magda"
+ },
+ {
+  "title": "Yan Magda (Legacy of Gravehold)",
+  "kind": "mage",
+  "character": "yan_magda"
+ },
+ {
+  "title": "Yan Magda (The Returned)",
+  "kind": "mage",
+  "character": "yan_magda"
+ },
+ {
+  "title": "Z'hana",
+  "kind": "mage",
+  "character": "zhana"
+ },
+ {
+  "title": "Z'hana (Outcasts)",
+  "kind": "mage",
+  "character": "zhana"
+ },
+ {
+  "title": "Absorbing Wraith",
+  "kind": "nemesis",
+  "character": "absorbing_wraith"
+ },
+ {
+  "title": "Ageless Walker",
+  "kind": "nemesis",
+  "character": "karak"
+ },
+ {
+  "title": "Arachnos",
+  "kind": "nemesis",
+  "character": "arachnos"
+ },
+ {
+  "title": "Bishop of Scrolls",
+  "kind": "nemesis",
+  "character": "bishop_of_scrolls"
+ },
+ {
+  "title": "Bishop: Returned",
+  "kind": "nemesis",
+  "character": "bishop_of_scrolls"
+ },
+ {
+  "title": "Bladius",
+  "kind": "nemesis",
+  "character": "bladius"
+ },
+ {
+  "title": "Blight Lord",
+  "kind": "nemesis",
+  "character": "blight_lord"
+ },
+ {
+  "title": "Burrower",
+  "kind": "nemesis",
+  "character": "burrower"
+ },
+ {
+  "title": "Carapace Queen",
+  "kind": "nemesis",
+  "character": "carapace_queen"
+ },
+ {
+  "title": "Clouded Mesmer",
+  "kind": "nemesis",
+  "character": "clouded_mesmer"
+ },
+ {
+  "title": "Corruption's Core",
+  "kind": "nemesis",
+  "character": "corruption_s_core"
+ },
+ {
+  "title": "Crooked Mask",
+  "kind": "nemesis",
+  "character": "crooked_mask"
+ },
+ {
+  "title": "Crooked Mask (Beyond the Breach)",
+  "kind": "nemesis",
+  "character": "crooked_mask"
+ },
+ {
+  "title": "Deathmind",
+  "kind": "nemesis",
+  "character": "deathmind"
+ },
+ {
+  "title": "Erythiza, Consumed",
+  "kind": "nemesis",
+  "character": "erythiza_consumed"
+ },
+ {
+  "title": "Experiment 153",
+  "kind": "nemesis",
+  "character": "experiment_153"
+ },
+ {
+  "title": "Fate Shepherd",
+  "kind": "nemesis",
+  "character": "fate_shepherd"
+ },
+ {
+  "title": "Fenrix",
+  "kind": "nemesis",
+  "character": "fenrix"
+ },
+ {
+  "title": "Fortress",
+  "kind": "nemesis",
+  "character": "fortress"
+ },
+ {
+  "title": "Fountain of Souls",
+  "kind": "nemesis",
+  "character": "fountain_of_souls"
+ },
+ {
+  "title": "Fungal Mesh",
+  "kind": "nemesis",
+  "character": "fungal_mesh"
+ },
+ {
+  "title": "Gate Witch",
+  "kind": "nemesis",
+  "character": "gate_witch"
+ },
+ {
+  "title": "Griefweaver",
+  "kind": "nemesis",
+  "character": "griefweaver"
+ },
+ {
+  "title": "Herald of the End",
+  "kind": "nemesis",
+  "character": "herald_of_the_end"
+ },
+ {
+  "title": "Hollow Crown",
+  "kind": "nemesis",
+  "character": "hollow_crown"
+ },
+ {
+  "title": "Horde-Crone",
+  "kind": "nemesis",
+  "character": "horde_crone"
+ },
+ {
+  "title": "Infested Mutation",
+  "kind": "nemesis",
+  "character": "infested_mutation"
+ },
+ {
+  "title": "Knight of Shackles",
+  "kind": "nemesis",
+  "character": "thraxir"
+ },
+ {
+  "title": "Maelstrom: Risen",
+  "kind": "nemesis",
+  "character": "maelstrom_risen"
+ },
+ {
+  "title": "Maggoth",
+  "kind": "nemesis",
+  "character": "maggoth"
+ },
+ {
+  "title": "Magus of Cloaks",
+  "kind": "nemesis",
+  "character": "magus_of_cloaks"
+ },
+ {
+  "title": "Maiden of Thorns",
+  "kind": "nemesis",
+  "character": "maiden_of_thorns"
+ },
+ {
+  "title": "Mist Revealed",
+  "kind": "nemesis",
+  "character": "mist"
+ },
+ {
+  "title": "Mother of Rust",
+  "kind": "nemesis",
+  "character": "mother_of_rust"
+ },
+ {
+  "title": "Necroswarm",
+  "kind": "nemesis",
+  "character": "necroswarm"
+ },
+ {
+  "title": "Oracle of Filth",
+  "kind": "nemesis",
+  "character": "oracle_of_filth"
+ },
+ {
+  "title": "Paradox of Bone",
+  "kind": "nemesis",
+  "character": "paradox"
+ },
+ {
+  "title": "Paradox of Myth",
+  "kind": "nemesis",
+  "character": "paradox"
+ },
+ {
+  "title": "Paradox of Myth and Bone",
+  "kind": "nemesis",
+  "character": "paradox"
+ },
+ {
+  "title": "Prince of Gluttons",
+  "kind": "nemesis",
+  "character": "prince_of_gluttons"
+ },
+ {
+  "title": "Rageborne",
+  "kind": "nemesis",
+  "character": "rageborne"
+ },
+ {
+  "title": "Rampaging Vin",
+  "kind": "nemesis",
+  "character": "rampaging_vin"
+ },
+ {
+  "title": "Risen Thrall",
+  "kind": "nemesis",
+  "character": "risen_thrall"
+ },
+ {
+  "title": "Rust Amalgam",
+  "kind": "nemesis",
+  "character": "rust_amalgam"
+ },
+ {
+  "title": "Rust Superion",
+  "kind": "nemesis",
+  "character": "rust_superion"
+ },
+ {
+  "title": "Spawning Horror",
+  "kind": "nemesis",
+  "character": "spawning_horror"
+ },
+ {
+  "title": "Stonemonger",
+  "kind": "nemesis",
+  "character": "stonemonger"
+ },
+ {
+  "title": "The Blight",
+  "kind": "nemesis",
+  "character": "the_blight"
+ },
+ {
+  "title": "The Burning Kor",
+  "kind": "nemesis",
+  "character": "the_burning_kor"
+ },
+ {
+  "title": "The Changeling Nest",
+  "kind": "nemesis",
+  "character": "the_changeling_nest"
+ },
+ {
+  "title": "The Coven",
+  "kind": "nemesis",
+  "character": "the_coven"
+ },
+ {
+  "title": "The Endless Decay",
+  "kind": "nemesis",
+  "character": "the_endless_decay"
+ },
+ {
+  "title": "The Infecter",
+  "kind": "nemesis",
+  "character": "the_infecter"
+ },
+ {
+  "title": "The Reliquary",
+  "kind": "nemesis",
+  "character": "the_reliquary"
+ },
+ {
+  "title": "The Terror in Brass",
+  "kind": "nemesis",
+  "character": "the_terror_in_brass"
+ },
+ {
+  "title": "The Timeless",
+  "kind": "nemesis",
+  "character": "the_timeless"
+ },
+ {
+  "title": "The Wailing",
+  "kind": "nemesis",
+  "character": "the_wailing"
+ },
+ {
+  "title": "The Wanderer",
+  "kind": "nemesis",
+  "character": "the_wanderer"
+ },
+ {
+  "title": "The Wrath",
+  "kind": "nemesis",
+  "character": "the_wrath"
+ },
+ {
+  "title": "Thief of Dreams",
+  "kind": "nemesis",
+  "character": "thief_of_dreams"
+ },
+ {
+  "title": "Thrice-Dead Prophet",
+  "kind": "nemesis",
+  "character": "the_prophet"
+ },
+ {
+  "title": "Twice-Dead Prophet",
+  "kind": "nemesis",
+  "character": "the_prophet"
+ },
+ {
+  "title": "Umbra Titan",
+  "kind": "nemesis",
+  "character": "umbra_titan"
+ },
+ {
+  "title": "Wayward One",
+  "kind": "nemesis",
+  "character": "wayward_one"
+ },
+ {
+  "title": "Wayward Reflection",
+  "kind": "nemesis",
+  "character": "wayward_reflection"
+ },
+ {
+  "title": "Wraithmonger",
+  "kind": "nemesis",
+  "character": "wraithmonger"
+ },
+ {
+  "title": "Xaxos: Ascended",
+  "kind": "nemesis",
+  "character": "xaxos"
+ },
+ {
+  "title": "Adelheim, the Blacksmith",
+  "kind": "friend",
+  "character": "adelheim"
+ },
+ {
+  "title": "Dai, the Youth",
+  "kind": "friend",
+  "character": "dai"
+ },
+ {
+  "title": "Dalana, the Healer",
+  "kind": "friend",
+  "character": "dalana"
+ },
+ {
+  "title": "Fawn, the Alchemist",
+  "kind": "friend",
+  "character": "fawn"
+ },
+ {
+  "title": "Grimoire, the Archive",
+  "kind": "friend",
+  "character": "grimoire"
+ },
+ {
+  "title": "Joanna, the Merchant",
+  "kind": "friend",
+  "character": "joanna"
+ },
+ {
+  "title": "Lash, the Dreamer",
+  "kind": "friend",
+  "character": "lash"
+ },
+ {
+  "title": "Myrna, the Scholar",
+  "kind": "friend",
+  "character": "myrna"
+ },
+ {
+  "title": "Qu, the Rift Walker",
+  "kind": "friend",
+  "character": "qu"
+ },
+ {
+  "title": "Sahala, the Apprentice",
+  "kind": "friend",
+  "character": "sahala"
+ },
+ {
+  "title": "Xaxos, the Arcane Researcher",
+  "kind": "friend",
+  "character": "xaxos"
+ },
+ {
+  "title": "Creeping Dark",
+  "kind": "foe",
+  "character": "creeping_dark"
+ },
+ {
+  "title": "Jeweled Wrath",
+  "kind": "foe",
+  "character": "jeweled_wrath"
+ },
+ {
+  "title": "The Anomaly",
+  "kind": "foe",
+  "character": "the_anomaly"
+ },
+ {
+  "title": "The Corrosion",
+  "kind": "foe",
+  "character": "the_corrosion"
+ },
+ {
+  "title": "The Cultist",
+  "kind": "foe",
+  "character": "the_cultist"
+ },
+ {
+  "title": "The Hunger",
+  "kind": "foe",
+  "character": "the_hunger"
+ },
+ {
+  "title": "The Mask",
+  "kind": "foe",
+  "character": "the_mask"
+ },
+ {
+  "title": "The Scavenger",
+  "kind": "foe",
+  "character": "the_scavenger"
+ },
+ {
+  "title": "The Storm",
+  "kind": "foe",
+  "character": "the_storm"
+ },
+ {
+  "title": "The Swarm",
+  "kind": "foe",
+  "character": "the_swarm"
+ },
+ {
+  "title": "The Traitor",
+  "kind": "foe",
+  "character": "the_traitor"
+ }
+]

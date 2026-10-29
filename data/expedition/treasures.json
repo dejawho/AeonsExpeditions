@@ -1,0 +1,3782 @@
+[
+ {
+  "title": "Absorbent Fang",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "At the start of the game, set this next to a supply pile. Players may spend Æ to place Æ tokens on this card equal to the Æ spent.\nDuring any player's main phase, that player may remove Æ tokens from this card to gain that much Æ that can only be spent to gain cards from the supply pile this was set next to.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Absorbent_Fang",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Accelerating Gauntlets",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "At the start of your first turn of the game, gain a card that costs 4 Æ or less.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Accelerating_Gauntlets",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Acceleration Staff",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "When you gain a spell that costs 4 Æ or more, focus your closed breach with the lowest focus cost.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Acceleration_Staff",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Adelheim's Amethyst Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nAny ally may draw a card and then discard a card in hand.",
+  "replaces": "Crystal",
+  "mage": "Adelheim",
+  "url": "https://aeonsend.wiki.gg/wiki/Adelheim's_Amethyst_Shard",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Agony Stone",
+  "level": 4,
+  "type": "Treasured Gem",
+  "cost": 4,
+  "box": "Promo",
+  "rules": "Gain 3 Æ and deal 1 damage.\nOR\nGain 1 Æ and deal 3 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Agony_Stone",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Alcheia's Geode",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain a trinket and place it into your hand.",
+  "replaces": "Crystal",
+  "mage": "Alcheia",
+  "url": "https://aeonsend.wiki.gg/wiki/Alcheia's_Geode",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Alchemic Stance",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "At the end of your turn before drawing cards, you may return a relic or spell from your discard pile to your hand.\nUse this card only when playing with Tressa.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Alchemic_Stance",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Alchemist's Alembic",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "Once per turn during your main phase, when you play the second gem or relic that costs 4 Æ or more, deal 3 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Alchemist's_Alembic",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Ancient Archive",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "At the start of the game and whenever the last card of a supply pile is gained, developed, or destroyed, add 3 power tokens to this.\nOnce per turn during any player's main phase, that player may remove 1 power token from this card to focus their closed breach with the lowest focus cost or remove 2 power tokens from this card to place the next card they gain into their hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ancient_Archive",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Ancient Scimitar",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Abyss",
+  "rules": "When you play a relic that costs 6 Æ or more, reveal the top card of your deck. You may destroy that card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ancient_Scimitar",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Ancient Texts",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "After a player finishes resolving their ability, they silence a minion.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ancient_Texts",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Arachnos' Cobwebs",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Evolution",
+  "rules": "While prepped, when you gain a card from a supply pile that costs 5 Æ or more, gain 1 charge.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Arachnos (Outcasts)",
+  "url": "https://aeonsend.wiki.gg/wiki/Arachnos'_Cobwebs",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Arachnos's Spellbook",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nIf you have two or more cards in hand that cost 4 Æ or more, gain 1 charge.",
+  "replaces": "Spark",
+  "mage": "Arachnos (Outcasts)",
+  "url": "https://aeonsend.wiki.gg/wiki/Arachnos's_Spellbook",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Arcane Reach",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "Spells that cost 7 Æ or more cost you 2 less Æ to gain.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Arcane_Reach",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Arcane Timepiece",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of your first turn of the game, gain 2 charges.\nOnce per game when the nemesis turn order card is drawn, you may lose 4 charges. If you do, skip the nemesis turn.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Arcane_Timepiece",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Armored Pauldrons",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "When you play a relic that costs 3 Æ or more, deal 1 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Armored_Pauldrons",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Artifact Stance",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "Once per turn, you may destroy a gem or relic in hand that costs 2 Æ or more. If you do, gain a card from the supply that costs up to 2 Æ more than the destroyed card.\nUse this card only when playing with Tressa.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Artifact_Stance",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Ashen Rib",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Southern Village",
+  "rules": "Once per turn after a player plays their second relic, any ally draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ashen_Rib",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Astral Tesseract",
+  "level": 4,
+  "type": "Treasured Relic",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Any ally may destroy a card in hand to gain 1 life.\nReturn a gem you played this turn to your hand.\nYou may destroy a card in your hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Astral_Tesseract",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Auren's Aluminum Infuser",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nThe next time you gain a spell this turn, any ally gains an Æ token.",
+  "replaces": "Crystal",
+  "mage": "Auren",
+  "url": "https://aeonsend.wiki.gg/wiki/Auren's_Aluminum_Infuser",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Auren's Copper Structure",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nIf you've cast three or more spells this turn, gain 1 charge and 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Auren",
+  "url": "https://aeonsend.wiki.gg/wiki/Auren's_Copper_Structure",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Auren's Rusted Automaton",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nIf you've defeated a minion from the nemesis deck this turn, you may destroy this and gain a relic that costs up to 5 Æ from the supply.",
+  "replaces": "Spark",
+  "mage": "Auren",
+  "url": "https://aeonsend.wiki.gg/wiki/Auren's_Rusted_Automaton",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Balanced Essence",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "At the start of your turn, if your discard pile contains six or more cards, you may destroy a card in hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Balanced_Essence",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Band of Retrieval",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "At the start of your casting phase, you may lose 1 charge. If you do, return the next spell you cast during this casting phase to your hand instead of discarding it.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Band_of_Retrieval",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Bayli's Burning Aura",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Prep a spell from your hand.",
+  "replaces": "Spark",
+  "mage": "Bayli",
+  "url": "https://aeonsend.wiki.gg/wiki/Bayli's_Burning_Aura",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Beaded Crown",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the start of your main phase, if you have three cards that cost 4 Æ or more in hand, gain 2 charges.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Beaded_Crown",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Blackened Claw",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the start of the game, set this next to a supply pile that costs 4 Æ or more.\nWhen a player gains a card from this supply pile, they silence a minion.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Blackened_Claw",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Bladed Crystal",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When you deal damage to the nemesis with a spell, that spell deals 1 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bladed_Crystal",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Blighted Root Clump",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "When the last card in a supply pile is gained or destroyed, any player gains 3 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Blighted_Root_Clump",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Blinding Dawn",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When the last card in a supply pile is gained, developed, or destroyed, any player destroys every card in their discard pile and deals 1 damage for each card destroyed in its way.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Blinding_Dawn",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Bloodjelly",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Abyss",
+  "rules": "When the last card in a supply pile is developed, gained, or destroyed, place 2 elemental tokens on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bloodjelly",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Bloodshot Geode",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "When you play a gem that costs 5 Æ or more, deal 2 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bloodshot_Geode",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Bones of Deathmind",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When a player opens a breach, that player gains 1 charge.\nAt the start of any player's turn, if that player has no closed breaches, that player gains 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bones_of_Deathmind",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Boots of Arcane Quickening",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of your first turn of the game, gain 4 Æ that can only be used to gain a spell.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Boots_of_Arcane_Quickening",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Bottled Melody",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of the game, set this next to a relic supply pile.\nWhen a player plays a card from that supply pile, a different player draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bottled_Melody",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Bottled Spine",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Caverns",
+  "rules": "At the start of the game, set this next to a supply pile that costs 6 Æ or more.\nWhen a player gains a card from this supply pile, they may destroy a card in hand or discard pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bottled_Spine",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Brama's Buried Light",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Deal 1 damage. Gain 1 Æ.",
+  "replaces": "Spark",
+  "mage": "Brama",
+  "url": "https://aeonsend.wiki.gg/wiki/Brama's_Buried_Light",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Brama's Eternium",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nYou may suffer 1 damage. If you do, any ally gains an Æ token.",
+  "replaces": "Crystal",
+  "mage": "Brama",
+  "url": "https://aeonsend.wiki.gg/wiki/Brama's_Eternium",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Brama's Funneled Rage",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Surface",
+  "rules": "While prepped, when you suffer damage, gain an Æ token.\nWhile prepped, when a player would suffer damage, you may suffer that damage instead.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Brama",
+  "url": "https://aeonsend.wiki.gg/wiki/Brama's_Funneled_Rage",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Breach Andesite",
+  "level": 4,
+  "type": "Treasured Gem",
+  "cost": 3,
+  "box": "Beyond the Breach",
+  "rules": "Gain 2 Æ and focus your closed breach with your lowest focus cost. If all your breaches are opened, gain an additional 1 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Breach_Andesite",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Breach Stabilizer (Treasure)",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "Any number of Sparks may be prepped to your I breach.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Breach_Stabilizer_(Treasure)",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Breach Stance",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "Once per turn during your main phase, you may discard a card in hand. If you do, focus your closed breach with the lowest focus cost.\nUse this card only when playing with Tressa.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Breach_Stance",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Brightflame Furnace",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Caverns",
+  "rules": "Sparks you cast deal an additional 1 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Brightflame_Furnace",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Brilliant Sapphire",
+  "level": 4,
+  "type": "Treasured Gem",
+  "cost": 5,
+  "box": "Beyond the Breach",
+  "rules": "Gain 3 Æ.\nPlayers collectively gain 2 charges.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Brilliant_Sapphire",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Broken Tooth",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "When a player opens a breach, any ally draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Broken_Tooth",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Brooch of Attunment",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "Once per turn, when you cast a spell that costs 6 Æ of more, gain 2 charges.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Brooch_of_Attunment",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Burning Phoenix",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 3,
+  "box": "The Returned",
+  "rules": "Cast: Deal 3 damage and gain 1 charge.\nOR\nLose 1 charge to deal 6 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Burning_Phoenix",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Bursting Bracelet",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Return To Gravehold",
+  "rules": "When you focus or open a breach, you may cast any player's prepped spell. That spell deals 1 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bursting_Bracelet",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Cairna's Invigorate",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Return a spell in your discard pile to your hand.",
+  "replaces": "Spark",
+  "mage": "Cairna",
+  "url": "https://aeonsend.wiki.gg/wiki/Cairna's_Invigorate",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Calcified Electinium",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "Set this next to any gem or relic supply pile that costs 5 Æ or more. When a player gains a card from that supply pile, they place that card into their hand.\nDuring any player's main phase, if this supply pile is empty, they may destroy this treasure to gain 4 charges.\nUse this card only when playing with Dezmodia.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Calcified_Electinium",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Carapace Fragment",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "At the start of the game, set this next to a relic or spell supply pile. When a player gains a card from that supply pile, that player focuses one of their breaches.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Carapace_Fragment",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Celestial Slayer",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 4,
+  "box": "The Surface",
+  "rules": "Cast: Deal 4 damage.\nAny ally draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Celestial_Slayer",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Claudia's Aetherscope",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Gain 1 Æ.\nOR\nAny ally may lose 1 charge. If they do, gain two charges.",
+  "replaces": "Crystal",
+  "mage": "Claudia",
+  "url": "https://aeonsend.wiki.gg/wiki/Claudia's_Aetherscope",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Claudia's Kaleidoscope",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nYou may return a gem from your discard pile to your hand.",
+  "replaces": "Spark",
+  "mage": "Claudia",
+  "url": "https://aeonsend.wiki.gg/wiki/Claudia's_Kaleidoscope",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Cleansing Amulet",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "After a player finishes resolving their ability, any player may destroy a card in hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Cleansing_Amulet",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Cloak of Wisdom",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Southern Village",
+  "rules": "At the start of your main phase, if there are five or more cards in your discard pile, focus one of your closed breaches.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Cloak_of_Wisdom",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Clockwork Spindle",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the start of the game, set this next to a supply pile that costs 4 Æ or more.\nWhen a player gains a card from this supply pile, any ally gains an Æ token.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Clockwork_Spindle",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Core of Rage",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "At the start of the game, set this next to a spell or relic supply pile. When a player gains a card from that supply pile, they deal 2 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Core_of_Rage",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Corrupted Coil",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "Set this next to any gem or relic supply pile that costs 5 Æ or more. When a player gains a card from that supply pile, they place that card into their hand.\nDuring any player's main phase, if this supply pile is empty, they may destroy this treasure to gain 4 charges.\nUse this card only when playing with Dezmodia.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Corrupted_Coil",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Corrupted Potion",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "After a player finishes resolving their ability, any ally may focus a breach and may prep a spell in hand to an opened or closed breach.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Corrupted_Potion",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Cracked Antler",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When a player focuses a III or IV breach, any ally gains an Æ token.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Cracked_Antler",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Cracked Fang",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Abyss",
+  "rules": "At the start of the game, set this next to a supply pile that costs 6 Æ or more.\nWhen a player gains a card from this supply pile, each ally gains a charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Cracked_Fang",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Creator Stance",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "Gems and relics cost you 1 Æ less to gain.\nUse this card only when playing with Tressa.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Creator_Stance",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Crone's Amulet",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "When a player opens a breach, that player may destroy a card in hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Crone's_Amulet",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Crown of Fangs",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of the game, set this next to a spell supply pile that costs 6 Æ or more. These cards cost players 1 less Æ to gain.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Crown_of_Fangs",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Crown of the Abyss",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "At the start of your first turn of the game, destroy up to three cards in hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Crown_of_the_Abyss",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Crystalline Echo",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of the game, set this next to a supply pile.\nWhen a player gains a card from that supply pile, that player places the gained card into hand. Then, they gain two trinkets and place them on top of their deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Crystalline_Echo",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Crystallized Heart",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 6,
+  "box": "Promo",
+  "rules": "Cast: Any player gains a gem from any supply pile and places it into their hand.\nOR\nCast: Any player discards a gem. Deal damage equal to that gem's cost plus 6.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Crystallized_Heart",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Current Conductor",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the beginning of your turn, if you have three or more opened breaches, gain 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Current_Conductor",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Dezmodia's Eternal Darkness",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "This may be prepped to closed breaches.\nCast: Gain 3 Æ that can only be used to focus or open a breach.",
+  "replaces": "Spark",
+  "mage": "Dezmodia (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia's_Eternal_Darkness",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Dezmodia's Oblivion Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "Gain 2 Æ that cannot be used to gain a relic or spell.",
+  "replaces": "Crystal",
+  "mage": "Dezmodia (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia's_Oblivion_Shard",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Dezmodia's Voidspark",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "While prepped, an additional spell may be prepped to this breach.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Dezmodia (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia's_Voidspark",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Dimensional Purse",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "When you gain a card that costs 5 Æ or more, gain 1 Æ token.\nYou do not lose Æ tokens at the end of your turn.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Dimensional_Purse",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Dorian's Spatial Distortion",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "While prepped, you may Develop a card in the supply or Develop zone that does not have a Develop cost for half of that card's cost rounded up.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Dorian",
+  "url": "https://aeonsend.wiki.gg/wiki/Dorian's_Spatial_Distortion",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Doublefang",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of the game, set this next to a supply pile whose cards have no Develop cost. Those cards can be Developed for half of their cost rounded up.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Doublefang",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Edible Fungus Chunks",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "When a player gains life, they gain an additional 1 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Edible_Fungus_Chunks",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Embedded Light",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "After a player finishes resolving their ability, they gain 1 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Embedded_Light",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Ember Blade",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Origins",
+  "rules": "When the last card in a supply pile is developed, gained, or destroyed, Gravehold gains 3 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ember_Blade",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Endless Bandolier",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "Once per turn during your main phase you may discard a card in hand. If you do, deal 1 damage and gain 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Endless_Bandolier",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Energized Husk",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Return To Gravehold",
+  "rules": "After a player finishes resolving their ability, any ally draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Energized_Husk",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Entwined Aether Strands",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "At the end of your draw phase, you may discard one card in hand and draw a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Entwined_Aether_Strands",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Essence Extractor",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When you play a gem that costs 5 Æ or more, gain an additional 1 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Essence_Extractor",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Essence Membrane",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "After a player finishes resolving their ability, that player places an elemental token on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Essence_Membrane",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Eternal Cadence",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "When your III breach is opened, deal 5 damage.\nWhen your IV breach is opened, gain 5 Æ tokens.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Eternal_Cadence",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Everfull Purse",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the end of your draw phase, if the total cost of gems and relics in your hand is 7 Æ or more, draw a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Everfull_Purse",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Extra-Dimensional Lens",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Shattered Dreams",
+  "rules": "Once per turn during your main phase, you may reveal the top three cards of the nemesis deck. Return them in any order.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Extra-Dimensional_Lens",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Eye of the Maelstrom",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "At the start of the game, set this next to a supply pile that costs 4 Æ or more. When a player gains a card from that supply pile, that player gains 1 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Eye_of_the_Maelstrom",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Fanged Choker",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the end of your draw phase, if the total cost of spells in your hand is 6 Æ or more, draw a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Fanged_Choker",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Featherweave Satchel",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "You may prep one additional spell to your III breach. You may prep one additional spell to your IV breach.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Featherweave_Satchel",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Feedback Field",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Surface",
+  "rules": "Once per turn, when you gain a charge, any ally gains a charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Feedback_Field",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Feedback Resonance",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 5,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 4 damage and gain a charge.\nThen, if you have 4 or more charges, deal 3 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Feedback_Resonance",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Fiend Neutralizer",
+  "level": 4,
+  "type": "Treasured Relic",
+  "cost": 3,
+  "box": "The Returned",
+  "rules": "Gain 1 charge. Any player may destroy a card in their hand or discard pile.\nOR\nLose 3 charges and destroy this card. If you do, defeat a minion from the nemesis deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Fiend_Neutralizer",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Flash Gauntlets",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of your turn, gain 2 charges.\nAfter you finish resolving your ability, suffer 1 damage.\nAt the end of your turn, lose all of your charges.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Flash_Gauntlets",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Flowing Mantle",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "At the start of your turn, gain 1 Æ that can only be used to gain relics.\nWhen you gain a relic, you may place it on top of your deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Flowing_Mantle",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Forgotten Trinket",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "At the start of your first turn of the game, focus each of your closed breaches once.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Forgotten_Trinket",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Fossilized Feather",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Evolution",
+  "rules": "At the start of the game, set this next to a relic or spell supply pile that costs 4 Æ or less.\nWhen a player opens a breach, any player may gain a card from this supply pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Fossilized_Feather",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Fractured Shell",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Shattered Dreams",
+  "rules": "At the start of the game, set this next to a supply pile that costs 4 Æ or more. When a player gains a card from that supply, that player gains a charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Fractured_Shell",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Fungal Network",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "After a player finishes resolving their ability, place a power token on this, and that player may gain a card that costs 4 Æ or less from the supply. During any player's main phase, they may destroy cards in their hand or their discard pile equal to the number of power tokens on this, then destroy this treasure.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Fungal_Network",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Garnet Dust",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "Once per turn, during any player's main phase, that player may spend 3 Æ to have each ally draw a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Garnet_Dust",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Garu's Torch",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Focus any player's breach.",
+  "replaces": "Spark",
+  "mage": "Garu",
+  "url": "https://aeonsend.wiki.gg/wiki/Garu's_Torch",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Gem Encrusted Anklet",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "At the start of your first turn of the game, gain 3 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Gem_Encrusted_Anklet",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Gex's Shattered Geode",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nYou may place the top card of any ally's discard pile into your hand.",
+  "replaces": "Crystal",
+  "mage": "Gex",
+  "url": "https://aeonsend.wiki.gg/wiki/Gex's_Shattered_Geode",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Gilded Cuirass",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "At the start of your main phase, if you have four or more cards in hand that cost 1 Æ or more, deal 3 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Gilded_Cuirass",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Glittering Rubble",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Caverns",
+  "rules": "When a player focuses or opens a III or IV breach, deal 1 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Glittering_Rubble",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Glutton's Tooth",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When the last card in a supply pile is gained or destroyed, any player deals 6 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Glutton's_Tooth",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Gravi-Matrix",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Surface",
+  "rules": "At the start of the game, set this next to any supply pile that costs 7 Æ or more.\nWhen a player gains a card from that supply pile, each player may destroy a card in their hand. When the last card in this supply pile is gained, developed, or destroyed, Gravehold gains 5 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Gravi-Matrix",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Gygar's Rising Tide",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "When you prep this, gain 1 Æ.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Gygar",
+  "url": "https://aeonsend.wiki.gg/wiki/Gygar's_Rising_Tide",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Gygar's Tsunami",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Cast: Deal 1 damage.\nYou may lose 1 charge. If you do, deal 3 additional damage.",
+  "replaces": "Spark",
+  "mage": "Gygar",
+  "url": "https://aeonsend.wiki.gg/wiki/Gygar's_Tsunami",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Harmonic Radiance",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 6,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 6 damage.\nEach ally draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Harmonic_Radiance",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Henge Pendant",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "At the end of your casting phase, if you cast no spells this turn, place an elemental token on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Henge_Pendant",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Honing Goggles",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "When you cast the second spell during your casting phase, deal 1 damage.\nAt the end of your casting phase, if you cast four or more spells this turn, return a spell from your discard pile to your hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Honing_Goggles",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Horn of Plenty",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Return To Gravehold",
+  "rules": "Draw two cards from the level 1 treasure deck and add them to the Barracks.\nAdd two additional level 1 treasures to your starting deck using the level 1 treasure rules.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Horn_of_Plenty",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Ice-Heart Shard",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "Set this next to any gem or relic supply pile. Cards from this supply pile cost 1 Æ less to gain. During any player's main phase, if they have two or more gems or relics in hand that cost 2 Æ or more, they may destroy this treasure to have any ally draw three cards.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ice-Heart_Shard",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Ilya and Kel's Tourmaline Fragment",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nPlace a card from your hand into any player's hand. That player places a card from their hand into your hand.",
+  "replaces": "Crystal",
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ilya_and_Kel's_Tourmaline_Fragment",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Ilya's Trulite of Force",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nAny ally may discard a card in hand. If they do, gain 1 Æ that can only be used to gain a spell or to focus or open a breach.",
+  "replaces": "Crystal",
+  "mage": "Ilya (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Ilya's_Trulite_of_Force",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Imbued Circlet",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Return To Gravehold",
+  "rules": "When you gain a gem, Gravehold gains 1 life.\nThis can cause Gravehold to have more than its maximum life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Imbued_Circlet",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Imbued Shackles",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "At the start of the game, set this next to a supply pile that costs 7 Æ or more. These cards cost players 1 less Æ to gain.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Imbued_Shackles",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Inco's Carnivorous Sunflower",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nOR\nSpend 1 Æ to destroy a card in your hand.",
+  "replaces": "Crystal",
+  "mage": "Inco (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Inco's_Carnivorous_Sunflower",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Inco's Spreading Emerald",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Southern Village",
+  "rules": "Gain 1 Æ\nOR\nThe next time you gain a card that costs 3 Æ or less this turn, any ally gains a copy of that card from the supply.",
+  "replaces": "Crystal",
+  "mage": "Inco (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Inco's_Spreading_Emerald",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Indira's Aetherial Glow",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Evolution",
+  "rules": "While prepped, once per each player's turn, you may discard a spell in hand to have that player gain 1 Æ.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Indira",
+  "url": "https://aeonsend.wiki.gg/wiki/Indira's_Aetherial_Glow",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Indira's Lone Opal",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "Gain 1 Æ.\nYou may cast a spell in hand that costs 4 Æ or less.",
+  "replaces": "Crystal",
+  "mage": "Indira",
+  "url": "https://aeonsend.wiki.gg/wiki/Indira's_Lone_Opal",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Indira's Weathered Opal",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nYou may cast a spell in your discard pile.",
+  "replaces": "Crystal",
+  "mage": "Indira",
+  "url": "https://aeonsend.wiki.gg/wiki/Indira's_Weathered_Opal",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Infinity Bracer",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the start of your first turn of the game, you may prep any number of spells in hand to your opened or closed breaches. Draw a card for each spell prepped this way.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Infinity_Bracer",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Infused Aether",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "At the start of the game, set this next to a spell supply pile that costs 7 Æ or more.\nWhen a player casts a spell gained from this supply pile, they may place an elemental token on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Infused_Aether",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Infused Cradle",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "At the start of the game, set this next to a supply pile that costs 6 Æ or more.\nWhen a player gains a card from this supply pile, any ally gains 1 charge and an Æ token.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Infused_Cradle",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Inventor's Kit",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the start of your first turn of the game, gain a relic from any supply pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Inventor's_Kit",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Janti's Redirector",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 1 damage. Deal an additional 1 damage if this is cast from an opened III breach. Gain a charge if this is cast from an opened IV breach.",
+  "replaces": "Spark",
+  "mage": "Janti",
+  "url": "https://aeonsend.wiki.gg/wiki/Janti's_Redirector",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Jian's Focusing Orb",
+  "level": 4,
+  "type": "Treasured Relic",
+  "cost": 4,
+  "box": "Promo",
+  "rules": "Focus any player's breach. Any ally draws a card.\nOR\nDestroy this. Gravehold gains 5 life.",
+  "replaces": null,
+  "mage": "Jian",
+  "url": "https://aeonsend.wiki.gg/wiki/Jian's_Focusing_Orb",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Jian's Moonstone Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nGain an additional 1 Æ that can only be used to gain a gem.",
+  "replaces": "Crystal",
+  "mage": "Jian",
+  "url": "https://aeonsend.wiki.gg/wiki/Jian's_Moonstone_Shard",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Kadir's Ancient Emerald",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Origins",
+  "rules": "Gain 1 Æ. If you have 3 charges or more, any ally gains 1 life.",
+  "replaces": "Crystal",
+  "mage": "Kadir",
+  "url": "https://aeonsend.wiki.gg/wiki/Kadir's_Ancient_Emerald",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Kadir's Emerald Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nOR\nAny player gains 1 life.",
+  "replaces": "Crystal",
+  "mage": "Kadir",
+  "url": "https://aeonsend.wiki.gg/wiki/Kadir's_Emerald_Shard",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Kain's Spilt Light",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Surface",
+  "rules": "Cast: Deal 1 damage.\nAny player may discard a card in hand. If they do, that player gains an Æ token.",
+  "replaces": "Spark",
+  "mage": "Kain",
+  "url": "https://aeonsend.wiki.gg/wiki/Kain's_Spilt_Light",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Kavoc's Dark Flame",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "Cast: Deal 1 damage. You may suffer 1 damage. If you do, deal 2 additional damage.",
+  "replaces": "Spark",
+  "mage": "Kavoc",
+  "url": "https://aeonsend.wiki.gg/wiki/Kavoc's_Dark_Flame",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Kavoc's Forgotten Ritual",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "While prepped, once per turn during your main phase, you may suffer 1 damage to gain 1 charge.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Kavoc",
+  "url": "https://aeonsend.wiki.gg/wiki/Kavoc's_Forgotten_Ritual",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Kavoc's Soulstone",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "Gain 1 Æ.\nYou may discard a prepped spell to gain an additional 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Kavoc",
+  "url": "https://aeonsend.wiki.gg/wiki/Kavoc's_Soulstone",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Kel's Trulite of Energy",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nAny ally may discard a card in hand. If they do, gain 1 Æ that can only be used to gain a gem or relic.",
+  "replaces": "Crystal",
+  "mage": "Kel",
+  "url": "https://aeonsend.wiki.gg/wiki/Kel's_Trulite_of_Energy",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Kiri's Phoenix Claw",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nYou may discard three gems in hand to destroy this and gain a spell from the supply that costs 4 Æ or less.",
+  "replaces": "Spark",
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Kiri's_Phoenix_Claw",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Knitted Iron",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "Whenever you suffer damage, gain 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Knitted_Iron",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Lash's Quartz Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nReveal the top card of the turn order deck. You may place that card on the bottom or the top of the turn order deck. If you revealed a player turn order card, gain an additional 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Lash",
+  "url": "https://aeonsend.wiki.gg/wiki/Lash's_Quartz_Shard",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Leisan's Book",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "The first time you use your ability this game, gain any card from the supply and place it into your hand. Then, destroy this treasure.",
+  "replaces": null,
+  "mage": "Leisan",
+  "url": "https://aeonsend.wiki.gg/wiki/Leisan's_Book",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Leisan's Unsealed Essence",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "When the game starts, place a nemesis token on your ability. When you use your ability, remove it.Gain 1 Æ. If your ability doesn't have a nemesis token on it, gain an additional 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Leisan",
+  "url": "https://aeonsend.wiki.gg/wiki/Leisan's_Unsealed_Essence",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Lilly's Voidling Lure",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "Cast: Deal 1 damage.\nIf a minion from the nemesis deck is defeated this way, any ally draws a card and gains an Æ token.",
+  "replaces": "Spark",
+  "mage": "Lilly",
+  "url": "https://aeonsend.wiki.gg/wiki/Lilly's_Voidling_Lure",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Looking Glass",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When a player focuses a breach, reveal the top card of the turn order deck. You may place the revealed card on the bottom.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Looking_Glass",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Lost's Forged Crystal",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Southern Village",
+  "rules": "(When the game starts, all a Crystal to your discard pile.)\nGain 2 Æ.",
+  "replaces": "Crystal",
+  "mage": "Lost",
+  "url": "https://aeonsend.wiki.gg/wiki/Lost's_Forged_Crystal",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Lost's Forged Spark",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "(When the game starts, add a Crystal to your discard pile.)\nCast: Deal 2 damage.",
+  "replaces": "Spark",
+  "mage": "Lost",
+  "url": "https://aeonsend.wiki.gg/wiki/Lost's_Forged_Spark",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Lost's Molten Forge",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Gain 2 Æ that can only be used to gain spells.",
+  "replaces": "Spark",
+  "mage": "Lost",
+  "url": "https://aeonsend.wiki.gg/wiki/Lost's_Molten_Forge",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Lucien's Sun Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nGain 3 Æ that can only be used to open a breach.",
+  "replaces": "Crystal",
+  "mage": "Lucien",
+  "url": "https://aeonsend.wiki.gg/wiki/Lucien's_Sun_Shard",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Luck Stone",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "At the start of the game, place your player number token next to a supply pile.\nCards from that supply pile cost you 2 less Æ to gain and 1 less Æ to to Develop.\nOther players cannot gain cards from this supply pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Luck_Stone",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Magma Heart",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Caverns",
+  "rules": "When you gain a spell that costs 4 Æ or more, place an elemental token on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Magma_Heart",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Malastar's Immolate",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "While prepped, when you suffer damage, gain 1 charge.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Malastar (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Malastar's_Immolate",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Malastar's Imperfect Zanite",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nReveal the top card of your deck. If it is a relic, gain 1 additional Æ. Then, you may place that card on the bottom of your deck.",
+  "replaces": "Crystal",
+  "mage": "Malastar (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Malastar's_Imperfect_Zanite",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Massacre Helm",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Southern Village",
+  "rules": "When you cast three or more spells during your casting phase, deal 3 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Massacre_Helm",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Mazahaedron's Earth",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nYou may place the next card you gain this turn on top of any ally's discard pile. If you do, gain 1 charge.",
+  "replaces": "Crystal",
+  "mage": "Mazahaedron",
+  "url": "https://aeonsend.wiki.gg/wiki/Mazahaedron's_Earth",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Mazahaedron's Worldheart Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Shattered Dreams",
+  "rules": "Gain 1 Æ.\nOR\nGain 2 Æ that can only be used to gain a card. Place the next card you gain this turn on top of any ally's discard pile.",
+  "replaces": "Crystal",
+  "mage": "Mazahaedron",
+  "url": "https://aeonsend.wiki.gg/wiki/Mazahaedron's_Worldheart_Shard",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Mazra's Thesis",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Cast: Deal 1 damage.\nFocus any player's III breach.",
+  "replaces": "Spark",
+  "mage": "Mazra",
+  "url": "https://aeonsend.wiki.gg/wiki/Mazra's_Thesis",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Memory Coin",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the start of your first turn of the game, gain a spell that costs 5 Æ or less.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Memory_Coin",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Mist's Amethyst Paragon",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "Gain 1 Æ.\nAny ally may prep a spell in hand to their opened or closed breach(es).",
+  "replaces": "Crystal",
+  "mage": "Mist (War Eternal)",
+  "url": "https://aeonsend.wiki.gg/wiki/Mist's_Amethyst_Paragon",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Mist's Garnet Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nOR\nCast any player's prepped spell.",
+  "replaces": "Crystal",
+  "mage": "Mist (War Eternal)",
+  "url": "https://aeonsend.wiki.gg/wiki/Mist's_Garnet_Shard",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Molten Diamond",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Caverns",
+  "rules": "Once per turn, during any player's main phase, that player may spend 3 Æ to place an elemental token on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Molten_Diamond",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Molten Gold",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the start of the game, set this next to a supply pile that costs 7 Æ or more.\nWhen a player gains a card from that supply pile, Gravehold gains 2 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Molten_Gold",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Nadea's Smooth Tourmaline",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nYou may spend 2 Æ to place a gem or relic you played this turn on top of your deck.",
+  "replaces": "Crystal",
+  "mage": "Nadea",
+  "url": "https://aeonsend.wiki.gg/wiki/Nadea's_Smooth_Tourmaline",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Naftir's Vorpal Knife",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Cast: If this was cast from a III breach, deal 2 damage.\nOtherwise, deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Naftir",
+  "url": "https://aeonsend.wiki.gg/wiki/Naftir's_Vorpal_Knife",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Nook's Mechanek",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Evolution",
+  "rules": "Gain 1 Æ.\nOR\nFocus one of your breaches. Repeat this once. Then, destroy this card and gain a Crystal.",
+  "replaces": "Crystal",
+  "mage": "Nook (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Nook's_Mechanek",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Nook's Mystic Flourish",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nCast a spell in your hand. If that spell costs 1 Æ or more, return that spell to its supply pile, gain a spell from any supply pile that costs less than the cast spell, and gain 1 charge.",
+  "replaces": "Crystal",
+  "mage": "Nook (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Nook's_Mystic_Flourish",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Nook's Nihilum",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Origins",
+  "rules": "Gain 1 Æ.\nOR\nDestroy this. Gain 2 Æ. Silence a minion.",
+  "replaces": "Crystal",
+  "mage": "Nook (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Nook's_Nihilum",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Nook's Zeronia",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nOR\nDestroy this. Gain 2 Æ. Any ally gains a charge.",
+  "replaces": "Crystal",
+  "mage": "Nook (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Nook's_Zeronia",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Nym's Vision",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nReveal the top card of the nemesis deck. If you revealed an attack, gain 2 Æ.",
+  "replaces": "Spark",
+  "mage": "Nym",
+  "url": "https://aeonsend.wiki.gg/wiki/Nym's_Vision",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Ohat's Shower of Coals",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Suffer 1 damage and gain 2 Æ.\nOR\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ohat's_Shower_of_Coals",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Ona's Destroyed Geode",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nThe next time you use your ability this turn, gain a spell from the supply that costs 5 Æ or less.",
+  "replaces": "Crystal",
+  "mage": "Ona",
+  "url": "https://aeonsend.wiki.gg/wiki/Ona's_Destroyed_Geode",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Ona's Overwhelming Flame",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nThe next time you use your ability this turn, cast any player's prepped spell without discarding it.",
+  "replaces": "Crystal",
+  "mage": "Ona",
+  "url": "https://aeonsend.wiki.gg/wiki/Ona's_Overwhelming_Flame",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Ona's Sustained Beacon",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "When you prep this, if there is a spell that costs 5 Æ or more prepped to an adjacent breach, gain 2 Æ.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Ona",
+  "url": "https://aeonsend.wiki.gg/wiki/Ona's_Sustained_Beacon",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Onyx Elixir",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Southern Village",
+  "rules": "At the start of the game, set this next to a supply pile that costs 7 Æ or more. When a player gains a card from that supply pile, that player gains 2 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Onyx_Elixir",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Overload Stance",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "At the end of your casting phase:\nIf you cast one or two spells, deal 1 damage.\nIf you cast three or more spells, deal 4 damage.\nUse this card only when playing with Tressa.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Overload_Stance",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Petrified Witch Finger",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "When the last card in a supply pile is gained or destroyed, any player gains 3 charges.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Petrified_Witch_Finger",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Phaedraxa's Tourmaline Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Shattered Dreams",
+  "rules": "Gain 1 Æ.\nAny ally may suffer 1 damage. If they do, they destroy a card in hand.",
+  "replaces": "Crystal",
+  "mage": "Phaedraxa",
+  "url": "https://aeonsend.wiki.gg/wiki/Phaedraxa's_Tourmaline_Shard",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Phantasmal Echo",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 2,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 3 damage.\nYou may discard or destroy a card in your hand. If you do, deal additional damage equal to its cost.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Phantasmal_Echo",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Planar Visions",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Cast: Deal 2 damage.\nFocus your closed breach with the lowest focus cost.\nDeal 1 additional damage for each of your opened breaches.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Planar_Visions",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Poison Heart",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "At the start of the game, set this next to a spell supply pile that costs 5 Æ or less. Those spells deal 1 additional damage when cast.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Poison_Heart",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Polished Dyaminium",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "Set this next to any supply pile. When a player gains a card from this supply pile, that player gains a charge. During any player's main phase, if this supply pile is empty, they may destroy this treasure to have Gravehold gain 3 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Polished_Dyaminium",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Portable Furnace",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Evolution",
+  "rules": "When you cast a spell that costs 0 Æ, you may destroy it.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Portable_Furnace",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Precision Magnifier",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "Spells you cast that cost 2 Æ or more deal 1 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Precision_Magnifier",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Prism of Destruction",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "If you have no closed breaches, spells you cast deal 2 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Prism_of_Destruction",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Prismatic Cluster",
+  "level": 4,
+  "type": "Treasured Gem",
+  "cost": 3,
+  "box": "The Surface",
+  "rules": "Gain 3 Æ.\nFor each other gem in your hand that costs 1 Æ or more, gain an additional 1 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Prismatic_Cluster",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Purified Bangle",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "Once per turn during your main phase, you may spend 9 Æ and suffer 1 damage to place a card in play from the nemesis deck on top of the nemesis deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Purified_Bangle",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Pyroclastic Slag",
+  "level": 4,
+  "type": "Treasured Gem",
+  "cost": 3,
+  "box": "The Returned",
+  "rules": "Gain 2 Æ.\nGain additional Æ equal to the nemesis tier.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Pyroclastic_Slag",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Qu's Call of the Void",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "While prepped, the first time you play a gem or relic that costs 1 Æ or more each turn, play that card twice and then return it to the supply.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Qu (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Qu's_Call_of_the_Void",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Qu's Oblivion Relic",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nIf there are three or more player turn order cards in the turn order discard pile, gain a charge.",
+  "replaces": "Crystal",
+  "mage": "Qu (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Qu's_Oblivion_Relic",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Qu's Void Radite",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Gain 1 Æ.\nYou may cast any player's prepped spell. That spell deals 1 less damage, minimum 1.",
+  "replaces": "Crystal",
+  "mage": "Qu (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Qu's_Void_Radite",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Quantum Transmogrifier",
+  "level": 4,
+  "type": "Treasured Relic",
+  "cost": 4,
+  "box": "Beyond the Breach",
+  "rules": "Any player destroys a card in hand and gains a card costing up to 3 Æ more than its cost. That player places the gained card into their hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Quantum_Transmogrifier",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Quasar Forge",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 6,
+  "box": "The Returned",
+  "rules": "While prepped, once per turn during your main phase, gain 3 Æ that can only be used to gain a spell.\nDeal 6 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Quasar_Forge",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Quicksilver",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "When you cast a spell that costs 2 Æ or more, you may place it into any ally's hand instead of discarding it.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Quicksilver",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Quilius's Backstab",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Returned",
+  "rules": "Cast: Deal 2 damage.\nOR\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Quilius (The Caverns)",
+  "url": "https://aeonsend.wiki.gg/wiki/Quilius's_Backstab",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Quilius's Erasure",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 1 damage. If this damages a minion, deal 1 additional damage.",
+  "replaces": "Spark",
+  "mage": "Quilius (The Caverns)",
+  "url": "https://aeonsend.wiki.gg/wiki/Quilius's_Erasure",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Quilius's Trophies",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "When you defeat a minion from the nemesis deck, gain 2 charges.\nAfter you activate your ability, deal 2 damage.",
+  "replaces": null,
+  "mage": "Quilius (The Caverns)",
+  "url": "https://aeonsend.wiki.gg/wiki/Quilius's_Trophies",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Raven's Oculus",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nOR\nGain a card from the supply by losing charges equal to half its cost, rounded up.",
+  "replaces": "Crystal",
+  "mage": "Raven",
+  "url": "https://aeonsend.wiki.gg/wiki/Raven's_Oculus",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Raven's Seeker's Light",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nReveal the top card of your deck. You may discard that card or return it to the top of your deck.",
+  "replaces": "Crystal",
+  "mage": "Raven",
+  "url": "https://aeonsend.wiki.gg/wiki/Raven's_Seeker's_Light",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Razra's Training Whistle",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nOR\nGain 1 charge.",
+  "replaces": "Crystal",
+  "mage": "Razra (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Razra's_Training_Whistle",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Reality Key",
+  "level": 4,
+  "type": "Treasured Relic",
+  "cost": 7,
+  "box": "Promo",
+  "rules": "Any ally draws three cards, then discards a card.\nYou may destroy this to put a card in play from the nemesis deck on top of the nemesis deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Reality_Key",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Rebound Gauntlet",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Once per turn, when you cast a spell that costs 5 Æ or less, you may discard a spell in hand to return the cast spell to your hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Rebound_Gauntlet",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Reeve's Raven Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ. You may discard a card in hand. If you do, gain an additional 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Reeve",
+  "url": "https://aeonsend.wiki.gg/wiki/Reeve's_Raven_Shard",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Regenerating Scythe",
+  "level": 4,
+  "type": "Treasured Spell",
+  "cost": 7,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 8 damage.\nGain 2 life and place this on top of any player's discard pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Regenerating_Scythe",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Rejuvenating Diamond",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "When Gravehold gains life, Gravehold gains an additional 1 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Rejuvenating_Diamond",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Relay Amplifier",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "At the start of the game, set this next to a gem supply pile.\nWhen a player plays a gem from that supply pile, any ally may discard a copy of that gem in their hand to gain 2 Æ tokens and draw a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Relay_Amplifier",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Reliquary's Mark",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Surface",
+  "rules": "At the start of the game and whenever you gain a card that costs 5 Æ or more, place a power token on this.\nAt the start of any player's casting phase, you may remove a power token from this. If you do, spells cast this turn, deal 1 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Reliquary's_Mark",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Remnant's Void Shard",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Ancients",
+  "rules": "Gain 1 Æ.\nGain an additional 1 Æ that can only be used to focus or open a breach.",
+  "replaces": "Crystal",
+  "mage": "Remnant (Beyond the Breach)",
+  "url": "https://aeonsend.wiki.gg/wiki/Remnant's_Void_Shard",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Reth's Fossilized Rose",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Discard a card in hand. If you do, gain a spell that costs 5 Æ or less from any supply pile.",
+  "replaces": "Spark",
+  "mage": "Reth",
+  "url": "https://aeonsend.wiki.gg/wiki/Reth's_Fossilized_Rose",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Rewind Pendant",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "Before you draw cards during your draw phase, you may return a relic or spell from your discard pile to your hand.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Rewind_Pendant",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Rhia's Planar Pocket",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nGain an additional 1 Æ that can only be used to gain a relic.",
+  "replaces": "Crystal",
+  "mage": "Rhia",
+  "url": "https://aeonsend.wiki.gg/wiki/Rhia's_Planar_Pocket",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Ritual Staff",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When a player gains a card that costs 7 Æ or more, add a power token to this card.\nAt the start of the nemesis turn if the nemesis has exactly one turn order card in the turn order discard pile, the nemesis suffers damage equal to the number of the tokens on this card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ritual_Staff",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Runic Flute",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "Set this next to any spell supply pile. When a player gains a card from this supply pile, they may place the gained card on top of their deck. During any player's main phase, they may destroy this treasure to cast any number of their prepped spells.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Runic_Flute",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Sahala's Black Meteorite",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nGain 3 Æ that can only be used to focus or open your IV breach.",
+  "replaces": "Crystal",
+  "mage": "Sahala",
+  "url": "https://aeonsend.wiki.gg/wiki/Sahala's_Black_Meteorite",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Sapphire Lens",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "At the end of your casting phase, if you've cast only one spell this turn, gain 1 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Sapphire_Lens",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Seer's Bracer",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Shattered Dreams",
+  "rules": "Once per turn during your main phase when you gain a charge, any ally draws a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Seer's_Bracer",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Shimmering Cloak of the Magus",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "After a player finishes resolving their ability, that player deals 2 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Shimmering_Cloak_of_the_Magus",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Shoshana's Bottled Ink",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nOR\nAny ally may discard a gem. If they do, gain 2 Æ and the next card you gain this turn goes on top of their deck.",
+  "replaces": "Crystal",
+  "mage": "Shoshana",
+  "url": "https://aeonsend.wiki.gg/wiki/Shoshana's_Bottled_Ink",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Shroud of Obfuscation",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When you cast two or more spells during your casting phase, gain 2 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Shroud_of_Obfuscation",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Sigil Pendant",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Return To Gravehold",
+  "rules": "Once per turn during any player's main phase that player may spend 3 Æ to have each player gain a charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Sigil_Pendant",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Siphon Ring",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Descent",
+  "rules": "Once per turn during your main phase, you may discard a card in hand. If you do, place an elemental token on any enemy.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Siphon_Ring",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Siphoning Blade",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "Once per turn when you focus or open a breach, gain 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Siphoning_Blade",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Sky's Bounty",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "Once per turn, when the last card in a supply pile is gained, developed, or destroyed, choose a supply pile that has a card that costs less than the card that was gained, developed, or destroyed.\nAny player gains all the cards in the chosen supply pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Sky's_Bounty",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Smudged Parchment",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Origins",
+  "rules": "At the start of the game, set this next to a supply pile.\nWhen a player gains a card from this supply pile, they may place that card on top of their deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Smudged_Parchment",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Soothsayer's Pouch",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "Add an additional level 1 treasure to your starting deck using the level 1 treasure rules.\nYour group can use an additional level 2 treasure.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Soothsayer's_Pouch",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Soskel's Lucky Coin",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Gain 1 Æ.\nYou may lose 1 charge. If you do, gain 2 additional Æ.",
+  "replaces": "Crystal",
+  "mage": "Soskel (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Soskel's_Lucky_Coin",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Soskel's Tactical Gambit",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "While prepped, you may cast this during any player's casting phase.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Soskel (Legacy of Gravehold)",
+  "url": "https://aeonsend.wiki.gg/wiki/Soskel's_Tactical_Gambit",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Soul Engine",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "You may prep up to two additional spells that cost 1 Æ or more to your I breach.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Soul_Engine",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Sparking Shards",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Return To Gravehold",
+  "rules": "At the start of the game, set this next to a gem supply pile. When a player gains a card from that supply pile, that player gains 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Sparking_Shards",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Sparrow's Aid",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Cast: Deal 1 damage.\nAny ally may prep a spell in hand to their opened or closed breach(es).",
+  "replaces": "Spark",
+  "mage": "Sparrow",
+  "url": "https://aeonsend.wiki.gg/wiki/Sparrow's_Aid",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Storm Orb",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "At the end of your turn, if you have no closed breaches, place 5 elemental tokens distributed among any number of enemies. Then, destroy this treasure.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Storm_Orb",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Suppressing Pin",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "Once per turn during your main phase, you may discard a card in hand. If you do, any ally draws a card and you may add a power token to a power in play.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Suppressing_Pin",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Talix's Everburn",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nDiscard up to three spells in hand. Gain 1 Æ for each spell discarded this way.",
+  "replaces": "Crystal",
+  "mage": "Talix",
+  "url": "https://aeonsend.wiki.gg/wiki/Talix's_Everburn",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Talix's Everlight",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nIf you have two or more prepped spells, gain an additional 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Talix",
+  "url": "https://aeonsend.wiki.gg/wiki/Talix's_Everlight",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Taqren's Defense Glyphs",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nYou may suffer 1 damage. If you do, gain 1 charge.",
+  "replaces": "Crystal",
+  "mage": "Taqren (Outcasts)",
+  "url": "https://aeonsend.wiki.gg/wiki/Taqren's_Defense_Glyphs",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Taqren's Gift of Spirit",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Any ally draws a card.",
+  "replaces": "Spark",
+  "mage": "Taqren (Outcasts)",
+  "url": "https://aeonsend.wiki.gg/wiki/Taqren's_Gift_of_Spirit",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Tethered Bracers",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Returned",
+  "rules": "At the start of the game, choose an ally.\nAt the end of your turn, if that ally has two or more prepped spells, draw a card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Tethered_Bracers",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "The Broken Mask",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "After a player finishes resolving their ability, any ally gains a charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/The_Broken_Mask",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Thorned Whip",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When a player opens a breach, that player deals 2 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Thorned_Whip",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Thought Spike",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "When you gain a card that costs 1 Æ or more, deal 1 damage.\nIf that card costs 6 Æ or more, deal 2 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Thought_Spike",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Thraxir's Infuser",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Returned",
+  "rules": "During any player's turn, when that player focuses or opens a breach, you may discard this. If you do, gain 2 Æ tokens.Gain 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Thraxir (The Descent)",
+  "url": "https://aeonsend.wiki.gg/wiki/Thraxir's_Infuser",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Thraxir's Nameless Siphon",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nAny ally may discard a card in hand. If they do, focus one of your breaches.",
+  "replaces": "Crystal",
+  "mage": "Thraxir (The Descent)",
+  "url": "https://aeonsend.wiki.gg/wiki/Thraxir's_Nameless_Siphon",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Thraxir's Shattered Quartz",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nOR\nIf you have focused or opened a breach this turn, you may discard a card in hand to gain a spell that costs 4 Æ or less from the supply.",
+  "replaces": "Crystal",
+  "mage": "Thraxir (The Descent)",
+  "url": "https://aeonsend.wiki.gg/wiki/Thraxir's_Shattered_Quartz",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Thunder Surge",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "At the start of the game, set this next to any supply pile that costs 5 Æ or less.\nWhen a player gains a card from this supply pile, they deal 1 damage.\nWhen the last card in this supply pile is gained, destroyed, or developed, any player gains 3 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Thunder_Surge",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Thunderstrike Sygil",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Abyss",
+  "rules": "The third spell you cast during your casting phase deals an additional 4 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Thunderstrike_Sygil",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Time Cortex",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Beyond the Breach",
+  "rules": "When this treasure is put into play, each player focuses one of their breaches.\n\nDuring any player's main phase, if they have four or more prepped spells, they may destroy this treasure to shuffle their turn order card into the turn order deck.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Time_Cortex",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Treasured Stone",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "At the start of your first turn of the game, gain a gem from any supply pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Treasured_Stone",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "True Sight Monocle",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "At the start of your main phase, if there are six or more cards in your discard pile, gain 2 Æ.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/True_Sight_Monocle",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Ulgimor's Coal Fragment",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "Gain 2 Æ and suffer 1 damage.\nOR\nGain 1 life.",
+  "replaces": "Crystal",
+  "mage": "Ulgimor",
+  "url": "https://aeonsend.wiki.gg/wiki/Ulgimor's_Coal_Fragment",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Umbral Horn of War",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "At the start of the game, set this next to a spell supply pile that costs 6 Æ or more. Those spells deal 2 additional damage when cast.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Umbral_Horn_of_War",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Untethered Helix",
+  "level": 4,
+  "type": "Treasured Relic",
+  "cost": 5,
+  "box": "Beyond the Breach",
+  "rules": "Cast any player's prepped spell without discarding it. It deals 1 additional damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Untethered_Helix",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Verdant Staff",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "The New Age",
+  "rules": "When you gain a spell, gain 1 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Verdant_Staff",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Vigor Siphon",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Surface",
+  "rules": "At the start of the game, set this next to a relic supply pile.\nWhen a player gains a card from this supply pile, that player gains 1 life.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Vigor_Siphon",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Viridescent Jade",
+  "level": 4,
+  "type": "Treasured Gem",
+  "cost": 4,
+  "box": "Promo",
+  "rules": "Gain 2 Æ\nAny player gains 2 Æ tokens.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Viridescent_Jade",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Volatile Clasp",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When you play a relic that costs 4 Æ or more, any ally gains 1 charge.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Volatile_Clasp",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Volatile Reagent",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "Once per turn, when you cast a spell that costs 6 Æ or more, you may destroy a card in your discard pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Volatile_Reagent",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Wayward Scraps",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "The Ancients",
+  "rules": "Once per turn during any player's main phase that player may spend 4 Æ to focus each player's IV breach.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Wayward_Scraps",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Well of Despair",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Into The Wild",
+  "rules": "When a player deals 6 or more damage to the nemesis with a single spell, add a power token to this card.\nAt the start of the nemesis turn, the nemesis suffers damage equal to the number of tokens on this card.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Well_of_Despair",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Willow's Inspiration",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "Gain 1 Æ.\nOR\nSpend 3 Æ. Destroy a card in your hand or discard pile and gain a card of the same type from the supply that costs up to 3 Æ more than the destroyed card.",
+  "replaces": "Crystal",
+  "mage": "Willow",
+  "url": "https://aeonsend.wiki.gg/wiki/Willow's_Inspiration",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Witch's Wheel",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Origins",
+  "rules": "The second spell you cast during your casting phase deals an additional 2 damage.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Witch's_Wheel",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "World Marble",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "At the start of your first turn of the game, focus one of your breaches three times.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/World_Marble",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Woven Mail",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Past and Future",
+  "rules": "Whenever you suffer damage, gain Æ tokens equal to the amount of damage you suffered.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Woven_Mail",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Wraith's Essence",
+  "level": 2,
+  "type": "Treasure Level 2",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When a player becomes exhausted, do not resolve any on-exhaust effects.\nThe players do not lose when all players are exhausted.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Wraith's_Essence",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Wrath's Memory",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "When you suffer damage:\nIf you suffered exactly 1 damage, gain 1 Æ token.\nIf you suffered exactly 2 damage, focus any ally's breach.\nIf you suffered 3 damage or more, gain a card from the least expensive supply pile.",
+  "replaces": null,
+  "mage": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Wrath's_Memory",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Xaxos's Aether Siphon",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "While prepped, when an ally gains a charge for the first time on their turn, you may discard a card to gain 1 charge.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Xaxos (The Void)",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos's_Aether_Siphon",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Xaxos's Flare",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Reveal the top card of the turn order deck, and then place it back on top of the deck. If you revealed a player turn order card, deal 3 damage. Otherwise, deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Xaxos (The Void)",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos's_Flare",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Xaxos's Pyre",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Deal 1 damage.\nAny ally may discard a card in hand. If they do, deal 2 additional damage.",
+  "replaces": "Spark",
+  "mage": "Xaxos (The Void)",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos's_Pyre",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Xaxos's Siphonite",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ. You may have an enemy gain 1 life. If you do, gain an additional 1 Æ.",
+  "replaces": "Crystal",
+  "mage": "Xaxos (The Void)",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos's_Siphonite",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Xaxos's Understudy",
+  "level": 3,
+  "type": "Treasure Level 3",
+  "cost": null,
+  "box": "Promo",
+  "rules": "Once per turn during your main phase, you may have an enemy gain 2 life. If you do, gain 1 charge.",
+  "replaces": null,
+  "mage": "Xaxos (The Void)",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos's_Understudy",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Yan Magda's Eternal Eye",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "While prepped, when you open a breach during your turn, deal 3 damage.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Yan Magda (The Returned)",
+  "url": "https://aeonsend.wiki.gg/wiki/Yan_Magda's_Eternal_Eye",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Yan Magda's Illuminate",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "While prepped, when you focus or open one of your breaches during your turn, deal 1 damage.\nCast: Deal 1 damage.",
+  "replaces": "Spark",
+  "mage": "Yan Magda (The Returned)",
+  "url": "https://aeonsend.wiki.gg/wiki/Yan_Magda's_Illuminate",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Z'hana's Fleeting Ember",
+  "level": 1,
+  "type": "Treasured Spell",
+  "cost": 0,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Cast one of your prepped spells that costs 4 Æ or less without discarding it.",
+  "replaces": "Spark",
+  "mage": "Z'hana (Outcasts)",
+  "url": "https://aeonsend.wiki.gg/wiki/Z'hana's_Fleeting_Ember",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Z'hana's Scimitar",
+  "level": 1,
+  "type": "Treasured Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nPlace 2 Æ tokens on top of any card in the supply. When any player gains that card, they gain the Æ tokens on it.",
+  "replaces": "Crystal",
+  "mage": "Z'hana (Outcasts)",
+  "url": "https://aeonsend.wiki.gg/wiki/Z'hana's_Scimitar",
+  "boxes": [
+   "Promo"
+  ]
+ }
+]

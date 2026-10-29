@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+deploy/*.tar
+frontend/node_modules/
+frontend/dist/
+.env
+data/state/
+nas.txt
+# card art stays private (scraper/fetch_images.py downloads it again); the raw wiki crawl is rebuilt by scraper/crawl.py
+data/images/
+data/raw/
+*.tsbuildinfo

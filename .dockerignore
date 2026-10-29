@@ -1,0 +1,14 @@
+.venv
+**/__pycache__
+**/node_modules
+frontend/dist
+data/raw
+data/expedition
+docs
+.git
+*.md
+!frontend/**/*.md
+.env
+.env.*
+data/state
+nas.txt

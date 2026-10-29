@@ -1,0 +1,424 @@
+{
+ "_about": "Building blocks for generating light expedition stories. Derived from the official scripted expeditions (The New Age, Into The Wild, Tales of Old Gravehold) and Legacy campaign cards. Placeholders: {mage}, {mages}, {nemesis}, {ally}, {place}, {quest_giver}, {treasure}, {npc}.",
+ "style": {
+  "voice": "Second person plural ('you'), past or present tense, as on the Legacy cards.",
+  "length": "Prologue 2 short paragraphs; each battle intro 1-2 paragraphs; each conclusion 1-2 paragraphs; epilogue 1 paragraph ending on a hook.",
+  "rules": [
+   "Show the Nameless through signs before it appears (see nemeses.signs).",
+   "Every victory closes the breach and reveals a clue that leads to the next battle.",
+   "Frame treasure as artifacts found, recovered, or crafted from Nameless remains — never as loot from nowhere.",
+   "A mage added to the Barracks should be met in the story (rescued, found, or volunteering).",
+   "Give each selected mage at least one line of dialogue in their voice (see characters.traits and their mat quotes).",
+   "Respect canon: do not kill or redeem canon characters outside an explicit 'what if' expedition.",
+   "End the epilogue on a door left open: 'The work of a breach mage is never done.'"
+  ],
+  "canon_phrases": [
+   "the bells of Gravehold ring",
+   "the burnt-air smell of an opening breach",
+   "close the breach",
+   "the sister-words",
+   "aether",
+   "the Void",
+   "Barracks",
+   "the Council of Elders",
+   "younglings",
+   "The World That Was"
+  ]
+ },
+ "arc": {
+  "battles": [
+   4,
+   5
+  ],
+  "beats": [
+   {
+    "id": "prologue",
+    "purpose": "A summons or alarm sets a goal and stakes.",
+    "patterns": [
+     "{quest_giver} calls you before the Council: {mission}.",
+     "A panicked messenger bursts in during your report: {omen}.",
+     "An expedition has not returned; it carried {stakes}."
+    ]
+   },
+   {
+    "id": "battle_intro",
+    "purpose": "Travel through a setting, notice the signs, ambush.",
+    "patterns": [
+     "The trail gives way to {terrain}. {sign}. Then silence — and {nemesis} is upon you.",
+     "You follow {clue} deeper into {place}. {sign}."
+    ]
+   },
+   {
+    "id": "battle_won",
+    "purpose": "Close the breach, take stock, find the clue and the reward.",
+    "patterns": [
+     "As {nemesis} falls you force the breach closed. Among the remains you find {treasure}, and {clue}.",
+     "{ally} stumbles out of hiding — alive. They join you."
+    ]
+   },
+   {
+    "id": "battle_lost",
+    "purpose": "Survive, retreat, return stronger (Expedition rule: refight the battle).",
+    "patterns": [
+     "Blackness strobes at the edge of your vision — then {rescuer} is standing over you. {nemesis} withdraws, wounded but alive.",
+     "You retreat into the dark. It will be waiting."
+    ]
+   },
+   {
+    "id": "epilogue",
+    "purpose": "Report to the quest giver, reveal a twist, open the next door.",
+    "patterns": [
+     "You report to {quest_giver}. They thank you — but {twist}.",
+     "Suddenly the doors of the hall slam open."
+    ]
+   }
+  ],
+  "escalation": "Battle 1 nemeses are scouts/lieutenants/experiments; Battle 2-3 reveal the plot; Battle 4 is the source; Battle 5 (if used) is the mastermind or the thing behind the source.",
+  "rewards_by_battle": {
+   "1": "five level-1 treasures: personal artifacts left by fallen teammates or recovered from the first lair",
+   "2": "three level-2 treasures: group relics (city artifacts, ancient objects) found at a ritual site or archive",
+   "3": "five level-3 treasures: masterwork equipment crafted from Nameless remains or found in a forge/bunker",
+   "4": "level-4 treasures plus a new mage and supplies: the source's hoard and a rescued legend"
+  }
+ },
+ "missions": [
+  {
+   "id": "rescue_expedition",
+   "name": "The missing expedition",
+   "model": "The New Age",
+   "premise": "A team under a commander has not returned and carried rare artifacts.",
+   "beats": [
+    "survivor met after battle 1 hands out the team's artifacts",
+    "the commander is a prisoner of a transformed human",
+    "a teammate is found dying/aged",
+    "a hidden refuge yields a new ally"
+   ],
+   "eras": [
+    "new_gravehold",
+    "old_gravehold",
+    "after"
+   ]
+  },
+  {
+   "id": "spreading_blight",
+   "name": "The spreading blight",
+   "model": "Into The Wild",
+   "premise": "Crops, plants or stone are dying; something is coming.",
+   "beats": [
+    "the land itself shows the path",
+    "glyphs or rituals reveal a human hand",
+    "a reckless mage who went ahead is captured",
+    "the source is something once benign, driven by someone else"
+   ],
+   "eras": [
+    "new_gravehold",
+    "after",
+    "dawn"
+   ]
+  },
+  {
+   "id": "harvest",
+   "name": "The harvest",
+   "model": "Legacy (Spawning Horror, Deathmind)",
+   "premise": "The forge needs pods, ore or bones only a Nameless can provide.",
+   "beats": [
+    "scouts returned wrong",
+    "a mentor prepares a plan to resist the Nameless' power",
+    "the material is won at a price"
+   ],
+   "eras": [
+    "new_gravehold",
+    "old_gravehold"
+   ]
+  },
+  {
+   "id": "the_hunt",
+   "name": "The hunt",
+   "model": "The Caverns / Quilius",
+   "premise": "A destined quarry must be tracked to its lair.",
+   "beats": [
+    "tracks in ice or blood",
+    "a companion with an ulterior motive",
+    "the hunter learns what she is"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold"
+   ]
+  },
+  {
+   "id": "pilgrimage",
+   "name": "The pilgrimage",
+   "model": "The Descent",
+   "premise": "Lead refugees across the wasteland toward a promised refuge.",
+   "beats": [
+    "a town that tried to stay",
+    "a living swamp",
+    "a field of the dead",
+    "a guardian at the threshold"
+   ],
+   "eras": [
+    "descent",
+    "calamity"
+   ]
+  },
+  {
+   "id": "ruins_delve",
+   "name": "The sunken delve",
+   "model": "Return To Gravehold",
+   "premise": "Dive into the ruins of a lost home for its treasures.",
+   "beats": [
+    "the ruins rise up",
+    "survivors who never left",
+    "a sealed room of memories"
+   ],
+   "eras": [
+    "new_gravehold"
+   ]
+  },
+  {
+   "id": "outpost_defense",
+   "name": "The outpost under fire",
+   "model": "Southern Village / Into The Wild battle 4",
+   "premise": "A village or outpost is in the path of a rampaging Nameless.",
+   "beats": [
+    "refugees on the road",
+    "local mages with their own ways",
+    "consequences of the city's own expansion"
+   ],
+   "eras": [
+    "new_gravehold",
+    "after"
+   ]
+  },
+  {
+   "id": "into_the_void",
+   "name": "Into the Void",
+   "model": "Outcasts",
+   "premise": "Go through the breach to end a threat at its source; protect your guide instead of the city.",
+   "beats": [
+    "time runs wrong",
+    "the sky attacks",
+    "lost friends are found changed"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ]
+  },
+  {
+   "id": "the_traitor",
+   "name": "The traitor among us",
+   "model": "Into The Wild / Legacy of Gravehold",
+   "premise": "Someone with a veteran's mark is steering the Nameless.",
+   "beats": [
+    "cloaked figures at the edges of battles",
+    "stolen artifacts from the city vault",
+    "the Council already knew"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war",
+    "old_gravehold"
+   ]
+  },
+  {
+   "id": "time_fracture",
+   "name": "The fracture in time",
+   "model": "Beyond the Breach",
+   "premise": "An experiment has tangled past and future; enemies from other eras appear.",
+   "beats": [
+    "a battle the chronicles remember differently",
+    "a creature in two places",
+    "the scientist who caused it"
+   ],
+   "eras": [
+    "after",
+    "old_gravehold"
+   ]
+  }
+ ],
+ "quest_givers": {
+  "dawn": [
+   "Kiri Maesan's field journal",
+   "the phoenix flock"
+  ],
+  "world_that_was": [
+   "the Port Hanon City Guard",
+   "the Royal Erythiza Academy"
+  ],
+  "calamity": [
+   "the elder sisters",
+   "Raven"
+  ],
+  "descent": [
+   "Brama",
+   "the Sisterhood elders"
+  ],
+  "old_gravehold": [
+   "Brama",
+   "Malastar",
+   "Mist, the dagger captain",
+   "the Council of Elders"
+  ],
+  "fall": [
+   "Brama",
+   "Mist",
+   "Malastar"
+  ],
+  "new_gravehold": [
+   "the Council of Elders",
+   "Brama",
+   "Commander Soskel",
+   "Malastar at the forge",
+   "Xaxos, returned from the Void"
+  ],
+  "civil_war": [
+   "Brama",
+   "Z'hana",
+   "Yan Magda in exile"
+  ],
+  "after": [
+   "Camellia of Souston",
+   "the Allocators of Cindercrown",
+   "Professor Stake",
+   "Strike Leader Wolf"
+  ]
+ },
+ "settings": {
+  "dawn": [
+   "a jungle hut beside a phoenix roost",
+   "glass sand where phoenix fire struck"
+  ],
+  "world_that_was": [
+   "the university halls of Erythiza",
+   "Port Hanon's docks",
+   "a steam-train line through open plains",
+   "the brass streets of Karek"
+  ],
+  "calamity": [
+   "a market turned slaughterhouse",
+   "green-glass statues on a hillside",
+   "a refugee camp where elders rub blistered feet"
+  ],
+  "descent": [
+   "the dead town of Donnyton",
+   "a swamp whose ground turns to mud",
+   "the crystal fields of the Blighted God",
+   "the red-lit threshold of Gravehold"
+  ],
+  "old_gravehold": [
+   "the dirt market",
+   "Chasmwalk",
+   "the balustrade above the city",
+   "The Depths where the dead are thrown",
+   "the ruins of the Cragbellows",
+   "the sealed cave mouth",
+   "the frozen tunnels far below"
+  ],
+  "fall": [
+   "burning streets under a giant breach",
+   "collapsing tunnels",
+   "the first sight of the green surface"
+  ],
+  "new_gravehold": [
+   "swamps north of the city",
+   "a willow grove carved with glyphs",
+   "Southpost's watchtowers",
+   "the sinkhole over Old Gravehold",
+   "sunken Gravehold under black water",
+   "Azer's sigil-marked forest",
+   "the iridescent mountains of the Void"
+  ],
+  "civil_war": [
+   "an exile's cottage in the wilds",
+   "Azer's village square",
+   "New Gravehold's high walls",
+   "a Void portal opened in a field"
+  ],
+  "after": [
+   "Souston's sunny lanes",
+   "the swamp of Faen",
+   "the pipes of the System beneath Cindercrown",
+   "a ruin with ancient blueprints"
+  ]
+ },
+ "era_bridges": {
+  "_about": "Canon ways to mix mages or nemeses from different eras in one expedition.",
+  "bridges": [
+   {
+    "id": "void_time",
+    "text": "Time is wrong in the Void: some stay the same age for centuries, others age decades in an instant.",
+    "sources": [
+     "Beyond the Breach",
+     "The Timeless",
+     "Dezmodia"
+    ],
+    "explains": "people"
+   },
+   {
+    "id": "spiral_of_worlds",
+    "text": "Yan Magda's cadre wandered the spiral of worlds and arrived out of time.",
+    "sources": [
+     "Yan Magda"
+    ],
+    "explains": "people"
+   },
+   {
+    "id": "nook_anomaly",
+    "text": "Nook's time experiments tangle past and future (The Anomaly).",
+    "sources": [
+     "The Anomaly",
+     "Nook (Beyond the Breach)"
+    ],
+    "explains": "both"
+   },
+   {
+    "id": "fountain_rebirth",
+    "text": "The Fountain of Souls reconstitutes the aether of the fallen — old enemies and friends can return.",
+    "sources": [
+     "Fountain of Souls",
+     "Griefweaver"
+    ],
+    "explains": "both"
+   },
+   {
+    "id": "archives",
+    "text": "Gravehold's archives record every Nameless ever fought; an old enemy's kin can reappear (Wayward One → The Wanderer).",
+    "sources": [
+     "The Wanderer",
+     "Grimoire, the Archive"
+    ],
+    "explains": "nemeses"
+   },
+   {
+    "id": "survivors",
+    "text": "Nameless are never truly gone: their survivors and fragments grow anew.",
+    "sources": [
+     "Maggoth",
+     "Rust Amalgam",
+     "Risen Thrall"
+    ],
+    "explains": "nemeses"
+   }
+  ]
+ },
+ "loss_rescuers": [
+  "Mist",
+  "Malastar",
+  "Brama",
+  "Xaxos",
+  "Rip",
+  "Yan Magda",
+  "Wolf"
+ ],
+ "twists": [
+  "the Council already knew",
+  "someone saw the insignia of Xaxos on a fleeing robe",
+  "the Nameless you fought was once human",
+  "the artifacts were stolen from the city's own vault",
+  "one of the rescued now carries Void essence inside them",
+  "the creature you killed was someone's family",
+  "the signs you followed had been left for you to find"
+ ]
+}

@@ -1,0 +1,237 @@
+[
+ {
+  "title": "Creeping Dark",
+  "box": "Beyond the Breach",
+  "ability_name": "Shadows Lengthen",
+  "effect": "Remove a power token from Spreading Shadow. Repeat this. Then, Creeping Dark gains one nemesis token.",
+  "charge_spaces": 4,
+  "setup": "Place Spreading Shadow into play. Place 7/8/9/11 power tokens on Spreading Shadow for 1/2/3/4 players. Creeping Dark gains one nemesis token.",
+  "rules": "During any player's main phase, that player may spend 5 Æ to remove a nemesis token from Creeping Dark.",
+  "deck": [
+   "Light Drain",
+   "Plunge",
+   "Pooling Black",
+   "Snuff Out"
+  ],
+  "unique_cards": [
+   "Spreading Shadow"
+  ],
+  "url": "https://aeonsend.wiki.gg/wiki/Creeping_Dark",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Jeweled Wrath",
+  "box": "The Returned",
+  "ability_name": "Jeweled Rot",
+  "effect": "Any player suffers 2 damage, gains two Cursed Shards from the Curse deck, and places them on top of their deck.",
+  "charge_spaces": 5,
+  "setup": "Include six Cursed Shards in the Curse deck.",
+  "rules": null,
+  "deck": [
+   "Corrode",
+   "Encrust (Jeweled Wrath)",
+   "Rust (Jeweled Wrath)",
+   "Splinter"
+  ],
+  "unique_cards": [],
+  "url": "https://aeonsend.wiki.gg/wiki/Jeweled_Wrath",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "The Anomaly",
+  "box": "Beyond the Breach",
+  "ability_name": "Paradox",
+  "effect": "Reveal the top two cards of the nemesis deck. Put a minion or power revealed this way into play. Return the rest in any order. If no minion or power was revealed, Foe gains 4 charges.",
+  "charge_spaces": 6,
+  "setup": null,
+  "rules": null,
+  "deck": [
+   "Existence Rupture",
+   "Fractured Rift",
+   "Reality Warp",
+   "Time Siphon"
+  ],
+  "unique_cards": [],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Anomaly",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "The Corrosion",
+  "box": "The Descent",
+  "ability_name": "Return to Dust",
+  "effect": "Remove 2 power tokens from each power in play. Gravehold suffers 5 damage.",
+  "charge_spaces": 5,
+  "setup": "Place the Draining Sign cards above this mat.",
+  "rules": null,
+  "deck": [
+   "Leech",
+   "Empower",
+   "Imbue Inevitability",
+   "Diminish"
+  ],
+  "unique_cards": [
+   "Draining Sign"
+  ],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Corrosion",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Cultist",
+  "box": "The Descent",
+  "ability_name": "Feed the Ritual",
+  "effect": "Volatile Pylon gains 2 life. Then, remove a power token from Ritual of Flame three times.",
+  "charge_spaces": 4,
+  "setup": null,
+  "rules": "Place Volatile Pylon and Ritual of Flame into play.",
+  "deck": [
+   "Burn Bright",
+   "Melt",
+   "Feed the Flames",
+   "Smothering Smog"
+  ],
+  "unique_cards": [
+   "Ritual of Flame",
+   "Volatile Pylon"
+  ],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Cultist",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Hunger",
+  "box": "Beyond the Breach",
+  "ability_name": "Glutton's Feast",
+  "effect": "Destroy a card from the supply pile with the fewest cards. Repeat this twice.\nThen, draw a tendril.",
+  "charge_spaces": 3,
+  "setup": "Shuffle the tendril cards facedown to form the tendril deck. Set it above this mat.\n\nDestroy two cards from each gem supply pile.",
+  "rules": "When a tendril is discarded from play, place it on the bottom of the tendril deck.\n\nWhile there are two or less empty supply piles, The Hunger is dormant.",
+  "deck": [
+   "Bite",
+   "Chew",
+   "Munch",
+   "Swallow"
+  ],
+  "unique_cards": [
+   "Coiled Tendril",
+   "Swiping Tendril",
+   "Twisting Tendril"
+  ],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Hunger",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "The Mask",
+  "box": "The Surface",
+  "ability_name": "Pay Your Due",
+  "effect": "Any player loses a nemesis token and deals 4 damage to the nemesis. Draw and resolve the top card of the nemesis deck.\nOR\nAny player gains a nemesis token. Repeat this.",
+  "charge_spaces": 5,
+  "setup": "If you are playing with 1/2/3/4 players, 0/0/1/2 players gain a nemesis token and an Æ token.",
+  "rules": "Whenever a player would gain a second nemesis token (third in true solo), they suffer 10 damage instead.",
+  "deck": [
+   "Corruption's Kiss",
+   "Devil's Bargain",
+   "Pay the Piper",
+   "Poisonous Promises"
+  ],
+  "unique_cards": [],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Mask",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "The Scavenger",
+  "box": "The Descent",
+  "ability_name": "Cull the Stragglers",
+  "effect": "The player with the lowest life suffers 4 damage.",
+  "charge_spaces": 5,
+  "setup": null,
+  "rules": null,
+  "deck": [
+   "Carrion Claw",
+   "Screeching Wail",
+   "Reclaim",
+   "Shadow Slash"
+  ],
+  "unique_cards": [],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Scavenger",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Storm",
+  "box": "The Caverns",
+  "ability_name": "Bloody Conduit",
+  "effect": "The player with the most prepped spells gains a Shock, places it into their hand, and suffers 1 damage for each of their prepped spells.",
+  "charge_spaces": 4,
+  "setup": "Place the Shock cards above this mat to form the Shock supply pile.",
+  "rules": null,
+  "deck": [
+   "Echoing Thunder",
+   "Forked Lightning",
+   "Spreading Clouds",
+   "Fractalize"
+  ],
+  "unique_cards": [
+   "Shock"
+  ],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Storm",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "The Swarm",
+  "box": "The Descent",
+  "ability_name": "Call the Hive",
+  "effect": "Place the bottommost minion from the nemesis discard pile back into play. If there are no minions in the nemesis discard pile, place two Broodlings into play instead.",
+  "charge_spaces": 5,
+  "setup": "Place the Broodling cards above this mat.",
+  "rules": null,
+  "deck": [
+   "Wriggle",
+   "Summoning Screech",
+   "Descend and Devour",
+   "Blistered Flesh"
+  ],
+  "unique_cards": [
+   "Broodling"
+  ],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Swarm",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "The Traitor",
+  "box": "The Abyss",
+  "ability_name": "Bloody Conduit",
+  "effect": "If the turn order discard pile contains a nemesis turn order card, shuffle it into the turn order deck. Otherwise, Unleash three times.",
+  "charge_spaces": 5,
+  "setup": null,
+  "rules": "If the nemesis would draw a card and can't, the players lose the game.",
+  "deck": [
+   "Dark Bargain",
+   "Growing Shadow",
+   "Twisting Tendrils",
+   "Wraithtouch"
+  ],
+  "unique_cards": [],
+  "url": "https://aeonsend.wiki.gg/wiki/The_Traitor",
+  "boxes": [
+   "The Abyss"
+  ]
+ }
+]

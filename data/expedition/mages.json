@@ -1,0 +1,5302 @@
+[
+ {
+  "title": "Adelheim",
+  "base_name": "Adelheim",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Weaponsmith",
+  "complexity": null,
+  "ability_name": "Aethereal Ward",
+  "ability_effect": "Activate during the nemesis draw phase: When a nemesis attack or power card is drawn but before it is resolved, you may discard it. It has no effect. (The nemesis does not draw a replacement card)",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Amethyst Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 5
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Amethyst Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Adelheim",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Alcheia",
+  "base_name": "Alcheia",
+  "box": "The Caverns",
+  "epithet": "The Stonecarver",
+  "complexity": 7,
+  "ability_name": "Restabilize",
+  "ability_effect": "Activate during any ally's casting phase:\nDestroy up to three cards in hand. Draw a card for each card destroyed this way.\nOR\nWhen a player casts a spell this turn, it deals 1 additional damage for each card that costs 1 Æ or more in your hand. Alcheia may spend 4 charges during any ally's casting phase to activate this ability.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Geode",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Geode"
+  ],
+  "rules": "Setup: Shuffle all of the facet cards together facedown to form the facet deck.\n\nRules: When a facet is destroyed, place it on the bottom of the facet deck.",
+  "url": "https://aeonsend.wiki.gg/wiki/Alcheia",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Arachnos (Legacy of Gravehold)",
+  "base_name": "Arachnos",
+  "box": "Legacy of Gravehold",
+  "epithet": "Void Weaver",
+  "complexity": 7,
+  "ability_name": "Weaver's Web",
+  "ability_effect": "Activate during your main phase: Return up to three cards that cost 4 Æ or less from your discard pile to your hand.\nOR\nAny player gains 3 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Gossamer Web",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Gossamer Web"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Arachnos_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Arachnos (Outcasts)",
+  "base_name": "Arachnos",
+  "box": "Outcasts",
+  "epithet": "Redeemed Acolyte",
+  "complexity": 3,
+  "ability_name": "Expunge",
+  "ability_effect": "Activate during your main phase: Cast any player's prepped spell. That spell deals 3 additional damage.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "open",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Convergence",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Convergence"
+  ],
+  "rules": "Xaxos: Outcast cannot gain charges Arachnos would gain from Convergence.",
+  "url": "https://aeonsend.wiki.gg/wiki/Arachnos_(Outcasts)",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Auren",
+  "base_name": "Auren",
+  "box": "Past and Future",
+  "epithet": "Mechanic",
+  "complexity": 6,
+  "ability_name": "Execute Program",
+  "ability_effect": "Activate during your main phase: Cast any number of spells prepped to breaches with relics attached to them without discarding those spells.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Iron Scrap",
+    "qty": 1
+   },
+   {
+    "card": "Automaton Prototype",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Copper Scrap",
+    "qty": 1
+   },
+   {
+    "card": "Aluminum Scrap",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 4,
+  "sparks": 2,
+  "unique_cards": [
+   "Aluminum Scrap",
+   "Automaton Prototype",
+   "Copper Scrap",
+   "Iron Scrap",
+   "Aether Infuser",
+   "Energy Router",
+   "Heliocopter",
+   "Structure Stabilizer"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Auren",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Bayli",
+  "base_name": "Bayli",
+  "box": "Past and Future",
+  "epithet": "Beacon",
+  "complexity": 4,
+  "ability_name": "Fusion Reaction",
+  "ability_effect": "Activate during your main phase:\nReturn up to two spells from your discard pile to your hand.\nChoose up to two of your prepped spells. Cast those spells.\nThen, cast one of your prepped spells.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Flaming Aura",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Flaming Aura"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Bayli",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Brama",
+  "base_name": "Brama",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Elder",
+  "complexity": null,
+  "ability_name": "Brink Siphon",
+  "ability_effect": "Activate during your main phase: Any player gains 4 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Buried Light",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Buried Light"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Brama",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Brama (The Descent)",
+  "base_name": "Brama",
+  "box": "The Descent",
+  "epithet": "The Leader",
+  "complexity": 2,
+  "ability_name": "Regenerate",
+  "ability_effect": "Activate during any player's main phase:\nGain 4 life.\nYou may suffer 2 damage. If you do, Gravehold gains 4 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Funneled Rage",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Eternium",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 1,
+  "unique_cards": [
+   "Funneled Rage",
+   "Eternium"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Brama_(The_Descent)",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Cairna",
+  "base_name": "Cairna",
+  "box": "Return To Gravehold",
+  "epithet": "Flame Walker",
+  "complexity": 4,
+  "ability_name": "Energize",
+  "ability_effect": "Activate during your main phase: Gain a spell that costs 5 Æ or less from a supply pile. You may lose two charges to gain any spell from a supply pile instead. You may lose a charge to prep a spell in your discard pile to one of your opened breaches.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "up",
+   "left",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Invigorate",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Invigorate"
+  ],
+  "rules": "Cairna's ability can be used when she has 3 or more charges. When Cairna uses her ability, she loses 3 charges.",
+  "url": "https://aeonsend.wiki.gg/wiki/Cairna",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Claudia",
+  "base_name": "Claudia",
+  "box": "The New Age",
+  "epithet": "Prospector",
+  "complexity": 5,
+  "ability_name": "Aeplosion",
+  "ability_effect": "Activate during any ally's main phase:\nThat ally gains 2 Æ. The next time that ally gains a card from a supply pile this turn, you gain a copy of that card from the supply pile.\nOR\nThat ally gains 5 Æ.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "right",
+   "down",
+   "up"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Aetherscope",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Aetherscope"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Claudia",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Claudia (Legacy of Gravehold)",
+  "base_name": "Claudia",
+  "box": "Legacy of Gravehold",
+  "epithet": "Visionary",
+  "complexity": 4,
+  "ability_name": "Aetherial Echo",
+  "ability_effect": "Activate during your main phase:\nAny player gains 3 life.\nOR\nThe next time you gain a card this turn you may place it into any ally's hand. Then, any ally gains a copy of the same card and places it into their hand.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Jubilant Halo",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Mirror Shard",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 3,
+  "unique_cards": [
+   "Jubilant Halo",
+   "Mirror Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Claudia_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Dezmodia",
+  "base_name": "Dezmodia",
+  "box": "War Eternal",
+  "epithet": "Voidborn Prodigy",
+  "complexity": null,
+  "ability_name": "Tempest Sigil",
+  "ability_effect": "Activate during your main phase: Any player destroys an opened I or II breach and returns any spells prepped to that breach to their hand. That player gains a Sigil breach and places it where the destroyed breach was. Then, that player may prep a spell from their hand to a breach.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Oblivion Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Oblivion Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Dezmodia (Beyond the Breach)",
+  "base_name": "Dezmodia",
+  "box": "Beyond the Breach",
+  "epithet": "The Unscarred",
+  "complexity": 7,
+  "ability_name": "Pilfer the Past",
+  "ability_effect": "Reveal the top two cards of Dezmodia's Stash and choose one to put into play and one to put on the bottom of that deck.\nOR\nAny player gains 3 life.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Vision Shard",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Energized Stone",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 5,
+  "sparks": 3,
+  "unique_cards": [
+   "Vision Shard",
+   "Energized Stone",
+   "Calcified Electinium",
+   "Corrupted Coil",
+   "Fungal Network",
+   "Ice-Heart Shard",
+   "Polished Dyaminium",
+   "Runic Flute",
+   "Time Cortex"
+  ],
+  "rules": "Shuffle and place the seven level 2 treasures that come with Dezmodia next to her mat facedown to form Dezmodia's Stash. You may customize this deck with other level 2 treasures from your collection, but it must start with at least seven level 2 treasures.\n\nIf you place a treasure that resolves \"at the start of the game\" into play using Dezmodia's ability, resolve that effect immediately. If you place a treasure that resolves \"after a player has finished resolving their ability\" into play using Dezmodia's ability, resolve that effect immediately as well.",
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia_(Beyond_the_Breach)",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Dezmodia (Legacy of Gravehold)",
+  "base_name": "Dezmodia",
+  "box": "Legacy of Gravehold",
+  "epithet": "Void Phantom",
+  "complexity": 5,
+  "ability_name": "Void Tear",
+  "ability_effect": "Activate during your main phase: Return up to two spells from your discard pile to your hand. You may prep two additional spells to each of your opened breaches this turn.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "down",
+   "right",
+   "none"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Devouring Voidspark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Invigorating Voidspark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 0,
+  "unique_cards": [
+   "Devouring Voidspark",
+   "Invigorating Voidspark"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Dezmodia (Outcasts)",
+  "base_name": "Dezmodia",
+  "box": "Outcasts",
+  "epithet": "Void Risen",
+  "complexity": 7,
+  "ability_name": "Void Vortex",
+  "ability_effect": "Activate during your main phase: Any ally draws three cards. Then, place any number of cards in your hand into their hand. Then, that ally places the same number of cards in their hand into your hand.",
+  "charge_spaces": 4,
+  "breaches": [
+   "none",
+   "none",
+   "none",
+   "Void Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Swirling Darkness",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Swirling Darkness"
+  ],
+  "rules": "Dezmodia's IV breach is the Void breach. Any number of spells may be prepped to an opened Void breach. When Dezmodia is exhausted, she does not discard her Void breach.",
+  "url": "https://aeonsend.wiki.gg/wiki/Dezmodia_(Outcasts)",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Dorian",
+  "base_name": "Dorian",
+  "box": "Evolution",
+  "epithet": "Magic Theorist",
+  "complexity": 5,
+  "ability_name": "Redesign",
+  "ability_effect": "Activate during your main phase: Gain 3 Æ\nThe next time you gain a spell this turn, prep it to any player's opened breach.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "left",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spatial Distortion",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Spatial Distortion"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Dorian",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Garu",
+  "base_name": "Garu",
+  "box": "War Eternal",
+  "epithet": "Oathsworn Protector",
+  "complexity": null,
+  "ability_name": "Colossal Force",
+  "ability_effect": "Activate during your main phase: Discard up to four of your prepped spells.\nDeal 2 damage plus 4 additional damage for each spell you discarded divided however you choose to the nemesis or any number of minions.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "right",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Torch",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Torch"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Garu",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Gex",
+  "base_name": "Gex",
+  "box": "War Eternal",
+  "epithet": "Breach Mage Advisor",
+  "complexity": null,
+  "ability_name": "Vimcraft Oath",
+  "ability_effect": "Activate during your main phase: Destroy up to two cards in your discard pile that cost 0 Æ.\n\nAny ally draws one card and gains 2 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "open",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Shattered Geode",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Shattered Geode"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Gex",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Gygar",
+  "base_name": "Gygar",
+  "box": "The New Age",
+  "epithet": "Tide Master",
+  "complexity": 3,
+  "ability_name": "High Tide",
+  "ability_effect": "Activate during your main phase:\nPlace a Surge token on your Ancient Breach.\nOR\nCast a spell prepped to your Ancient Breach. Gain 2 charges.",
+  "charge_spaces": 5,
+  "breaches": [
+   "Ancient_Breach_Icon",
+   "open",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Tidal Surge",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Tidal Surge",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Tidal Surge"
+  ],
+  "rules": "Gygar's I Breach is the Ancient Breach. Up to ten Surge tokens can be placed on this breach. When a spell is cast from an Ancient Breach, that spell deals 1 additional damage for each Surge token placed on that breach.",
+  "url": "https://aeonsend.wiki.gg/wiki/Gygar",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Gygar (Legacy of Gravehold)",
+  "base_name": "Gygar",
+  "box": "Legacy of Gravehold",
+  "epithet": "Treasure Hunter",
+  "complexity": 4,
+  "ability_name": "Contained Burst",
+  "ability_effect": "Activate during your main phase: Cast two of your prepped spells without discarding them.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Bide",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Bide"
+  ],
+  "rules": "At the end of your casting phase, place a storm token on each of your prepped spells. When a spell is cast, it deals +1 damage for each storm token on it. When a spell with storm tokens on it is discarded, discard the storm tokens on it. Each spell can have no more than 3 storm tokens at once.",
+  "url": "https://aeonsend.wiki.gg/wiki/Gygar_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Ilya",
+  "base_name": "Ilya",
+  "box": "Outcasts",
+  "epithet": "Right Hand",
+  "complexity": 4,
+  "ability_name": "Life Embrace",
+  "ability_effect": "Activate during your main phase: Cast all of your prepped spells without discarding them. Any ally returns a card in their discard pile to their hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 1
+   },
+   {
+    "card": "Entwined Amethyst",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   },
+   {
+    "card": "Trulite of Force",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 1
+   },
+   {
+    "card": "Entwined Amethyst",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   },
+   {
+    "card": "Trulite of Force",
+    "qty": 1
+   }
+  ],
+  "crystals": 2,
+  "sparks": 4,
+  "unique_cards": [
+   "Entwined Amethyst",
+   "Trulite of Force"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ilya",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Ilya (Legacy of Gravehold)",
+  "base_name": "Ilya",
+  "box": "Legacy of Gravehold",
+  "epithet": "Force of Aether",
+  "complexity": 3,
+  "ability_name": "Surge of Power",
+  "ability_effect": "Activate during your main phase: Reveal the top four cards of your deck. Place any number of spells revealed this way into your hand. You may prep spells to closed breaches this turn. You may prep up to two spells to each of your breaches this turn.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Shared Heart",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Entangled Tourmaline",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Shared Heart",
+   "Entangled Tourmaline"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ilya_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Inco",
+  "base_name": "Inco",
+  "box": "Into The Wild",
+  "epithet": "Child of Green",
+  "complexity": 4,
+  "ability_name": "Massive Growth",
+  "ability_effect": "Activate during your main phase: Cast any number of Rose Thorns prepped by any number of players. Those spells deal 2 additional damage.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Verdant Emerald",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Verdant Emerald",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 1,
+  "unique_cards": [
+   "Verdant Emerald",
+   "Rose Thorn"
+  ],
+  "rules": "Set aside all of the Rose Thorn cards. These cards form the Rose Thorn deck. This is not a supply pile. Cards in this deck can be gained using Inco's Verdant Emerald. Additionally, Inco may spend 2 Æ to gain a card from this deck.",
+  "url": "https://aeonsend.wiki.gg/wiki/Inco",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Inco (Legacy of Gravehold)",
+  "base_name": "Inco",
+  "box": "Legacy of Gravehold",
+  "epithet": "Growing Soul",
+  "complexity": 6,
+  "ability_name": "Uproot",
+  "ability_effect": "Activate during your main phase: Harvest up to two cards in your hand or discard pile. Resolve the Harvest effects of these cards twice.\nOR\nGravehold gains 5 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Iris",
+    "qty": 1
+   },
+   {
+    "card": "Tulip",
+    "qty": 1
+   },
+   {
+    "card": "Dahlia",
+    "qty": 1
+   },
+   {
+    "card": "Rose",
+    "qty": 1
+   },
+   {
+    "card": "Violet",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Tulip",
+    "qty": 1
+   },
+   {
+    "card": "Iris",
+    "qty": 1
+   },
+   {
+    "card": "Dahlia",
+    "qty": 1
+   },
+   {
+    "card": "Sunflower",
+    "qty": 1
+   },
+   {
+    "card": "Rose",
+    "qty": 1
+   }
+  ],
+  "crystals": 0,
+  "sparks": 0,
+  "unique_cards": [
+   "Iris",
+   "Tulip",
+   "Dahlia",
+   "Rose",
+   "Violet",
+   "Sunflower"
+  ],
+  "rules": "Only cards that start the game in Inco's hand or deck can be Harvested. When a card is harvested, destroy it.",
+  "url": "https://aeonsend.wiki.gg/wiki/Inco_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Inco (The Surface)",
+  "base_name": "Inco",
+  "box": "The Surface",
+  "epithet": "The Outsider",
+  "complexity": 4,
+  "ability_name": "Massive Growth",
+  "ability_effect": "Cast any player's prepped spell. Two different players reveal their decks. They each place up to two Firethorns from their deck and discard pile into their hand. They return their decks in the same order.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Genesis Emerald",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Genesis Emerald",
+   "Arcing Firethorn",
+   "Blooming Firethorn",
+   "Calming Firethorn",
+   "Imbued Firethorn",
+   "Revealing Firethorn"
+  ],
+  "rules": "Shuffle the Firethorn cards together to form the Firethorn deck. This is not a supply pile. The top card of this deck is always revealed. Inco may spend 5 Æ to gain the top card from this deck.",
+  "url": "https://aeonsend.wiki.gg/wiki/Inco_(The_Surface)",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Indira",
+  "base_name": "Indira",
+  "box": "The Outer Dark",
+  "epithet": "Breach Apprentice",
+  "complexity": null,
+  "ability_name": "Pyromancer's Guile",
+  "ability_effect": "Activate during your main phase:\nCast any number of spells in hand. Those spells each deal 1 additional damage.\nYou may destroy a card in your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "none",
+   "none",
+   "down",
+   "none"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Twin Opal",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Twin Opal",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Twin Opal"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Indira",
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Indira (Beyond the Breach)",
+  "base_name": "Indira",
+  "box": "Beyond the Breach",
+  "epithet": "Light Caller",
+  "complexity": 4,
+  "ability_name": "Pyromancer's Guile",
+  "ability_effect": "Cast a spell in any ally's hand without discarding it. Then, cast it again.\nOR\nGain 5 Æ that can only be used to gain a spell.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "down",
+   "Transfer_Breach_Icon",
+   "none"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Fused Opal",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Fused Opal"
+  ],
+  "rules": "Indira's III breach is the Transfer breach. When a spell is cast from the opened Transfer breach, that spell deals 1 additional damage and is placed into any ally's hand.",
+  "url": "https://aeonsend.wiki.gg/wiki/Indira_(Beyond_the_Breach)",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Indira (Legacy of Gravehold)",
+  "base_name": "Indira",
+  "box": "Legacy of Gravehold",
+  "epithet": "Ascended Apprentice",
+  "complexity": 5,
+  "ability_name": "Reanimate Magic",
+  "ability_effect": "Activate during your main phase: Cast up to two spells from your discard pile. You may destroy a card in your discard pile.",
+  "charge_spaces": 6,
+  "breaches": [
+   "none",
+   "open",
+   "down",
+   "none"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Aetherial Glow",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Magnificent Opal",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Aetherial Glow",
+   "Magnificent Opal"
+  ],
+  "rules": "When you cast a spell from your discard pile, leave it where it is in your discard pile.",
+  "url": "https://aeonsend.wiki.gg/wiki/Indira_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Janti",
+  "base_name": "Janti",
+  "box": "The Descent",
+  "epithet": "The Breachspeaker",
+  "complexity": 5,
+  "ability_name": "Interlace",
+  "ability_effect": "Activate during your main phase:\nGain the top card of the Infusion deck and place it into your hand.\nOR\nDestroy an Infusion in play. If you do, deal 8 damage.",
+  "charge_spaces": 4,
+  "breaches": [
+   "No_Breach",
+   "down",
+   "left",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Redirector",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Redirector",
+   "Golden Infusion",
+   "Infernal Infusion",
+   "Iron Infusion",
+   "Mirrored Infusion",
+   "Sapphire Infusion",
+   "Spirit Infusion"
+  ],
+  "rules": "Shuffle the Golden Infusion, Infernal Infusion, Sapphire Infusion, Mirrored Infusion, Iron Infusion, and Spirit Infusion cards facedown to form the Infusion deck and place it next to this mat.",
+  "url": "https://aeonsend.wiki.gg/wiki/Janti",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Jian",
+  "base_name": "Jian",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Orphan",
+  "complexity": null,
+  "ability_name": "Black Mirror",
+  "ability_effect": "Activate during your main phase: Cast any player's prepped spell without discarding it.\n\nThen cast that prepped spell again.\n(Discard it afterward)",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Moonstone Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 4,
+  "unique_cards": [
+   "Moonstone Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Jian",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Kadir",
+  "base_name": "Kadir",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Delver",
+  "complexity": null,
+  "ability_name": "Otherworldly Gate",
+  "ability_effect": "Activate during any player's main phase: That player may return up to three spells in their discard pile to their hand. That player may prep up to two spells to each of their opened breaches this turn.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Emerald Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Emerald Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Kadir",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Kadir (Legacy of Gravehold)",
+  "base_name": "Kadir",
+  "box": "Legacy of Gravehold",
+  "epithet": "Gemcrafter",
+  "complexity": 5,
+  "ability_name": "Refine Prototype",
+  "ability_effect": "Activate during your main phase: Either choose a side of a path token that is not on your mat and place it on your mat or flip over one of the path tokens on your mat. Then, if you have four path tokens on your mat, set one aside.\nResolve all of the path tokens on your mat in any order.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Ancient Emerald",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Ancient Emerald"
+  ],
+  "rules": "Set aside all of the Path tokens.",
+  "url": "https://aeonsend.wiki.gg/wiki/Kadir_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Kain",
+  "base_name": "Kain",
+  "box": "Tales of Old Gravehold",
+  "epithet": "The Dancer",
+  "complexity": 2,
+  "ability_name": "Void Waltz",
+  "ability_effect": "Activate during your main phase:\nIf Gravehold has 15 life or more, Gravehold suffers 2 damage and any player gains 6 Æ tokens. Otherwise, Gravehold gains 5 life.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "open",
+   "Spirit_Breach_Icon",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spilt Light",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spilt Light",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Spilt Light"
+  ],
+  "rules": "Kain's III breach is the Spirit breach. When a spell is cast from Kain's open Spirit breach, it deals an additional 1 damage and any ally gains an Æ token.",
+  "url": "https://aeonsend.wiki.gg/wiki/Kain",
+  "boxes": [
+   "Tales of Old Gravehold"
+  ]
+ },
+ {
+  "title": "Kavoc",
+  "base_name": "Kavoc",
+  "box": "Past and Future",
+  "epithet": "Breach Scholar",
+  "complexity": 5,
+  "ability_name": "Experiment",
+  "ability_effect": "Activate during your main phase:\nAny ally draws two cards.\nGain 3 Knowledge.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Forbidden Ritual",
+    "qty": 1
+   },
+   {
+    "card": "Darkspark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Bloodstone",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 1,
+  "unique_cards": [
+   "Bloodstone",
+   "Darkspark",
+   "Forbidden Ritual",
+   "Brain Lance",
+   "Soulstone"
+  ],
+  "rules": "Place Brain Lance and Soulstone in the Swap zone.",
+  "url": "https://aeonsend.wiki.gg/wiki/Kavoc",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Kel",
+  "base_name": "Kel",
+  "box": "Outcasts",
+  "epithet": "Left Hand",
+  "complexity": 4,
+  "ability_name": "Soul Invigoration",
+  "ability_effect": "Activate during your main phase: Return up to two gems or relics you played this turn to your hand. Any ally draws a card and may prep a spell in hand to an opened or closed breach.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "right",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Entwined Amethyst",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Trulite of Energy",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Entwined Amethyst",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Trulite of Energy",
+    "qty": 1
+   }
+  ],
+  "crystals": 4,
+  "sparks": 2,
+  "unique_cards": [
+   "Entwined Amethyst",
+   "Trulite of Energy"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Kel",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Kel (Legacy of Gravehold)",
+  "base_name": "Kel",
+  "box": "Legacy of Gravehold",
+  "epithet": "Source of Aether",
+  "complexity": 4,
+  "ability_name": "Absorb Aether",
+  "ability_effect": "Activate during your main phase: Any ally places up to two cards from their hand or discard pile into your discard pile. Then, if you have ten or more cards in your discard pile, shuffle any player's turn order card into the turn order deck.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Entangled Tourmaline",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Split Soul",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Entangled Tourmaline",
+   "Split Soul"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Kel_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Kiri and Phoenix",
+  "base_name": "Kiri and Phoenix",
+  "box": "Origins",
+  "epithet": "The First Breach Mage",
+  "complexity": 5,
+  "ability_name": "Rain Fire",
+  "ability_effect": "Activate during your main phase: Prep the top card of the Phoenix deck to the Phoenix breach. Cast that spell. Repeat this once.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "none",
+   "none",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Condensed Pyre",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 5
+   }
+  ],
+  "crystals": 9,
+  "sparks": 0,
+  "unique_cards": [
+   "Condensed Pyre",
+   "Phoenix Ember",
+   "Phoenix Flare",
+   "Phoenix Spark",
+   "Phoenix Blast",
+   "Phoenix Scorch",
+   "Phoenix Blaze",
+   "Phoenix Inferno",
+   "Phoenix Char",
+   "Phoenix Pyre"
+  ],
+  "rules": "Place all the Phoenix spell cards that cost 3 or more in the Swap zone. Set the Phoenix mat to the side of Kiri's Mat. Shuffle Phoenix Spark, Phoenix Ember, and Phoenix Flare and place them facedown to the left of the Phoenix mat to create the Phoenix deck.\nThe Phoenix breach and Kiri's breach both cannot be destroyed.",
+  "url": "https://aeonsend.wiki.gg/wiki/Kiri_and_Phoenix",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Lash",
+  "base_name": "Lash",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Scout",
+  "complexity": null,
+  "ability_name": "Quicken Thought",
+  "ability_effect": "Activate during any player's main phase: Shuffle any player's turn order card into the turn order deck. That player suffers 1 damage.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Quartz Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Quartz Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Lash",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Leisan",
+  "base_name": "Leisan",
+  "box": "The Descent",
+  "epithet": "The Huntress",
+  "complexity": 6,
+  "ability_name": "Manifest Monstrosity",
+  "ability_effect": "Activate during your main phase:\nPlace the Manifest token on your player mat so that it covers this ability and resolve its \"IMMEDIATELY\" effects. You cannot activate this ability again this game.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Unsealed Essence",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Unsealed Essence"
+  ],
+  "rules": "Shuffle the Giga Inferno, Hulking Comet, Mountain Gust, Titanic Jasmite, and Towering Obelisk cards together facedown to form the Ultimate Form deck and place it next to this mat. Cards can only be gained from the Ultimate Form deck using Leisan's ability.\n\nPlace the Manifest token next to your mat; it does not begin in play.",
+  "url": "https://aeonsend.wiki.gg/wiki/Leisan",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Lilly",
+  "base_name": "Lilly",
+  "box": "Past and Future",
+  "epithet": "Beast Master",
+  "complexity": 7,
+  "ability_name": "Pack Tactics",
+  "ability_effect": "Activate during your main phase:\nReturn up to two minions from your discard pile to your hand. You may prep up to two spells to each of your opened breaches this turn.\nOR\nDeal 3 damage to a minion. If you defeat a minion from the nemesis deck this way, place it into your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Lure",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Lure",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Lure"
+  ],
+  "rules": "Minions in your hand, deck, discard pile, and prepped to your breaches are considered spells with a cost of 0 Æ.\n\nWhen a minion is cast, it deals damage based on its nemesis tier. Tier 1 minions deal 3 damage. Tier 2 minions deal 6 damage. Tier 3 minions deal 9 damage.\n\nIf an ally has a minion in their hand, they place that minion in the nemesis discard pile and draw a card.",
+  "url": "https://aeonsend.wiki.gg/wiki/Lilly",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Lost",
+  "base_name": "Lost",
+  "box": "The New Age",
+  "epithet": "Living Forge",
+  "complexity": 5,
+  "ability_name": "Meek's Might",
+  "ability_effect": "Activate during your main phase: Return up to four cards that cost 0 Æ in your discard pile to your hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Heart Forge",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 4,
+  "unique_cards": [
+   "Heart Forge",
+   "Forged Crystal",
+   "Forged Spark"
+  ],
+  "rules": "Set aside all of the Forged Crystal and Forged Spark cards. These form the Forged Deck. Cards in this deck can only be gained using Lost's Heart Forge. Forged Sparks and Forged Crystals count as Sparks and Crystals respectively.",
+  "url": "https://aeonsend.wiki.gg/wiki/Lost",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Lost (Legacy of Gravehold)",
+  "base_name": "Lost",
+  "box": "Legacy of Gravehold",
+  "epithet": "Forgotten Forge",
+  "complexity": 3,
+  "ability_name": "Encase in Steel",
+  "ability_effect": "Activate during your main phase: Deal damage equal to the number of spells in your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Molten Forge",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Bronze Ingot",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 3,
+  "unique_cards": [
+   "Molten Forge",
+   "Bronze Ingot"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Lost_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Lucien",
+  "base_name": "Lucien",
+  "box": "Southern Village",
+  "epithet": "Water Weaver",
+  "complexity": 7,
+  "ability_name": "Magnetism",
+  "ability_effect": "Activate during your casting phase: Open all of your breaches. Prep any number of spells in hand to your opened breaches.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "Channel Breach Icon",
+   "Tide Breach Icon",
+   "Flood Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Sun Shard",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Sun Shard"
+  ],
+  "rules": "Lucien's II breach is the Channel breach. When a spell is a cast from an opened Channel breach, the player who cast that spell gains 2 Æ. Lucien's III breach is the Tide breach. When a spell is cast from an opened Tide breach, the player who cast that spell destroys a card in hand or discard pile. Lucien's IV breach is the Flood breach. When a spell is cast from an opened Flood breach, that spell deals 3 additional damage. When a spell is cast from one of Lucien's breaches, after that spell resolves, return that breach to its starting position.",
+  "url": "https://aeonsend.wiki.gg/wiki/Lucien",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Malastar",
+  "base_name": "Malastar",
+  "box": "The Nameless",
+  "epithet": "Breach Mage Mentor",
+  "complexity": null,
+  "ability_name": "Gift of Aether",
+  "ability_effect": "Gain a spell from any supply pile. You may prep that spell to any player's opened breach.",
+  "charge_spaces": 6,
+  "breaches": [
+   "none",
+   "right",
+   "up",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Immolate",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 5
+   }
+  ],
+  "crystals": 9,
+  "sparks": 0,
+  "unique_cards": [
+   "Immolate"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Malastar",
+  "boxes": [
+   "The Nameless"
+  ]
+ },
+ {
+  "title": "Malastar (Legacy of Gravehold)",
+  "base_name": "Malastar",
+  "box": "Legacy of Gravehold",
+  "epithet": "Inventor",
+  "complexity": 4,
+  "ability_name": "Burst of Inspiration",
+  "ability_effect": "Activate during your main phase: Draw a card from the top or bottom of the Inventions deck and place it into an ally's hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Zanite, Perfected",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Zanite, Perfected",
+   "Invention: Cosmic Locus",
+   "Invention: Demiurge Diamond",
+   "Invention: Galactoscope",
+   "Invention: Guiding Facet",
+   "Invention: Maker's Mitt",
+   "Invention: Meteor Strike",
+   "Invention: Quantoid",
+   "Invention: Solar Loop"
+  ],
+  "rules": "Shuffle all of the Invention cards together facedown to form the Inventions deck. Cards in this deck can only be gained using Malastar's Burst of Inspiration ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Malastar_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazahaedron",
+  "base_name": "Mazahaedron",
+  "box": "War Eternal",
+  "epithet": "Henge Mystic",
+  "complexity": null,
+  "ability_name": "Underearth Mantra",
+  "ability_effect": "Activate during your main phase: You may gain a gem that costs 4 Æ or less from any supply pile.\nGravehold gains 4 life.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Worldheart Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Worldheart Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Mazahaedron",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Mazahaedron (The Descent)",
+  "base_name": "Mazahaedron",
+  "box": "The Descent",
+  "epithet": "The Monk",
+  "complexity": 3,
+  "ability_name": "Mantra of Earth",
+  "ability_effect": "Activate during any player's main phase:\nGain a card that costs 4 Æ or less from any supply pile. Any ally gains a destiny token.\nOR\nAny player returns a destiny token to its supply and draws five cards.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Fragment of Earth",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Fragment of Earth"
+  ],
+  "rules": "Setup: Set aside the destiny tokens.\n\nRules: When a player gains a destiny token, they place that token in front of them. For the rest of the game, that player resolves all of their destiny tokens at the end of their turn after refilling their hand.",
+  "url": "https://aeonsend.wiki.gg/wiki/Mazahaedron_(The_Descent)",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Mazra",
+  "base_name": "Mazra",
+  "box": "The Ancients",
+  "epithet": "The Reader",
+  "complexity": 6,
+  "ability_name": "Research",
+  "ability_effect": "Activate during your main phase: Destroy a card with \"Mazra\" in its name in your hand. Gain a card with \"Mazra\" in its name from the personal upgrade deck that costs 3 Æ more than the destroyed card and place that card into your hand.\nOR\nReturn to your hand all cards with \"Mazra\" in their name in your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "right",
+   "Research Breach Icon",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Mazra's Studies",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Mazra's Studies",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 0,
+  "unique_cards": [
+   "Mazra's Studies",
+   "Mazra's Arc",
+   "Mazra's Wisdom",
+   "Mazra's Gift",
+   "Mazra's Inferno"
+  ],
+  "rules": "Mazra's III breach is the Research Breach. When a spell is cast from an opened Research Breach, the player who cast that spell gains 1 charge. Set aside all cards with \"Mazra's\" in their name that cost more than 0 Æ. These form Mazra's personal upgrade deck. Cards in this deck can only be gained using Mazra's Research ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Mazra",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Mazra (Legacy of Gravehold)",
+  "base_name": "Mazra",
+  "box": "Legacy of Gravehold",
+  "epithet": "The Learned",
+  "complexity": 6,
+  "ability_name": "Research",
+  "ability_effect": "Activate during your main phase: Destroy a card with \"Mazra\" in its name in your hand. Gain a card with \"Mazra\" in its name from the personal upgrade deck that costs up to 3 Æ more than the destroyed card and place that card into your hand.\nOR\nReturn to your hand all cards with \"Mazra\" in their name in your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "right",
+   "Research Breach Icon",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Mazra's Studies",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Mazra's Studies",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 0,
+  "unique_cards": [
+   "Mazra's Studies",
+   "Mazra's Arc",
+   "Mazra's Wisdom",
+   "Mazra's Gift",
+   "Mazra's Inferno",
+   "Mazra's Teachings",
+   "Mazra's Chain",
+   "Mazra's Decimation",
+   "Mazra's Revivification"
+  ],
+  "rules": "Mazra's III breach is the Research Breach. When a spell is cast from an opened Research Breach, the player who cast that spell gains 1 charge. Set aside all cards with \"Mazra's\" in their name that cost more than 0 Æ. These form Mazra's personal upgrade deck. Cards in this deck can only be gained using Mazra's Research ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Mazra_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mist",
+  "base_name": "Mist",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Dagger Captain",
+  "complexity": null,
+  "ability_name": "Divine Augury",
+  "ability_effect": "Activate during your main phase: Any ally draws 4 cards.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Garnet Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Garnet Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Mist",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Mist (War Eternal)",
+  "base_name": "Mist",
+  "box": "War Eternal",
+  "epithet": "Voidwalker",
+  "complexity": null,
+  "ability_name": "Exalted Brand",
+  "ability_effect": "Activate during your main phase: Cast up to three different spells prepped by any number of players. For each spell cast this way, place that spell into any ally's hand.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Amethyst Paragon",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Amethyst Paragon"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Mist_(War_Eternal)",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Nadea",
+  "base_name": "Nadea",
+  "box": "Past and Future",
+  "epithet": "Town Guard",
+  "complexity": 7,
+  "ability_name": "Wall Off",
+  "ability_effect": "Activate during your main phase:\nAny player gains 3 life.\nIf you have five or more cards that cost more than 0 Æ in your discard pile, any ally gains a spell and places it into their hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Royal Inscriptions",
+    "qty": 1
+   },
+   {
+    "card": "Raw Tourmaline",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Raw Tourmaline",
+   "Royal Inscriptions",
+   "Legacy Coin",
+   "Spectralite"
+  ],
+  "rules": "Place Legacy Coin and Spectralite in the Swap zone.",
+  "url": "https://aeonsend.wiki.gg/wiki/Nadea",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Naftir",
+  "base_name": "Naftir",
+  "box": "Past and Future",
+  "epithet": "Void Inheritor",
+  "complexity": 5,
+  "ability_name": "Amplify",
+  "ability_effect": "Activate during your main phase:\nPlace a Link token on any opened breach.\nOR\nCast all the spells prepped to one breach with a Link token on it.",
+  "charge_spaces": 4,
+  "breaches": [
+   "Consuming Breach Icon",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Vorpal Fang",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Vorpal Fang"
+  ],
+  "rules": "Setup: Set aside the Link tokens.\n\nRules: Naftir's I breach is the Consuming breach. Spells cast from the Consuming breach are not discarded. Place spells cast from the Consuming breach underneath it. When you place a third spell under this breach, deal 3 damage and then discard all cards beneath the Consuming breach in any order.\n\nA Link token allows two spells to be prepped to the breach it is on. Only 1 Link token can be placed on a breach. When there are no more Link tokens to be placed, Naftir cannot resolve the first option on his ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Naftir",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Nook",
+  "base_name": "Nook",
+  "box": "Shattered Dreams",
+  "epithet": "Orb Caller",
+  "complexity": 9,
+  "ability_name": "Condense Aether",
+  "ability_effect": "Activate during your main phase: You may destroy a card in your hand or discard pile. Gain 4 Æ. You may place the next spell you gain this turn into your hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "none",
+   "down",
+   "none"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Mystic Orb",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Mystic Orb",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 0,
+  "unique_cards": [
+   "Mystic Orb"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Nook",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Nook (Beyond the Breach)",
+  "base_name": "Nook",
+  "box": "Beyond the Breach",
+  "epithet": "The Lost",
+  "complexity": 6,
+  "ability_name": "Rupture Time",
+  "ability_effect": "Place up to three cards with Crystal or Spark in their name in your hand or discard pile into the Swap zone. Gain a card from the Swap zone with Crystal or Spark in its name.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "right",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Superior Crystal",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Superior Spark",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 3,
+  "unique_cards": [
+   "Superior Crystal",
+   "Superior Spark",
+   "Infused Crystal",
+   "Infused Spark",
+   "Dim Crystal",
+   "Dim Spark",
+   "Empty Crystal",
+   "Empty Spark"
+  ],
+  "rules": "Setup: Place the Infused, Dim, and Empty Crystals and Sparks in the Swap zone.\n\nRules: To swap a card, place it in the Swap zone. Then place the card you are swapping into on top of your discard pile. When swapping, if the card being swapped to isn't in the Swap zone, place the card being swapped into the Swap zone without gaining the card it would have swapped to.",
+  "url": "https://aeonsend.wiki.gg/wiki/Nook_(Beyond_the_Breach)",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Nook (Legacy of Gravehold)",
+  "base_name": "Nook",
+  "box": "Legacy of Gravehold",
+  "epithet": "Timeless",
+  "complexity": 8,
+  "ability_name": "Time Ripple",
+  "ability_effect": "Activate during your main phase: Return up to three Crystals from your hand or discard pile to the Regularity deck. Place up to three Anomaly cards from the Regularity deck into your hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "down",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Zeronia Anomaly",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Photonix Anomaly",
+    "qty": 1
+   },
+   {
+    "card": "Mechanek Anomaly",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Eternus Anomaly",
+    "qty": 1
+   },
+   {
+    "card": "Nihilum Anomaly",
+    "qty": 1
+   }
+  ],
+  "crystals": 3,
+  "sparks": 2,
+  "unique_cards": [
+   "Zeronia Anomaly",
+   "Photonix Anomaly",
+   "Mechanek Anomaly",
+   "Eternus Anomaly",
+   "Nihilum Anomaly"
+  ],
+  "rules": "Set four Crystals and one Spark next to this mat to form the Regularity deck.",
+  "url": "https://aeonsend.wiki.gg/wiki/Nook_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Nym",
+  "base_name": "Nym",
+  "box": "The Depths",
+  "epithet": "Breach Mage Apprentice",
+  "complexity": null,
+  "ability_name": "Terminus Barrier",
+  "ability_effect": "Activate during your main phase: Discard the top card of the nemesis deck. If you discarded an attack card, discard an additional card.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "right",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Cinder",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Cinder"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Nym",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Ohat and Ulgimor",
+  "base_name": "Ohat and Ulgimor",
+  "box": "Return To Gravehold",
+  "epithet": "Double Soul",
+  "complexity": 4,
+  "ability_name": "Enrapture",
+  "ability_effect": "Activate during your main phase:\nOhat mode: Suffer 2 damage. Any ally draws five cards and discards two cards in hand.\nUlgimor mode: Cast a spell prepped to Ulgimor's IV Breach without discarding it.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "Essence Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Shower of Coals",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Shower of Coals"
+  ],
+  "rules": "Ohat and Ulgimor's IV Breach is the Essence Breach. When a spell is cast from an opened Essence Breach, the player who cast that spell gains 1 life. Place the Ohat/Ulgimor token on the front of this mat with the Ohat side faceup. When you have 5 or more life, you are in Ohat mode. When you have 4 or less life, you are in Ulgimor mode. When you become exhausted, do not resolve any on-exhaust effects. You can gain life when you have 0 life to become unexhausted.",
+  "url": "https://aeonsend.wiki.gg/wiki/Ohat_and_Ulgimor",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Ona",
+  "base_name": "Ona",
+  "box": "Past and Future",
+  "epithet": "Wraithtouched Elder",
+  "complexity": 6,
+  "ability_name": "Building Power",
+  "ability_effect": "Activate during your main phase:\nCast one of your prepped spells without discarding it.\nThen, resolve all effects on cards in the ability zone in any order.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Fossilized Flame",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Golden Geode",
+    "qty": 1
+   },
+   {
+    "card": "Leeching Beacon",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 5,
+  "sparks": 2,
+  "unique_cards": [
+   "Fossilized Flame",
+   "Golden Geode",
+   "Leeching Beacon",
+   "Destroy (Ona)",
+   "Overwhelm (Ona)",
+   "Sustain"
+  ],
+  "rules": "Setup: Place Overwhelm, Sustain and Destroy in the Swap zone. No cards begin in Ona's ability zone.\n\nRules: Cards in Ona's ability zone always have their ability active and are never discarded.",
+  "url": "https://aeonsend.wiki.gg/wiki/Ona",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Phaedraxa",
+  "base_name": "Phaedraxa",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Seer",
+  "complexity": null,
+  "ability_name": "Auspex Rune",
+  "ability_effect": "Activate immediately after a turn order card is drawn: Prevent any damage that the players or Gravehold would suffer during that turn.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "open",
+   "down",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Tourmaline Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Tourmaline Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Phaedraxa",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Qu",
+  "base_name": "Qu",
+  "box": "The Ancients",
+  "epithet": "Builder and Destroyer",
+  "complexity": 8,
+  "ability_name": "Duality Embrace",
+  "ability_effect": "Activate during your main phase: If you are in Destroyer form, cast up to two different spells prepped by any number of players, and then flip over the Form token. Otherwise, any player preps up to two spells in their discard pile to their opened breaches, and then flip over the Form token.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Change Form",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Melded Radite",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 4,
+  "sparks": 4,
+  "unique_cards": [
+   "Change Form",
+   "Melded Radite"
+  ],
+  "rules": "Place the Form token on the front of this mat with the Destroyer Form side faceup. All of the gems played and spells cast by Qu are affected by the faceup side of the Form token.",
+  "url": "https://aeonsend.wiki.gg/wiki/Qu",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Qu (Legacy of Gravehold)",
+  "base_name": "Qu",
+  "box": "Legacy of Gravehold",
+  "epithet": "Builder",
+  "complexity": 4,
+  "ability_name": "Feed the Corruption",
+  "ability_effect": "Activate during your main phase: Any ally draws two cards. Any player destroys up to two cards in hand or discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "right",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Oblivion Lode",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Corrupted Vein",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Oblivion Lode",
+   "Corrupted Vein"
+  ],
+  "rules": "Set the builder and destroyer tokens on your mat with the side labeled \"Start\" faceup.",
+  "url": "https://aeonsend.wiki.gg/wiki/Qu_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Qu (Outcasts)",
+  "base_name": "Qu",
+  "box": "Outcasts",
+  "epithet": "Destroyer",
+  "complexity": 7,
+  "ability_name": "Combust Aether",
+  "ability_effect": "Activate at the end of your draw phase: Draw three cards.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Call of the Void",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Call of the Void"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Qu_(Outcasts)",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Qu (The Surface)",
+  "base_name": "Qu",
+  "box": "The Surface",
+  "epithet": "The Changeling",
+  "complexity": 4,
+  "ability_name": "Twinned Retrieval",
+  "ability_effect": "Activate during your main phase: If you are in Giver Form, allies collectively draw three cards. Flip over the Form card.\nOtherwise, cast any ally's prepped spell and place it into your hand. Flip over the Form card.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Molded Valite",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Molded Valite"
+  ],
+  "rules": "During setup, place Qu's Form card on your mat with the Giver side faceup.",
+  "url": "https://aeonsend.wiki.gg/wiki/Qu_(The_Surface)",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Quilius",
+  "base_name": "Quilius",
+  "box": "War Eternal",
+  "epithet": "Breach Mage Assassin",
+  "complexity": null,
+  "ability_name": "Quietus Vow",
+  "ability_effect": "Activate during your main phase: Deal 2 damage for each Trophy token you have.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Extinguish",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Extinguish",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Extinguish"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Quilius",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Quilius (The Caverns)",
+  "base_name": "Quilius",
+  "box": "The Caverns",
+  "epithet": "The Initiate",
+  "complexity": 3,
+  "ability_name": "Acquire Target",
+  "ability_effect": "Activate during your main phase: Place the top card of the Challenger deck on top of the nemesis deck. Then, resolve any effects added to your ability by minions in your ability zone.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "open",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Backstab",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Backstab",
+   "Armored Bylek",
+   "Leviathan Hatchling",
+   "Pentagram Beetle",
+   "Swift Snapper"
+  ],
+  "rules": "Setup: Shuffle Armored Bylek, Leviathan Hatchling, Pentagram Beetle, and Swift Snapper together facedown to form the Challenger deck.\nRules: Cards in Quilius's ability zone are never discarded. Do not resolve their Persistent effects.",
+  "url": "https://aeonsend.wiki.gg/wiki/Quilius_(The_Caverns)",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Raven",
+  "base_name": "Raven",
+  "box": "The Descent",
+  "epithet": "The Lone Survivor",
+  "complexity": 8,
+  "ability_name": "Exhume",
+  "ability_effect": "Activate during your main phase: Gain 4 Knowledge. Reveal the top three cards of the Forgotten Ritual deck. You may gain any number of the revealed cards by paying their cost using Knowledge. Place the gained cards into your hand. Place the rest on the bottom of the Forgotten Ritual deck.",
+  "charge_spaces": 5,
+  "breaches": [
+   "Archive_Breach_I_Icon",
+   "Archive_Breach_II_Icon",
+   "Archive_Breach_III_Icon",
+   "Archive_Breach_IV_Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Raven's Eye",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Seeker's Light",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 5,
+  "sparks": 3,
+  "unique_cards": [
+   "Raven's Eye",
+   "Seeker's Light"
+  ],
+  "rules": "Setup: Shuffle the Forgotten Ritual deck, place it next to this mat, and reveal the top card of that deck.\n\nRules: The top card of the Forgotten Ritual deck is always revealed. Cards can only be gained from the Forgotten Ritual deck through Raven's cards and ability.\n\nRaven's breaches are the Archive breaches. When a spell is cast from an open Archive breach, Raven gains 1 Knowledge.",
+  "url": "https://aeonsend.wiki.gg/wiki/Raven",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Razra",
+  "base_name": "Razra",
+  "box": "Into The Wild",
+  "epithet": "The Trainer",
+  "complexity": 7,
+  "ability_name": "Train Rip",
+  "ability_effect": "Activate during your main phase: Destroy a card with \"Rip\" in its name in your hand. Gain a card with \"Rip\" in its name from the personal upgrade deck that costs 3 Æ more than the destroyed card and place that card into your hand.\nOR\nReturn to your hand all cards with \"Rip\" in their name you have played this turn or are in your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Rip, Help!",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Rip, Help!",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Rip, Help!",
+   "Rip, Fetch!",
+   "Rip, Go!",
+   "Rip, Attack!",
+   "Rip, Eat!"
+  ],
+  "rules": "Set aside all cards with \"Rip\" in their name that cost more than 0 Æ. These form Razra's personal upgrade deck. Cards in this deck can only be gained using Razra's Train Rip ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Razra",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Razra (Legacy of Gravehold)",
+  "base_name": "Razra",
+  "box": "Legacy of Gravehold",
+  "epithet": "The Tamer",
+  "complexity": 7,
+  "ability_name": "Train Rip",
+  "ability_effect": "Activate during your main phase: Destroy a card with \"Rip\" in its name in your hand. Gain a card with \"Rip\" in its name from the personal upgrade deck that costs 3 Æ more than the destroyed card and place that card into your hand.\nOR\nReturn to your hand all cards with \"Rip\" in their name you have played this turn or are in your discard pile.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Rip, Help!",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Rip, Help!",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Rip, Help!",
+   "Rip, Fetch!",
+   "Rip, Go!",
+   "Rip, Attack!",
+   "Rip, Eat!",
+   "Rip, Protect!",
+   "Rip, Scout!",
+   "Rip, Guard!",
+   "Rip, Patrol!"
+  ],
+  "rules": "Set aside all cards with \"Rip\" in their name that cost more than 0 Æ. These form Razra's personal upgrade deck. Cards in this deck can only be gained using Razra's Train Rip ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Razra_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Reeve",
+  "base_name": "Reeve",
+  "box": "The Depths",
+  "epithet": "Breach Mage Elite",
+  "complexity": null,
+  "ability_name": "Quelling Blade",
+  "ability_effect": "Activate during your main phase: Deal 5 damage to a minion. Deal 3 damage to a different minion.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Obsidian Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 4,
+  "unique_cards": [
+   "Obsidian Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Reeve",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Remnant",
+  "base_name": "Remnant",
+  "box": "The Outer Dark",
+  "epithet": "Aethereal Entity",
+  "complexity": null,
+  "ability_name": "Ephemera Masque",
+  "ability_effect": "Activate during your main phase:\nAny ally returns two cards in their discard pile to their hand.\nOR\nGravehold gains 5 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "Remnant Breach II Icon",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Void Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Void Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Remnant",
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Remnant (Beyond the Breach)",
+  "base_name": "Remnant",
+  "box": "Beyond the Breach",
+  "epithet": "What Remains",
+  "complexity": 3,
+  "ability_name": "Rebuild Matter",
+  "ability_effect": "Return up to two spells from your discard pile to your hand. You may prep one additional spell to your III and IV breaches this turn.\nOR\nGravehold gains 4 life.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "right",
+   "Rift_Breach_III_Icon",
+   "Rift_Breach_IV_Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Violet Shard",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 4,
+  "unique_cards": [
+   "Violet Shard"
+  ],
+  "rules": "Remnant's III and IV breaches are the Rift breaches. When a spell is cast from an opened Rift breach, any ally draws a card.",
+  "url": "https://aeonsend.wiki.gg/wiki/Remnant_(Beyond_the_Breach)",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Reth",
+  "base_name": "Reth",
+  "box": "Southern Village",
+  "epithet": "Force of Nature",
+  "complexity": 5,
+  "ability_name": "Missing Half",
+  "ability_effect": "Activate during your main phase: Reveal your deck. Place up to two spells with the same name from your deck into your hand, and up to two spells with that same name from your discard into your hand. Return your deck in the same order.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "Unbound Breach Icon",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Fossilized Rose",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Fossilized Rose"
+  ],
+  "rules": "Reth's III breach is the Unbound breach. Any number of spells with the same name may be prepped to an opened Unbound breach. When a spell is cast from an opened Unbound breach, that spell deals 1 additional damage for each other spell prepped to that breach.",
+  "url": "https://aeonsend.wiki.gg/wiki/Reth",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Rhia",
+  "base_name": "Rhia",
+  "box": "The New Age",
+  "epithet": "Relic Hunter",
+  "complexity": 6,
+  "ability_name": "Sublimate",
+  "ability_effect": "Activate during your main phase: Return a card in your hand or discard pile to its supply pile. If you returned a relic, gain a card from any supply pile that costs up to 3 Æ more than the returned card. Otherwise, gain a card from any supply pile that costs up to 2 Æ more than the returned card. Either way, place the gained card into your hand.",
+  "charge_spaces": 4,
+  "breaches": [
+   "none",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Planar Pocket",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 5
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Planar Pocket"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Rhia",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Rhys",
+  "base_name": "Rhys",
+  "box": "Past and Future",
+  "epithet": "Artificial Breach Mage",
+  "complexity": 6,
+  "ability_name": "Loop Data",
+  "ability_effect": "Activate during your main phase:\nGain up to two spells from the supply that cost 5 Æ or less.\nYou may place up to two spells from your discard pile into your hand.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "none",
+   "none",
+   "none"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Circuit Board",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Circuit Board"
+  ],
+  "rules": "Setup: Set aside the Artificial breaches and cost counters.\n\nRules: At the start of your main phase, if you have no closed breaches, choose an Artificial breach and place it closed side up along the top of your mat. Place a number of cost counters equal to that breach's cost on the breach.\n\nDuring your main phase, you may spend Æ to remove cost counters from a breach. Any effect that focuses an Artificial breach removes 3 cost counters from it instead.\n\nWhen all cost counters are removed, open that breach.\n\nIf you have removed at least 3 cost counters from a closed Artificial breach this turn, you may prep a spell to it. Rhys can have up to six breaches.",
+  "url": "https://aeonsend.wiki.gg/wiki/Rhys",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Sahala",
+  "base_name": "Sahala",
+  "box": "The New Age",
+  "epithet": "Oracle",
+  "complexity": 3,
+  "ability_name": "Star Bind",
+  "ability_effect": "Activate during your casting or main phase:\nReveal the top three cards of your deck. Place a spell revealed this way into your hand. If there are no spells prepped to your Celestial Breach, prep up to two spells in hand to your opened Celestial Breach.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "Celestial_Breach_Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Sparkling Meteorite",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Sparkling Meteorite"
+  ],
+  "rules": "Sahala's IV Breach is the Celestial Breach. When a spell is cast from an opened Celestial Breach, that spell deals 2 additional damage.",
+  "url": "https://aeonsend.wiki.gg/wiki/Sahala",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Shoshana",
+  "base_name": "Shoshana",
+  "box": "Past and Future",
+  "epithet": "Ultimate Tether",
+  "complexity": 4,
+  "ability_name": "Redirect Flow",
+  "ability_effect": "Activate during your main phase: After the end of your turn, before another card is drawn from the turn order deck, your Tether takes a turn.",
+  "charge_spaces": 6,
+  "breaches": [
+   "none",
+   "up",
+   "down",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Imbued Ink",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 5
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Imbued Ink",
+   "Soul Facet"
+  ],
+  "rules": "At the beginning of the game, choose any ally. Give that ally the Tether token. That ally will be your Tether for the rest of the game. That ally replaces a Crystal in their starting deck with Soul Facet. If that ally has no Crystals in their starting deck, they replace any card in their deck with Soul Facet.",
+  "url": "https://aeonsend.wiki.gg/wiki/Shoshana",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Soskel",
+  "base_name": "Soskel",
+  "box": "The New Age",
+  "epithet": "Aristocrat",
+  "complexity": 4,
+  "ability_name": "Energized Sigil",
+  "ability_effect": "Activate during your main phase:\nPlace an Energize token on any player's breach that doesn't have one.\nOR\nDiscard an Energize token on any player's breach. That player gains 4 life.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Lucky Coin",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Spark",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Lucky Coin"
+  ],
+  "rules": "When a player casts a spell from a breach that has an Energize token on it, that player gains 1 charge.",
+  "url": "https://aeonsend.wiki.gg/wiki/Soskel",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Soskel (Legacy of Gravehold)",
+  "base_name": "Soskel",
+  "box": "Legacy of Gravehold",
+  "epithet": "Tactician",
+  "complexity": 5,
+  "ability_name": "Tactician's Gambit",
+  "ability_effect": "Activate during your main phase: Players collectively return up to two cards from their discard piles to their hands.\nReveal the turn order deck and return it in any order.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Blinding Gambit",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Bastion Flint",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 2,
+  "unique_cards": [
+   "Blinding Gambit",
+   "Bastion Flint"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Soskel_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Sparrow",
+  "base_name": "Sparrow",
+  "box": "The Void",
+  "epithet": "Breach Mage Soldier",
+  "complexity": null,
+  "ability_name": "Eldritch Tether",
+  "ability_effect": "Activate during your main phase: Focus any player's breach. Repeat this three additional times.\nOR\nAny ally with no closed breaches draws three cards and then preps up to three spells from their hand.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "down",
+   "down",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Smolder",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 5
+   }
+  ],
+  "crystals": 9,
+  "sparks": 0,
+  "unique_cards": [
+   "Smolder"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Sparrow",
+  "boxes": [
+   "The Void"
+  ]
+ },
+ {
+  "title": "Stake",
+  "base_name": "Stake",
+  "box": "Beyond the Breach",
+  "epithet": "The Professor",
+  "complexity": 8,
+  "ability_name": "Tinker",
+  "ability_effect": "Return a spell in your discard pile to hand. Until end of turn, you may prep any number of spells to your breach.\nOR\nChoose a set-aside breach upgrade. Spend Knowledge equal to its cost. Then, add that card and its effect to the Prototype breach.",
+  "charge_spaces": 4,
+  "breaches": [
+   "none",
+   "none",
+   "none",
+   "Prototype_Breach_Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Sagestone",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Piercing Light",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Sagestone",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Piercing Light",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 0,
+  "unique_cards": [
+   "Piercing Light",
+   "Sagestone",
+   "Upgraded Efficiency",
+   "Upgraded Energetics",
+   "Upgraded Focus",
+   "Upgraded Potential",
+   "Upgraded Reflex"
+  ],
+  "rules": "During setup, set aside all of Stake's breach upgrade cards.\n\nStake's IV breach is the Prototype breach. When a spell is cast from the opened Prototype breach, Stake gains 1 Knowledge. Stake's Prototype breach cannot be destroyed.",
+  "url": "https://aeonsend.wiki.gg/wiki/Stake",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Talix",
+  "base_name": "Talix",
+  "box": "The New Age",
+  "epithet": "The Chain",
+  "complexity": 6,
+  "ability_name": "Soaring Ash",
+  "ability_effect": "Activate during your main phase:\nDestroy two Sparks in hand. If you do, shuffle your turn order card into the turn order deck.\nOR\nGravehold gains 5 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Furnacium",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Spark",
+    "qty": 4
+   },
+   {
+    "card": "Furnacium",
+    "qty": 1
+   }
+  ],
+  "crystals": 0,
+  "sparks": 8,
+  "unique_cards": [
+   "Furnacium"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Talix",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Talix (Legacy of Gravehold)",
+  "base_name": "Talix",
+  "box": "Legacy of Gravehold",
+  "epithet": "Heart of Flame",
+  "complexity": 6,
+  "ability_name": "Soaring Ash",
+  "ability_effect": "Activate during your main phase: Cast any number of your prepped Sparks. Those spells deal 2 additional damage. You may destroy a Spark in your discard pile.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "open",
+   "down",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 1
+   },
+   {
+    "card": "Powdered Infinitum",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 3
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 3
+   },
+   {
+    "card": "Powdered Infinitum",
+    "qty": 1
+   }
+  ],
+  "crystals": 2,
+  "sparks": 6,
+  "unique_cards": [
+   "Powdered Infinitum"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Talix_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Taqren",
+  "base_name": "Taqren",
+  "box": "The New Age",
+  "epithet": "The Shield",
+  "complexity": 2,
+  "ability_name": "Breach Siphon",
+  "ability_effect": "Activate during your main phase: Focus any player's breach. Any player gains 1 life for each opened breach you have.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "Defender Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Gift of Spirit",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Gift of Spirit"
+  ],
+  "rules": "Taqren's IV Breach is the Defender Breach. When a spell is cast from an opened Defender Breach, Gravehold gains 1 life.",
+  "url": "https://aeonsend.wiki.gg/wiki/Taqren",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Taqren (Legacy of Gravehold)",
+  "base_name": "Taqren",
+  "box": "Legacy of Gravehold",
+  "epithet": "Reignited Guardian",
+  "complexity": 3,
+  "ability_name": "Guardian's Strength",
+  "ability_effect": "Activate during your turn: Focus any player's breach or any ally preps a spell to one of their opened or closed breaches. Repeat this three times.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "Fortified Breach Icon",
+   "Garrison Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Warding Stone",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Warding Stone"
+  ],
+  "rules": "Taqren's III breach is the Fortified breach. When a spell is cast through the Fortified breach, the player who cast the spell gains Æ equal to the nemesis tier. Taqren's IV breach is the Garrison breach. When a spell is cast through the Garrison breach, it deals additional damage equal to the nemesis tier.",
+  "url": "https://aeonsend.wiki.gg/wiki/Taqren_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Taqren (Outcasts)",
+  "base_name": "Taqren",
+  "box": "Outcasts",
+  "epithet": "Severed Shield",
+  "complexity": 6,
+  "ability_name": "Sustain",
+  "ability_effect": "Activate during your main phase: If you are not exhausted, gain 3 life. Otherwise, Gravehold gains 3 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Esoteric Amplifier",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Esoteric Amplifier"
+  ],
+  "rules": "On the left side of the front of this mat, there is a barrier track. Place the barrier token on \"Any ally draws a card.\" of the barrier track. When Taqren suffers damage, or is exhausted and would suffer damage, move the barrier token to a different space on the barrier track and resolves the listed effects. When Taqren is exhausted, Gravehold suffers 1 damage per 1 damage Taqren suffers instead of 2.",
+  "url": "https://aeonsend.wiki.gg/wiki/Taqren_(Outcasts)",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Thraxir",
+  "base_name": "Thraxir",
+  "box": "Outcasts",
+  "epithet": "Reanimated",
+  "complexity": 5,
+  "ability_name": "Shackles Unleashed",
+  "ability_effect": "Activate during your main phase: Cast up to three spells prepped by any players. If you have three opened breaches, those spells deal 1 additional damage. If you have four opened breaches, you may cast up to four spells and those spells deal 2 additional damage instead.",
+  "charge_spaces": 5,
+  "breaches": [
+   "Forged Breach Icon",
+   "Honed Breach Icon",
+   "Refined Breach Icon",
+   "Serrated Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Nameless Siphon",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Nameless Siphon"
+  ],
+  "rules": "Thraxir's I breach is the Forged breach. When opened, Thraxir gains a card that costs 4 Æ or less from any supply pile. Thraxir's II breach is the Honed breach. When opened, Thraxir gains a spell that costs 5 Æ or less from any supply pile. Thraxir's III breach is the Refined breach. When opened, shuffle Thraxir's turn order card into the turn order deck. Thraxir's IV breach is the Serrated breach. When opened, Thraxir gains a spell from any supply pile.",
+  "url": "https://aeonsend.wiki.gg/wiki/Thraxir",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Thraxir (Legacy of Gravehold)",
+  "base_name": "Thraxir",
+  "box": "Legacy of Gravehold",
+  "epithet": "The Returned",
+  "complexity": 3,
+  "ability_name": "Sever Reality",
+  "ability_effect": "Activate after the turn order deck is shuffled: Reveal cards from the top of the turn order deck equal to the number of opened breaches you have. Return those cards to the top of the turn order deck in any order. You may place the top card of the turn order deck in the turn order discard pile.",
+  "charge_spaces": 6,
+  "breaches": [
+   "Memory Breach Icon",
+   "right",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Cleansing Quartz",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Cleansing Quartz"
+  ],
+  "rules": "Thraxir's I breach is the Memory breach. When a spell is cast from the Memory breach, focus any player's closed breach with the lowest focus cost.",
+  "url": "https://aeonsend.wiki.gg/wiki/Thraxir_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Thraxir (The Descent)",
+  "base_name": "Thraxir",
+  "box": "The Descent",
+  "epithet": "The Commander",
+  "complexity": 3,
+  "ability_name": "Reality Warp",
+  "ability_effect": "Activate during any player's main phase:\nThat player focuses a breach. Then, you gain a card from the supply that costs up to twice the focus cost of their opened breach with the highest focus cost.\nOR\nIf that player has no closed breaches, deal 8 damage.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "Judgement Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Infuser",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Infuser"
+  ],
+  "rules": "Thraxir's IV breach is the Judgment breach. Spells cast from the Judgment breach deal +1 damage for each other opened breach Thraxir has.",
+  "url": "https://aeonsend.wiki.gg/wiki/Thraxir_(The_Descent)",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Tressa",
+  "base_name": "Tressa",
+  "box": "The Returned",
+  "epithet": "The Collector",
+  "complexity": 9,
+  "ability_name": "Reconnect Tissue",
+  "ability_effect": "Activate during your main phase: Any ally gains 2 charges and may destroy a card in hand or discard pile.\nYou may place one of your level 3 treasures in play on the bottom of Tressa's Vault. If you do, place the top card of Tressa's Vault into play. If the new card has an effect that resolves \"At the start of your first turn of the game,\" resolve that effect now.",
+  "charge_spaces": 4,
+  "breaches": [
+   "none",
+   "left",
+   "right",
+   "left"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Transmaterium",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Translocate",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "crystals": 7,
+  "sparks": 1,
+  "unique_cards": [
+   "Transmaterium",
+   "Translocate",
+   "Alchemic Stance",
+   "Artifact Stance",
+   "Breach Stance",
+   "Creator Stance",
+   "Overload Stance"
+  ],
+  "rules": "During setup, shuffle and place the five level 3 treasures that come with Tressa next to her mat facedown to form Tressa's Vault. The top card of Tressa's Vault is always revealed. You may customize this deck with other level 3 treasures from your collection, but it must start with at least five level 3 treasures. At the start of the game, reveal the top two treasures from this deck, and place one into play and the other on the bottom of this deck.",
+  "url": "https://aeonsend.wiki.gg/wiki/Tressa",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Ulgimor",
+  "base_name": "Ulgimor",
+  "box": "War Eternal",
+  "epithet": "Shadowkin Beast",
+  "complexity": null,
+  "ability_name": "Eidolon Shroud",
+  "ability_effect": "Activate during your main phase: Gain 6 life.\nIf you are exhausted, any ally gains 5 life instead.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Coal Shard",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 5,
+  "sparks": 4,
+  "unique_cards": [
+   "Coal Shard"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Ulgimor",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Willow",
+  "base_name": "Willow",
+  "box": "Past and Future",
+  "epithet": "Neophyte",
+  "complexity": 5,
+  "ability_name": "Flash of Genius",
+  "ability_effect": "Activate during your main phase: Gain 5 Knowledge. Cards you gain this turn may be placed on top of your deck.\nOR\nGravehold Gains 5 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Innovation",
+    "qty": 1
+   },
+   {
+    "card": "Suncatcher",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 2
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Innovation",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 5,
+  "sparks": 2,
+  "unique_cards": [
+   "Innovation",
+   "Suncatcher"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Willow",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Wolf",
+  "base_name": "Wolf",
+  "box": "Beyond the Breach",
+  "epithet": "The Strike Leader",
+  "complexity": 6,
+  "ability_name": "Aegis of Hope",
+  "ability_effect": "Lose all of your doom.\nAny ally draws a card. Repeat this for each doom lost this way.",
+  "charge_spaces": 4,
+  "breaches": [
+   "none",
+   "right",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Doomstone",
+    "qty": 1
+   },
+   {
+    "card": "Doom Howl",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Doomstone",
+    "qty": 1
+   },
+   {
+    "card": "Doom Howl",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 0,
+  "unique_cards": [
+   "Doomstone",
+   "Doom Howl"
+  ],
+  "rules": "During setup, set aside the 5 doom tokens.\n\nWhen you have 5 or more doom, each minion and the nemesis each suffer 10 damage. Then, you suffer 10 damage and lose all of your doom.",
+  "url": "https://aeonsend.wiki.gg/wiki/Wolf",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Xaxos",
+  "base_name": "Xaxos",
+  "box": "Aeon's End (Core Box)",
+  "epithet": "Breach Mage Adept",
+  "complexity": null,
+  "ability_name": "Metaphysical Link",
+  "ability_effect": "Activate during any player's main phase: Allies collectively gain 4 charges. Reveal the turn order deck and return the revealed cards in any order.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "right",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Flare",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Flare"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Xaxos (Legacy of Gravehold)",
+  "base_name": "Xaxos",
+  "box": "Legacy of Gravehold",
+  "epithet": "Reckoner",
+  "complexity": 4,
+  "ability_name": "Expand Potential",
+  "ability_effect": "Activate during your main phase: Look at and gain the top card of the Reckoning deck. Then, place it on top of your deck.\nOR\nReturn one Reckoning card from your discard pile to your hand.",
+  "charge_spaces": 6,
+  "breaches": [
+   "open",
+   "left",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Essence Leech",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Essence Leech",
+   "Brutal Reckoning",
+   "Cosmic Reckoning",
+   "Dead Reckoning",
+   "Elemental Reckoning",
+   "Final Reckoning",
+   "Nocturnal Reckoning"
+  ],
+  "rules": "Shuffle all of the Reckoning cards together facedown to form the Reckoning deck. Cards in this deck can only be gained using Xaxos's Expand Potential ability.",
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Xaxos (The Abyss)",
+  "base_name": "Xaxos",
+  "box": "The Abyss",
+  "epithet": "The Fledgeling",
+  "complexity": 9,
+  "ability_name": "Leech Power",
+  "ability_effect": "Activate during your main phase:\nGain 3 Æ. You may place any cards\nyou gain this turn into your hand.\nYou may place a nemesis turn order card in the turn order discard pile on the\nbottom of the turn order deck.\nIf you do, gain an additional 7 Æ.",
+  "charge_spaces": 4,
+  "breaches": [
+   "open",
+   "left",
+   "down",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Siphonite",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Siphonite"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos_(The_Abyss)",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Xaxos (The Void)",
+  "base_name": "Xaxos",
+  "box": "The Void",
+  "epithet": "Voidbringer",
+  "complexity": null,
+  "ability_name": "Praetorian Halo",
+  "ability_effect": "Activate during your main phase: Any ally gains 1 charge and discards a random card in hand. Focus one of your breaches. Gain 1 life. Destroy a card in your hand or discard pile.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "down",
+   "right",
+   "down"
+  ],
+  "starting_hand": [
+   {
+    "card": "Pyre",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Pyre"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Xaxos_(The_Void)",
+  "boxes": [
+   "The Void"
+  ]
+ },
+ {
+  "title": "Yan Magda",
+  "base_name": "Yan Magda",
+  "box": "War Eternal",
+  "epithet": "Enlightened Exile",
+  "complexity": null,
+  "ability_name": "Imperium Ritual",
+  "ability_effect": "Activate during your main phase: Gain a card from any supply pile. If you have four opened breaches, any ally gains a card from any supply pile and places it on top of their deck.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "right",
+   "right",
+   "right"
+  ],
+  "starting_hand": [
+   {
+    "card": "Illuminate",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Illuminate"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Yan_Magda",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Yan Magda (Legacy of Gravehold)",
+  "base_name": "Yan Magda",
+  "box": "Legacy of Gravehold",
+  "epithet": "Recovered Exile",
+  "complexity": 4,
+  "ability_name": "Devour Magic",
+  "ability_effect": "Activate during your main phase: Cast a spell prepped to an opened Incanted breach three times, then reset that breach to its starting position.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "left",
+   "Incanted Breach Icon",
+   "Incanted Breach Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Eldritch Eye",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 2,
+  "unique_cards": [
+   "Eldritch Eye"
+  ],
+  "rules": "Yan Magda's III and IV breaches are the Incanted breaches. Incanted breaches have no special effects.",
+  "url": "https://aeonsend.wiki.gg/wiki/Yan_Magda_(Legacy_of_Gravehold)",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Yan Magda (The Returned)",
+  "base_name": "Yan Magda",
+  "box": "The Returned",
+  "epithet": "The Leader",
+  "complexity": 4,
+  "ability_name": "Void Touch",
+  "ability_effect": "Activate during your main phase: Gain a card from any supply pile. Any ally may reset one of their opened III or IV breaches to its starting position. If they do, that ally gains a card from any supply pile and places that card on top of their deck.",
+  "charge_spaces": 5,
+  "breaches": [
+   "open",
+   "open",
+   "Intoned Breach III Icon",
+   "Intoned Breach IV Icon"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Foretold Flame",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Spark",
+    "qty": 2
+   }
+  ],
+  "crystals": 6,
+  "sparks": 3,
+  "unique_cards": [
+   "Foretold Flame"
+  ],
+  "rules": "Yan Magda's III and IV breaches are the Intoned breaches. When a spell is cast from an opened Intoned breach, any player focuses a breach. Spells cast from opened Intoned breaches deal 1 additional damage.",
+  "url": "https://aeonsend.wiki.gg/wiki/Yan_Magda_(The_Returned)",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Z'hana",
+  "base_name": "Z'hana",
+  "box": "The Depths",
+  "epithet": "Breach Mage Renegade",
+  "complexity": null,
+  "ability_name": "Sanctum Glyph",
+  "ability_effect": "Activate during your main phase: Gravehold gains 7 life.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "right",
+   "down",
+   "up"
+  ],
+  "starting_hand": [
+   {
+    "card": "Eternal Ember",
+    "qty": 1
+   },
+   {
+    "card": "Crystal",
+    "qty": 4
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 8,
+  "sparks": 1,
+  "unique_cards": [
+   "Eternal Ember"
+  ],
+  "rules": null,
+  "url": "https://aeonsend.wiki.gg/wiki/Z'hana",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Z'hana (Outcasts)",
+  "base_name": "Z'hana",
+  "box": "Outcasts",
+  "epithet": "Crimson Rebel",
+  "complexity": 3,
+  "ability_name": "Inscribe",
+  "ability_effect": "Activate during any player's main phase: Gravehold gains 5 life. Place two glyph tokens on top of any card in the supply.",
+  "charge_spaces": 5,
+  "breaches": [
+   "none",
+   "right",
+   "down",
+   "up"
+  ],
+  "starting_hand": [
+   {
+    "card": "Crystal",
+    "qty": 4
+   },
+   {
+    "card": "Glyph Carver",
+    "qty": 1
+   }
+  ],
+  "starting_deck": [
+   {
+    "card": "Crystal",
+    "qty": 3
+   },
+   {
+    "card": "Glyph Carver",
+    "qty": 1
+   },
+   {
+    "card": "Spark",
+    "qty": 1
+   }
+  ],
+  "crystals": 7,
+  "sparks": 1,
+  "unique_cards": [
+   "Glyph Carver"
+  ],
+  "rules": "Set all the glyph tokens next to this mat. When an ally gains a card with a glyph token on it, that ally or Z'hana resolves that token's effect. Then, that token is returned to Z'hana. When Z'hana gains a card with a glyph token on it, place that glyph token on any card in the supply unless you are playing with one mage. When a card with one or more glyph tokens is removed from the supply, return those glyph tokens to Z'hana.",
+  "url": "https://aeonsend.wiki.gg/wiki/Z'hana_(Outcasts)",
+  "boxes": [
+   "Outcasts"
+  ]
+ }
+]

@@ -1,0 +1,23 @@
+# Synology Container Manager → Project → "Create" → point it at this folder (or paste this file).
+# Saves stay in each player's browser. The volume keeps the AI-written stories (by share code).
+services:
+  aeons-expeditions:
+    image: aeons-expeditions:1.0.0
+    build: .
+    container_name: aeons-expeditions
+    ports:
+      - "8080:8080"   # change the left number if 8080 is already used on the NAS
+    restart: unless-stopped
+    mem_limit: 256m
+    volumes:
+      - ai-stories:/app/data/state
+    # Optional AI story rewrite. Put the keys in a file named .env next to this one
+    # (ANTHROPIC_API_KEY=sk-ant-...  DEEPSEEK_API_KEY=sk-...): leave a key empty to hide that provider.
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      AI_DEEPSEEK_MODEL: ${AI_DEEPSEEK_MODEL:-deepseek-v4-pro}   # or deepseek-flash (cheaper)
+      AI_DAILY_LIMIT: ${AI_DAILY_LIMIT:-30}                       # paid rewrites per day, whole server
+
+volumes:
+  ai-stories:

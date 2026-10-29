@@ -1,0 +1,206 @@
+[
+ {
+  "title": "Accessory Pack",
+  "wave": null,
+  "type": null,
+  "first_release": null
+ },
+ {
+  "title": "Aeon's End (Core Box)",
+  "wave": 1,
+  "type": "Standalone",
+  "first_release": "2016"
+ },
+ {
+  "title": "Aeon's End (Digital)",
+  "wave": null,
+  "type": null,
+  "first_release": null
+ },
+ {
+  "title": "Beyond the Breach",
+  "wave": 9,
+  "type": "Standalone",
+  "first_release": "2026"
+ },
+ {
+  "title": "Buried Secrets",
+  "wave": 3,
+  "type": "Expansion",
+  "first_release": "2019"
+ },
+ {
+  "title": "Evolution",
+  "wave": 7,
+  "type": "Expansion",
+  "first_release": "2024"
+ },
+ {
+  "title": "Into The Wild",
+  "wave": 4,
+  "type": "Expansion",
+  "first_release": "2019"
+ },
+ {
+  "title": "Legacy",
+  "wave": 3,
+  "type": "Standalone",
+  "first_release": "2019"
+ },
+ {
+  "title": "Legacy of Gravehold",
+  "wave": 6,
+  "type": "Standalone",
+  "first_release": "2021"
+ },
+ {
+  "title": "Origins",
+  "wave": 7,
+  "type": "Expansion",
+  "first_release": "2024"
+ },
+ {
+  "title": "Outcasts",
+  "wave": 5,
+  "type": "Standalone",
+  "first_release": "2020"
+ },
+ {
+  "title": "Past and Future",
+  "wave": 7,
+  "type": "Expansion",
+  "first_release": "2023"
+ },
+ {
+  "title": "Promo",
+  "wave": null,
+  "type": null,
+  "first_release": null
+ },
+ {
+  "title": "Promo Pack 1 (Digital)",
+  "wave": null,
+  "type": null,
+  "first_release": null
+ },
+ {
+  "title": "Return To Gravehold",
+  "wave": 5,
+  "type": "Expansion",
+  "first_release": "2020"
+ },
+ {
+  "title": "Shattered Dreams",
+  "wave": 4,
+  "type": "Expansion",
+  "first_release": "2019"
+ },
+ {
+  "title": "Southern Village",
+  "wave": 5,
+  "type": "Expansion",
+  "first_release": "2020"
+ },
+ {
+  "title": "System Overload",
+  "wave": 10,
+  "type": "Standalone",
+  "first_release": "?"
+ },
+ {
+  "title": "Tales of Old Gravehold",
+  "wave": 8,
+  "type": "Expansion",
+  "first_release": "2024"
+ },
+ {
+  "title": "The Abyss",
+  "wave": 8,
+  "type": "Expansion",
+  "first_release": "2024"
+ },
+ {
+  "title": "The Ancients",
+  "wave": 4,
+  "type": "Expansion",
+  "first_release": "2019"
+ },
+ {
+  "title": "The Caverns",
+  "wave": 8,
+  "type": "Expansion",
+  "first_release": "2024"
+ },
+ {
+  "title": "The Cinderkeep",
+  "wave": 10,
+  "type": "Expansion",
+  "first_release": "?"
+ },
+ {
+  "title": "The Depths",
+  "wave": 1,
+  "type": "Expansion",
+  "first_release": "2016"
+ },
+ {
+  "title": "The Descent",
+  "wave": 8,
+  "type": "Standalone",
+  "first_release": "2024"
+ },
+ {
+  "title": "The Nameless",
+  "wave": 1,
+  "type": "Expansion",
+  "first_release": "2017"
+ },
+ {
+  "title": "The New Age",
+  "wave": 4,
+  "type": "Standalone",
+  "first_release": "2019"
+ },
+ {
+  "title": "The Outer Dark",
+  "wave": 2,
+  "type": "Expansion",
+  "first_release": "2018"
+ },
+ {
+  "title": "The Returned",
+  "wave": 9,
+  "type": "Expansion",
+  "first_release": "2026"
+ },
+ {
+  "title": "The Ruins",
+  "wave": 6,
+  "type": "Expansion",
+  "first_release": "2021"
+ },
+ {
+  "title": "The Surface",
+  "wave": 9,
+  "type": "Expansion",
+  "first_release": "2026"
+ },
+ {
+  "title": "The Void",
+  "wave": 2,
+  "type": "Expansion",
+  "first_release": "2018"
+ },
+ {
+  "title": "The Wastes",
+  "wave": 10,
+  "type": "Expansion",
+  "first_release": "?"
+ },
+ {
+  "title": "War Eternal",
+  "wave": 2,
+  "type": "Standalone",
+  "first_release": "2017"
+ }
+]

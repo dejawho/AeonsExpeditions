@@ -1,0 +1,3632 @@
+{
+ "_about": "Character profiles reconstructed from mat quotes, flavor text and campaign cards. 'versions' are wiki pages for each printed version of the character. 'pronouns' only when the texts make them clear; otherwise omitted. 'hooks' are story seeds for expedition generation. relationship types: family, partner, mentor, student, friend, rival, enemy, companion, creator.",
+ "characters": [
+  {
+   "id": "brama",
+   "name": "Brama",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Elder",
+    "Sister Initiate",
+    "the Leader"
+   ],
+   "versions": [
+    "Brama (The Descent)",
+    "Brama",
+    "Brama (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "calamity",
+    "descent",
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "sisterhood",
+    "council",
+    "breach_mages"
+   ],
+   "summary": "The oldest living human, a young Sister Initiate during the Calamity who defied her elders to lead a pilgrimage to a defensible city and found Gravehold. She brought the sister-words down from The World That Was, counselled sealing the cave and became high elder. Her faith is Gravehold's best weapon — and with age it hardens into paranoia: she exiles Yan Magda, Garu, Arachnos and Xaxos' students, and in the civil war becomes a nemesis to Z'hana's side. Once the rebel against tradition, she becomes the institution.",
+   "traits": [
+    "faithful",
+    "ancient",
+    "protective",
+    "suspicious of the Void",
+    "keeps secrets 'to avoid chaos'"
+   ],
+   "relationships": [
+    {
+     "with": "dalana",
+     "type": "friend",
+     "note": "childhood friend"
+    },
+    {
+     "with": "janti",
+     "type": "friend"
+    },
+    {
+     "with": "thraxir",
+     "type": "companion",
+     "note": "stood by her when the conclaves split"
+    },
+    {
+     "with": "xaxos",
+     "type": "mentor",
+     "note": "Xaxos was her pupil; she raised him after Raven"
+    },
+    {
+     "with": "zhana",
+     "type": "rival"
+    },
+    {
+     "with": "yan_magda",
+     "type": "rival"
+    },
+    {
+     "with": "indira",
+     "type": "rival",
+     "note": "refused her mage rank"
+    },
+    {
+     "with": "mist",
+     "type": "companion"
+    },
+    {
+     "with": "mazra",
+     "type": "mentor"
+    }
+   ],
+   "hooks": [
+    "Brama sends the team on a mission but withholds part of the truth",
+    "a younger Brama leads refugees across the wasteland",
+    "Brama's mind is taken by a Nameless and must be freed"
+   ],
+   "sources": [
+    "Brama (The Descent)",
+    "Brama",
+    "Brama (Legacy of Gravehold)",
+    "Buried Light",
+    "Erythiza, Consumed",
+    "Thraxir (Legacy of Gravehold)",
+    "Indira",
+    "Into The Wild",
+    "Fungal Mesh"
+   ]
+  },
+  {
+   "id": "xaxos",
+   "name": "Xaxos",
+   "kind": "mage",
+   "pronouns": "he (as adult)",
+   "epithets": [
+    "Breach Mage Adept",
+    "Voidbringer",
+    "Ascended",
+    "Outcast",
+    "Reckoner",
+    "the Arcane Researcher"
+   ],
+   "versions": [
+    "Xaxos, the Arcane Researcher",
+    "Xaxos (The Abyss)",
+    "Xaxos",
+    "Xaxos (The Void)",
+    "Xaxos: Ascended",
+    "Xaxos: Outcast",
+    "Xaxos (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "calamity",
+    "descent",
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "first_tribe",
+    "breach_mages",
+    "xaxos_followers"
+   ],
+   "summary": "Born in Karek's archive as the First Tribe froze, raised by the archivist Raven (who called the child her 'little girl') and then by Brama. Unable to learn the sister-words like the other girls, Xaxos studied the tribe's books, runes and the Void. As a Gravehold adept he preached learning from the Nameless, led a masked blood-magic circle and, seeking power to protect the city, drew Maelstrom into Gravehold — causing The Fall and Dezmodia's death. He fled into the Void, returned 'Ascended' and was defeated; in exile he coined 'Void essence', rescued a girl from the Changeling Nest and raised her as his daughter Qu, fought the Reliquary and came back redeemed as the Outcast to face the Fountain of Souls. His descendants still carry claws and fangs.",
+   "traits": [
+    "brilliant",
+    "guilt-ridden",
+    "hungry for power to protect",
+    "heretic",
+    "redeemed"
+   ],
+   "relationships": [
+    {
+     "with": "raven",
+     "type": "family",
+     "note": "mother"
+    },
+    {
+     "with": "brama",
+     "type": "student"
+    },
+    {
+     "with": "qu",
+     "type": "family",
+     "note": "adopted daughter"
+    },
+    {
+     "with": "arachnos",
+     "type": "mentor"
+    },
+    {
+     "with": "karak",
+     "type": "mentor"
+    },
+    {
+     "with": "sahala",
+     "type": "friend",
+     "note": "saved Sahala's father"
+    },
+    {
+     "with": "mist",
+     "type": "rival"
+    },
+    {
+     "with": "dezmodia",
+     "type": "companion"
+    },
+    {
+     "with": "naftir",
+     "type": "family",
+     "note": "great-great-grandfather"
+    },
+    {
+     "with": "zhana",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "Xaxos' old notes resurface",
+    "a breach opened by Xaxos' followers",
+    "Xaxos returns from the Void with a warning",
+    "a relic from the First Tribe's archive"
+   ],
+   "sources": [
+    "Xaxos (The Abyss)",
+    "Xaxos, the Arcane Researcher",
+    "Raven",
+    "Xaxos",
+    "Xaxos (The Void)",
+    "Maelstrom",
+    "Xaxos: Ascended",
+    "Corruption's Core",
+    "The Changeling Nest",
+    "The Reliquary",
+    "Xaxos: Outcast",
+    "Xaxos (Legacy of Gravehold)",
+    "Naftir"
+   ]
+  },
+  {
+   "id": "mist",
+   "name": "Mist",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Dagger Captain",
+    "Voidwalker"
+   ],
+   "versions": [
+    "Mist",
+    "Mist (War Eternal)",
+    "Mist Revealed"
+   ],
+   "eras": [
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Dagger captain who rose through the guard 'as though born for the task' and walked into the breach three times; not brave, only desperate to live. On the fourth trip a crystalline sound entered and remade her: 'I am the vessel now.' She saves survivors at The Fall, discovers the living surface, teaches adult initiates like Soskel, and is forbidden to Voidwalk. In the end she becomes the final villain, Mist Revealed, unleashing a Second Fall to unite humanity against her.",
+   "traits": [
+    "fierce",
+    "secretive",
+    "changed by the Void",
+    "self-sacrificing to the point of monstrosity"
+   ],
+   "relationships": [
+    {
+     "with": "thraxir",
+     "type": "companion",
+     "note": "his closest substitute; believes the Knight is him"
+    },
+    {
+     "with": "xaxos",
+     "type": "rival"
+    },
+    {
+     "with": "brama",
+     "type": "companion"
+    },
+    {
+     "with": "soskel",
+     "type": "mentor"
+    },
+    {
+     "with": "dezmodia",
+     "type": "mentor"
+    },
+    {
+     "with": "gex",
+     "type": "rival",
+     "note": "distrusts her"
+    }
+   ],
+   "hooks": [
+    "Mist returns from a scouting trip with a strange gem",
+    "something came back with Mist from the breach"
+   ],
+   "sources": [
+    "Mist",
+    "Garnet Shard",
+    "Mist (War Eternal)",
+    "Amethyst Paragon",
+    "Gex",
+    "Legacy",
+    "Soskel (Legacy of Gravehold)",
+    "Indira (Legacy of Gravehold)",
+    "Mist Revealed",
+    "Muted Lacosite"
+   ]
+  },
+  {
+   "id": "malastar",
+   "name": "Malastar",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Breach Mage Mentor",
+    "inventor"
+   ],
+   "versions": [
+    "Malastar",
+    "Malastar (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Trainer of younglings and designer of the Ordeal; later New Gravehold's forge-master who crafts equipment from Nameless remains and invents synthetic gems. Married to Kadir, father of Claudia; thinks of Z'hana as a sister but sides against her.",
+   "traits": [
+    "kind",
+    "practical",
+    "inventive",
+    "dad jokes"
+   ],
+   "relationships": [
+    {
+     "with": "kadir",
+     "type": "partner"
+    },
+    {
+     "with": "claudia",
+     "type": "family",
+     "note": "daughter"
+    },
+    {
+     "with": "nym",
+     "type": "mentor"
+    },
+    {
+     "with": "zhana",
+     "type": "friend"
+    },
+    {
+     "with": "gex",
+     "type": "mentor"
+    },
+    {
+     "with": "dezmodia",
+     "type": "mentor",
+     "note": "first to call her a prodigy"
+    }
+   ],
+   "hooks": [
+    "Malastar needs Nameless remains or rare ore for new equipment",
+    "harvest the pods"
+   ],
+   "sources": [
+    "Malastar",
+    "Immolate",
+    "Legacy",
+    "Malastar (Legacy of Gravehold)",
+    "Invention: Demiurge Diamond",
+    "Ice-Heart Shard"
+   ]
+  },
+  {
+   "id": "kadir",
+   "name": "Kadir",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Delver",
+    "scientist"
+   ],
+   "versions": [
+    "Kadir",
+    "Kadir (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Delver of the deeps who seeks a sleeping god and a shadow city beneath Gravehold, and guides younglings on their Ordeal. Later a gem scientist on the surface, married to Malastar, mother of Claudia; a staunch traditionalist against Z'hana.",
+   "traits": [
+    "solitary",
+    "seeker",
+    "traditionalist"
+   ],
+   "relationships": [
+    {
+     "with": "malastar",
+     "type": "partner"
+    },
+    {
+     "with": "claudia",
+     "type": "family"
+    },
+    {
+     "with": "zhana",
+     "type": "rival"
+    },
+    {
+     "with": "reeve",
+     "type": "friend"
+    },
+    {
+     "with": "gygar",
+     "type": "friend",
+     "note": "made the air-holding spell"
+    }
+   ],
+   "hooks": [
+    "a delve into the deepest caves",
+    "the sleeping god of the troggs"
+   ],
+   "sources": [
+    "Kadir",
+    "Emerald Shard",
+    "Kadir (Legacy of Gravehold)",
+    "Gygar",
+    "Reeve"
+   ]
+  },
+  {
+   "id": "adelheim",
+   "name": "Adelheim",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Breach Mage Weaponsmith",
+    "the Blacksmith"
+   ],
+   "versions": [
+    "Adelheim, the Blacksmith",
+    "Adelheim"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "followers",
+    "breach_mages"
+   ],
+   "summary": "Gruff, loyal smith who mends looted, blood-rusted weapons on the pilgrimage and later forges breach-ore blades and odd contraptions in Gravehold; admires the craftsmanship of monsters.",
+   "traits": [
+    "blunt",
+    "dutiful",
+    "craftsman"
+   ],
+   "relationships": [
+    {
+     "with": "janti",
+     "type": "friend"
+    },
+    {
+     "with": "gex",
+     "type": "rival",
+     "note": "forge banter"
+    },
+    {
+     "with": "ohat",
+     "type": "friend",
+     "note": "forged Ohat's shield"
+    }
+   ],
+   "hooks": [
+    "a forge that needs breach-touched ore",
+    "weapons still clutched by skeletons of an abandoned village"
+   ],
+   "sources": [
+    "Adelheim",
+    "Adelheim, the Blacksmith",
+    "Amethyst Shard",
+    "Ulgimor",
+    "Nova Forge",
+    "Iron Infusion"
+   ]
+  },
+  {
+   "id": "jian",
+   "name": "Jian",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Orphan"
+   ],
+   "versions": [
+    "Jian"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Orphan whose father Yohn Thrant died touching the Focusing Orb; she picked it up and never spoke again. Sees time as a web; expects to save worlds and become nothing.",
+   "traits": [
+    "silent",
+    "fated",
+    "uncanny"
+   ],
+   "relationships": [
+    {
+     "with": "yohn_thrant",
+     "type": "family"
+    },
+    {
+     "with": "phaedraxa",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a silent child who knows where the breach will open"
+   ],
+   "sources": [
+    "Jian",
+    "Focusing Orb",
+    "Moonstone Shard"
+   ]
+  },
+  {
+   "id": "lash",
+   "name": "Lash",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Breach Mage Scout",
+    "the Dreamer"
+   ],
+   "versions": [
+    "Lash",
+    "Lash, the Dreamer"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Scout who laughs anyway; loves the dirt market and the people who keep living. Looks after the young Dezmodia.",
+   "traits": [
+    "cheerful",
+    "resilient"
+   ],
+   "relationships": [
+    {
+     "with": "dezmodia",
+     "type": "mentor"
+    }
+   ],
+   "hooks": [
+    "a scout's report from the cave walls"
+   ],
+   "sources": [
+    "Lash",
+    "Quartz Shard",
+    "Lash, the Dreamer",
+    "Dezmodia (Beyond the Breach)"
+   ]
+  },
+  {
+   "id": "phaedraxa",
+   "name": "Phaedraxa",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Seer"
+   ],
+   "versions": [
+    "Phaedraxa"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Seer who spoke the sister-words before she could walk; the only one who remembers The World That Was and sees Gravehold's fate in the web of time.",
+   "traits": [
+    "prophetic",
+    "detached"
+   ],
+   "relationships": [
+    {
+     "with": "brama",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a prophecy about the coming battle"
+   ],
+   "sources": [
+    "Phaedraxa",
+    "Tourmaline Shard",
+    "Gate Witch"
+   ]
+  },
+  {
+   "id": "zhana",
+   "name": "Z'hana",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Renegade",
+    "the traitor mage"
+   ],
+   "versions": [
+    "Z'hana",
+    "Z'hana (Outcasts)",
+    "Z'hana (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages",
+    "council",
+    "xaxos_followers",
+    "azer_tethers"
+   ],
+   "summary": "One of three survivors of the Far Hollow fire, where she lost her parents and found her magic. Slept in the crypts for her ideas and secretly removed one stone from the sealed cave mouth on every visit. Lost her husband Soren in The Fall, raised Taqren alone. Opposed exiling Xaxos' students, then became the traitor mage — using glyphs and human aether to drive Necroswarm — and led the Void-mages and Azer against Brama. Most prolific author of new spells in the Grimoire.",
+   "traits": [
+    "angry",
+    "visionary",
+    "reckless",
+    "loves her people"
+   ],
+   "relationships": [
+    {
+     "with": "taqren",
+     "type": "family",
+     "note": "son"
+    },
+    {
+     "with": "soren",
+     "type": "partner",
+     "note": "died in The Fall"
+    },
+    {
+     "with": "brama",
+     "type": "rival"
+    },
+    {
+     "with": "malastar",
+     "type": "friend"
+    },
+    {
+     "with": "kadir",
+     "type": "friend"
+    },
+    {
+     "with": "razra",
+     "type": "enemy",
+     "note": "kidnapped her"
+    },
+    {
+     "with": "kel",
+     "type": "friend"
+    },
+    {
+     "with": "ilya",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "cloaked figures maintaining glyphs at the edge of the battle",
+    "a veteran's tattoo on a fleeing mage's ankle"
+   ],
+   "sources": [
+    "Z'hana",
+    "Eternal Ember",
+    "Z'hana (Outcasts)",
+    "Into The Wild",
+    "Z'hana (Legacy of Gravehold)",
+    "Kadir (Legacy of Gravehold)",
+    "Malastar (Legacy of Gravehold)",
+    "Monstrous Inferno (Grimoire)",
+    "Taqren"
+   ]
+  },
+  {
+   "id": "nym",
+   "name": "Nym",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Breach Mage Apprentice"
+   ],
+   "versions": [
+    "Nym"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Malastar's most gifted and reckless apprentice; refuses to fear or respect monsters; had never seen stars.",
+   "traits": [
+    "fearless",
+    "young",
+    "fiery"
+   ],
+   "relationships": [
+    {
+     "with": "malastar",
+     "type": "student"
+    }
+   ],
+   "hooks": [
+    "an apprentice who runs ahead"
+   ],
+   "sources": [
+    "Nym",
+    "Cinder",
+    "Woven Sky"
+   ]
+  },
+  {
+   "id": "reeve",
+   "name": "Reeve",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Elite"
+   ],
+   "versions": [
+    "Reeve"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "One-armed warrior who cut off her own arm to stop tainted jade; never sleeps, sharpens her chopper and runs toward the bells.",
+   "traits": [
+    "blunt instrument",
+    "battle-hungry"
+   ],
+   "relationships": [
+    {
+     "with": "kadir",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "tainted jade creeping through a wound"
+   ],
+   "sources": [
+    "Reeve",
+    "Obsidian Shard",
+    "Dread Plinth"
+   ]
+  },
+  {
+   "id": "garu",
+   "name": "Garu",
+   "kind": "mage",
+   "epithets": [
+    "Oathsworn Protector"
+   ],
+   "versions": [
+    "Garu"
+   ],
+   "eras": [
+    "old_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "void_orphans"
+   ],
+   "summary": "Horned giant who wandered the Void and pulled Yan Magda from her sarcophagus; haunted by a child's voice he cannot name. Gentle with children who fear him. Later exiled by Brama for trying to open a Void portal.",
+   "traits": [
+    "gentle giant",
+    "haunted",
+    "loyal"
+   ],
+   "relationships": [
+    {
+     "with": "yan_magda",
+     "type": "companion"
+    },
+    {
+     "with": "dezmodia",
+     "type": "companion"
+    },
+    {
+     "with": "quilius",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a child's voice from the breach"
+   ],
+   "sources": [
+    "Garu",
+    "Yan Magda",
+    "Kain",
+    "Indira (Legacy of Gravehold)",
+    "Ashen Haruspex"
+   ]
+  },
+  {
+   "id": "yan_magda",
+   "name": "Yan Magda",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Enlightened Exile"
+   ],
+   "versions": [
+    "Yan Magda",
+    "Yan Magda (The Returned)",
+    "Yan Magda (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "void_orphans"
+   ],
+   "summary": "Sentenced by The Conclave to eternal sleep for questioning them; freed in the Void, she gathered orphans as a would-be army of vengeance — until she met the lost child Indira and chose to belong. Branded a heretic, teacher of Indira and Dezmodia, she spoke the true name of the world, Khasad Vol. Eventually exiled to a cottage in the wilds, she calls Brama a coward who made a good leader.",
+   "traits": [
+    "sardonic",
+    "wise",
+    "unforgiving yet chooses forgiveness"
+   ],
+   "relationships": [
+    {
+     "with": "dezmodia",
+     "type": "mentor",
+     "note": "midwife at her birth"
+    },
+    {
+     "with": "indira",
+     "type": "mentor"
+    },
+    {
+     "with": "garu",
+     "type": "companion"
+    },
+    {
+     "with": "kain",
+     "type": "companion"
+    },
+    {
+     "with": "remnant",
+     "type": "companion"
+    },
+    {
+     "with": "brama",
+     "type": "rival"
+    },
+    {
+     "with": "tressa",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "Yan Magda's knowledge of the Void is the only way through",
+    "a visit to an exile's cottage"
+   ],
+   "sources": [
+    "Yan Magda",
+    "Yan Magda (The Returned)",
+    "Yan Magda (Legacy of Gravehold)",
+    "Planar Collision",
+    "Indira",
+    "Dezmodia"
+   ]
+  },
+  {
+   "id": "dezmodia",
+   "name": "Dezmodia",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Voidborn Prodigy"
+   ],
+   "versions": [
+    "Dezmodia (Beyond the Breach)",
+    "Dezmodia",
+    "Dezmodia (Outcasts)",
+    "Dezmodia (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "void_orphans",
+    "breach_mages"
+   ],
+   "summary": "Born in the Void as her mother died, delivered by Yan Magda; her years are 'not what they seem'. A child who fears no death, then a prodigy who scorns Brama. At The Fall she erupted and buried Maelstrom. Reborn part-Nameless in the Void with Xaxos, she returns cold, sensing a great storm gathering beyond.",
+   "traits": [
+    "aloof",
+    "devoted",
+    "uncanny",
+    "sacrificial"
+   ],
+   "relationships": [
+    {
+     "with": "yan_magda",
+     "type": "mentor"
+    },
+    {
+     "with": "indira",
+     "type": "friend",
+     "note": "'my Indira'"
+    },
+    {
+     "with": "xaxos",
+     "type": "companion"
+    },
+    {
+     "with": "mist",
+     "type": "mentor"
+    },
+    {
+     "with": "lash",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a Void-born sense of the coming storm"
+   ],
+   "sources": [
+    "Dezmodia",
+    "Dezmodia (Beyond the Breach)",
+    "Dezmodia (Outcasts)",
+    "Dezmodia (Legacy of Gravehold)",
+    "Legacy",
+    "Herald of the End"
+   ]
+  },
+  {
+   "id": "indira",
+   "name": "Indira",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Apprentice",
+    "Light Caller"
+   ],
+   "versions": [
+    "Indira",
+    "Indira (Beyond the Breach)",
+    "Indira (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "fall",
+    "new_gravehold",
+    "civil_war",
+    "after"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "A one-breach youngling lost in her Ordeal, found by Yan Magda — and denied mage rank by Brama for it. Gravehold's chronicler of the War Eternal sieges. She pulled the child Nook from the ruins and became his anchor; later she time-travels as the Light Caller. Calls herself a coward for watching her friends' exile.",
+   "traits": [
+    "self-doubting",
+    "loyal",
+    "observant",
+    "caretaker"
+   ],
+   "relationships": [
+    {
+     "with": "yan_magda",
+     "type": "student"
+    },
+    {
+     "with": "nook",
+     "type": "family",
+     "note": "his protector"
+    },
+    {
+     "with": "brama",
+     "type": "rival"
+    },
+    {
+     "with": "dezmodia",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "Indira's chronicle of a past siege",
+    "someone stuck between timelines"
+   ],
+   "sources": [
+    "Indira",
+    "Indira (Beyond the Breach)",
+    "Indira (Legacy of Gravehold)",
+    "Yan Magda (The Returned)",
+    "Thrice-Dead Prophet",
+    "Twice-Dead Prophet"
+   ]
+  },
+  {
+   "id": "quilius",
+   "name": "Quilius",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Assassin",
+    "the Initiate"
+   ],
+   "versions": [
+    "Quilius (The Caverns)",
+    "Quilius"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "monks"
+   ],
+   "summary": "Raised by cavern monks after killing a monster with her father's dagger as a child; follows a path of five kills toward 'the mind of the gods'. 'I am the monster. Give me a hunt.'",
+   "traits": [
+    "patient",
+    "lethal",
+    "ascetic"
+   ],
+   "relationships": [
+    {
+     "with": "alcheia",
+     "type": "companion"
+    },
+    {
+     "with": "garu",
+     "type": "friend"
+    },
+    {
+     "with": "remnant",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a hunt for a specific beast that must be the one"
+   ],
+   "sources": [
+    "Quilius",
+    "Quilius (The Caverns)",
+    "Absorbing Wraith",
+    "Alcheia",
+    "Null Scion"
+   ]
+  },
+  {
+   "id": "mazahaedron",
+   "name": "Mazahaedron",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Henge Mystic",
+    "the Monk"
+   ],
+   "versions": [
+    "Mazahaedron (The Descent)",
+    "Mazahaedron"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "henge_mystics"
+   ],
+   "summary": "Mystic who hears the world as a living mother and never lets his feet touch the hallowed earth below Gravehold; his brothers fade above. Remembers the forgotten gods.",
+   "traits": [
+    "serene",
+    "reverent"
+   ],
+   "relationships": [
+    {
+     "with": "dezmodia",
+     "type": "mentor"
+    }
+   ],
+   "hooks": [
+    "the cave speaks — a mystic interprets it"
+   ],
+   "sources": [
+    "Mazahaedron",
+    "Mazahaedron (The Descent)",
+    "Calcified Electinium",
+    "Twice-Dead Prophet"
+   ]
+  },
+  {
+   "id": "gex",
+   "name": "Gex",
+   "kind": "mage",
+   "epithets": [
+    "Breach Mage Advisor"
+   ],
+   "versions": [
+    "Gex"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Hammer-wielding advisor who chose a plain grey rock as a gem to hide the geode inside; keeps powers in reserve against the exiles.",
+   "traits": [
+    "cautious",
+    "hidden depths"
+   ],
+   "relationships": [
+    {
+     "with": "brama",
+     "type": "companion"
+    },
+    {
+     "with": "adelheim",
+     "type": "rival"
+    }
+   ],
+   "hooks": [
+    "hidden reasons, hidden powers"
+   ],
+   "sources": [
+    "Gex",
+    "Shattered Geode",
+    "Nova Forge"
+   ]
+  },
+  {
+   "id": "sparrow",
+   "name": "Sparrow",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Mage Soldier"
+   ],
+   "versions": [
+    "Sparrow"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Once frail and timid — hence the nickname — now a blunt soldier who beheaded the Prophet and wants the exiles kept on the front line.",
+   "traits": [
+    "impatient",
+    "distrustful"
+   ],
+   "relationships": [
+    {
+     "with": "yan_magda",
+     "type": "rival"
+    }
+   ],
+   "hooks": [
+    "a soldier who distrusts an ally"
+   ],
+   "sources": [
+    "Sparrow",
+    "Smolder",
+    "Thrice-Dead Prophet"
+   ]
+  },
+  {
+   "id": "ohat",
+   "name": "Ohat and Ulgimor",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Dirt Merchant",
+    "shadowkin"
+   ],
+   "versions": [
+    "Ulgimor",
+    "Ohat and Ulgimor"
+   ],
+   "eras": [
+    "old_gravehold",
+    "fall",
+    "new_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "A self-confessed coward of the dirt market whose shadow was claimed by a fragment of the Umbra Titan, Ulgimor. Ulgimor drove the Titan into The Depths and later sheltered Ohat through The Fall; they lived alone in the ruins for decades and learned to cooperate. Employs Gadymir.",
+   "traits": [
+    "coward turned survivor",
+    "two-faced",
+    "honest"
+   ],
+   "relationships": [
+    {
+     "with": "gadymir",
+     "type": "friend"
+    },
+    {
+     "with": "adelheim",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a survivor living in the ruins"
+   ],
+   "sources": [
+    "Ulgimor",
+    "Ohat and Ulgimor",
+    "Umbra Titan",
+    "Maiden of Thorns"
+   ]
+  },
+  {
+   "id": "remnant",
+   "name": "Remnant",
+   "kind": "mage",
+   "epithets": [
+    "Aetherial Entity"
+   ],
+   "versions": [
+    "Remnant",
+    "Remnant (Beyond the Breach)"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "void_orphans"
+   ],
+   "summary": "A fragment of someone lost, 'an intention given form', who remembers only pain and must persist until its task is fulfilled; guardian of Gravehold's children.",
+   "traits": [
+    "persistent",
+    "mysterious"
+   ],
+   "relationships": [
+    {
+     "with": "yan_magda",
+     "type": "family"
+    },
+    {
+     "with": "garu",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "a ghostly figure that guides the lost"
+   ],
+   "sources": [
+    "Remnant",
+    "Remnant (Beyond the Breach)"
+   ]
+  },
+  {
+   "id": "kain",
+   "name": "Kain",
+   "kind": "mage",
+   "versions": [
+    "Kain"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "void_orphans"
+   ],
+   "summary": "One of Yan Magda's Void orphans who sees the Void as beautiful and dances for life and change.",
+   "traits": [
+    "joyful",
+    "romantic about the Void"
+   ],
+   "relationships": [
+    {
+     "with": "yan_magda",
+     "type": "companion"
+    },
+    {
+     "with": "garu",
+     "type": "friend"
+    },
+    {
+     "with": "remnant",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a guide who loves the Void"
+   ],
+   "sources": [
+    "Kain",
+    "Yan Magda (The Returned)"
+   ]
+  },
+  {
+   "id": "tressa",
+   "name": "Tressa",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "the Collector"
+   ],
+   "versions": [
+    "Tressa"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Treasure-hunting mage who found a reason to care for the city when her son Nook was born; Yan Magda talked her into fighting with her stash.",
+   "traits": [
+    "collector",
+    "reluctant hero",
+    "mother"
+   ],
+   "relationships": [
+    {
+     "with": "nook",
+     "type": "family",
+     "note": "son"
+    },
+    {
+     "with": "yan_magda",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a treasure that glitters too much"
+   ],
+   "sources": [
+    "Tressa",
+    "Rampaging Vin",
+    "Jeweled Wrath"
+   ]
+  },
+  {
+   "id": "thraxir",
+   "name": "Thraxir",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Breach Commander",
+    "Knight of Shackles"
+   ],
+   "versions": [
+    "Thraxir (The Descent)",
+    "Thraxir",
+    "Thraxir (Legacy of Gravehold)",
+    "Knight of Shackles"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "followers",
+    "breach_mages"
+   ],
+   "summary": "A Follower who opened a breach with his sword, against all doctrine, and stood with Brama when the conclaves split. Gravehold's breach commander, killed by Rageborne; returned from The Depths as the Knight of Shackles commanding the dead; restored at the Fountain of Souls, his armour now an eternal shackle.",
+   "traits": [
+    "brave",
+    "tormented",
+    "changed"
+   ],
+   "relationships": [
+    {
+     "with": "brama",
+     "type": "companion"
+    },
+    {
+     "with": "mist",
+     "type": "companion"
+    },
+    {
+     "with": "xaxos",
+     "type": "friend",
+     "note": "both 'too far gone'"
+    }
+   ],
+   "hooks": [
+    "the dead rise from The Depths",
+    "can a corrupted hero be saved?"
+   ],
+   "sources": [
+    "Thraxir (The Descent)",
+    "Thraxir",
+    "Thraxir (Legacy of Gravehold)",
+    "Knight of Shackles",
+    "Cleave",
+    "Armored Pauldrons"
+   ]
+  },
+  {
+   "id": "inco",
+   "name": "Inco",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "the plant-boy"
+   ],
+   "versions": [
+    "Inco (The Surface)",
+    "Inco",
+    "Inco (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Raised in the wilds by Necroswarm and its plant creatures; found by Talix in ruins and adopted. Speaks to plants, loves Razra. Watched Z'hana drive his caretaker to raze Southpost; later carried its sapling to a grove in the Void. 'It is not magic that corrupts.'",
+   "traits": [
+    "empathic",
+    "wild",
+    "earnest"
+   ],
+   "relationships": [
+    {
+     "with": "talix",
+     "type": "family",
+     "note": "adoptive father"
+    },
+    {
+     "with": "soskel",
+     "type": "family",
+     "note": "his other dad"
+    },
+    {
+     "with": "razra",
+     "type": "partner"
+    },
+    {
+     "with": "necroswarm",
+     "type": "family",
+     "note": "caretaker"
+    },
+    {
+     "with": "reth",
+     "type": "partner",
+     "note": "implied former Tether (green hair, wandered into the woods)"
+    }
+   ],
+   "hooks": [
+    "the plants are dying",
+    "plants guide the way"
+   ],
+   "sources": [
+    "Inco",
+    "Inco (Legacy of Gravehold)",
+    "Inco (The Surface)",
+    "Into The Wild",
+    "Talix",
+    "Reth"
+   ]
+  },
+  {
+   "id": "razra",
+   "name": "Razra",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "beast tamer"
+   ],
+   "versions": [
+    "Razra",
+    "Razra (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Reckless twin of Mazra who struggled with lessons until she befriended Rip, a large sleek metallic creature, and raced through training. Kidnapped by Z'hana's glyph-trap; later finds Azer and wants to punch Z'hana in the nose once.",
+   "traits": [
+    "headstrong",
+    "brave",
+    "playful"
+   ],
+   "relationships": [
+    {
+     "with": "mazra",
+     "type": "family",
+     "note": "twin"
+    },
+    {
+     "with": "rip",
+     "type": "companion"
+    },
+    {
+     "with": "inco",
+     "type": "partner"
+    },
+    {
+     "with": "reth",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a mage who went ahead alone",
+    "Rip finds something"
+   ],
+   "sources": [
+    "Razra",
+    "Razra (Legacy of Gravehold)",
+    "Into The Wild",
+    "Mazra"
+   ]
+  },
+  {
+   "id": "rip",
+   "name": "Rip",
+   "kind": "companion",
+   "pronouns": "he",
+   "versions": [],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [],
+   "summary": "Razra's metallic beast companion; turns matter or thoughts into energy, chomps through walls of fire.",
+   "traits": [
+    "loyal",
+    "hungry"
+   ],
+   "relationships": [
+    {
+     "with": "razra",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "Rip stumbles in wounded, leading the way"
+   ],
+   "sources": [
+    "Razra",
+    "Rip, Eat!",
+    "Into The Wild"
+   ]
+  },
+  {
+   "id": "mazra",
+   "name": "Mazra",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Breach Scholar",
+    "the Reader"
+   ],
+   "versions": [
+    "Mazra",
+    "Mazra (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages",
+    "council"
+   ],
+   "summary": "Youngest breach mage ever (ten), archive-obsessed, aspiring head of the council; finds the Grimoire; shaken by the traitor, she takes a sabbatical at the Northern Outpost.",
+   "traits": [
+    "prodigy",
+    "bookish",
+    "ambitious"
+   ],
+   "relationships": [
+    {
+     "with": "razra",
+     "type": "family"
+    },
+    {
+     "with": "brama",
+     "type": "student"
+    },
+    {
+     "with": "soskel",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "the archives hold a record of this Nameless"
+   ],
+   "sources": [
+    "Mazra",
+    "Mazra (Legacy of Gravehold)",
+    "The Wanderer",
+    "Grimoire, the Archive"
+   ]
+  },
+  {
+   "id": "talix",
+   "name": "Talix",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Heart of Flame"
+   ],
+   "versions": [
+    "Talix",
+    "Talix (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Exuberant explorer from Southpost who found and adopted Inco; partner of Soskel. Was aged to an old man by the Ageless Walker and restored.",
+   "traits": [
+    "funny",
+    "loving parent",
+    "impulsive"
+   ],
+   "relationships": [
+    {
+     "with": "inco",
+     "type": "family"
+    },
+    {
+     "with": "soskel",
+     "type": "partner"
+    }
+   ],
+   "hooks": [
+    "a missing teammate who buried the treasures"
+   ],
+   "sources": [
+    "Talix",
+    "Talix (Legacy of Gravehold)",
+    "The New Age"
+   ]
+  },
+  {
+   "id": "soskel",
+   "name": "Soskel",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "Commander"
+   ],
+   "versions": [
+    "Soskel",
+    "Soskel (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Wealthy-born nobody who carried children through The Fall, became an adult initiate under Mist, and was made expedition commander by Brama for understanding those he leads. Captured by Arachnos and infused with Void essence; runs the Northern Outpost; Talix's partner.",
+   "traits": [
+    "dutiful",
+    "empathic leader",
+    "carries void power"
+   ],
+   "relationships": [
+    {
+     "with": "talix",
+     "type": "partner"
+    },
+    {
+     "with": "mist",
+     "type": "student"
+    },
+    {
+     "with": "rhia",
+     "type": "companion"
+    },
+    {
+     "with": "lost",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a commander's missing expedition"
+   ],
+   "sources": [
+    "Soskel",
+    "Soskel (Legacy of Gravehold)",
+    "The New Age"
+   ]
+  },
+  {
+   "id": "rhia",
+   "name": "Rhia",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "relic master"
+   ],
+   "versions": [
+    "Rhia"
+   ],
+   "eras": [
+    "new_gravehold"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Blunt relic expert with crystalline hair grown when she poured her magic into one of her father's artifacts as a dying child; burns Nameless corpses so they don't poison the soil.",
+   "traits": [
+    "gruff",
+    "stubborn",
+    "practical"
+   ],
+   "relationships": [
+    {
+     "with": "soskel",
+     "type": "companion"
+    },
+    {
+     "with": "talix",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a survivor guarding the party's artifacts"
+   ],
+   "sources": [
+    "Rhia",
+    "The New Age"
+   ]
+  },
+  {
+   "id": "lost",
+   "name": "Lost",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "forgemaster"
+   ],
+   "versions": [
+    "Lost",
+    "Lost (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "A mage of Old Gravehold bound to a suit of armour with a heart of fire, memory shattered, forging weapons in a bunker with his squirrel Meek. In sunken Gravehold he broke into a sealed forge holding journals and an old corpse.",
+   "traits": [
+    "gentle",
+    "amnesiac",
+    "fire"
+   ],
+   "relationships": [
+    {
+     "with": "soskel",
+     "type": "friend"
+    },
+    {
+     "with": "gygar",
+     "type": "friend"
+    },
+    {
+     "with": "claudia",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a hidden bunker full of weapons",
+    "a ghost of the past"
+   ],
+   "sources": [
+    "Lost",
+    "Lost (Legacy of Gravehold)",
+    "The New Age",
+    "Fenrix"
+   ]
+  },
+  {
+   "id": "claudia",
+   "name": "Claudia",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "inventor"
+   ],
+   "versions": [
+    "Claudia",
+    "Claudia (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Hyperactive genius daughter of Kadir and Malastar who feels everyone's aether; could not have an Ordeal because Gravehold was gone.",
+   "traits": [
+    "exuberant",
+    "explosive",
+    "imaginative"
+   ],
+   "relationships": [
+    {
+     "with": "kadir",
+     "type": "family"
+    },
+    {
+     "with": "malastar",
+     "type": "family"
+    },
+    {
+     "with": "gygar",
+     "type": "companion"
+    },
+    {
+     "with": "lost",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a gadget that might work"
+   ],
+   "sources": [
+    "Claudia",
+    "Claudia (Legacy of Gravehold)",
+    "Gygar",
+    "Kadir (Legacy of Gravehold)"
+   ]
+  },
+  {
+   "id": "gygar",
+   "name": "Gygar",
+   "kind": "mage",
+   "epithets": [
+    "Treasure Hunter"
+   ],
+   "versions": [
+    "Gygar",
+    "Gygar (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Treasure hunter who dives the sunken ruins of Old Gravehold with Kadir's air-holding spell; impatient with the council's debates.",
+   "traits": [
+    "curious",
+    "impatient",
+    "adventurous"
+   ],
+   "relationships": [
+    {
+     "with": "claudia",
+     "type": "companion"
+    },
+    {
+     "with": "lost",
+     "type": "friend"
+    },
+    {
+     "with": "nook",
+     "type": "friend"
+    },
+    {
+     "with": "kadir",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "an underwater expedition",
+    "a sunken treasure"
+   ],
+   "sources": [
+    "Gygar",
+    "Gygar (Legacy of Gravehold)",
+    "Fortress",
+    "Return To Gravehold"
+   ]
+  },
+  {
+   "id": "sahala",
+   "name": "Sahala",
+   "kind": "mage",
+   "epithets": [
+    "the Apprentice"
+   ],
+   "versions": [
+    "Sahala",
+    "Sahala, the Apprentice"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Child of a mage whom Xaxos saved; uses the fallen-star meteorite they recovered. Believes Xaxos can be saved and later becomes a sister to Qu.",
+   "traits": [
+    "loyal",
+    "hopeful"
+   ],
+   "relationships": [
+    {
+     "with": "xaxos",
+     "type": "friend"
+    },
+    {
+     "with": "qu",
+     "type": "family",
+     "note": "like a sister"
+    }
+   ],
+   "hooks": [
+    "a meteorite in a cellar"
+   ],
+   "sources": [
+    "Sahala",
+    "Sahala, the Apprentice",
+    "Sparkling Meteorite",
+    "The Wailing"
+   ]
+  },
+  {
+   "id": "qu",
+   "name": "Qu",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "the Rift Walker",
+    "the Changeling"
+   ],
+   "versions": [
+    "Qu (The Surface)",
+    "Qu",
+    "Qu (Outcasts)",
+    "Qu (Legacy of Gravehold)",
+    "Qu, the Rift Walker"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [],
+   "summary": "Taken by goblins to the Changeling Nest as a child, cut from a cocoon by Xaxos and raised in the Void, aging strangely (white hair while young). Escapes to New Gravehold through a breach, half monstrous; loves Taqren and returns to the Void at her father's call.",
+   "traits": [
+    "raging",
+    "searching for belonging",
+    "void-touched"
+   ],
+   "relationships": [
+    {
+     "with": "xaxos",
+     "type": "family"
+    },
+    {
+     "with": "taqren",
+     "type": "partner"
+    },
+    {
+     "with": "sahala",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "a girl who walks out of a breach"
+   ],
+   "sources": [
+    "Qu",
+    "Qu (The Surface)",
+    "Qu (Outcasts)",
+    "Qu (Legacy of Gravehold)",
+    "The Changeling Nest",
+    "The Timeless",
+    "The Reliquary"
+   ]
+  },
+  {
+   "id": "taqren",
+   "name": "Taqren",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "shield"
+   ],
+   "versions": [
+    "Taqren",
+    "Taqren (Outcasts)",
+    "Taqren (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "fall",
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Son of Z'hana and Soren, pulled from the collapsing tunnels; told to 'become their shield, not a weapon'. Defends his mother as misguided, not a traitor; loves Qu.",
+   "traits": [
+    "optimistic",
+    "protective",
+    "torn"
+   ],
+   "relationships": [
+    {
+     "with": "zhana",
+     "type": "family"
+    },
+    {
+     "with": "qu",
+     "type": "partner"
+    },
+    {
+     "with": "kel",
+     "type": "friend"
+    },
+    {
+     "with": "sahala",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a son who must choose between his mother and his city"
+   ],
+   "sources": [
+    "Taqren",
+    "Taqren (Outcasts)",
+    "Taqren (Legacy of Gravehold)"
+   ]
+  },
+  {
+   "id": "nook",
+   "name": "Nook",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "breach scientist",
+    "the Lost"
+   ],
+   "versions": [
+    "Nook",
+    "Nook (Legacy of Gravehold)",
+    "Nook (Beyond the Breach)"
+   ],
+   "eras": [
+    "old_gravehold",
+    "new_gravehold",
+    "civil_war",
+    "after"
+   ],
+   "affiliations": [
+    "breach_mages"
+   ],
+   "summary": "Tressa's son, pulled as a grimy child from the ruins by Indira. Became New Gravehold's finest scientist and built a miniature Void portal that devoured his breaches and mind; time now scatters around him. His time experiments (The Anomaly) may snap time itself.",
+   "traits": [
+    "fractured time",
+    "brilliant",
+    "guilty"
+   ],
+   "relationships": [
+    {
+     "with": "tressa",
+     "type": "family"
+    },
+    {
+     "with": "indira",
+     "type": "family"
+    },
+    {
+     "with": "gygar",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "an experiment that went wrong",
+    "the same battle happening twice"
+   ],
+   "sources": [
+    "Nook",
+    "Nook (Legacy of Gravehold)",
+    "Nook (Beyond the Breach)",
+    "The Anomaly",
+    "Tressa",
+    "Indira (Beyond the Breach)"
+   ]
+  },
+  {
+   "id": "cairna",
+   "name": "Cairna",
+   "kind": "mage",
+   "pronouns": "she",
+   "versions": [
+    "Cairna"
+   ],
+   "eras": [
+    "fall",
+    "new_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Crushed by rubble in The Fall and assumed dead, she woke buried alive, made the rocks answer her without training and built herself legs of stone; survived alone in the ruins for years.",
+   "traits": [
+    "self-reliant",
+    "tough"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a survivor who knows the tunnels"
+   ],
+   "sources": [
+    "Cairna",
+    "Burrower"
+   ]
+  },
+  {
+   "id": "kel",
+   "name": "Kel",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Source of Aether"
+   ],
+   "versions": [
+    "Kel",
+    "Kel (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Sour-faced, fiercely caring Azerian Tether of Ilya; fights only for her village and her beloved.",
+   "traits": [
+    "gruff",
+    "devoted"
+   ],
+   "relationships": [
+    {
+     "with": "ilya",
+     "type": "partner"
+    },
+    {
+     "with": "zhana",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "Azer asks for help — reluctantly"
+   ],
+   "sources": [
+    "Kel",
+    "Ilya",
+    "Kel (Legacy of Gravehold)",
+    "Paradox of Myth"
+   ]
+  },
+  {
+   "id": "ilya",
+   "name": "Ilya",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Force of Aether"
+   ],
+   "versions": [
+    "Ilya",
+    "Ilya (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Hopeful Azerian Tether of Kel who sees aether connecting all things; wants Brama and Z'hana to stop fighting for the people's sake.",
+   "traits": [
+    "warm",
+    "wise"
+   ],
+   "relationships": [
+    {
+     "with": "kel",
+     "type": "partner"
+    },
+    {
+     "with": "zhana",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "two Tethers must hold hands to survive"
+   ],
+   "sources": [
+    "Ilya",
+    "Kel",
+    "Ilya (Legacy of Gravehold)",
+    "Rust Superion"
+   ]
+  },
+  {
+   "id": "lucien",
+   "name": "Lucien",
+   "kind": "mage",
+   "pronouns": "he",
+   "epithets": [
+    "the tide"
+   ],
+   "versions": [
+    "Lucien"
+   ],
+   "eras": [
+    "new_gravehold"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Azerian mage who lost his Tether Phy to a Portalborn and goes on, inevitable as the tide.",
+   "traits": [
+    "grieving",
+    "steady"
+   ],
+   "relationships": [
+    {
+     "with": "phy",
+     "type": "partner",
+     "note": "lost Tether"
+    }
+   ],
+   "hooks": [
+    "a mage avenging a lost partner"
+   ],
+   "sources": [
+    "Lucien",
+    "Southern Village"
+   ]
+  },
+  {
+   "id": "reth",
+   "name": "Reth",
+   "kind": "mage",
+   "pronouns": "she",
+   "versions": [
+    "Reth"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Tether-less Azerian who tears open conduits and lets power overwhelm her; her childhood Tether, a green-haired boy who loved plants, wandered into the woods and never came back.",
+   "traits": [
+    "reckless",
+    "proud",
+    "lonely"
+   ],
+   "relationships": [
+    {
+     "with": "razra",
+     "type": "friend"
+    },
+    {
+     "with": "inco",
+     "type": "partner",
+     "note": "implied lost Tether"
+    }
+   ],
+   "hooks": [
+    "a rose kept from someone she'd rather forget"
+   ],
+   "sources": [
+    "Reth",
+    "Fossilized Rose",
+    "Razra (Legacy of Gravehold)"
+   ]
+  },
+  {
+   "id": "arachnos",
+   "name": "Arachnos",
+   "kind": "nemesis",
+   "pronouns": "he",
+   "epithets": [
+    "World Devourer"
+   ],
+   "versions": [
+    "Arachnos",
+    "Arachnos (Outcasts)",
+    "Arachnos (Legacy of Gravehold)"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [
+    "xaxos_followers"
+   ],
+   "summary": "Xaxos' devoted student who rebelled against New Gravehold and was banished; sacrificed his friend Karak to a ritual, created Maggoth, Fenrix and Experiment 153 and fused with a Void spider — 'the only human to create a Nameless'. He became the World Devourer, then was reborn clear-minded thanks to Z'hana's Void journey.",
+   "traits": [
+    "ambitious",
+    "methodical",
+    "repentant"
+   ],
+   "relationships": [
+    {
+     "with": "xaxos",
+     "type": "student"
+    },
+    {
+     "with": "karak",
+     "type": "friend",
+     "note": "sacrificed him"
+    },
+    {
+     "with": "soskel",
+     "type": "enemy"
+    },
+    {
+     "with": "zhana",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a ritual site in the woods",
+    "an exile's journal"
+   ],
+   "sources": [
+    "Arachnos",
+    "Arachnos (Outcasts)",
+    "Arachnos (Legacy of Gravehold)",
+    "Maggoth",
+    "Fenrix",
+    "Ageless Walker",
+    "The New Age"
+   ]
+  },
+  {
+   "id": "karak",
+   "name": "Karak",
+   "kind": "npc",
+   "pronouns": "he",
+   "epithets": [
+    "Ageless Walker"
+   ],
+   "versions": [
+    "Ageless Walker"
+   ],
+   "eras": [
+    "new_gravehold"
+   ],
+   "affiliations": [
+    "xaxos_followers"
+   ],
+   "summary": "Arachnos' friend who volunteered for the ritual and aged into bones, then into a Nameless with no memory of being human.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "arachnos",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a follower transformed"
+   ],
+   "sources": [
+    "Ageless Walker",
+    "Fenrix",
+    "Arachnos (Outcasts)"
+   ]
+  },
+  {
+   "id": "raven",
+   "name": "Raven",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "the Lone Survivor"
+   ],
+   "versions": [
+    "Raven"
+   ],
+   "eras": [
+    "calamity",
+    "descent"
+   ],
+   "affiliations": [
+    "first_tribe"
+   ],
+   "summary": "Archivist of Karek, last of the First Tribe, who survived the night of emeralds while giving birth to Xaxos and carried what books she could; not a fighter, not a storyteller, but she learned for her child.",
+   "traits": [
+    "scholarly",
+    "grieving",
+    "protective"
+   ],
+   "relationships": [
+    {
+     "with": "xaxos",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "a fragment of the Karek archive",
+    "the crystal statues of the First Tribe"
+   ],
+   "sources": [
+    "Raven",
+    "The Blight",
+    "Xaxos (The Abyss)",
+    "Featherweave Satchel"
+   ]
+  },
+  {
+   "id": "janti",
+   "name": "Janti",
+   "kind": "mage",
+   "pronouns": "she",
+   "versions": [
+    "Janti"
+   ],
+   "eras": [
+    "descent"
+   ],
+   "affiliations": [
+    "sisterhood"
+   ],
+   "summary": "A woman the elders said could not learn the sister-words, who earned her place in the Sisterhood anyway; Brama's proof that hope exists.",
+   "traits": [
+    "determined",
+    "inventive",
+    "loving"
+   ],
+   "relationships": [
+    {
+     "with": "brama",
+     "type": "friend"
+    },
+    {
+     "with": "adelheim",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "proving the elders wrong"
+   ],
+   "sources": [
+    "Janti",
+    "Brama (The Descent)",
+    "Siphon Ring"
+   ]
+  },
+  {
+   "id": "leisan",
+   "name": "Leisan",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "the Huntress"
+   ],
+   "versions": [
+    "Leisan"
+   ],
+   "eras": [
+    "descent"
+   ],
+   "affiliations": [
+    "sisterhood"
+   ],
+   "summary": "Hunter who treats Nameless as animals, takes trophies — antlers, claws, marrow — and eats their power.",
+   "traits": [
+    "predatory",
+    "pragmatic"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a trophy from a past kill"
+   ],
+   "sources": [
+    "Leisan",
+    "The Infecter",
+    "Unveil Potential",
+    "Leisan's Book"
+   ]
+  },
+  {
+   "id": "alcheia",
+   "name": "Alcheia",
+   "kind": "mage",
+   "versions": [
+    "Alcheia"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold"
+   ],
+   "affiliations": [
+    "monks"
+   ],
+   "summary": "Gem-loving rebel of the monks' caverns who volunteered to accompany Quilius on her hunt just to get out.",
+   "traits": [
+    "mischievous",
+    "explosive"
+   ],
+   "relationships": [
+    {
+     "with": "quilius",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a volunteer with ulterior motives"
+   ],
+   "sources": [
+    "Alcheia",
+    "Absorbing Wraith"
+   ]
+  },
+  {
+   "id": "kiri",
+   "name": "Kiri Maesan",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "The First Breach Mage"
+   ],
+   "versions": [
+    "Kiri and Phoenix"
+   ],
+   "eras": [
+    "dawn"
+   ],
+   "affiliations": [],
+   "summary": "Young Erythizan scientist who lived among phoenixes and learned breach magic from them; adores her phoenix.",
+   "traits": [
+    "curious",
+    "devoted naturalist"
+   ],
+   "relationships": [
+    {
+     "with": "phoenix",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a field journal from the jungle"
+   ],
+   "sources": [
+    "Kiri and Phoenix",
+    "The Endless Decay",
+    "Kavoc"
+   ]
+  },
+  {
+   "id": "kavoc",
+   "name": "Kavoc",
+   "kind": "mage",
+   "pronouns": "he",
+   "versions": [
+    "Kavoc"
+   ],
+   "eras": [
+    "world_that_was"
+   ],
+   "affiliations": [],
+   "summary": "Sleep-deprived university researcher of the white space beyond breaches who left a compendium of thousands of spells in Karek's archive.",
+   "traits": [
+    "obsessive",
+    "excitable"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a restricted book"
+   ],
+   "sources": [
+    "Kavoc",
+    "Synapse Tendril",
+    "Forbidden Ritual"
+   ]
+  },
+  {
+   "id": "auren",
+   "name": "Auren",
+   "kind": "mage",
+   "versions": [
+    "Auren"
+   ],
+   "eras": [
+    "world_that_was"
+   ],
+   "affiliations": [],
+   "summary": "Inventor with a face more scale than skin who builds automatons and dreams of flying craft; the blueprints outlive their maker.",
+   "traits": [
+    "optimistic",
+    "tinkerer"
+   ],
+   "relationships": [
+    {
+     "with": "rhys",
+     "type": "creator",
+     "note": "Rhys builds on the blueprints"
+    }
+   ],
+   "hooks": [
+    "ancient blueprints"
+   ],
+   "sources": [
+    "Auren",
+    "Rhys"
+   ]
+  },
+  {
+   "id": "ona",
+   "name": "Ona",
+   "kind": "mage",
+   "pronouns": "she",
+   "versions": [
+    "Ona"
+   ],
+   "eras": [
+    "world_that_was"
+   ],
+   "affiliations": [],
+   "summary": "A mother whose tendrils grow daily; preparing to give up her name while her son Solein studies in Erythiza to cure her.",
+   "traits": [
+    "serene",
+    "loving"
+   ],
+   "relationships": [
+    {
+     "with": "solein",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "a memory box for a child"
+   ],
+   "sources": [
+    "Ona",
+    "Golden Geode"
+   ]
+  },
+  {
+   "id": "nadea",
+   "name": "Nadea",
+   "kind": "mage",
+   "versions": [
+    "Nadea"
+   ],
+   "eras": [
+    "world_that_was"
+   ],
+   "affiliations": [
+    "city_guard"
+   ],
+   "summary": "Port Hanon guard who subdues the feral corrupted and intends to descend to Gravehold with dignity when the time comes.",
+   "traits": [
+    "stern",
+    "dutiful"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a guard escorting the corrupted"
+   ],
+   "sources": [
+    "Nadea",
+    "Tome of the Ancients"
+   ]
+  },
+  {
+   "id": "willow",
+   "name": "Willow",
+   "kind": "mage",
+   "versions": [
+    "Willow"
+   ],
+   "eras": [
+    "world_that_was"
+   ],
+   "affiliations": [],
+   "summary": "A runaway heir who fled the crown, stowed away to Port Hanon and invents magic despite warnings it hastens corruption.",
+   "traits": [
+    "free-spirited"
+   ],
+   "relationships": [
+    {
+     "with": "ona",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a runaway with a stolen inheritance"
+   ],
+   "sources": [
+    "Willow",
+    "Diamin",
+    "Beaded Crown"
+   ]
+  },
+  {
+   "id": "bayli",
+   "name": "Bayli",
+   "kind": "mage",
+   "versions": [
+    "Bayli"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Self-proclaimed greatest mage ever to toss a spark, stuck in peaceful Souston and dreaming of Old Gravehold's legends.",
+   "traits": [
+    "restless",
+    "bold"
+   ],
+   "relationships": [
+    {
+     "with": "shoshana",
+     "type": "friend"
+    },
+    {
+     "with": "naftir",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a young hero who finally gets a quest"
+   ],
+   "sources": [
+    "Bayli",
+    "Shoshana"
+   ]
+  },
+  {
+   "id": "shoshana",
+   "name": "Shoshana",
+   "kind": "mage",
+   "versions": [
+    "Shoshana"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Descendant of Faen Tethers forbidden to become Tethered, who takes the tattoos anyway out of love for village and friends.",
+   "traits": [
+    "loving",
+    "defiant"
+   ],
+   "relationships": [
+    {
+     "with": "bayli",
+     "type": "friend"
+    },
+    {
+     "with": "naftir",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a family heirloom from before the civil war"
+   ],
+   "sources": [
+    "Shoshana",
+    "Taluna Branch"
+   ]
+  },
+  {
+   "id": "naftir",
+   "name": "Naftir",
+   "kind": "mage",
+   "versions": [
+    "Naftir"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Great-great-grandchild of Xaxos, born without visible corruption but feeling the Void's teeth inside; sees the outline of a wolf.",
+   "traits": [
+    "brooding",
+    "fearful of self"
+   ],
+   "relationships": [
+    {
+     "with": "xaxos",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "an inheritance of the Void"
+   ],
+   "sources": [
+    "Naftir",
+    "Sapphire Lens"
+   ]
+  },
+  {
+   "id": "lilly",
+   "name": "Lilly",
+   "kind": "mage",
+   "versions": [
+    "Lilly"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "A child who followed a furry Void creature through its portal and plays there still, waiting for a sundown that never comes. Her mother's pet was silver with big teeth and her father was raised by a Nameless near Southpost — by every clue, Razra and Inco's daughter.",
+   "traits": [
+    "innocent",
+    "fearless"
+   ],
+   "relationships": [
+    {
+     "with": "razra",
+     "type": "family",
+     "note": "inferred"
+    },
+    {
+     "with": "inco",
+     "type": "family",
+     "note": "inferred"
+    }
+   ],
+   "hooks": [
+    "a lost child in the Void"
+   ],
+   "sources": [
+    "Lilly",
+    "Inco (The Surface)"
+   ]
+  },
+  {
+   "id": "rhys",
+   "name": "Rhys",
+   "kind": "mage",
+   "versions": [
+    "Rhys"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Never the girl a mother wanted, Rhys lost the sister-words and rebuilt magic with artificial breaches from Auren's ancient blueprints, then rebuilt Rhys' own body as part machine.",
+   "traits": [
+    "self-made",
+    "relentless"
+   ],
+   "relationships": [
+    {
+     "with": "auren",
+     "type": "student"
+    }
+   ],
+   "hooks": [
+    "a machine that opens breaches"
+   ],
+   "sources": [
+    "Rhys",
+    "Circuit Board"
+   ]
+  },
+  {
+   "id": "dorian",
+   "name": "Dorian",
+   "kind": "mage",
+   "versions": [
+    "Dorian"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Young visionary decades in the future who uses the aether of past and future, breaking causality for a chunk of jade.",
+   "traits": [
+    "cocky",
+    "visionary"
+   ],
+   "relationships": [],
+   "hooks": [
+    "aether borrowed from tomorrow"
+   ],
+   "sources": [
+    "Dorian",
+    "Clouded Mesmer"
+   ]
+  },
+  {
+   "id": "stake",
+   "name": "Stake",
+   "kind": "mage",
+   "epithets": [
+    "the Professor"
+   ],
+   "versions": [
+    "Stake"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Cindercrown professor of Breach Theory who takes a sabbatical into the System to find relics, preaching curiosity.",
+   "traits": [
+    "academic",
+    "curious"
+   ],
+   "relationships": [
+    {
+     "with": "wolf",
+     "type": "companion"
+    },
+    {
+     "with": "dai",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "an academic expedition into dangerous tunnels"
+   ],
+   "sources": [
+    "Stake",
+    "Creeping Dark"
+   ]
+  },
+  {
+   "id": "wolf",
+   "name": "Wolf",
+   "kind": "mage",
+   "pronouns": "she",
+   "epithets": [
+    "Strike Leader"
+   ],
+   "versions": [
+    "Wolf"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [
+    "strike_teams"
+   ],
+   "summary": "Hard-bitten Strike leader who patrols the System so Upper Crowners can forget the Nameless exist.",
+   "traits": [
+    "cynical",
+    "fierce"
+   ],
+   "relationships": [
+    {
+     "with": "dai",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a patrol in the System"
+   ],
+   "sources": [
+    "Wolf",
+    "The Terror in Brass",
+    "Banner of Unity"
+   ]
+  },
+  {
+   "id": "dai",
+   "name": "Dai",
+   "kind": "friend",
+   "epithets": [
+    "the Youth"
+   ],
+   "versions": [
+    "Dai, the Youth"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [
+    "strike_teams"
+   ],
+   "summary": "Young, agile Strike scout who thinks on their feet.",
+   "traits": [
+    "quick",
+    "brave"
+   ],
+   "relationships": [
+    {
+     "with": "wolf",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a scout's warning"
+   ],
+   "sources": [
+    "Dai, the Youth",
+    "Banner of Schemes"
+   ]
+  },
+  {
+   "id": "dalana",
+   "name": "Dalana",
+   "kind": "friend",
+   "pronouns": "she",
+   "epithets": [
+    "the Healer"
+   ],
+   "versions": [
+    "Dalana, the Healer"
+   ],
+   "eras": [
+    "descent"
+   ],
+   "affiliations": [
+    "followers"
+   ],
+   "summary": "Brama's childhood friend who could not speak the sister-words; healer and poet of 'Journey's End'.",
+   "traits": [
+    "loyal",
+    "caring"
+   ],
+   "relationships": [
+    {
+     "with": "brama",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a healer joins the party"
+   ],
+   "sources": [
+    "Dalana, the Healer",
+    "The Wrath"
+   ]
+  },
+  {
+   "id": "fawn",
+   "name": "Fawn",
+   "kind": "friend",
+   "epithets": [
+    "the Alchemist"
+   ],
+   "versions": [
+    "Fawn, the Alchemist"
+   ],
+   "eras": [
+    "descent"
+   ],
+   "affiliations": [
+    "followers"
+   ],
+   "summary": "Old would-be witch whose lifetime of failed words made the new alchemy easy.",
+   "traits": [
+    "wry"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a potion for the storm"
+   ],
+   "sources": [
+    "Fawn, the Alchemist",
+    "The Storm"
+   ]
+  },
+  {
+   "id": "myrna",
+   "name": "Myrna",
+   "kind": "friend",
+   "pronouns": "she",
+   "epithets": [
+    "the Scholar"
+   ],
+   "versions": [
+    "Myrna, the Scholar"
+   ],
+   "eras": [
+    "descent"
+   ],
+   "affiliations": [],
+   "summary": "Keeper of her grandmother's journal and her ancestors' stories.",
+   "traits": [
+    "learned"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a grandmother's journal"
+   ],
+   "sources": [
+    "Myrna, the Scholar",
+    "Hungry Avite"
+   ]
+  },
+  {
+   "id": "joanna",
+   "name": "Joanna",
+   "kind": "friend",
+   "epithets": [
+    "the Merchant"
+   ],
+   "versions": [
+    "Joanna, the Merchant"
+   ],
+   "eras": [
+    "descent",
+    "old_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Merchant who keeps craftspeople and miners paid; 'anything you need, my dirt market provides'.",
+   "traits": [
+    "shrewd"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a deal at the dirt market"
+   ],
+   "sources": [
+    "Joanna, the Merchant",
+    "Glutton's Jewel"
+   ]
+  },
+  {
+   "id": "grimoire",
+   "name": "Grimoire",
+   "kind": "friend",
+   "epithets": [
+    "the Archive"
+   ],
+   "versions": [
+    "Grimoire, the Archive"
+   ],
+   "eras": [
+    "new_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Book rescued from The Fall recording every spell known, with entries by Brama, Lash and Z'hana.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "mazra",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a spell written by a mage long gone"
+   ],
+   "sources": [
+    "Grimoire, the Archive",
+    "Radiance (Grimoire)",
+    "Monstrous Inferno (Grimoire)"
+   ]
+  },
+  {
+   "id": "lexive",
+   "name": "Lexive",
+   "kind": "npc",
+   "epithets": [
+    "Arcane Theorist",
+    "Arcane Scholar"
+   ],
+   "versions": [
+    "Lexive"
+   ],
+   "eras": [
+    "new_gravehold",
+    "civil_war"
+   ],
+   "affiliations": [],
+   "summary": "Theorist of magic quoted throughout New Gravehold's era (namesake of the ancient scholar Antoni Lexive).",
+   "traits": [
+    "analytical"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a theory to test in battle"
+   ],
+   "sources": [
+    "Lexive",
+    "Kavoc"
+   ]
+  },
+  {
+   "id": "nerva",
+   "name": "Nerva",
+   "kind": "npc",
+   "epithets": [
+    "Survivor"
+   ],
+   "versions": [
+    "Nerva"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Ordinary survivor of Gravehold whose testimonies record the sieges.",
+   "traits": [
+    "witness"
+   ],
+   "relationships": [],
+   "hooks": [
+    "an eyewitness account"
+   ],
+   "sources": [
+    "Nerva",
+    "Raze"
+   ]
+  },
+  {
+   "id": "ghan",
+   "name": "Ghan",
+   "kind": "npc",
+   "epithets": [
+    "gem scavenger"
+   ],
+   "versions": [
+    "Ghan"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Gem scavenger of the caves.",
+   "traits": [],
+   "relationships": [],
+   "hooks": [
+    "a scavenger finds tainted gems"
+   ],
+   "sources": [
+    "Ghan",
+    "Tainted Jade"
+   ]
+  },
+  {
+   "id": "ruya",
+   "name": "Ruya",
+   "kind": "npc",
+   "epithets": [
+    "Surface Scout"
+   ],
+   "versions": [
+    "Ruya"
+   ],
+   "eras": [
+    "old_gravehold",
+    "new_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Surface scout who reports on poisoned winds and conjured grapples.",
+   "traits": [],
+   "relationships": [],
+   "hooks": [
+    "a scout's warning about the winds"
+   ],
+   "sources": [
+    "Ruya",
+    "Noxious Winds"
+   ]
+  },
+  {
+   "id": "gadymir",
+   "name": "Gadymir",
+   "kind": "npc",
+   "pronouns": "he",
+   "versions": [
+    "Gadymir"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "New mage whose memory was eaten by the Maiden of Thorns; now pulls Ohat's cart.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "ohat",
+     "type": "friend"
+    }
+   ],
+   "hooks": [
+    "a victim who forgot his name"
+   ],
+   "sources": [
+    "Gadymir",
+    "Maiden of Thorns"
+   ]
+  },
+  {
+   "id": "frayla",
+   "name": "Frayla",
+   "kind": "npc",
+   "pronouns": "she",
+   "versions": [
+    "Frayla"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Inexperienced mage crushed by the falling Prophet.",
+   "traits": [],
+   "relationships": [],
+   "hooks": [
+    "a memorial for the fallen"
+   ],
+   "sources": [
+    "Frayla",
+    "Thrice-Dead Prophet"
+   ]
+  },
+  {
+   "id": "camellia",
+   "name": "Camellia",
+   "kind": "npc",
+   "pronouns": "she",
+   "versions": [
+    "Camellia"
+   ],
+   "eras": [
+    "after"
+   ],
+   "affiliations": [],
+   "summary": "Head woman of Souston who taught glyph carving.",
+   "traits": [],
+   "relationships": [],
+   "hooks": [
+    "the glyphs around Souston are failing"
+   ],
+   "sources": [
+    "Camellia",
+    "Bayli"
+   ]
+  },
+  {
+   "id": "perth",
+   "name": "Perth",
+   "kind": "npc",
+   "epithets": [
+    "Frayed Fuse"
+   ],
+   "versions": [
+    "Perth"
+   ],
+   "eras": [
+    "civil_war"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Azerian mage fighting without Tether Xander.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "xander",
+     "type": "partner"
+    }
+   ],
+   "hooks": [
+    "a Tether alone"
+   ],
+   "sources": [
+    "Perth",
+    "Xander"
+   ]
+  },
+  {
+   "id": "yohn_thrant",
+   "name": "Yohn Thrant",
+   "kind": "npc",
+   "pronouns": "he",
+   "versions": [
+    "Yohn Thrant"
+   ],
+   "eras": [
+    "old_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Jian's father, killed by the Focusing Orb.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "jian",
+     "type": "family"
+    }
+   ],
+   "hooks": [],
+   "sources": [
+    "Yohn Thrant",
+    "Focusing Orb"
+   ]
+  },
+  {
+   "id": "soleil",
+   "name": "Soleil D'Arca",
+   "kind": "npc",
+   "epithets": [
+    "Head Scientist of the Royal Erythiza Academy"
+   ],
+   "versions": [],
+   "eras": [
+    "calamity"
+   ],
+   "affiliations": [
+    "royal_academy"
+   ],
+   "summary": "Scientist whose study of The Hunger unleashed the Oracle of Filth; 'a tragedy, of course'.",
+   "traits": [
+    "callous",
+    "brilliant"
+   ],
+   "relationships": [],
+   "hooks": [
+    "a scientist who refuses to destroy her specimen"
+   ],
+   "sources": [
+    "Oracle of Filth",
+    "The Hunger",
+    "Hewn Gravitite"
+   ]
+  },
+  {
+   "id": "xae",
+   "name": "Xae",
+   "kind": "mage",
+   "epithets": [
+    "Guild Mage Pilgrim"
+   ],
+   "versions": [
+    "Xae"
+   ],
+   "eras": [
+    "crossover"
+   ],
+   "affiliations": [],
+   "summary": "Captain of the Mage's Faction of Mynerva's Guild, sent through a portal to Gravehold. Digital crossover promo, not main canon.",
+   "traits": [],
+   "relationships": [],
+   "hooks": [
+    "a visitor from another world"
+   ],
+   "sources": [
+    "Xae"
+   ]
+  },
+  {
+   "id": "soren",
+   "name": "Soren",
+   "kind": "npc",
+   "pronouns": "he",
+   "versions": [],
+   "eras": [
+    "old_gravehold",
+    "fall"
+   ],
+   "affiliations": [],
+   "summary": "Z'hana's husband and Taqren's father; died fighting Maelstrom in the collapsing tunnels during The Fall.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "zhana",
+     "type": "partner"
+    },
+    {
+     "with": "taqren",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "a memorial to those lost in The Fall"
+   ],
+   "sources": [
+    "Taqren",
+    "Z'hana (Outcasts)",
+    "Malastar (Legacy of Gravehold)"
+   ]
+  },
+  {
+   "id": "necroswarm",
+   "name": "Necroswarm",
+   "kind": "nemesis",
+   "versions": [
+    "Necroswarm"
+   ],
+   "eras": [
+    "new_gravehold"
+   ],
+   "affiliations": [],
+   "summary": "Plant Nameless that lived peacefully far to the south and raised Inco, until the traitor mage's glyphs drove it north to raze Southpost.",
+   "traits": [
+    "gentle once",
+    "nature"
+   ],
+   "relationships": [
+    {
+     "with": "inco",
+     "type": "family",
+     "note": "caretaker"
+    }
+   ],
+   "hooks": [
+    "a once-kind Nameless driven mad"
+   ],
+   "sources": [
+    "Necroswarm",
+    "Inco (Legacy of Gravehold)"
+   ]
+  },
+  {
+   "id": "phy",
+   "name": "Phy",
+   "kind": "npc",
+   "pronouns": "he",
+   "versions": [],
+   "eras": [
+    "new_gravehold"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Lucien's Tether, who called him 'my tide'; killed by a Portalborn.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "lucien",
+     "type": "partner"
+    }
+   ],
+   "hooks": [],
+   "sources": [
+    "Lucien"
+   ]
+  },
+  {
+   "id": "solein",
+   "name": "Solein",
+   "kind": "npc",
+   "pronouns": "he",
+   "versions": [],
+   "eras": [
+    "world_that_was"
+   ],
+   "affiliations": [],
+   "summary": "Ona's son, studying at the university of Erythiza to cure the corruption before his mother gives up her name.",
+   "traits": [
+    "driven"
+   ],
+   "relationships": [
+    {
+     "with": "ona",
+     "type": "family"
+    }
+   ],
+   "hooks": [
+    "a student searching for a cure in Erythiza"
+   ],
+   "sources": [
+    "Ona",
+    "Golden Geode"
+   ]
+  },
+  {
+   "id": "xander",
+   "name": "Xander",
+   "kind": "npc",
+   "versions": [
+    "Xander"
+   ],
+   "eras": [
+    "civil_war"
+   ],
+   "affiliations": [
+    "azer_tethers"
+   ],
+   "summary": "Perth's absent Tether, who used to help tame Perth's spells.",
+   "traits": [],
+   "relationships": [
+    {
+     "with": "perth",
+     "type": "partner"
+    }
+   ],
+   "hooks": [],
+   "sources": [
+    "Xander",
+    "Shifter's Cloak"
+   ]
+  },
+  {
+   "id": "phoenix",
+   "name": "Kiri's Phoenix",
+   "kind": "companion",
+   "pronouns": "he",
+   "versions": [
+    "Kiri and Phoenix"
+   ],
+   "eras": [
+    "dawn"
+   ],
+   "affiliations": [],
+   "summary": "A juvenile phoenix who befriended Kiri Maesan and opened breaches before her eyes; learns to fight at her side.",
+   "traits": [
+    "talented",
+    "adorable (per Kiri)"
+   ],
+   "relationships": [
+    {
+     "with": "kiri",
+     "type": "companion"
+    }
+   ],
+   "hooks": [
+    "a phoenix who leads the way"
+   ],
+   "sources": [
+    "Kiri and Phoenix",
+    "Phoenix Char",
+    "Phoenix Pyre"
+   ]
+  }
+ ]
+}

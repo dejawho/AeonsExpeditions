@@ -1,0 +1,3048 @@
+[
+ {
+  "title": "Aether Infuser",
+  "kind": "swap zone",
+  "linked_to": "Auren",
+  "type": "Relic",
+  "cost": 3,
+  "box": "Past and Future",
+  "rules": "Attach this to any player's breach.\nWhen a spell is cast from this breach, the player who cast that spell gains 1 Æ.\nUse this card only when playing with Auren.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Aetherial Glow",
+  "kind": "starting/unique",
+  "linked_to": "Indira (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While prepped, once per each player's turn, you may discard a spell in hand to have that player gain 1 Æ.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Aetherrune",
+  "kind": "swap zone",
+  "linked_to": "Inscrutable Artifact",
+  "type": "Relic",
+  "cost": 8,
+  "box": "Past and Future",
+  "rules": "Gain a charge.\nCast any player's prepped spell without discarding it.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Aetherscope",
+  "kind": "starting/unique",
+  "linked_to": "Claudia",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nOR\nAny ally may lose 1 charge. If they do, gain 2 charges.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Aluminum Scrap",
+  "kind": "starting/unique",
+  "linked_to": "Auren",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nYou may spend 2 Knowledge to swap this card for Aether Infuser.\nWhen you gain a spell this turn, gain 1 Knowledge.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Amethyst Paragon",
+  "kind": "starting/unique",
+  "linked_to": "Mist (War Eternal)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "Gain 1 Æ.\nAny ally may prep a spell in hand to their opened or closed breach(es).",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Amethyst Shard",
+  "kind": "starting/unique",
+  "linked_to": "Adelheim",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Gain 1 Æ.\nAny ally may draw a card and then discard a card in hand.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Ancient Emerald",
+  "kind": "starting/unique",
+  "linked_to": "Kadir (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nIf you have 4 or more charges, any ally gains 1 life.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Ancient Secrets (Raven)",
+  "kind": "side deck",
+  "linked_to": "Raven",
+  "type": "Spell",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "Cast: Deal 7 damage. You may lose any amount of Knowledge. For each Knowledge lost this way, deal an additional 1 damage.\nThis is part of Raven's Forgotten Ritual deck.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Apocalypse",
+  "kind": "swap zone",
+  "linked_to": "Harbinger Descent",
+  "type": "Spell",
+  "cost": 11,
+  "box": "Past and Future",
+  "rules": "While prepped, all your other\nprepped spells have Echo.\nCast: Deal 6 damage.\nThis starts the game in the Swap zone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Arc of Intellect",
+  "kind": "side deck",
+  "linked_to": "Raven",
+  "type": "Spell",
+  "cost": 6,
+  "box": "The Descent",
+  "rules": "Cast: Deal 6 damage. You may spend 1 Knowledge to divide the damage this spell deals however you choose among any number of enemies.\nThis is part of Raven's Forgotten Ritual deck.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Arcane Facet",
+  "kind": "side deck",
+  "linked_to": "Alcheia",
+  "type": "Gem",
+  "cost": 1,
+  "box": "The Caverns",
+  "rules": "Gain 1 Æ.\nOR\nYou may discard any number of other facets. Gain 2 Æ and an additional 2 Æ for each card discarded this way. This Æ can only be used to gain a relic.\nUse this card only when playing with Alcheia.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Arcing Firethorn",
+  "kind": "side deck",
+  "linked_to": "Inco (The Surface)",
+  "type": "Spell",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Cast: Deal 3 damage.\nYou may cast any player's prepped spell. If you do, that spell deals 1 additional damage.\nUse this card only when playing with Inco.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Automaton Prototype",
+  "kind": "starting/unique",
+  "linked_to": "Auren",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 1 damage.\nIf you've defeated a minion from the nemesis deck this turn, gain 1 Knowledge.\nYou may spend 2 Knowledge to swap this card for Heliocopter.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Backstab",
+  "kind": "starting/unique",
+  "linked_to": "Quilius (The Caverns)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "Cast: Deal 2 damage to a minion.\nOR\nCast: Deal 1 damage.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Bastion Flint",
+  "kind": "starting/unique",
+  "linked_to": "Soskel (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nIf there are three or more player turn order cards in the turn order discard pile, gain 1 charge.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Bide",
+  "kind": "starting/unique",
+  "linked_to": "Gygar (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While prepped, once per turn during your main phase you may gain 1 Æ.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Blinding Gambit",
+  "kind": "starting/unique",
+  "linked_to": "Soskel (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While prepped, when your turn order card is drawn, you may place it on the bottom of the turn order deck instead of resolving your turn.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Bloodstone",
+  "kind": "starting/unique",
+  "linked_to": "Kavoc",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nYou may spend 3 Knowledge to swap this card for Soulstone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Blooming Firethorn",
+  "kind": "side deck",
+  "linked_to": "Inco (The Surface)",
+  "type": "Spell",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Cast: Deal 2 damage.\nConjure.\nUse this card only when playing with Inco.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Brain Lance",
+  "kind": "swap zone",
+  "linked_to": "Kavoc",
+  "type": "Spell",
+  "cost": 4,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 2 damage. You may spend any amount of Knowledge. For each Knowledge you spend, this spell deals an additional 2 damage.\nUse this card only when playing with Kavoc.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Bronze Ingot",
+  "kind": "starting/unique",
+  "linked_to": "Lost (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nIf you have five or more spells in your discard pile, gain an additional 2 Æ.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Brutal Reckoning",
+  "kind": "side deck",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 8,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 8 damage divided however you choose among any number of minions.\nOR\nCast: Deal 10 damage to the nemesis.\nUse this card only when playing with Xaxos: Reckoner.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Buried Light",
+  "kind": "starting/unique",
+  "linked_to": "Brama",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Cast: Deal 1 damage. Gain 1 Æ.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Call of the Void",
+  "kind": "starting/unique",
+  "linked_to": "Qu (Outcasts)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "While prepped, the first time you play a gem or relic that costs 1 Æ or more each turn, play that card twice and then return it to the supply.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Calming Firethorn",
+  "kind": "side deck",
+  "linked_to": "Inco (The Surface)",
+  "type": "Spell",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Cast: Deal 3 damage.\nGain 1 charge.\nUse this card only when playing with Inco.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Change Form",
+  "kind": "starting/unique",
+  "linked_to": "Qu",
+  "type": "Relic",
+  "cost": 0,
+  "box": "The Ancients",
+  "rules": "Qu flips over the Form token.",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Cinder",
+  "kind": "starting/unique",
+  "linked_to": "Nym",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Depths",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Gain 2 Æ.",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Circuit Board",
+  "kind": "starting/unique",
+  "linked_to": "Rhys",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nOR\nRemove 3 cost counters from an Artificial breach.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Clairvoyant Conflagration",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Promo",
+  "rules": "Reveal the top three cards of the nemesis deck. Return them in any order. Reveal the turn order deck. Return it in any order. Each player may prep up to two spells to their opened or closed breaches, ignoring occupancy rules.",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Clarifying Light",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Any player opens a breach, gains 2 charges, and gains 2 life.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Cleansing Quartz",
+  "kind": "starting/unique",
+  "linked_to": "Thraxir (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nOR\nIf you have focused or opened a breach this turn, gain a spell that costs 4 Æ or less from the supply.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Clouded Trinket",
+  "kind": "trinket",
+  "linked_to": null,
+  "type": "Gem;Trinket",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "You may cast any player's prepped spell.\n\nReturn this to the bottom of the trinket deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Coal Shard",
+  "kind": "starting/unique",
+  "linked_to": "Ulgimor",
+  "type": "Gem",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "If you have 2 life or less, destroy this.\nOtherwise, gain 3 Æ, gain 1 charge, and suffer 2 damage.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Condensed Pyre",
+  "kind": "starting/unique",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Origins",
+  "rules": "While prepped, once per turn during your main phase, gain 1 Knowledge.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Convergence",
+  "kind": "starting/unique",
+  "linked_to": "Arachnos (Outcasts)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "While prepped, when you play a gem or relic that costs 3 Æ or more, gain 1 charge.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Copper Scrap",
+  "kind": "starting/unique",
+  "linked_to": "Auren",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nIf you've cast three or more spells this turn, gain 1 Knowledge. You may spend 3 Knowledge to swap this card for Structure Stabilizer.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Corrupted Vein",
+  "kind": "starting/unique",
+  "linked_to": "Qu (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Resolve the destroyer token. Then, flip it over.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Cosmic Reckoning",
+  "kind": "side deck",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 8,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: If this is the first spell you cast this turn, any ally draws four cards and preps any number of spells in hand to their opened or closed breaches.\nUse this card only when playing with Xaxos: Reckoner.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Crystalline Shield",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Xaxos: Outcast gains 8 life. This can cause Xaxos: Outcast to have more than his maximum life.\nOR\nAny player gains 6 life. This can cause that player to have more than their maximum life.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Dahlia",
+  "kind": "starting/unique",
+  "linked_to": "Inco (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.When this is Harvested, deal 2 damage.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Darkspark",
+  "kind": "starting/unique",
+  "linked_to": "Kavoc",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 1 damage.\nYou may spend 2 Knowledge to swap this card for Brain Lance.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Dead Reckoning",
+  "kind": "side deck",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 8,
+  "box": "Legacy of Gravehold",
+  "rules": "Echo\nCast: Deal 4 damage.\nUse this card only when playing with Xaxos: Reckoner.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Destroy (Ona)",
+  "kind": "ability deck",
+  "linked_to": null,
+  "type": "Ability Card",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "When you swap into this, place it in Ona's ability zone.\nWhile this is in your ability zone, your ability gains the text: \"Gain a spell from the supply that costs 5 Æ or less.\"\nUse this card only when playing with Ona.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Detonate",
+  "kind": "swap zone",
+  "linked_to": "Consume Magic",
+  "type": "Spell",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 3 damage to a minion. Deal 3 damage to the nemesis.\nThis starts the game in the Swap zone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Devouring Voidspark",
+  "kind": "starting/unique",
+  "linked_to": "Dezmodia (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While this is prepped, an additional spell may be prepped to this breach.\nCast: Deal 1 damage. Deal additional damage equal to the number of other spells prepped to this breach.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Diamin",
+  "kind": "swap zone",
+  "linked_to": "Encased Fossil",
+  "type": "Gem",
+  "cost": 8,
+  "box": "Past and Future",
+  "rules": "Gain 4 Æ.\nYou may cast any player's prepped spell.\nThis starts the game in the Swap zone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Dim Crystal",
+  "kind": "swap zone",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nSwap this for Empty Crystal.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Dim Spark",
+  "kind": "swap zone",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 1 damage and swap this for Empty Spark.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Divided Detonation",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Promo",
+  "rules": "The players collectively cast up to three prepped spells. Those spells deal 3 additional damage.\nOR\nPlace up to two cards in the nemesis discard pile on top of the nemesis deck.",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Doom Howl",
+  "kind": "starting/unique",
+  "linked_to": "Wolf",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 3 damage. Wolf gains 2 doom.\nOR\nCast: Wolf loses 1 doom.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Doomstone",
+  "kind": "starting/unique",
+  "linked_to": "Wolf",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 3 Æ. Wolf gains 2 doom.\nOR\nWolf loses 1 doom.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Dragonflare",
+  "kind": "swap zone",
+  "linked_to": "Cavernous Maw",
+  "type": "Spell",
+  "cost": 6,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 5 damage.\nThis starts the game in the Swap zone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Eldritch Eye",
+  "kind": "starting/unique",
+  "linked_to": "Yan Magda (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While this is prepped, when you open a breach during your turn, deal 2 damage.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Elemental Reckoning",
+  "kind": "side deck",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 8,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 3 damage.\nAny player or Gravehold gains 3 life.\nUse this card only when playing with Xaxos: Reckoner.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Emerald Shard",
+  "kind": "starting/unique",
+  "linked_to": "Kadir",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Gain 1 Æ.\nOR\nAny player gains 1 life.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Empty Crystal",
+  "kind": "swap zone",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "When this is destroyed, return it to the Swap zone.Gain 0 Æ.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Empty Spark",
+  "kind": "swap zone",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "When this is destroyed, return it to the Swap zone.Cast: Deal 0 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Energized Stone",
+  "kind": "starting/unique",
+  "linked_to": "Dezmodia (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain a charge.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Energizing Elixir",
+  "kind": "side deck",
+  "linked_to": "Raven",
+  "type": "Relic",
+  "cost": 4,
+  "box": "The Descent",
+  "rules": "Any ally draws two cards.\nYou may spend 2 Knowledge to destroy a card in your hand or discard pile.\nThis is part of Raven's Forgotten Ritual deck.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Energy Router",
+  "kind": "swap zone",
+  "linked_to": "Auren",
+  "type": "Relic",
+  "cost": 3,
+  "box": "Past and Future",
+  "rules": "Attach this to any player's breach.\nWhen a spell is cast from this breach, any player gains 1 life.\nUse this card only when playing with Auren.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Entangled Tourmaline",
+  "kind": "starting/unique",
+  "linked_to": "Ilya (Legacy of Gravehold);Kel (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nYou may place a card from your hand into Kel's or Ilya's hand. If you do, they place a card from their hand into your hand.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Entwined Amethyst",
+  "kind": "starting/unique",
+  "linked_to": "Ilya;Kel",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nWhen you discard this during an ally's turn, you gain 1 charge.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Esoteric Amplifier",
+  "kind": "starting/unique",
+  "linked_to": "Taqren (Outcasts)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nYou may suffer 1 damage.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Essence Leech",
+  "kind": "starting/unique",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While prepped, when an ally gains a charge for the first time on their turn, gain 1 charge.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Eternal Ember",
+  "kind": "starting/unique",
+  "linked_to": "Z'hana",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Depths",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Cast one of your prepped spells without discarding it.",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Eternium",
+  "kind": "starting/unique",
+  "linked_to": "Brama (The Descent)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nYou may suffer 1 damage. If you do, any ally gains an Æ token.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Eternus Anomaly",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 2 Æ.\nIf this is the first Anomaly card you have played this turn, return this to the Regularity deck and gain a Crystal from that deck.\nUse this card only when playing with Nook: Timeless.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Ethereal Trinket",
+  "kind": "trinket",
+  "linked_to": null,
+  "type": "Gem;Trinket",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Any ally draws a card.\n\nReturn this to the bottom of the trinket deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Extinguish",
+  "kind": "starting/unique",
+  "linked_to": "Quilius",
+  "type": "Spell",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "Cast: Deal 1 damage.\nIf this damage causes a minion from the nemesis deck to be discarded, Quilius gains a Trophy token.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Final Reckoning",
+  "kind": "side deck",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 8,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 4 damage.\nReveal the top three cards of your deck. You may destroy any of those cards.\nUse this card only when playing with Xaxos: Reckoner.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Flaming Aura",
+  "kind": "starting/unique",
+  "linked_to": "Bayli",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Cast: Prep a spell from your\nhand that costs 5 Æ or less.\nReturn this to your hand.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Flare",
+  "kind": "starting/unique",
+  "linked_to": "Xaxos",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Cast: Reveal the top card of the turn order deck, and then place it back on top of the deck. If you revealed a player turn order card, deal 3 damage. Otherwise, deal 1 damage.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Flickering Spirit",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Deal 10 damage divided however you choose among any number of minions.\nOR\nDeal 15 damage to the nemesis.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Flight",
+  "kind": "starting/unique",
+  "linked_to": "Xae",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Promo Pack 1 (Digital)",
+  "rules": "Gain 1 Æ. Gain 1 Æ that can only be used to gain cards from the Vortex deck.",
+  "boxes": [
+   "Promo Pack 1 (Digital)"
+  ]
+ },
+ {
+  "title": "Fluidium",
+  "kind": "side deck",
+  "linked_to": "Raven",
+  "type": "Gem",
+  "cost": 2,
+  "box": "The Descent",
+  "rules": "Gain 2 Æ.\nGain 1 Knowledge.\nThis is part of Raven's Forgotten Ritual deck.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Forbidden Ritual",
+  "kind": "starting/unique",
+  "linked_to": "Kavoc",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "While prepped, once during your main phase, you may suffer 1 damage to gain 1 Knowledge.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Foretold Flame",
+  "kind": "starting/unique",
+  "linked_to": "Yan Magda (The Returned)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Returned",
+  "rules": "While this is prepped, when any player opens a breach, deal 2 damage.\nCast: Deal 1 damage.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Forged Crystal",
+  "kind": "side deck",
+  "linked_to": "Lost",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 2 Æ.\nUse this card only when playing with Lost.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Forged Crystal (The Descent)",
+  "kind": "unique",
+  "linked_to": "Adelheim, the Blacksmith",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 2 Æ.\nUse this card only when playing with the friend Adelheim, the Blacksmith.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Forged Spark",
+  "kind": "side deck",
+  "linked_to": "Lost",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Deal 2 damage.\nUse this card only when playing with Lost.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Forged Spark (The Descent)",
+  "kind": "unique",
+  "linked_to": "Adelheim, the Blacksmith",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Cast: Deal 2 damage.\nUse this card only when playing with the friend Adelheim, the Blacksmith.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Fortifying Blaze",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Xaxos: Outcast discards a tier 1, 2, or 3 minion in play.\nOR\nAny player gains two relics from any supply pile and places those cards on top of their deck.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Fossilized Flame",
+  "kind": "starting/unique",
+  "linked_to": "Ona",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nYou may spend 2 Knowledge to swap this card for Overwhelm.\nWhen you gain a card that costs 5 Æ or more this turn, gain 1 Knowledge.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Fossilized Rose",
+  "kind": "starting/unique",
+  "linked_to": "Reth",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Southern Village",
+  "rules": "Cast: Discard a card in hand. If you do, gain a spell that costs 5 Æ or less from any supply pile.\nOR\nCast: Deal 1 damage.",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Fragment of Earth",
+  "kind": "starting/unique",
+  "linked_to": "Mazahaedron (The Descent)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ. You may place the next card you gain this turn on top of any ally's discard pile. If you do, gain 1 Knowledge.\nOR\nSpend 2 Knowledge. If you do, gain 3 charges.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Funneled Rage",
+  "kind": "starting/unique",
+  "linked_to": "Brama (The Descent)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "While prepped, when you suffer damage, gain an Æ token. When a player would suffer damage, you may suffer that damage instead.\nCast: Deal 1 damage.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Furnacium",
+  "kind": "starting/unique",
+  "linked_to": "Talix",
+  "type": "Relic",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nDiscard up to three spells in hand. Gain 1 Æ for each spell discarded this way.\nYou may place this on top of your deck.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Fused Opal",
+  "kind": "starting/unique",
+  "linked_to": "Indira (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nOR\nConjure.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Garnet Shard",
+  "kind": "starting/unique",
+  "linked_to": "Mist",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Gain 1 Æ.\nOR\nCast any player's prepped spell.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Gather Force",
+  "kind": "swap zone",
+  "linked_to": "Propel",
+  "type": "Relic",
+  "cost": 7,
+  "box": "Origins",
+  "rules": "Any ally draws two cards.\nGravehold gains 1 life.\nSwap this card for Propel.\nThis starts the game in the Swap zone.'",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Genesis Emerald",
+  "kind": "starting/unique",
+  "linked_to": "Inco (The Surface)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Surface",
+  "rules": "Gain 1 Æ.\nOR\nDiscard two cards in hand. If you do, gain the top card of the Firethorn deck. Place that card on top of any player's discard pile.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Geode",
+  "kind": "starting/unique",
+  "linked_to": "Alcheia",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "Gain 1 Æ.\nOR\nDraw a facet from the facet deck and place it into your hand.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Gift of Spirit",
+  "kind": "starting/unique",
+  "linked_to": "Taqren",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Any ally draws a card.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Giga Inferno",
+  "kind": "side deck",
+  "linked_to": "Leisan",
+  "type": "Spell",
+  "cost": 8,
+  "box": "The Descent",
+  "rules": "Cast: Deal 5 damage.\nAny player focuses a breach.\nAny player gains 1 charge.\nUse this card only when playing with Leisan.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Glittering Facet",
+  "kind": "side deck",
+  "linked_to": "Alcheia",
+  "type": "Gem",
+  "cost": 1,
+  "box": "The Caverns",
+  "rules": "Gain 1 Æ.\nOR\nYou may discard any number of other facets. Gain 2 Æ and an additional 2 Æ for each card discarded this way. This Æ can only be used to gain a gem.\nUse this card only when playing with Alcheia.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Glittering Trinket",
+  "kind": "trinket",
+  "linked_to": null,
+  "type": "Gem;Trinket",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\n\nAny ally gains an Æ token.\n\nReturn this to the bottom of the trinket deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Glowing Facet",
+  "kind": "side deck",
+  "linked_to": "Alcheia",
+  "type": "Gem",
+  "cost": 1,
+  "box": "The Caverns",
+  "rules": "Gain 1 Æ.\nOR\nYou may discard any number of other facets. Gain 2 Æ and an additional 2 Æ for each card discarded this way. This Æ can only be used to gain a spell.\nUse this card only when playing with Alcheia.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Glowing Insight",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Any player draws four cards and preps any number of spells in hand to their opened or closed breaches.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Glyph Carver",
+  "kind": "starting/unique",
+  "linked_to": "Z'hana (Outcasts)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nOR\nPlace 1 glyph token on top of any card in the supply.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Golden Geode",
+  "kind": "starting/unique",
+  "linked_to": "Ona",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nYou may spend 2 Knowledge to swap this card for Destroy.\nWhen you open a breach this turn, gain 1 Knowledge.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Golden Infusion",
+  "kind": "side deck",
+  "linked_to": "Janti",
+  "type": "Relic",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "Attach this to any player's breach. When a spell is cast from this breach, the player who cast that spell gains 2 Æ.\nUse this card only when playing with Janti.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Golden Trinket",
+  "kind": "trinket",
+  "linked_to": null,
+  "type": "Gem;Trinket",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nGain an additional 1 Æ that can only be used to gain cards.\nReturn this to the bottom of the trinket deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Gossamer Web",
+  "kind": "starting/unique",
+  "linked_to": "Arachnos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While prepped, when you gain a card from a supply pile, gain 1 charge.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Grace Conduit",
+  "kind": "unique",
+  "linked_to": "Rampaging Vin",
+  "type": "Relic",
+  "cost": 0,
+  "box": "The Returned",
+  "rules": "Attach this to one of your breaches. When a player casts a spell prepped to this breach, that player may move one space before resolving that spell. After resolving that spell, they may discard a card in hand to move one space.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Heart Forge",
+  "kind": "starting/unique",
+  "linked_to": "Lost",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nOR\nDestroy a Spark or Crystal in hand. Gain a card of the same type from the Forged deck and place it into your hand.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Heliocopter",
+  "kind": "swap zone",
+  "linked_to": "Auren",
+  "type": "Relic",
+  "cost": 4,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 2 damage.\nGain 1 charge.\nUse this card only when playing with Auren.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Hulking Comet",
+  "kind": "side deck",
+  "linked_to": "Leisan",
+  "type": "Spell",
+  "cost": 8,
+  "box": "The Descent",
+  "rules": "Cast: Deal 4 damage.\nAny ally draws three cards and discards a card in hand.\nUse this card only when playing with Leisan.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Illuminate",
+  "kind": "starting/unique",
+  "linked_to": "Yan Magda",
+  "type": "Spell",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "While prepped, when you focus or open one of your breaches during your turn, deal 1 damage.\nCAST: Deal 1 damage.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Illuminite",
+  "kind": "swap zone",
+  "linked_to": "Glowstone",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Gain 3 Æ. Swap this card for Glowstone.\nThis starts the game in the Swap zone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Imbued Aura",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Two players each return up to two cards in their discard piles to their hands.\nOR\nThe player whose turn it is gains 10 Æ.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Imbued Firethorn",
+  "kind": "side deck",
+  "linked_to": "Inco (The Surface)",
+  "type": "Spell",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Cast: Deal 3 damage.\nYou may destroy a card in hand.\nUse this card only when playing with Inco.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Imbued Ink",
+  "kind": "starting/unique",
+  "linked_to": "Shoshana",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nOR\nYour Tether may discard a gem. If they do, gain 2 Æ and the next card you gain this turn goes on top of your Tether's discard pile.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Immolate",
+  "kind": "starting/unique",
+  "linked_to": "Malastar",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Nameless",
+  "rules": "While prepped, when you suffer damage, gain 1 charge.\nCast: Deal 1 damage.",
+  "boxes": [
+   "The Nameless"
+  ]
+ },
+ {
+  "title": "Infernal Infusion",
+  "kind": "side deck",
+  "linked_to": "Janti",
+  "type": "Relic",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "Attach this to any player's breach. When a spell is cast from this breach, it deals an additional 2 damage.\nUse this card only when playing with Janti.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Infused Crystal",
+  "kind": "swap zone",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 2 Æ and swap this for Dim Crystal.\nOR\nGain 1 Æ.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Infused Spark",
+  "kind": "swap zone",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 2 damage and swap this for Dim Spark.\nOR\nCast: Deal 1 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Infuser",
+  "kind": "starting/unique",
+  "linked_to": "Thraxir (The Descent)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "During any player's turn, when that player focuses or opens a breach, you may discard this. If you do, gain 2 Æ tokens.Gain 1 Æ.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Innovation",
+  "kind": "starting/unique",
+  "linked_to": "Willow",
+  "type": "Relic",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Knowledge.\nOR\nSpend 2 Knowledge. Destroy a card in your hand or discard pile and gain a card of the same type from the supply that costs up to 4 Æ more than the destroyed card.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Interceding Flare",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Xaxos: Outcast discards a tier 1, 2, or 3 power in play.\nOR\nAny player gains two spells from any supply pile.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Invention: Cosmic Locus",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Echo\nCast: Deal 2 damage. Malastar focuses a breach.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Demiurge Diamond",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 4 Æ. Malastar may gain a card that costs 4 Æ or less from the supply.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Galactoscope",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Attach this to any player's breach. When a spell is cast from this breach, the player who cast that spell gains 1 charge, and Malastar gains 1 charge.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Guiding Facet",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 5 Æ. Malastar may return a card that costs 3 Æ or less from his discard pile to his hand.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Maker's Mitt",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 charge or destroy a card in hand or discard pile. Repeat this twice. Malastar gains an Æ token.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Meteor Strike",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 6 damage. Malastar may draw two cards. If he does, he discards two cards.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Quantoid",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "Any ally draws three cards. Then, they discard a card in hand. Malastar draws a card.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invention: Solar Loop",
+  "kind": "side deck",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 7,
+  "box": "Legacy of Gravehold",
+  "rules": "While prepped, at the start of your casting phase you may reveal the top card of your deck. You may destroy the revealed card.\nCast: Deal 5 damage. Malastar may destroy a card in hand or discard pile.\nUse this card only when playing with Malastar: Inventor.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Invigorate",
+  "kind": "starting/unique",
+  "linked_to": "Cairna",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Return a spell in your discard pile to your hand.",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Invigorating Voidspark",
+  "kind": "starting/unique",
+  "linked_to": "Dezmodia (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "While this is prepped, an additional spell may be prepped to this breach.\nCast: Deal 1 damage. Any ally draws a card for each other spell prepped to this breach.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Iris",
+  "kind": "starting/unique",
+  "linked_to": "Inco (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.When this is Harvested, gain 2 Æ.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Iron Infusion",
+  "kind": "side deck",
+  "linked_to": "Janti",
+  "type": "Relic",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "If this is destroyed, deal 5 damage.Attach this to any player's breach. When a spell is cast from this breach, Janti gains 1 charge.\nUse this card only when playing with Janti.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Iron Scrap",
+  "kind": "starting/unique",
+  "linked_to": "Auren",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nYou may spend 3 Knowledge to swap this card for Energy Router.\nWhen you open a breach this turn, gain 1 Knowledge.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Jubilant Halo",
+  "kind": "starting/unique",
+  "linked_to": "Claudia (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 1 damage. Gain 1 Æ that can only be used to gain gems.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Leeching Beacon",
+  "kind": "starting/unique",
+  "linked_to": "Ona",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "When you prep this, if there is a spell that costs 5 Æ or more prepped to an adjacent breach, gain 1 Knowledge.\nCast: Deal 1 damage.\nYou may spend 2 Knowledge to swap this card for Sustain.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Legacy Coin",
+  "kind": "swap zone",
+  "linked_to": "Nadea",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Gain 2 Æ.Recall: Any ally gains an Æ token.\nUse this card only when playing with Nadea.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Lucky Coin",
+  "kind": "starting/unique",
+  "linked_to": "Soskel",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nYou may lose 1 charge. If you do, gain 2 additional Æ.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Lure",
+  "kind": "starting/unique",
+  "linked_to": "Lilly",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 1 damage. If a minion from the nemesis deck is defeated this way, place that minion on top of Lilly's discard pile.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Magnificent Opal",
+  "kind": "starting/unique",
+  "linked_to": "Indira (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nYou may cast a spell in your discard pile.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Arc",
+  "kind": "side deck",
+  "linked_to": "Mazra;Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 3,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 3 damage. Focus your closed breach with the lowest focus cost.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "The Ancients",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Chain",
+  "kind": "side deck",
+  "linked_to": "Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 6,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 5 damage divided however you choose to the nemesis and any number of minions.\nOR\nCast: Deal 1 damage. You may cast any ally's prepped spell without discarding it.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Decimation",
+  "kind": "side deck",
+  "linked_to": "Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 9,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 5 damage to the nemesis. Deal 5 damage to a minion.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Gift",
+  "kind": "side deck",
+  "linked_to": "Mazra;Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 6,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 4 damage. Any ally gains 1 charge.\nOR\nCast: Deal 4 damage. Any ally gains 1 life.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "The Ancients",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Inferno",
+  "kind": "side deck",
+  "linked_to": "Mazra;Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 6,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 6 damage.\nOR\nCast: Deal 4 damage. Destroy a card in hand.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "The Ancients",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Revivification",
+  "kind": "side deck",
+  "linked_to": "Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 9,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 4 damage. Any ally gains 2 life and may draw a card.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Studies",
+  "kind": "starting/unique",
+  "linked_to": "Mazra;Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 1 damage.\nOR\nFocus your III breach.",
+  "boxes": [
+   "The Ancients",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Teachings",
+  "kind": "side deck",
+  "linked_to": "Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 3,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 3 damage. Silence a minion.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mazra's Wisdom",
+  "kind": "side deck",
+  "linked_to": "Mazra;Mazra (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 3,
+  "box": "The Ancients",
+  "rules": "Cast: Deal 2 damage. Any ally draws a card.\nUse this card only when playing with Mazra.",
+  "boxes": [
+   "The Ancients",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mechanek Anomaly",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 5,
+  "box": "Legacy of Gravehold",
+  "rules": "Focus one of your breaches. Repeat this once. If this is the first Anomaly card you have played this turn, return this to the Regularity deck and gain a Crystal from that deck.\nUse this card only when playing with Nook: Timeless.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Melded Radite",
+  "kind": "starting/unique",
+  "linked_to": "Qu",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Ancients",
+  "rules": "Gain 0 Æ.\nYou may cast any player's prepped spell.",
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Mirror Shard",
+  "kind": "starting/unique",
+  "linked_to": "Claudia (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Play this as a copy of a gem in your hand.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Mirrored Infusion",
+  "kind": "side deck",
+  "linked_to": "Janti",
+  "type": "Relic",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "Attach this to any player's breach. When a spell is cast from this breach, the player who cast that spell may return it to their hand instead of discarding it.\nUse this card only when playing with Janti.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Molded Valite",
+  "kind": "starting/unique",
+  "linked_to": "Qu (The Surface)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Surface",
+  "rules": "Gain 1 Æ.\nYou may flip over Qu's Form card.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Molten Forge",
+  "kind": "starting/unique",
+  "linked_to": "Lost (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Gain 2 Æ that can only be used to gain spells.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Moonstone Shard",
+  "kind": "starting/unique",
+  "linked_to": "Jian",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Gain 1 Æ.\nGain an additional 1 Æ that can only be used to gain a gem.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Mountain Gust",
+  "kind": "side deck",
+  "linked_to": "Leisan",
+  "type": "Spell",
+  "cost": 8,
+  "box": "The Descent",
+  "rules": "Cast: Deal 6 damage divided however you choose to any number of enemies.\nUse this card only when playing with Leisan.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Mystic Orb",
+  "kind": "starting/unique",
+  "linked_to": "Nook",
+  "type": "Relic",
+  "cost": 0,
+  "box": "Shattered Dreams",
+  "rules": "Gain 1 charge.\nCast a spell in your hand. Return that spell to its supply pile, if able. You may lose 1 charge to gain a spell from any supply pile that costs less than the cast spell.",
+  "boxes": [
+   "Shattered Dreams"
+  ]
+ },
+ {
+  "title": "Nameless Siphon",
+  "kind": "starting/unique",
+  "linked_to": "Thraxir",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nOR\nAny ally may discard a card in hand. If they do, focus one of your breaches.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Nihilum Anomaly",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 2 Æ. Silence a minion.\nIf this is the first Anomaly card you have played this turn, return this to the Regularity deck and gain a Crystal from that deck.\nUse this card only when playing with Nook: Timeless.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Nocturnal Reckoning",
+  "kind": "side deck",
+  "linked_to": "Xaxos (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 8,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Allies collectively gain 4 charges. Reveal the turn order deck. Return it in any order.\nOR\nCast: Deal 8 damage.\nUse this card only when playing with Xaxos: Reckoner.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Oblivion Lode",
+  "kind": "starting/unique",
+  "linked_to": "Qu (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Resolve the builder token. Then, flip it over.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Oblivion Shard",
+  "kind": "starting/unique",
+  "linked_to": "Dezmodia",
+  "type": "Gem",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "Gain 2 Æ that cannot be used to gain a relic or spell.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Obsidian Burst",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Xaxos: Outcast deals 4 damage. Repeat this two more times.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Obsidian Shard",
+  "kind": "starting/unique",
+  "linked_to": "Reeve",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Depths",
+  "rules": "Gain 1 Æ.\nYou may suffer 1 damage. If you do, gain an additional 2 Æ.",
+  "boxes": [
+   "The Depths"
+  ]
+ },
+ {
+  "title": "Overwhelm (Ona)",
+  "kind": "ability deck",
+  "linked_to": null,
+  "type": "Ability Card",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "When you swap into this, place it in Ona's ability zone.\nWhile this is in your ability zone, your ability gains the text: \"Cast one of your prepped spells.\"\nUse this card only when playing with Ona.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Phoenix Blast",
+  "kind": "swap zone",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 3,
+  "box": "Origins",
+  "rules": "Cast: Deal 3 damage. You may spend 3 Knowledge to swap this card for Phoenix Inferno.\nUse this card only when playing with Kiri and Phoenix.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Blaze",
+  "kind": "swap zone",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 3,
+  "box": "Origins",
+  "rules": "Cast: Deal 2 damage. Kiri gains 1 Æ token. You may spend 3 Knowledge to swap this card for Phoenix Pyre.\nUse this card only when playing with Kiri and Phoenix.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Char",
+  "kind": "swap zone",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 6,
+  "box": "Origins",
+  "rules": "Cast: Deal 4 damage. Kiri gains a charge.\nUse this card only when playing with Kiri and Phoenix.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Ember",
+  "kind": "side deck",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Origins",
+  "rules": "Cast: Deal 1 damage. You may spend 2 Knowledge to swap this card for Phoenix Blast.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Flare",
+  "kind": "side deck",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Origins",
+  "rules": "Cast: Deal 1 damage. You may spend 2 Knowledge to swap this card for Phoenix Scorch.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Inferno",
+  "kind": "swap zone",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 6,
+  "box": "Origins",
+  "rules": "Cast: Deal 5 damage.\nUse this card only when playing with Kiri and Phoenix.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Pyre",
+  "kind": "swap zone",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 6,
+  "box": "Origins",
+  "rules": "Cast: Deal 3 damage. Any player gains 1 life.\nUse this card only when playing with Kiri and Phoenix.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Scorch",
+  "kind": "swap zone",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 3,
+  "box": "Origins",
+  "rules": "Cast: Deal 2 damage. Any player may discard a card to gain a charge. You may spend 3 Knowledge to swap this card for Phoenix Char.\nUse this card only when playing with Kiri and Phoenix.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Phoenix Spark",
+  "kind": "side deck",
+  "linked_to": "Kiri and Phoenix",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Origins",
+  "rules": "Cast: Deal 1 damage. You may spend 2 Knowledge to swap this card for Phoenix Blaze.",
+  "boxes": [
+   "Origins"
+  ]
+ },
+ {
+  "title": "Photonix Anomaly",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nIf this is the first Anomaly card you have played this turn, return this to the Regularity deck and gain a Spark from that deck.\nUse this card only when playing with Nook: Timeless.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Piercing Light",
+  "kind": "starting/unique",
+  "linked_to": "Stake",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 1 damage.\nIf Stake has upgraded his Prototype Breach at least once this game, you may destroy this.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Planar Pocket",
+  "kind": "starting/unique",
+  "linked_to": "Rhia",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nGain an additional 2 Æ that can only be used to gain a relic.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Powdered Infinitum",
+  "kind": "starting/unique",
+  "linked_to": "Talix (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ for each of your prepped Sparks.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Power Trinket",
+  "kind": "trinket",
+  "linked_to": null,
+  "type": "Gem;Trinket",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 charge.\nReturn this to the bottom of the trinket deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Pyre",
+  "kind": "starting/unique",
+  "linked_to": "Xaxos (The Void)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Void",
+  "rules": "Cast: Deal 1 damage.\nAny ally may discard a card in hand. If they do, deal 2 additional damage.",
+  "boxes": [
+   "The Void"
+  ]
+ },
+ {
+  "title": "Quartz Shard",
+  "kind": "starting/unique",
+  "linked_to": "Lash",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Gain 1 Æ.\nReveal the top card of the turn order deck. You may place that card on the bottom or the top of the turn order deck. If you revealed a player turn order card, gain an additional 1 Æ.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Quicken Cast",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Promo",
+  "rules": "The players collectively cast up to four different prepped spells or spells in hand without discarding them. Those spells each deal 1 additional damage.\nOR\nThe players collectively destroy up to five cards in hand or discard pile.",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Raven's Eye",
+  "kind": "starting/unique",
+  "linked_to": "Raven",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nOR\nYou may spend Knowledge equal to the cost of the top card of the Forgotten Ritual deck to gain it.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Raw Tourmaline",
+  "kind": "starting/unique",
+  "linked_to": "Nadea",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ. You may spend 3 Knowledge to swap this card for Spectralite. When you gain a card that costs 6 Æ or more this turn, gain 1 Knowledge.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Redirector",
+  "kind": "starting/unique",
+  "linked_to": "Janti",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Cast: Deal 1 damage.\nResolve any effects on or attached to the breach this was cast from one additional time.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Revealing Firethorn",
+  "kind": "side deck",
+  "linked_to": "Inco (The Surface)",
+  "type": "Spell",
+  "cost": 5,
+  "box": "The Surface",
+  "rules": "Cast: Deal 3 damage.\nFocus your breach with the lowest focus cost.\nUse this card only when playing with Inco.",
+  "boxes": [
+   "The Surface"
+  ]
+ },
+ {
+  "title": "Rip, Attack!",
+  "kind": "side deck",
+  "linked_to": "Razra;Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 6,
+  "box": "Into The Wild",
+  "rules": "Any ally may prep a spell in hand. Cast up to two spells prepped by any player. Spells cast this way deal 1 additional damage.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Into The Wild",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Eat!",
+  "kind": "side deck",
+  "linked_to": "Razra;Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 6,
+  "box": "Into The Wild",
+  "rules": "Any ally gains 2 charges and may destroy a card in hand.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Into The Wild",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Fetch!",
+  "kind": "side deck",
+  "linked_to": "Razra;Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 3,
+  "box": "Into The Wild",
+  "rules": "Focus your closed breach with the lowest focus cost. You may destroy a card in hand.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Into The Wild",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Go!",
+  "kind": "side deck",
+  "linked_to": "Razra;Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 3,
+  "box": "Into The Wild",
+  "rules": "Focus any ally's breach. That ally gains 1 charge.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Into The Wild",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Guard!",
+  "kind": "starting/unique",
+  "linked_to": "Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 9,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 2 life. Allies collectively gain 3 charges.\nOR\nSuffer 2 damage. Place a power from the nemesis deck that is in play into the nemesis discard pile.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Help!",
+  "kind": "starting/unique",
+  "linked_to": "Razra;Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "Gain 1 charge.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Into The Wild",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Patrol!",
+  "kind": "starting/unique",
+  "linked_to": "Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 9,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain a spell from the supply and place it into your hand. Discard a fire token from your location on the map.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Protect!",
+  "kind": "starting/unique",
+  "linked_to": "Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 6,
+  "box": "Legacy of Gravehold",
+  "rules": "Any ally draws two cards. Silence a minion.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rip, Scout!",
+  "kind": "starting/unique",
+  "linked_to": "Razra (Legacy of Gravehold)",
+  "type": "Relic",
+  "cost": 3,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain a card that costs 4 Æ or less from the supply and place it on top of your deck.\nUse this card only when playing with Razra.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rose",
+  "kind": "starting/unique",
+  "linked_to": "Inco (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 1 damage.When this is Harvested, focus one of your breaches.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rose Thorn",
+  "kind": "side deck",
+  "linked_to": "Inco",
+  "type": "Spell",
+  "cost": 2,
+  "box": "Into The Wild",
+  "rules": "Cast: Deal 2 damage. You may return this to the Rose Thorn deck.\nUse this card only when playing with Inco.",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Royal Inscriptions",
+  "kind": "starting/unique",
+  "linked_to": "Nadea",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ. You may pay 3 Knowledge to swap this card for Legacy Coin.Recall: Gain 1 Knowledge.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Sagestone",
+  "kind": "starting/unique",
+  "linked_to": "Stake",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nYou may lose 1 Knowledge. If you do, gain a charge.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Sapphire Infusion",
+  "kind": "side deck",
+  "linked_to": "Janti",
+  "type": "Relic",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "Attach this to any player's breach.\nTwo spells may be prepped to this breach.\nUse this card only when playing with Janti.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Seeker's Light",
+  "kind": "starting/unique",
+  "linked_to": "Raven",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nYou may place the top card of the Forgotten Ritual deck on the bottom of it.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Shared Heart",
+  "kind": "starting/unique",
+  "linked_to": "Ilya (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 1 damage. If you are Ilya, deal 1 additional damage.\nOR\nCast: Deal 1 damage. If you are Kel, gain 1 life.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Shattered Geode",
+  "kind": "starting/unique",
+  "linked_to": "Gex",
+  "type": "Gem",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "Gain 1 Æ.\nYou may place the top card of any ally's discard pile into your hand.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Shattered Rewind",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Shuffle any player's turn order card into the turn order deck. That player gains 2 life.\nOR\nAny player draws two cards and then destroys up to three cards in hand or discard pile.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Shower of Coals",
+  "kind": "starting/unique",
+  "linked_to": "Ohat and Ulgimor",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Return To Gravehold",
+  "rules": "Ohat Mode:\nCast: Suffer 1 damage and gain 2 Æ.\nUlgimor Mode:\nCast: Deal 3 damage.",
+  "boxes": [
+   "Return To Gravehold"
+  ]
+ },
+ {
+  "title": "Siphonite",
+  "kind": "starting/unique",
+  "linked_to": "Xaxos (The Abyss)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Abyss",
+  "rules": "Gain 1 Æ. You may have an enemy gain 1 life. If you do, gain an additional 1 Æ.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Smite (Spell)",
+  "kind": "swap zone",
+  "linked_to": "Fool's Gold",
+  "type": "Spell",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Cast: Deal 4 damage.\nAny ally gains an Æ token.\nThis starts the game in the Swap zone.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Smolder",
+  "kind": "starting/unique",
+  "linked_to": "Sparrow",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Void",
+  "rules": "This spell may be prepped to a closed breach without focusing it.\nCast: Deal 1 damage.",
+  "boxes": [
+   "The Void"
+  ]
+ },
+ {
+  "title": "Soul Facet",
+  "kind": "unique",
+  "linked_to": "Shoshana",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.\nShoshana may discard any number of cards in hand. Then, she may gain a gem from the supply that costs less than or equal to the number of cards discarded this way and place it into her hand.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Soulstone",
+  "kind": "swap zone",
+  "linked_to": "Kavoc",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Gain 2 Æ.\nYou may spend 1 Knowledge. If you do, gain an additional 2 Æ.\nUse this card only when playing with Kavoc.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Sparkling Meteorite",
+  "kind": "starting/unique",
+  "linked_to": "Sahala",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Gain 1 Æ.\nOR\nGain 3 Æ that can only be used to focus or open a breach.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Spatial Distortion",
+  "kind": "starting/unique",
+  "linked_to": "Dorian",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Evolution",
+  "rules": "While prepped, you may Develop a card in the supply or Develop zone that does not have a Develop cost for half of that card's cost rounded up.\nCast: Deal 1 damage.",
+  "boxes": [
+   "Evolution"
+  ]
+ },
+ {
+  "title": "Spectralite",
+  "kind": "swap zone",
+  "linked_to": "Nadea",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Gain 2 Æ.Recall: Place a gem or relic you played this turn on top of your deck.\nUse this card only when playing with Nadea.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Spilt Light",
+  "kind": "starting/unique",
+  "linked_to": "Kain",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Tales of Old Gravehold",
+  "rules": "Cast: Deal 1 damage.\nAny player may discard a card in hand. If they do, that player gains an Æ token.",
+  "boxes": [
+   "Tales of Old Gravehold"
+  ]
+ },
+ {
+  "title": "Spirit Infusion",
+  "kind": "side deck",
+  "linked_to": "Janti",
+  "type": "Relic",
+  "cost": 7,
+  "box": "The Descent",
+  "rules": "Attach this to any player's breach. When a spell is cast from this breach, the player who cast that spell may destroy a card in hand.\nUse this card only when playing with Janti.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Split Soul",
+  "kind": "starting/unique",
+  "linked_to": "Kel (Legacy of Gravehold)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Cast: Deal 1 damage. If you are Kel, gain 1 Æ.\nOR\nCast: Deal 1 damage. If you are Ilya, gain 1 charge.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Structure Stabilizer",
+  "kind": "swap zone",
+  "linked_to": "Auren",
+  "type": "Relic",
+  "cost": 5,
+  "box": "Past and Future",
+  "rules": "Attach this to any player's breach.\nWhen a spell is cast from this breach, Gravehold gains 1 life.\nUse this card only when playing with Auren.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Sun Shard",
+  "kind": "starting/unique",
+  "linked_to": "Lucien",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Southern Village",
+  "rules": "Gain 1 Æ.\nOR\nGain 3 Æ that can only be used to open a breach.",
+  "boxes": [
+   "Southern Village"
+  ]
+ },
+ {
+  "title": "Suncatcher",
+  "kind": "starting/unique",
+  "linked_to": "Willow",
+  "type": "Relic",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Gain 1 Æ.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Sunflower",
+  "kind": "starting/unique",
+  "linked_to": "Inco (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ. You may Harvest a gem in your hand.When this is Harvested, gain 2 life.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Superior Crystal",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 3 Æ and swap this for Infused Crystal.\nOR\nGain 1 Æ.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Superior Spark",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Beyond the Breach)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 3 damage and swap this for Infused Spark.\nOR\nCast: Deal 1 damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Sustain",
+  "kind": "ability deck",
+  "linked_to": null,
+  "type": "Ability Card",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "When you swap into this, place it in Ona's ability zone.\nWhile this is in your ability zone, your ability gains the text: \"Prep a spell from your discard pile.\"\nUse this card only when playing with Ona.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Swirling Darkness",
+  "kind": "starting/unique",
+  "linked_to": "Dezmodia (Outcasts)",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "This may be prepped to closed breaches.\nCast: Focus the breach this was cast from.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Synapse Tendril",
+  "kind": "side deck",
+  "linked_to": "Raven",
+  "type": "Spell",
+  "cost": 3,
+  "box": "The Descent",
+  "rules": "While prepped, once per turn during your main phase, you may spend 2 Knowledge. If you do, deal 2 damage.\nCast: Deal 4 damage.\nThis is part of Raven's Forgotten Ritual deck.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Tidal Surge",
+  "kind": "starting/unique",
+  "linked_to": "Gygar",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The New Age",
+  "rules": "Cast: Gain 1 charge.",
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Titanic Jasmite",
+  "kind": "side deck",
+  "linked_to": "Leisan",
+  "type": "Gem",
+  "cost": 8,
+  "box": "The Descent",
+  "rules": "Gain 4 Æ.\nYou may place the next card you gain this turn into any player's hand.\nUse this card only when playing with Leisan.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Torch",
+  "kind": "starting/unique",
+  "linked_to": "Garu",
+  "type": "Spell",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: Focus any player's breach.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Tourmaline Shard",
+  "kind": "starting/unique",
+  "linked_to": "Phaedraxa",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Aeon's End (Core Box)",
+  "rules": "Gain 1 Æ.\nAny ally may suffer 1 damage. If they do, they destroy a card in hand.",
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Towering Obelisk",
+  "kind": "side deck",
+  "linked_to": "Leisan",
+  "type": "Relic",
+  "cost": 8,
+  "box": "The Descent",
+  "rules": "Any ally gains 3 charges.\nOR\nAny player destroys up to two cards in hand or discard pile.\nUse this card only when playing with Leisan.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Translocate",
+  "kind": "starting/unique",
+  "linked_to": "Tressa",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Returned",
+  "rules": "Cast: Deal 1 damage. You may place the top card of Tressa's Vault on the bottom of that deck.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Transmaterium",
+  "kind": "starting/unique",
+  "linked_to": "Tressa",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Returned",
+  "rules": "Gain a charge.",
+  "boxes": [
+   "The Returned"
+  ]
+ },
+ {
+  "title": "Trulite of Energy",
+  "kind": "starting/unique",
+  "linked_to": "Kel",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nAny ally may discard a card in hand. If they do, gain 1 Æ that can only be used to gain a gem or relic.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Trulite of Force",
+  "kind": "starting/unique",
+  "linked_to": "Ilya",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Outcasts",
+  "rules": "Gain 1 Æ.\nAny ally may discard a card in hand. If they do, gain 1 Æ that can only be used to gain a spell or to focus or open a breach.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Tulip",
+  "kind": "starting/unique",
+  "linked_to": "Inco (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.When this is Harvested, gain a card from the supply that costs 4 Æ or less.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Twin Opal",
+  "kind": "starting/unique",
+  "linked_to": "Indira",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Outer Dark",
+  "rules": "Gain 1 Æ.\nYou may cast a spell in hand.",
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Twisting Flame",
+  "kind": "ability deck",
+  "linked_to": "Xaxos: Outcast",
+  "type": "Ability Card",
+  "cost": null,
+  "box": "Outcasts",
+  "rules": "Any player casts a prepped spell without discarding it. Repeat this two more times.\nOR\nTwo different players gain a gem that costs 5 Æ or less and places it into their hands.",
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Unsealed Essence",
+  "kind": "starting/unique",
+  "linked_to": "Leisan",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ. If you have not activated your ability this game, gain an additional 1 Æ.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Upgraded Efficiency",
+  "kind": "unique",
+  "linked_to": null,
+  "type": "Upgrade",
+  "cost": 2,
+  "box": "Beyond the Breach",
+  "rules": "Two spells may be prepped to Stake's Prototype breach.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Upgraded Energetics",
+  "kind": "unique",
+  "linked_to": null,
+  "type": "Upgrade",
+  "cost": 2,
+  "box": "Beyond the Breach",
+  "rules": "The first time a spell is cast from Stake's Prototype breach each turn, Stake gains a charge.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Upgraded Focus",
+  "kind": "unique",
+  "linked_to": null,
+  "type": "Upgrade",
+  "cost": 4,
+  "box": "Beyond the Breach",
+  "rules": "When a spell is cast from Stake's Prototype breach, that spell deals 2 additional damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Upgraded Potential",
+  "kind": "unique",
+  "linked_to": null,
+  "type": "Upgrade",
+  "cost": 6,
+  "box": "Beyond the Breach",
+  "rules": "When a spell is cast from Stake's Prototype breach, that spell deals 3 additional damage.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Upgraded Reflex",
+  "kind": "unique",
+  "linked_to": null,
+  "type": "Upgrade",
+  "cost": 3,
+  "box": "Beyond the Breach",
+  "rules": "When a spell is cast from Stake's Prototype breach, any ally draws a card.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Verdant Emerald",
+  "kind": "starting/unique",
+  "linked_to": "Inco",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Into The Wild",
+  "rules": "Gain 1 Æ.\nOR\nGain a Rose Thorn from the Rose Thorn deck. Place that card on top of any player's discard pile.",
+  "boxes": [
+   "Into The Wild"
+  ]
+ },
+ {
+  "title": "Violet",
+  "kind": "starting/unique",
+  "linked_to": "Inco (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.When this is Harvested, any ally may return a card in their discard pile to their hand.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Violet Shard",
+  "kind": "starting/unique",
+  "linked_to": "Remnant (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nAny ally may discard a card in hand. If they do, gain 2 Æ that can only be used to focus or open a breach.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Vision Shard",
+  "kind": "starting/unique",
+  "linked_to": "Dezmodia (Beyond the Breach)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nOR\nReveal the top two cards of Dezmodia's Stash. Return each card either to the top or bottom of that deck.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Void Shard",
+  "kind": "starting/unique",
+  "linked_to": "Remnant",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Outer Dark",
+  "rules": "Gain 1 Æ.\nGain an additional 1 Æ that can only be used to focus or open a breach.",
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Vorpal Fang",
+  "kind": "starting/unique",
+  "linked_to": "Naftir",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Past and Future",
+  "rules": "Cast: If this was cast from Naftir's Consuming Breach, deal 2 damage. Otherwise, deal 1 damage.",
+  "boxes": [
+   "Past and Future"
+  ]
+ },
+ {
+  "title": "Warding Stone",
+  "kind": "starting/unique",
+  "linked_to": "Taqren (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\n\nThe next time you focus or open a breach this turn, gain an additional 2 Æ.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Worldheart Shard",
+  "kind": "starting/unique",
+  "linked_to": "Mazahaedron",
+  "type": "Gem",
+  "cost": 0,
+  "box": "War Eternal",
+  "rules": "Gain 1 Æ.\nOR\nGain 2 Æ that can only be used to gain a card. Place the next card you gain this turn on top of any ally's discard pile.",
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Zanite, Perfected",
+  "kind": "starting/unique",
+  "linked_to": "Malastar (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 1 Æ.\nReveal the top card of the Inventions deck. If it is a relic, gain 1 Æ. Then, place that card on the bottom of that deck.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Zeronia Anomaly",
+  "kind": "starting/unique",
+  "linked_to": "Nook (Legacy of Gravehold)",
+  "type": "Gem",
+  "cost": 5,
+  "box": "Legacy of Gravehold",
+  "rules": "Gain 2 Æ. Any ally gains a charge.\nIf this is the first Anomaly card you have played this turn, return this to the Regularity deck and gain a Crystal from that deck.\nUse this card only when playing with Nook: Timeless.",
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ }
+]

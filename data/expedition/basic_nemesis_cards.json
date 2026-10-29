@@ -1,0 +1,5112 @@
+[
+ {
+  "title": "Acid Breath",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: If any player has a prepped spell that costs 5 Æ or more, Unleash three times. Otherwise, Gravehold suffers 7 damage.",
+  "card_ids": [
+   "ATD-3a-58"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Aether Extract",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. Any player discards two gems. If both of those gems cost 0 Æ, Unleash.",
+  "card_ids": [
+   "END60"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Aether Shock",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nThe player with the most prepped spells suffers 1 damage and dicards a prepped spell.",
+  "card_ids": [
+   "NA-1c-32"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Afflict",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 3 damage and may place a card in their discard pile into their hand.",
+  "card_ids": [
+   "W205\n205 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Agony Field",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy a card in hand that costs 2 Æ or more.\nPOWER 2: Unleash. Any player discards three cards in hand and then draws one card.",
+  "card_ids": [
+   "AE204\n204 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Ambush",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 2 damage. Any player suffers 1 damage.",
+  "card_ids": [
+   "END55"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Anguish",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy three prepped spells.\nPOWER 1: Unleash twice. Gravehold suffers 5 damage.",
+  "card_ids": [
+   "ATD-1c-03"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Annihilate",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most expensive card in hand discards two cards in hand. Then, for each card in that player's hand that costs 2 Æ or more, Gravehold suffers 2 damage.",
+  "card_ids": [
+   "END70"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Aperture Ghasts",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "19",
+  "shield": null,
+  "effect": "When an effect deals damage to this, that effect deals 1 additional damage.\nPERSISTENT: Unleash twice.",
+  "card_ids": [
+   "P268"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Aphotic Sun",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash. The player with the most charges suffers 3 damages and loses all of their charges.",
+  "card_ids": [
+   "W214\n214 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Apocalypse Ritual",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Gravehold suffers 5 damage for each nemesis turn order card in the turn order discard pile.",
+  "card_ids": [
+   "W222",
+   "O-1c-03"
+  ],
+  "boxes": [
+   "War Eternal",
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Armored Haze",
+  "box": "Buried Secrets",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "1",
+  "shield": "4",
+  "effect": "PERSISTENT: Any player suffers 1 damage for each shield token this minion has. Then, this minion suffers 1 damage.",
+  "card_ids": [
+   "BS154"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Assail",
+  "box": "The Outer Dark",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most expensive prepped spell places that spell on the top of their deck.",
+  "card_ids": [
+   "O66"
+  ],
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Assassinate",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "The player with the most charges loses all of their charges and suffers 5 damage.\nOR\nUnleash. Shuffle a nemesis turn order card in the turn order discard pile into the turn order deck.",
+  "card_ids": [
+   "ATD-4-40"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Aura Drain",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "When a power token is removed from this, any player suffers 2 damage.\nTO DISCARD: Spend 5 Æ.\nPOWER 2: Unleash.",
+  "card_ids": [
+   "O-1c-28"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Awaken",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice and Gravehold suffers 3 damage.\nOR\nPlace the most recently discarded minion card in the nemesis discard pile back into play.",
+  "card_ids": [
+   "AE212\n212 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Baleful Visions",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 10 damage.\nOR\nThe player with the most cards that cost 2 Æ or more in hand suffers 3 damage and destroys all of their cards in hand.",
+  "card_ids": [
+   "BTB-2a-31"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Bane Commander",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Any player suffers 1 damage.",
+  "card_ids": [
+   "NA-4-02"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Baneful Crux",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard two cards in hand that each cost 4 Æ or more.\nPOWER 2: Unleash twice. Gravehold suffers 3 damage.",
+  "card_ids": [
+   "P14"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Banesire",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash.",
+  "card_ids": [
+   "AE205\n205 (Older printings)",
+   "P04",
+   "ATD-1c-26"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)",
+   "Promo",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Banish (Attack)",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most prepped spells suffers 1 damage for each of their prepped spells.",
+  "card_ids": [
+   "W223\n223 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Blacken",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 5 damage.\nIf there 4 or less fire tokens on your location on the map, add 2 fire tokens to your location on the map.",
+  "card_ids": [
+   "AZ-1c-05\nGH-1c-05",
+   "P189"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Blackened Stars",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 9 Æ.\nPOWER 2: Any player suffers 7 damage.",
+  "card_ids": [
+   "O-4-25"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Blade Storm",
+  "box": "Buried Secrets",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 3 damage.\nThe player with the fewest opened breaches suffers 2 damage.",
+  "card_ids": [
+   "BS149"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Bleed",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe players collectively discard three prepped spells.",
+  "card_ids": [
+   "ATD-4-38"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Bleed Static",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 3: The player with the most prepped spells suffers 2 damage for each of their prepped spells.",
+  "card_ids": [
+   "AE206\n206 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Blighted Magic",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. The player with the most expensive prepped spell destroys it. A different player destroys two cards in hand that cost 1 Æ or more.",
+  "card_ids": [
+   "O-3a-27"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Blind Enigma",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "7",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 1 damage. If the nemesis tier is 2 or higher, that player suffers 2 additional damage.",
+  "card_ids": [
+   "NA-END-136"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Bloodthirst",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nOR\nAny player destroys three cards in hand that cost 3 Æ or more.",
+  "card_ids": [
+   "ATD-1c-08"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Bombard",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 2 damage.\nGravehold suffers 3 damage.",
+  "card_ids": [
+   "P179"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Bone Titan",
+  "box": "The Descent",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "DEFEATED: Gain a Scorched Pearl from the Curse deck.\nPERSISTENT: Gravehold suffers 2 damage.",
+  "card_ids": [
+   "ATD-1c-28"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Breach Shatter",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash twice.\nThe player with the lowest life suffers 4 damage.\nIf that player becomes exhausted because of this, that mage is severed and cross out this sentence.",
+  "card_ids": [
+   "AZ-1c-04\nGH-1c-04",
+   "P193"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Breach Spike",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most prepped spells suffers 3 damage.",
+  "card_ids": [
+   "O-1c-02"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Breach Tunnel",
+  "box": "Buried Secrets",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 4: If each player has at least one closed breach, the nemesis overwhelms them and the players lose.",
+  "card_ids": [
+   "BS156"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Broodqueen Drillbeak",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "7",
+  "shield": "2",
+  "effect": "When a player removes a shield from this minion, that player suffers 2 damage.\nPERSISTENT: Unleash.\nGravehold suffers 3 damage.",
+  "card_ids": [
+   "ATD-3a-59"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Bubbling Ruin",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Unleash. Any player discards three cards in hand. Gravehold suffers 2 damage.",
+  "card_ids": [
+   "P118"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Burialskulk",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "18",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash twice.",
+  "card_ids": [
+   "NA-4-04"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Bury",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player suffers 4 damage.\nThat player gains five trinkets and places them on top of their deck.",
+  "card_ids": [
+   "BTB-1c-06"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Butcher",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nSet this card in front of any player.\nIf that player becomes exhausted, Gravehold suffers 7 damage.",
+  "card_ids": [
+   "BTB-4a-34"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Carriode Colony",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "8",
+  "shield": null,
+  "effect": "IMMEDIATELY: This minion suffers damage equal to the number of players in the game.\n\nPERSISTENT: Unleash.",
+  "card_ids": [
+   "NA-1c-26"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Carriode Raiders",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "3",
+  "shield": "3",
+  "effect": "PERSISTENT: Gravehold suffers 2 damage. Add a fire token to your location on the map.",
+  "card_ids": [
+   "AZ-1c-02, GH-1c-02",
+   "P187"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Cataclysmic Fate",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy a prepped spell that costs 5 Æ or more and a breach in which it was prepped.\nPOWER 1: The player with the lowest life suffers 4 damage.",
+  "card_ids": [
+   "W224\n224 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Catacomb Drone",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Gravehold suffers 1 damage.",
+  "card_ids": [
+   "W206\n206 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Caustic Cocoon",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "9",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Gravehold suffers 1 damage.",
+  "card_ids": [
+   "END63"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Cauterizer",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "3",
+  "shield": null,
+  "effect": "When damage is dealt to this minion, reduce that damage to 1.\nPERSISTENT: Any player suffers damage equal to this minion's current life.",
+  "card_ids": [
+   "AE213\n213 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Ceaseless Darkness",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 5 Æ.\nPOWER 2: Unleash. Any player suffers 3 damage. Any player discards a card in hand.",
+  "card_ids": [
+   "NA-1c-31",
+   "L2-BS-29, L2-FS-29",
+   "ATD-1c-31"
+  ],
+  "boxes": [
+   "The New Age",
+   "Legacy of Gravehold",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Chain Lightning",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Gravehold or any player suffers 1 damage.\nRepeat this eight times.",
+  "card_ids": [
+   "P184"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Chaos Flail",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash twice. Any player places their discard pile on top of their deck and shuffles it. Then, that player reveals the top two cards of their deck and destroys the most expensive card revealed.",
+  "card_ids": [
+   "W215\n215 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Chaos Orb",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Unleash. Gravehold suffers 4 damage.",
+  "card_ids": [
+   "NA-1c-27",
+   "L2-BS-32, L2-FS-32",
+   "ATD-1c-27"
+  ],
+  "boxes": [
+   "The New Age",
+   "Legacy of Gravehold",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Chaos Strike",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 4 damage.\nAny player gains a Cursed Shard from the Curse deck and places it on top of their deck.",
+  "card_ids": [
+   "O-2a-12"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Chitin Crawler",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "9",
+  "shield": null,
+  "effect": "Reduce to 1 all damage dealt to this minion by spells that cost 3 Æ or less.\nPERSISTENT: Any player suffers 3 damage.\nOR\nUnleash.",
+  "card_ids": [
+   "O-1c-18"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Chitin Killer",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "13",
+  "shield": null,
+  "effect": "PERSISTENT: The player with the most prepped spells suffers 3 damage. If that player becomes exhausted because of this, that mage is severed and cross out this sentence.",
+  "card_ids": [
+   "AZ-FA-03, GH-R-03",
+   "P191"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Coal Beast",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": "1",
+  "effect": "DEFEATED: Discard two cards in hand.\nPERSISTENT: Unleash. Gravehold suffers 1 damage.",
+  "card_ids": [
+   "P180"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Coal Whelp",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": "3",
+  "shield": "2",
+  "effect": "PERSISTENT: Unleash. Add a fire token to your location on the map.",
+  "card_ids": [
+   "L2-BS-23, L2-FS-26"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Collapsing Comet",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard four cards in hand.\nPOWER 1: Unleash twice. Gravehold suffers 3 damage.\nBanish this.",
+  "card_ids": [
+   "L2-BS-19, L2-FS-15"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Conduct",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nThe player with the most charge suffers 2 damage and gains a charge.",
+  "card_ids": [
+   "END56"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Conjured Grapple",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player suffers 2 damage and discards two cards in hand. That player gains a Cursed Manacles from the Curse deck and places it into their hand.",
+  "card_ids": [
+   "O-1c-20"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Consume",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 2 damage and discards a card in hand.\nIf that card costs 2 Æ or less, add a fire token to your location on the map.",
+  "card_ids": [
+   "L2-BS-24, L2-FS-23"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Consuming Earth",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard a prepped spell that costs 6 Æ or more.\nPOWER 1: Unleash. Gravehold suffers 2 damage.",
+  "card_ids": [
+   "P178"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Contaminate",
+  "box": "The Descent",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player suffers 2 damage.\nAny player gains a Scorched Pearl from the Curse deck.",
+  "card_ids": [
+   "ATD-1c-32"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Cosmodium",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "14",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 2 damage and discards two cards in hand. Then, they gain two trinkets and place them on top of their deck.",
+  "card_ids": [
+   "BTB-1c-05"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Cosmopod Horror",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": "8",
+  "shield": null,
+  "effect": "When this is discarded, banish it.\nIMMEDIATELY: This minion suffer damage equal to the number of players in the game.\nPERSISTENT: Gravehold and any player each suffers 1 damage.",
+  "card_ids": [
+   "L2-BS-28, L2-FS-28"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Creeping Curse",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Unleash. Any player suffers 2 damage. The players collectively discard two cards in hand.",
+  "card_ids": [
+   "END57"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Crumbling Earth",
+  "box": "The Descent",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Unleash twice. Any player discards a card in hand that costs 1 Æ or more and suffers 1 damage.",
+  "card_ids": [
+   "ATD-2a-36"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Crushing Storm",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy two opened breaches.\nPOWER 1: Unleash three times. Banish this.",
+  "card_ids": [
+   "NA-1c-03",
+   "L2-BS-09, L2-FS-07"
+  ],
+  "boxes": [
+   "The New Age",
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Culling Scythe",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash. The player with the lowest life suffers 4 damage.",
+  "card_ids": [
+   "NA-1c-15",
+   "ATD-1c-16"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Curse of Rot",
+  "box": "Outcasts",
+  "tier": 0,
+  "type": "Curse",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "When this is in your hand, immediately either:\nDiscard this.\nOR\nLose 3 charges to destroy this and draw a card.\nStarts the game in the Curse deck.",
+  "card_ids": [
+   "O-1c-37"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Cursed Bolt",
+  "box": "Outcasts",
+  "tier": 0,
+  "type": "Spell",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Cast: Deal 1 damage. Place this on top of your deck.\nOR\nCast: Deal 1 damage. Discard two cards in hand. If you do, destroy this.\nStarts the game in the Curse deck.",
+  "card_ids": [
+   "O-1c-40 – O-1c-42"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Cursed Manacles",
+  "box": "Outcasts",
+  "tier": 0,
+  "type": "Relic",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gain 1 charge. Suffer 1 damage.\nOR\nDiscard two prepped spells to destroy this.\nStarts the game in the Curse deck.",
+  "card_ids": [
+   "O-1c-38 – O-1c-39"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Cursed Shard",
+  "box": "Outcasts",
+  "tier": 0,
+  "type": "Gem",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gain 1 Æ. Place this on top of your deck.\nOR\nSpend 2 Æ to destroy this.\nStarts the game in the Curse deck.",
+  "card_ids": [
+   "O-1c-33 – O-1c-36"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Dark Conclusion",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Unleash twice. Set this next to the turn order deck.\nThe next time the turn order deck is empty, set aside the nemesis turn order cards. Shuffle the rest of the turn order cards facedown. Then, place the nemesis turn order cards on top of the turn order deck. Finally, discard this.",
+  "card_ids": [
+   "BTB-1c-31"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Darkening Depths",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy a prepped spell that costs 3 Æ or more and a breach in which it was prepped.\nPOWER 1: Unleash. The player with the lowest life suffers 3 damage.",
+  "card_ids": [
+   "O-1c-10"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Daze",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Any player suffers 2 damage and discards a card in hand.\nIf that card costs 0 Æ, Gravehold suffers 2 damage.",
+  "card_ids": [
+   "END58"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Decay",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice. Any player or Gravehold suffers 3 damage.",
+  "card_ids": [
+   "NA-1c-13",
+   "ATD-1c-17"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Decimate",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice and any player gains 2 charges.\nOR\nGravehold suffers 4 damage.",
+  "card_ids": [
+   "P12",
+   "NA-END-135"
+  ],
+  "boxes": [
+   "Promo",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Dematerialize",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "The players collectively destroy three cards in hand that cost 2 Æ or more.\nPlayers collectively suffer 5 damage.",
+  "card_ids": [
+   "BTB-4a-37"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Dement",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player suffers 1 damage and places their most expensive card in hand on top of their deck.",
+  "card_ids": [
+   "NA-1c-12"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Demolishing Void",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. The player with the most expensive prepped spell destroys it. If that spell costs 4 Æ or more, Unleash and any player suffers 3 damage.\nBanish this.",
+  "card_ids": [
+   "L2-FS-06, L2-BS-07"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Depreciate",
+  "box": "Buried Secrets",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash twice. The player with the most expensive card in hand destroys that card and then gains a card of the same type that costs less from any supply pile. That player suffers 2 damage.",
+  "card_ids": [
+   "BS153"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Descending Skies",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash twice.\nAny player suffers 2 damage. A different player discards their two most expensive cards in hand.",
+  "card_ids": [
+   "ATD-2a-39"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Desperate Hour",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player discards a card in hand. If the discarded cost costs 0 Æ, that player suffers 2 damage.",
+  "card_ids": [
+   "BTB-1c-13"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Devil's Pact",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 5 damage.\nOR\nAny player suffers 5 damage.\nOR\nThe players discard the three most expensive prepped spells.\nOR\nUnleash twice. The players collectively lose 3 charges.",
+  "card_ids": [
+   "L2-END-025"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Devouring Wave",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Unleash three times.\nThe players collectively discard two cards in hand that cost 2 Æ or more. For each card discarded this way, that player gains a trinket and places it into their hand.",
+  "card_ids": [
+   "BTB-1c-04"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Dire Abbatoir",
+  "box": "The Outer Dark",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: The player with the most life suffers damage equal to their current life.",
+  "card_ids": [
+   "O67"
+  ],
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Dismal Outcome",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 5 Æ.\nPOWER 2: Unleash. Any player or Gravehold suffers 5 damage.",
+  "card_ids": [
+   "BTB-1c-26"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Disorient",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash. Any player suffers 1 damage and discards a card in hand. If that card is a gem, Gravehold suffers 2 damage.",
+  "card_ids": [
+   "NA-1c-28",
+   "L2-FS-30, L2-BS-30",
+   "ATD-1c-25"
+  ],
+  "boxes": [
+   "The New Age",
+   "Legacy of Gravehold",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Dispel",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most prepped spells discards their most expensive prepped spell.",
+  "card_ids": [
+   "AE214\n214 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Disperse",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player suffers 2 damage and destroys their most expensive card in hand.",
+  "card_ids": [
+   "NA-1c-06",
+   "ATD-1c-06"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Divert",
+  "box": "Buried Secrets",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "The player with the most expensive prepped spell casts that spell. The damage that spell deals must be dealt to the player who cast it instead of to a minion or the nemesis.",
+  "card_ids": [
+   "BS152"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Divide",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nOR\nGravehold suffers 6 damage.\nOR\nAny player suffers 5 damage.",
+  "card_ids": [
+   "L2-END-026"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Doom Aegis",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 1: The player with the most charges suffers 4 damage and loses all of their charges.",
+  "card_ids": [
+   "AE219\n219 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Doom Aegis (The New Age)",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 1: Unleash. The player with the most charges suffers 4 damage and loses all of their charges.",
+  "card_ids": [
+   "NA-END-146"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Doomscape",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 4: The player with the most life suffers damage equal to their life.",
+  "card_ids": [
+   "BTB-3a-42"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Drain",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 2 damage.\nThe players collectively discard two prepped spells. Then, if any player has a prepped spell that costs 4 Æ or more, Unleash.",
+  "card_ids": [
+   "END66"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Dread Ignition",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Unleash twice, and the player with the most charges suffers 3 damage and loses all of their charges.\nOR\nGravehold suffers 5 damage, and add 2 fire tokens to your location on the map.",
+  "card_ids": [
+   "AZ-FA-05\nGH-R-05",
+   "P200"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Drillbeak Wurm",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 1 damage. Gravehold suffers 1 damage.",
+  "card_ids": [
+   "NA-1c-24"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Eliminate",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nOR\nGravehold suffers 6 damage.\nOR\nAny player suffers 5 damage.",
+  "card_ids": [
+   "NA-1c-02",
+   "ATD-1c-02"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Elsewhere Invocation",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: If there are two or fewer minions in the nemesis discard pile, Unleash three times.\nOtherwise, place three minions from the nemesis discard pile into play. Do not resolve their PERSISTENT: effects this turn.",
+  "card_ids": [
+   "BTB-1c-07"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Encroach",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nReveal the top card of the turn order deck. If a player turn order card was revealed, that player suffers 2 damage. Otherwise, Gravehold suffers 3 damage.",
+  "card_ids": [
+   "W207\n207 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Endless Chasm",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 2: Unleash twice. Gravehold suffers 2 damage.",
+  "card_ids": [
+   "END59"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Endless Torment",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 1: Unleash. The player with the lowest life suffers 3 damage.",
+  "card_ids": [
+   "O-1c-07"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Engulf",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Resolve the most recently discarded attack card in the nemesis discard pile.",
+  "card_ids": [
+   "W226\n226 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Engulfing Madness",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash twice. Any player suffers 4 damage.",
+  "card_ids": [
+   "NA-2a-05"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Entropy's Kiss",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. The player with the most expensive gem in hand destroys all gems in hand. A different player suffers 3 damage.",
+  "card_ids": [
+   "ATD-4-39"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Eradicate",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player discards their three most expensive cards in hand.",
+  "card_ids": [
+   "NA-2a-07"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Escalate",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player gains a charge.",
+  "card_ids": [
+   "BTB-1c-24"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Eternal Watcher",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "10",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 3 damage. If this minion has 6 or less life, it gains 3 life.",
+  "card_ids": [
+   "NA-1c-10"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Eviscerate (Attack)",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player suffers 2 damage and destroys their most expensive card in hand.\nBanish this.",
+  "card_ids": [
+   "L2-BS-11, L2-FS-11"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Explosion",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nThe players collectively discard the two most expensive cards in hand.\nAdd 2 fire tokens to your location on the map.",
+  "card_ids": [
+   "AZ-1c-09\nGH-1c-09",
+   "P195"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Extraplanar Tomb",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "When a power token is removed from this, any player discards two cards in hand and gains a trinket.\nTO DISCARD: Spend 9 Æ.\nPOWER 2: Unleash three times.",
+  "card_ids": [
+   "BTB-2a-32"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Eye of Nothing",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 2: Unleash twice.",
+  "card_ids": [
+   "AE207\n207 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Facet Ogre",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "1",
+  "shield": "4",
+  "effect": "PERSISTENT: Gravehold suffers damage equal to the number of shield tokens this minion has. If this minion has two or less shield tokens, it gains one shield token.",
+  "card_ids": [
+   "END71"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Ferrous Brute",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "4",
+  "shield": null,
+  "effect": "When a player deals damage to this minion, reduce that damage by 1, to a minimum of 1.\nPERSISTENT: Any player suffers 2 damage.",
+  "card_ids": [
+   "BTB-1c-32"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Flailer",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "10",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Any player places a card in hand on top of an ally's deck.",
+  "card_ids": [
+   "BTB-1c-17"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Flash of Decay",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash twice. The player with the most expensive prepped spell destroys it. If that spell costs 4 Æ or less, or no spell was destroyed, Unleash.",
+  "card_ids": [
+   "END72",
+   "NA-3a-04"
+  ],
+  "boxes": [
+   "Legacy",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Flay",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player discards a prepped spell and suffers 3 damage.",
+  "card_ids": [
+   "P182"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Foggy Miasma",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Any player discards three cards in hand and suffers 2 damage.\nBanish this.",
+  "card_ids": [
+   "L2-BS-15, L2-FS-13"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Fractured One",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "15",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash twice. Any player discards two cards and places two cards that cost 0 Æ in their discard pile on top of their deck.",
+  "card_ids": [
+   "BTB-3a-43"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Fragment (Beyond the Breach)",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player gains a trinket and suffers 1 damage.\nRepeat this twice.",
+  "card_ids": [
+   "BTB-1c-18"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Fugue",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player discards three cards in hand and suffers 2 damage.",
+  "card_ids": [
+   "NA-1c-17",
+   "ATD-1c-19"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Furrow of Destruction",
+  "box": "The Ancients",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 2: Unleash twice. Gravehold suffers 3 damage.",
+  "card_ids": [
+   "TA-086"
+  ],
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Gallowskulk",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "10",
+  "shield": null,
+  "effect": "PERSISTENT: The player with the lowest life suffers 3 damage.",
+  "card_ids": [
+   "P16"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Gather Darkness",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player places their discard pile on top of their deck, shuffles it, and then destroys the top four cards of their deck.\nThen, Unleash twice.",
+  "card_ids": [
+   "AE220\n220 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Gathering Dread",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 4: Unleash three times.",
+  "card_ids": [
+   "ATD-1c-21"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Gathering Storm",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash twice. If there are two nemesis turn order cards in the turn order discard pile, any player suffers 4 damage. Otherwise, Gravehold suffers 4 damage.",
+  "card_ids": [
+   "END73"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Glinting Stinger",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": null,
+  "effect": "PERSISTENT: If this has two nemesis tokens, any player destroys a breach and this minion loses two nemesis tokens. Otherwise, this gains one nemesis token.",
+  "card_ids": [
+   "BTB-1c-27"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Glyph Enigma",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "7",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers 1 damage. If the nemesis tier is 2 or higher, Gravehold suffers 2 additional damage. (The nemesis tier is equal to the tier of the last nemesis card drawn.)",
+  "card_ids": [
+   "P05"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Gnashing Maw",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. The player with the most expensive prepped spell destroys it. If that spell costs 4 Æ or less, Unleash and any player suffers 3 damage.",
+  "card_ids": [
+   "NA-1c-04",
+   "ATD-1c-04"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Gore",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most expensive card in hand discards three cards in hand. Then, for each card in that player's hand that costs 2 Æ or more, that player suffers 2 damage.",
+  "card_ids": [
+   "NA-1c-08"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Gravity Splinter",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash twice. The player with the fewest opened breaches suffers 3 damage.",
+  "card_ids": [
+   "P02",
+   "NA-END-142"
+  ],
+  "boxes": [
+   "Promo",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Grisly Verdict",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 2 damage.\nAny player gains three trinkets, and places them on top of their deck.",
+  "card_ids": [
+   "BTB-2a-28"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Harbinger of Monstrosity",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "8",
+  "shield": null,
+  "effect": "When a player deals damage to this minion, reduce that damage by 2, to a minimum of 1.\nPERSISTENT: Gravehold suffers 2 damage.\nAny player discards a card in hand.",
+  "card_ids": [
+   "O-3a-25"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Haunted Force",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. Gravehold suffers 2 damage. Any player gains a Cursed Bolt from the Curse deck.",
+  "card_ids": [
+   "O-1c-30"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Haze Spewer",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers damage equal to this minion's current life. Then, this minion suffers 1 damage.",
+  "card_ids": [
+   "AE208\n208 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Heart of Nothing",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard four cards in hand.\nPOWER 2: Unleash twice.\nOR\nAny player suffers 4 damage.",
+  "card_ids": [
+   "W208\n208 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Hemorrhage",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 1 damage.\nPlace this in front of the player with the most opened breaches.At the start of that player's turn, they suffer 1 damage. When that player gains a card that costs 5 Æ or more, this card is discarded. If there are no cards in the supply that cost 5 Æ or more, discard this when they gain a card with the highest cost in the supply.",
+  "card_ids": [
+   "O-1c-21"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Hex of Destruction",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash twice. Gravehold suffers 4 damage. Any player destroys the top four cards of their deck.",
+  "card_ids": [
+   "NA-1c-09",
+   "L2-FS-03, L2-BS-03",
+   "ATD-1c-09"
+  ],
+  "boxes": [
+   "The New Age",
+   "Legacy of Gravehold",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Hex of Vulnerability",
+  "box": "Buried Secrets",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Place this card next to the player with the most life. For the rest of the game, when that player suffers damage they suffer 1 additional damage. (This cannot be removed once resolved.)",
+  "card_ids": [
+   "BS150"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Hissing Acid",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 3: Reveal the top card of the turn order deck. If it's a player turn order card, Unleash three times. Otherwise, any player suffers 5 damage.",
+  "card_ids": [
+   "NA-3a-02"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Howling Slayer",
+  "box": "The Ancients",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "14",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 2 damage. Any player discards a card in hand.",
+  "card_ids": [
+   "TA-084"
+  ],
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Howling Spinners",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 2 damage.",
+  "card_ids": [
+   "W209\n209 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Humming Hive",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "5",
+  "shield": "3",
+  "effect": "PERSISTENT: Any player suffers 2 damage.",
+  "card_ids": [
+   "END67"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Hunt the Weak",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player sufffers 3 damage.\nGravehold suffers 3 damage.",
+  "card_ids": [
+   "O-2a-14"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Hunted",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the lowest life suffers 1 damage.",
+  "card_ids": [
+   "END68"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Impending Immolation",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 2: Unleash. Gravehold suffers 3 damage. Add a fire token to your location on the map.",
+  "card_ids": [
+   "L2-BS-27, L2-FS-27"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Incense",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice. Any player suffers 1 damage.\nOR\nGravehold suffers 5 damage. Add 2 fire tokens to your location on the map.",
+  "card_ids": [
+   "AZ-FA-02\nGH-R-02",
+   "P186"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Incinerate",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most expensive card in hand suffers 2 damage and discards three cards. Then, for each card in their hand that costs 2 Æ or more, add a fire token to your location on the map.",
+  "card_ids": [
+   "L2-FS-04, L2-BS-02"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Inescapable Torment",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: The player with the highest life suffers damage equal to their life.",
+  "card_ids": [
+   "AZ-1c-08\nGH-1c-08",
+   "P201"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Infernal Scion",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "15",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Any player places a card that costs 0 Æ in their discard pile on top of their deck. That player destroys a card in hand.",
+  "card_ids": [
+   "ATD-1c-10"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Jagged One",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "14",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash twice.",
+  "card_ids": [
+   "AE221\n221 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Labyrinth Wisp",
+  "box": "The Outer Dark",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "PERSISTENT: Any player discards a prepped spell.\nOR\nAny player loses 1 charge.",
+  "card_ids": [
+   "O65"
+  ],
+  "boxes": [
+   "The Outer Dark"
+  ]
+ },
+ {
+  "title": "Labyrinth Wraith",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": null,
+  "effect": "Wandering\nPERSISTENT: Unleash. Any player suffers 1 damage.",
+  "card_ids": [
+   "O-4-22"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Lay Waste",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player suffers 2 damage.",
+  "card_ids": [
+   "AE216\n216 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Lightning Surge",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Unleash twice.\nThe player with the most charges suffers 2 damage for each charge they have.",
+  "card_ids": [
+   "ATD-3a-60"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Maddening Spectre",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "7",
+  "shield": "2",
+  "effect": "PERSISTENT: Unleash twice.",
+  "card_ids": [
+   "END74"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Mage Devourer",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "When a player deals damage to this minion, the player with the most opened breaches suffers 1 damage.\nPERSISTENT: Unleash.\nGravehold suffers 1 damage.",
+  "card_ids": [
+   "O-4-23"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Mage Ender",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "9",
+  "shield": null,
+  "effect": "PERSISTENT: The player with the most opened breaches suffers 2 damage.",
+  "card_ids": [
+   "W216\n216 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Magic Siphon",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Unleash. The player with the most expensive prepped spell destroys it. Then, any player destroys an opened breach.",
+  "card_ids": [
+   "ATD-2a-40"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Magma Lord Zala",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "10",
+  "shield": "2",
+  "effect": "PERSISTENT: Gravehold and any player each suffer 2 damage. Add a fire token to your location on the map.",
+  "card_ids": [
+   "AZ-1c-06, GH-1c-06",
+   "P192"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Mailed Shade",
+  "box": "Buried Secrets",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "8",
+  "shield": "1",
+  "effect": "This minion can only be dealt damage by spells cast from a III breach.\nPERSISTENT: Unleash twice.",
+  "card_ids": [
+   "BS157"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Mangle",
+  "box": "The Ancients",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "The player with the most charges loses 3 charges and suffers 3 damage.\nA different player discards three cards in hand.",
+  "card_ids": [
+   "TA-085"
+  ],
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Mangleroot",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "12",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers 3 damage. This minion suffers 2 damage.",
+  "card_ids": [
+   "W217\n217 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Marked",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the lowest life suffers 3 damage.",
+  "card_ids": [
+   "NA-3a-03"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Marked for Death",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nPlace this card in front of any player.For the rest of the game, when a nemesis card specifies 'any player' the player with this card must resolve that effect if possible.\nWhen the player with this card becomes exhausted, discard this.",
+  "card_ids": [
+   "O-1c-21"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Masticate",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player places their hand on top of their deck, shuffles it, draws five cards, and then destroys the top three cards of their deck.\nThen, Unleash twice.\nGravehold suffers 3 damage.",
+  "card_ids": [
+   "BTB-1c-08"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Menace",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "The players collectively discard four cards.",
+  "card_ids": [
+   "P01"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Miasma of Rot",
+  "box": "The Descent",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 2: Unleash. Any player gains a Scorched Pearl from the Curse deck.",
+  "card_ids": [
+   "ATD-1c-30"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Monstrosity of Omens",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "When damage is dealt to this minion, reduce that damage to 1.\nPERSISTENT: Gravehold suffers damage equal to this minion's current life.",
+  "card_ids": [
+   "W225\n225 (Older printings)",
+   "NA-END-145"
+  ],
+  "boxes": [
+   "War Eternal",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Moondrunk Mongrel",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": "2",
+  "effect": "PERSISTENT: Unleash twice.",
+  "card_ids": [
+   "ATD-2a-37"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Moonstruck Hound",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "Reduce to 1 all damage dealt to this minion by spells that cost 5 Æ or more.\nPERSISTENT: Gravehold suffers 2 damage.",
+  "card_ids": [
+   "O-1c-25"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Morbid Deed",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. Any player discards two cards in hand, gains two trinkets, and suffers 2 damage.",
+  "card_ids": [
+   "BTB-2a-26"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Morbid Gyre",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 1: Unleash twice. The players collectively discard three cards in hand.",
+  "card_ids": [
+   "W218\n218 (Older printings)",
+   "NA-END-141"
+  ],
+  "boxes": [
+   "War Eternal",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Muster",
+  "box": "Buried Secrets",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nEach minion in play gains 5 life.",
+  "card_ids": [
+   "BS155"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Mutated Cauterizer",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "11",
+  "shield": null,
+  "effect": "Spells that cost 0 Æ deal no damage to this minion.\nPERSISTENT: Any player suffers 3 damage.",
+  "card_ids": [
+   "BTB-2a-27"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Mutilate",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nThe players collectively discard two prepped spells. Any player suffers 2 damage.",
+  "card_ids": [
+   "W219\n219 (Older printings)",
+   "NA-END-139"
+  ],
+  "boxes": [
+   "War Eternal",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Needle Doom",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "12",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Gravehold suffers 2 damage.",
+  "card_ids": [
+   "NA-4-03"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Needlemaw",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "11",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers 2 damage.",
+  "card_ids": [
+   "AE215\n215 (Older printings)",
+   "NA-END-140"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Negate",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player destroys their most expensive card in hand.\nOR\nUnleash twice. Gravehold suffers 3 damage.",
+  "card_ids": [
+   "P15"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Night Unending",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 3: Gravehold suffers 2 damage for each spell prepped by the player with the most prepped spells.",
+  "card_ids": [
+   "W210\n210 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Nix",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 1 damage and discards their most expensive card in hand.",
+  "card_ids": [
+   "W211\n211 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Noxious Winds",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 5 Æ.\nPOWER 2: Gravehold suffers 3 damage. Any player gains a Cursed Shard from the Curse deck. Any player gains a Cursed Bolt from the Curse deck.",
+  "card_ids": [
+   "O-1c-29"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Null Scion",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "11",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash.",
+  "card_ids": [
+   "W220\n220 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Nullification",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash twice. For each supply pile with five or more cards, Gravehold suffers 4 damage.",
+  "card_ids": [
+   "BTB-3a-44"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Nyx of Burning Bones",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "15",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash twice. Gravehold suffers 2 damage. Add a fire token to your location on the map.",
+  "card_ids": [
+   "AZ-1c-07\nGH-1c-07",
+   "P198"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Nyx, the Spine Cruncher",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "14",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Any player suffers 2 damage.",
+  "card_ids": [
+   "O-1c-05"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Obliterate",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most opened breaches destroys four cards in hand or suffers 4 damage.",
+  "card_ids": [
+   "AE222\n222 (Older printings)",
+   "BTB-1c-02"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)",
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Obliterating Meteor",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard four cards in hand.\nPOWER 1: Unleash twice. Gravehold suffers 3 damage.",
+  "card_ids": [
+   "NA-1c-21"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Omniscient Otherling",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "12",
+  "shield": null,
+  "effect": "When this is discarded, if all players have 4 or more life, Gravehold suffers 5 damage.\nPERSISTENT: Any player suffers 3 damage.",
+  "card_ids": [
+   "P156"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Otherling",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": "10",
+  "shield": null,
+  "effect": "When this is discarded, banish this. PERSISTENT: Unleash. Any player suffers 1 damage.",
+  "card_ids": [
+   "L2-BS-20, L2-FS-21"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Pale Reckoner",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": "8",
+  "shield": "4",
+  "effect": "IMMEDIATELY: This minion loses a shield token for each player in the game.\nPERSISTENT: Any player suffers 2 damage. Add a fire token to your location on the map.",
+  "card_ids": [
+   "L2-BS-17, L2-FS-16"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Paranoia",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: If any player has a prepped spell that costs 5 Æ or more, Unleash three times. Otherwise, Gravehold suffers 7 damage.",
+  "card_ids": [
+   "BTB-2a-29"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Persist",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Place a nemesis turn order card in the turn order discard pile on top of the turn order deck.\nOR\nUnleash twice. Any player loses 3 charges.",
+  "card_ids": [
+   "BTB-1c-21"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Planar Collision",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard two prepped spells.\nPOWER 2: Unleash twice.",
+  "card_ids": [
+   "W212\n212 (Older printings)",
+   "NA-END-137"
+  ],
+  "boxes": [
+   "War Eternal",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Portal Fright",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "10",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 2 damage and gains a trinket.",
+  "card_ids": [
+   "BTB-1c-12"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Portal Guardian",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "8",
+  "shield": null,
+  "effect": "PERSISTENT: Unleash. Any player suffers 1 damage.",
+  "card_ids": [
+   "NA-1c-20"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Portalsworn",
+  "box": "The Descent",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "5",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers 3 damage.",
+  "card_ids": [
+   "ATD-3a-57"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Pulverizing Ray",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Gravehold suffers 18 damage. The players may collectively discard up to six gems. For each gem discarded this way, prevent 3 of that damage.",
+  "card_ids": [
+   "AE217\n217 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Punish",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash four times.\nOR\nResolve the bottommost attack in the nemesis discard pile twice.",
+  "card_ids": [
+   "BTB-1c-10"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Quell",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 7 damage.\nOR\nUnleash three times.",
+  "card_ids": [
+   "W227\n227 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Rain of Devastation",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 6 Æ.\nPOWER 2: Unleash twice. Any player suffers 3 damage.",
+  "card_ids": [
+   "O-3a-24"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Ravage",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash four times.\nOR\nAdd three fire tokens to your location on the map.\nOR\nGravehold suffers 7 damage.",
+  "card_ids": [
+   "AZ-FA-04\nGH-R-04",
+   "P196"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Ravenous Leviathan",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "6",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers 2 damage.",
+  "card_ids": [
+   "END61"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Ray of Desolation",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Unleash twice. The players collectively destroy the two most expensive prepped spells.",
+  "card_ids": [
+   "NA-2a-08",
+   "O-2a-16"
+  ],
+  "boxes": [
+   "The New Age",
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Reality Rupture",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy two prepped spells that each cost 3 Æ or more.\nPOWER 1: Unleash three times.",
+  "card_ids": [
+   "AE223\n223 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Reckoning",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: If any player has 4 charges or more, that player suffers 3 damage and players collectively discard four cards in hand. Otherwise, Gravehold suffers 6 damage.",
+  "card_ids": [
+   "181"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Rend",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 1 damage.\nAny player suffers 2 damage.",
+  "card_ids": [
+   "NA-1c-29",
+   "L2-BS-31, L2-FS-31",
+   "ATD-1c-29"
+  ],
+  "boxes": [
+   "The New Age",
+   "Legacy of Gravehold",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Rescind",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the most expensive prepped spell discards that spell and suffers 2 damage.",
+  "card_ids": [
+   "O-2a-13"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Resurrect",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Place two minions from the nemesis discard pile into play.\nAdd a shield token to each of them.",
+  "card_ids": [
+   "P183"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Revive (Legacy of Gravehold)",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nPlace the most recently discarded minion in the nemesis discard pile into play.",
+  "card_ids": [
+   "AZ-SO-05\nGH-SO-05",
+   "P197"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Rising Twilight",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 3: Unleash. Any player gains two trinkets and suffers 2 damage.",
+  "card_ids": [
+   "BTB-1c-28"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Rubble Scuttler",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "13",
+  "shield": null,
+  "effect": "When a player deals damage to this, that player deals 1 additional damage.\nPERSISTENT: Unleash.",
+  "card_ids": [
+   "BTB-3a-41"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Ruin",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice. Gravehold suffers 3 damage.\nOR\nUnleash twice. Add a fire token to your location on the map.",
+  "card_ids": [
+   "L2-BS-12, L2-FS-12"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Rupture",
+  "box": "The Ancients",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 4 damage.",
+  "card_ids": [
+   "TA-083"
+  ],
+  "boxes": [
+   "The Ancients"
+  ]
+ },
+ {
+  "title": "Rust Away",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 7 damage.\nOR\nThe player with the most cards that cost 2 Æ or more in hand destroys all of their cards in hand.",
+  "card_ids": [
+   "ATD-2a-42"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Sacrifice",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash four times.\nOR\nGravehold suffers 4 damage and any player suffers 4 damage.",
+  "card_ids": [
+   "NA-2a-06",
+   "O-3a-26",
+   "BTB-4a-36"
+  ],
+  "boxes": [
+   "The New Age",
+   "Outcasts",
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Sap",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice. Any player loses 2 charges.\nOR\nUnleash twice. Any player suffers 3 damage.",
+  "card_ids": [
+   "END64"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Scatter",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player destroys their most expensive card in hand.",
+  "card_ids": [
+   "END75"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Scion of the Void",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "13",
+  "shield": null,
+  "effect": "When a player deals damage to this minion, Unleash.\nPERSISTENT: Unleash twice.",
+  "card_ids": [
+   "O-2a-17"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Scorched Pearl",
+  "box": "The Descent",
+  "tier": 0,
+  "type": "Gem",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gain 1 Æ. Suffer 1 damage.\nOR\nSpend 3 Æ. If you do, destroy this.\nStarts the game in the Curse deck.",
+  "card_ids": [
+   "ATD-1c-45 – ATD-1c-50"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Scour",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nThe player with the most expensive card in hand discards their three most expensive cards in hand.",
+  "card_ids": [
+   "O-4-24"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Seeking Destruction",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "IMMEDIATELY: Place the player number token of the player with the most opened breaches on this.\nTO DISCARD: Spend 7 Æ.\nPOWER 3: If the player whose player token is on this has the most opened breaches, that player suffers 5 damage. Otherwise, Unleash twice.",
+  "card_ids": [
+   "O-1c-19"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Separate",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 2 damage.\nThe player with the most expensive prepped spell discards that spell.",
+  "card_ids": [
+   "NA-2a-03"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Shrieking Havoc",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "9",
+  "shield": null,
+  "effect": "Wandering\nPERSISTENT: The player with the lowest life suffers 2 damage.",
+  "card_ids": [
+   "ATD-1c-20"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Silent Decay",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash twice. Gravehold suffers 3 damage. Any player gains a Cursed Bolt from the Curse deck and places it on top of their deck.",
+  "card_ids": [
+   "O-2a-15"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Skewer",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 3 damage and draws a card.",
+  "card_ids": [
+   "AE209\n209 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Sky Crush",
+  "box": "Outcasts",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nAny player destroys two cards in hand and suffers 2 damage.",
+  "card_ids": [
+   "O-2a-16"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Sky Tremor",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 1: Unleash twice. Gravehold suffers 4 damage.",
+  "card_ids": [
+   "NA-2a-04"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Slaughter",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 3 damage.",
+  "card_ids": [
+   "AE210\n210 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Smite",
+  "box": "War Eternal",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 2 damage.",
+  "card_ids": [
+   "W221\n221 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Smoke Guardian (Unused)",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "11",
+  "shield": null,
+  "effect": "PERSISTENT: Any player degrades a card in hand. Gravehold suffers 1 damage.",
+  "card_ids": [
+   "END81"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Soul Rend",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 9 Æ.\nPOWER 2: Unleash three times, and add 2 fire tokens to your location on the map.\nOR\nUnleash twice, the player with the lowest life suffers 1 damage, their mage becomes severed, and cross out this sentence.",
+  "card_ids": [
+   "AZ-SO-03\nGH-SO-03",
+   "P194"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Soul Rend (Promo)",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 9 Æ.\nPOWER 2: Unleash three times, and add 2 fire tokens to your location on the map.\nOR\nUnleash twice, and the player with the lowest life suffers 3 damage.",
+  "card_ids": [
+   "P194"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Spine Thresher",
+  "box": "Legacy",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": "1",
+  "shield": "3",
+  "effect": "PERSISTENT: Unleash. Any player suffers 1 damage.",
+  "card_ids": [
+   "END62"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Spirit Cage",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard a card in hand that costs 5 Æ or more.\nPOWER 3: Unleash twice. Any player discards a spell in hand.",
+  "card_ids": [
+   "P13"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Spirit Snare",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard a card in hand that costs 5 Æ or more.\nPOWER 3: Unleash. Any player discards a spell in hand and suffers 2 damage.",
+  "card_ids": [
+   "NA-END-138"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Spreading Brushfire",
+  "box": "Legacy of Gravehold",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash twice. Gravehold suffers 3 damage. Add a fire token to your location on the map.",
+  "card_ids": [
+   "AZ-SO-02\nGH-SO-02",
+   "P188"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Spreading Inferno",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash twice. If there are 3 or less fire tokens on your location on the map, add a fire token to your location on the map. Otherwise, Unleash.",
+  "card_ids": [
+   "L2-BS-16, L2-FS-14"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Stifle",
+  "box": "Legacy of Gravehold",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nThe player with the lowest life suffers 3 damage.\nIf that player becomes exhausted because of this, that mage is severed and cross out this sentence.",
+  "card_ids": [
+   "AZ-1c-03\nGH-1c-03",
+   "P190"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Suffering",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nGravehold suffers 3 damage.\nAny player gains two trinkets and places them on top of their deck.",
+  "card_ids": [
+   "BTB-1c-15"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Suffocate",
+  "box": "Legacy",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nGravehold suffers 3 damage and any player suffers 3 damage.",
+  "card_ids": [
+   "END76"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Suffocating Haze",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Reduce by 1 all damage dealt to minions from the nemesis deck, to a minimum of 1.\nPOWER 3: Unleash twice. Gravehold suffers 2 damage.",
+  "card_ids": [
+   "O-1c-17"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Sunder",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 4 damage and the player with the lowest life suffers 4 damage.\nOR\nShuffle all of the nemesis turn order cards into the turn order deck.",
+  "card_ids": [
+   "AE224\n224 (Older printings)",
+   "NA-END-143"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)",
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Surge",
+  "box": "The Descent",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player loses 1 charge.",
+  "card_ids": [
+   "ATD-4-37"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Sweeping Blackness",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 4 damage.\nAny player loses 2 charges and discards two cards in hand.",
+  "card_ids": [
+   "P119"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Taint",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice. Any player gains a Scorched Pearl from the Curse deck and places it on top of their deck.",
+  "card_ids": [
+   "ATD-1c-14"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Tear Apart",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Gravehold suffers 5 damage.\nOR\nThe players collectively discard five cards.",
+  "card_ids": [
+   "BTB-1c-30"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Tempting Offer",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 3: Unleash twice. The player with the lowest life suffers 3 damage.",
+  "card_ids": [
+   "END69"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Terrify",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash three times.\nGravehold suffers 2 damage.\nAny player destroys two cards in hand.",
+  "card_ids": [
+   "NA-3a-05"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "The Ceaseless Observer",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "7",
+  "shield": "3",
+  "effect": "PERSISTENT: Gravehold suffers 3 damage. Add fire tokens to your location on the map equal to the number of shield tokens on this minion.",
+  "card_ids": [
+   "AZ-SO-04\nGH-SO-04",
+   "P199"
+  ],
+  "boxes": [
+   "Legacy of Gravehold",
+   "Promo"
+  ]
+ },
+ {
+  "title": "Thrash",
+  "box": "War Eternal",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nThe players collectively discard two cards in hand.",
+  "card_ids": [
+   "W213\n213 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Throng Commander",
+  "box": "Buried Secrets",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "1",
+  "shield": "3",
+  "effect": "PERSISTENT: If there are two or more other minions in play, Gravehold suffers 6 damage and discard this minion. Otherwise, any player suffers 2 damage.",
+  "card_ids": [
+   "BS151"
+  ],
+  "boxes": [
+   "Buried Secrets"
+  ]
+ },
+ {
+  "title": "Throttle",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player destroys their three most expensive cards in hand.",
+  "card_ids": [
+   "W228",
+   "O-1c-09"
+  ],
+  "boxes": [
+   "War Eternal",
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Thunderous Tempest",
+  "box": "The New Age",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 9 Æ.\nPOWER 2: Unleash. If there are two nemesis turn order cards in the turn order pile, any player suffers 8 damage. Otherwise, any player suffers 5 damage.",
+  "card_ids": [
+   "NA-4-05"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Topple",
+  "box": "Aeon's End (Core Box)",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 4 damage.",
+  "card_ids": [
+   "AE225",
+   "NA-END-144",
+   "O-1c-04"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)",
+   "The New Age",
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Toxic Subterfuge",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "When a power token is removed from this, any player suffers 2 damage.\nTO DISCARD: Spend 5 Æ.\nPOWER 2: Unleash.",
+  "card_ids": [
+   "O-1c-15"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Tremor",
+  "box": "Legacy",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "legacy_end",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 2: Unleash twice. Gravehold suffers 4 damage.",
+  "card_ids": [
+   "END65"
+  ],
+  "boxes": [
+   "Legacy"
+  ]
+ },
+ {
+  "title": "Twisting Flesh",
+  "box": "Promo",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 7 Æ.\nPOWER 1: Unleash twice. Any player suffers 3 damage. That player gains a Cursed Manacles from the Curse deck and places it on top of their deck.",
+  "card_ids": [
+   "P120"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Unblinking Wrath",
+  "box": "Beyond the Breach",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 1: Unleash twice.\nThe player with the most expensive spell destroys it and suffers 2 damage.",
+  "card_ids": [
+   "BTB-2a-30"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Unmake",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player destroys the top three cards of their deck and suffers 3 damage.",
+  "card_ids": [
+   "P17"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Unnerving Howl",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash. Any player discards two gems in hand.",
+  "card_ids": [
+   "NA-1c-30"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Unravel (Upgraded Basic)",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 2 damage.\nAny player discards their most expensive card in hand.",
+  "card_ids": [
+   "BTB-4a-35"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Vapor Wraith",
+  "box": "Beyond the Breach",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "4",
+  "shield": null,
+  "effect": "When a player deals damage to this minion, that player places a card in hand on top of their deck.\nPERSISTENT: Unleash.",
+  "card_ids": [
+   "BTB-1c-29"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Venomite",
+  "box": "Aeon's End (Core Box)",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "9",
+  "shield": null,
+  "effect": "PERSISTENT: The player with the lowest life suffers 2 damage.\nOR\nAny player discards a prepped spell that costs 3 Æ or more.",
+  "card_ids": [
+   "AE218\n218 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Violent Detonation",
+  "box": "Beyond the Breach",
+  "tier": 2,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Destroy a prepped spell that costs 6 Æ or more.\nPOWER 2: Unleash twice. Gravehold suffers 3 damage.",
+  "card_ids": [
+   "BTB-1c-19"
+  ],
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Void Revenants",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": "14",
+  "shield": null,
+  "effect": "DEFEATED: Unleash twice.\nPERSISTENT: Gravehold or any player suffers 4 damage.",
+  "card_ids": [
+   "P185"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Void Strays",
+  "box": "Legacy of Gravehold",
+  "tier": 3,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "log_bishop_or_fate_shepherd",
+  "life": "13",
+  "shield": null,
+  "effect": "PERSISTENT: Any player suffers 3 damage.\nOR\nUnleash. Add 2 fire tokens to your location on the map.",
+  "card_ids": [
+   "L2-BS-04, L2-FS-05"
+  ],
+  "boxes": [
+   "Legacy of Gravehold"
+  ]
+ },
+ {
+  "title": "Volcanic Zala",
+  "box": "The New Age",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "10",
+  "shield": null,
+  "effect": "PERSISTENT: Gravehold suffers 3 damage.\nOR\nAny player loses 2 charges.",
+  "card_ids": [
+   "NA-1c-18",
+   "ATD-1c-15"
+  ],
+  "boxes": [
+   "The New Age",
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Wandering Lasher",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "6",
+  "shield": null,
+  "effect": "Wandering\nPERSISTENT: Unleash.",
+  "card_ids": [
+   "O-1c-27"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Wandering Observer",
+  "box": "Outcasts",
+  "tier": 2,
+  "type": "Minion",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": "11",
+  "shield": null,
+  "effect": "Wandering\nPERSISTENT: Gravehold suffers 2 damage.",
+  "card_ids": [
+   "O-1c-13"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Weeping Hex",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash.\nAny player suffers 2 damage, gains a Cursed Shard from the Curse deck, and places it on top of their deck.",
+  "card_ids": [
+   "O-1c-31"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "Whirlwind",
+  "box": "The Descent",
+  "tier": 3,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash four times.\nOR\nAny player destroys three cards in hand and suffers 4 damage.",
+  "card_ids": [
+   "ATD-2a-41"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Winter's Bite",
+  "box": "The Descent",
+  "tier": 2,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash. Discard the top card of the nemesis deck.\nOR\nThe player with the lowest life suffers 5 damage.",
+  "card_ids": [
+   "ATD-2a-38"
+  ],
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Withering Beam",
+  "box": "War Eternal",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "POWER 2: Unleash twice. The players collectively destroy the two most expensive prepped spells.",
+  "card_ids": [
+   "W229\n229 (Older printings)"
+  ],
+  "boxes": [
+   "War Eternal"
+  ]
+ },
+ {
+  "title": "Withering Rot",
+  "box": "Outcasts",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Any player suffers 3 damage and gains a Curse of Rot from the Curse deck.",
+  "card_ids": [
+   "O-1c-32"
+  ],
+  "boxes": [
+   "Outcasts"
+  ]
+ },
+ {
+  "title": "World Purge",
+  "box": "Promo",
+  "tier": 3,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Spend 8 Æ.\nPOWER 2: Unleash three times.\nOR\nGravehold suffers 7 damage.",
+  "card_ids": [
+   "P03"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Woven Sky",
+  "box": "Aeon's End (Core Box)",
+  "tier": 1,
+  "type": "Power",
+  "upgraded": 0,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "TO DISCARD: Discard three cards in hand.\nPOWER 2: Unleash. Any player suffers 4 damage.",
+  "card_ids": [
+   "AE211\n211 (Older printings)"
+  ],
+  "boxes": [
+   "Aeon's End (Core Box)"
+  ]
+ },
+ {
+  "title": "Wreck",
+  "box": "The New Age",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nGravehold suffers 1 damage.",
+  "card_ids": [
+   "NA-2a-02"
+  ],
+  "boxes": [
+   "The New Age"
+  ]
+ },
+ {
+  "title": "Writhe",
+  "box": "Promo",
+  "tier": 1,
+  "type": "Attack",
+  "upgraded": 1,
+  "player_count": null,
+  "pool": "standard",
+  "life": null,
+  "shield": null,
+  "effect": "Unleash twice.\nAny player suffers 1 damage.",
+  "card_ids": [
+   "P117"
+  ],
+  "boxes": [
+   "Promo"
+  ]
+ }
+]

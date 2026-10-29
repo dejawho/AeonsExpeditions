@@ -1,0 +1,22 @@
+# Aeon's Expeditions on the NAS: /volume1/docker/aeons-expeditions/docker-compose.yml
+# https://aeonsexpeditions.dejawho.synology.me -> DSM reverse proxy -> localhost:3005
+# The image is built on the PC and loaded with `docker load` (no build on the NAS).
+# Keys for the AI story rewrite go in .env next to this file (DEEPSEEK_API_KEY=..., ANTHROPIC_API_KEY=...).
+services:
+  aeons-expeditions:
+    image: aeons-expeditions:1.0.0
+    container_name: aeons-expeditions
+    ports:
+      - "3005:8080"
+    restart: unless-stopped
+    mem_limit: 256m
+    volumes:
+      - ai-stories:/app/data/state   # the AI-written stories, by share code
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      AI_DEEPSEEK_MODEL: ${AI_DEEPSEEK_MODEL:-deepseek-v4-pro}
+      AI_DAILY_LIMIT: ${AI_DAILY_LIMIT:-30}
+
+volumes:
+  ai-stories:

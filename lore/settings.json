@@ -1,0 +1,285 @@
+{
+ "_about": "Places where battles happen, per era, each with a short description used in the battle briefing. Used by scraper/storyteller.py (without repeats inside one expedition). Descriptions must not name a nemesis.",
+ "dawn": [
+  {
+   "name": "a jungle hut beside a phoenix roost",
+   "detail": "Kiri's notes are still pinned to the walls, curling in the damp. Overhead, the roost is strangely quiet."
+  },
+  {
+   "name": "glass sand where phoenix fire struck",
+   "detail": "The ground here has been melted and cooled into ripples of green glass. Nothing grows in the scorch marks."
+  },
+  {
+   "name": "a river delta choked with giant reeds",
+   "detail": "The reeds stand taller than a man and close behind you as you pass. Something large has broken a path through them."
+  },
+  {
+   "name": "a cliff of empty nesting ledges",
+   "detail": "Hundreds of nests line the cliff face, all abandoned. The flock has fled, and phoenixes do not flee from anything."
+  },
+  {
+   "name": "a forest of fern-trees older than any city",
+   "detail": "Light barely reaches the forest floor. The ferns are dying from the top down, as if something had drunk the sun out of them."
+  },
+  {
+   "name": "a researcher's abandoned outpost",
+   "detail": "The door hangs open. Instruments lie smashed on the floor, and the last entry in the logbook stops in the middle of a sentence."
+  },
+  {
+   "name": "a hot spring in the jungle's heart",
+   "detail": "Steam rises from the pools and the rocks are slick with moss. Animal tracks lead to the water and none lead away."
+  }
+ ],
+ "world_that_was": [
+  {
+   "name": "the university halls of Erythiza",
+   "detail": "Lecture rooms stand empty, chalk still on the boards. In the laboratories below, something hums that should have been switched off long ago."
+  },
+  {
+   "name": "Port Hanon's docks",
+   "detail": "Ships ride at anchor with no one aboard. The City Guard has sealed the warehouses, and the gulls will not land on them."
+  },
+  {
+   "name": "a steam-train line through open plains",
+   "detail": "The train stands stopped on the tracks, its boiler cold. The carriages are empty; the luggage is still on the racks."
+  },
+  {
+   "name": "the brass streets of Karek",
+   "detail": "The city shines like fire in the sun, all brass domes and archive towers. Few people walk the streets now, and those who do walk quickly."
+  },
+  {
+   "name": "the shrine where names are given up",
+   "detail": "Hundreds of names are carved into its walls, each one a person who walked away from the world. The newest are still fresh."
+  },
+  {
+   "name": "a toll bridge over a dry river",
+   "detail": "The tollkeeper's booth is empty, the coins still in the box. Beyond it, the road is lined with abandoned carts."
+  },
+  {
+   "name": "a lighthouse on the M'hlark coast",
+   "detail": "The lamp still turns, but the keeper is gone. From the gallery you can see the harbor towns, unusually dark for the hour."
+  }
+ ],
+ "calamity": [
+  {
+   "name": "a market turned slaughterhouse",
+   "detail": "Stalls lie overturned, their awnings torn. No one has come back for the goods, or for the dead."
+  },
+  {
+   "name": "green-glass statues on a hillside",
+   "detail": "Men and women stand frozen in green crystal, mouths open, hands raised. Some of them were kneeling."
+  },
+  {
+   "name": "a refugee camp where elders rub blistered feet",
+   "detail": "Tents of patched canvas huddle around a dying fire. The elders say the world used to be much smaller, back when there were trains."
+  },
+  {
+   "name": "the road out of Erythiza",
+   "detail": "The road is lined with what people dropped as they ran: books, shoes, a child's toy. Behind you, the horizon is the wrong colour."
+  },
+  {
+   "name": "a farmstead with its doors left open",
+   "detail": "Bread on the table, a chair pushed back. Whoever lived here left in a hurry, or did not leave at all."
+  },
+  {
+   "name": "the glass archive of Karek",
+   "detail": "The great archive is a mountain of green glass now, and the books inside it are trapped like flies in amber."
+  },
+  {
+   "name": "a bridge choked with abandoned carts",
+   "detail": "The carts were left where they stood, horses and all. Nothing on the far bank moves."
+  }
+ ],
+ "descent": [
+  {
+   "name": "the dead town of Donnyton",
+   "detail": "Someone had mended the roofs and planted gardens here. The gardens are overgrown now, and the doors are barred from the inside."
+  },
+  {
+   "name": "a swamp whose ground turns to mud",
+   "detail": "The ground softens with every step until it pulls at your boots. The trees are grey and leafless, and the water does not reflect the sky."
+  },
+  {
+   "name": "the crystal fields of the Blighted God",
+   "detail": "Emerald spires rise from the ground as far as you can see, and in every one of them there is a shape."
+  },
+  {
+   "name": "the red-lit threshold of Gravehold",
+   "detail": "The cave mouth glows red, as if a great fire burned inside. Beyond it lies the city Brama promised: dark, vast and silent."
+  },
+  {
+   "name": "a ruined watchtower on the old coast road",
+   "detail": "From the top you can see the sea, and the dark shapes moving under its surface."
+  },
+  {
+   "name": "the Sisterhood's night camp",
+   "detail": "The sisters keep the fire small and the watch doubled. The Followers sleep with their boots on."
+  },
+  {
+   "name": "a mountain pass choked with snow",
+   "detail": "The pass is narrow and the snow is deep. Old bones stick out of the drifts, and not all of them are animal."
+  }
+ ],
+ "old_gravehold": [
+  {
+   "name": "the dirt market",
+   "detail": "The stalls are half empty and the haggling is quiet. Merchants keep glancing up at the vault of the cave, as if waiting for the bells."
+  },
+  {
+   "name": "Chasmwalk",
+   "detail": "The beggars of Chasmwalk have stopped begging. They sit at the edge of the chasm and stare into it."
+  },
+  {
+   "name": "the balustrade above the city",
+   "detail": "From the balustrade the whole city spreads out below: the hovels, the market, the torches along the walls. Some of the torches have gone out."
+  },
+  {
+   "name": "The Depths where the dead are thrown",
+   "detail": "Here Gravehold lays its dead, because dirt is too precious to spare for graves. Nobody comes here willingly, and nobody lingers."
+  },
+  {
+   "name": "the ruins of the Cragbellows",
+   "detail": "Rubble and old soot. Someone has been here recently: there are fresh candles, and masks left on the stones."
+  },
+  {
+   "name": "the sealed cave mouth",
+   "detail": "A mountain of rubble seals the way out, as it has for generations. A little light seeps through the cracks, and one stone has been moved."
+  },
+  {
+   "name": "the frozen tunnels far below",
+   "detail": "Your breath steams in the torchlight and frost covers the walls. The cold down here is not natural."
+  },
+  {
+   "name": "the Far Hollow hovels",
+   "detail": "The hovels were rebuilt after the fire, but the stone is still black. People here sleep in their clothes."
+  }
+ ],
+ "fall": [
+  {
+   "name": "burning streets under a giant breach",
+   "detail": "Gravehold is on fire. Above the city a breach turns slowly, larger than any you have ever seen."
+  },
+  {
+   "name": "collapsing tunnels",
+   "detail": "Dust falls from the ceiling with every tremor. Somewhere behind you a tunnel gives way, and the screaming stops."
+  },
+  {
+   "name": "the first sight of the green surface",
+   "detail": "Trees. Sky. Wind on your face for the first time in your life. And something moving at the edge of the forest."
+  },
+  {
+   "name": "the survivors' camp at the tunnel's end",
+   "detail": "Hundreds of survivors huddle under the open sky, flinching at every bird. The wounded outnumber the healers."
+  },
+  {
+   "name": "the sinkhole where Gravehold fell",
+   "detail": "The ground has collapsed into a pit so deep you cannot see the bottom. Smoke still rises from it."
+  },
+  {
+   "name": "a ridge overlooking the lost city",
+   "detail": "From the ridge you can see where Gravehold was. There is only a scar in the earth now, and the scar is moving."
+  },
+  {
+   "name": "a flooded passage beneath the ruins",
+   "detail": "Black water rises to your waist. Somewhere ahead, beyond the dark, you can hear the surface wind."
+  }
+ ],
+ "new_gravehold": [
+  {
+   "name": "swamps north of the city",
+   "detail": "The trails north of the city sink into bog and mist. Insects drone everywhere, until suddenly they don't."
+  },
+  {
+   "name": "a willow grove carved with glyphs",
+   "detail": "The willows sway without wind. Someone has carved glyphs into their trunks, and the glyphs are still warm to the touch."
+  },
+  {
+   "name": "Southpost's watchtowers",
+   "detail": "Southpost keeps its signal fires ready and its gates shut. The guards on the towers are watching the forest, not the road."
+  },
+  {
+   "name": "the sinkhole over Old Gravehold",
+   "detail": "The pit where the old city fell is fenced now, and watched. The watchers say the rubble at the bottom has been shifting."
+  },
+  {
+   "name": "sunken Gravehold under black water",
+   "detail": "Rain has filled the ruins of Old Gravehold. Under the black water you can see rooftops, and lights where there should be none."
+  },
+  {
+   "name": "Azer's sigil-marked forest",
+   "detail": "Sigils hang from the branches to keep the Portalborn away. Many of them have been torn down."
+  },
+  {
+   "name": "the iridescent mountains of the Void",
+   "detail": "The sky is every colour at once and the mountains float, thin as bones. Time feels wrong here: your shadow moves a moment late."
+  },
+  {
+   "name": "the farmlands beyond the walls",
+   "detail": "Fields of grain stretch to the forest's edge. The harvest should have started days ago, but the farmers will not go out."
+  },
+  {
+   "name": "the Northern Outpost",
+   "detail": "The Northern Outpost is the last stop before the wilds. Its commander has doubled the watch and stopped sending patrols."
+  }
+ ],
+ "civil_war": [
+  {
+   "name": "an exile's cottage in the wilds",
+   "detail": "A small cottage at the edge of the wilds, its garden carefully kept. Its owner was sent here for asking the wrong questions."
+  },
+  {
+   "name": "Azer's village square",
+   "detail": "The square is full of Tethered mages, standing in pairs. They do not trust you, and they have reason not to."
+  },
+  {
+   "name": "New Gravehold's high walls",
+   "detail": "The walls are twice as high as the old ones, and every gate is guarded by mages who have chosen a side."
+  },
+  {
+   "name": "a Void portal opened in a field",
+   "detail": "A portal hangs over the wheat like a wound in the air. The crops around it have turned grey."
+  },
+  {
+   "name": "Southpost, rebuilt",
+   "detail": "New timber over old ashes. The people of Southpost have rebuilt twice now, and they are tired of it."
+  },
+  {
+   "name": "a hidden meeting place in the woods",
+   "detail": "Masks hang from the branches and the ground is scorched in a circle. Someone has been practising magic that is no longer allowed."
+  },
+  {
+   "name": "the council hall at night",
+   "detail": "The hall is empty but the lamps are lit. Someone has left a map on the table, with your route marked in red."
+  }
+ ],
+ "after": [
+  {
+   "name": "Souston's sunny lanes",
+   "detail": "Souston is quiet, safe and very proud of it. The glyphs on its gates were carved by Camellia herself, and they have never failed. Until now."
+  },
+  {
+   "name": "the swamp of Faen",
+   "detail": "The swamp village stands on stilts above dark water. The people of Faen remember an old war, and they do not like visitors."
+  },
+  {
+   "name": "the pipes of the System beneath Cindercrown",
+   "detail": "Iron pipes run in every direction, sweating and humming. Somewhere in the dark, a Strike team's lanterns flicker and go out."
+  },
+  {
+   "name": "a ruin with ancient blueprints",
+   "detail": "The ruin is older than any record. On its walls are drawings of machines that open breaches by themselves."
+  },
+  {
+   "name": "the iron gates of Cindercrown",
+   "detail": "The gates of Cindercrown are said to be indestructible. Something has left long scratches in them."
+  },
+  {
+   "name": "an overgrown battlefield of the old wars",
+   "detail": "Rusted blades and broken gems lie in the grass, and the children of the nearby village dare each other to touch them."
+  },
+  {
+   "name": "a crossroads shrine to the heroes of Gravehold",
+   "detail": "The statues are worn smooth by centuries of rain, but someone still leaves fresh flowers at their feet."
+  }
+ ]
+}

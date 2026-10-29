@@ -1,0 +1,152 @@
+[
+ {
+  "title": "Banner of Chronicles",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nOR\nThe foe loses 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Banner of Courage",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 1 damage.\nIf this dealt damage to the nemesis, the friend gains 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Banner of Energy",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nOR\nYou may discard a card in hand that costs 2 Æ or more. If you do, the friend gains 2 charges.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Banner of Infusion",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nOR\nAny player loses 1 charge. If they do, the friend gains 2 charges.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Banner of Insight",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nOR\nYou may discard the top card of the friend's deck. You may discard the top card of the foe's deck.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Banner of Overcharge",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Caverns",
+  "rules": "While prepped, once per turn, you may discard a card in hand. If you do, the friend gains 1 charge.\nCast: Deal 1 damage.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Caverns"
+  ]
+ },
+ {
+  "title": "Banner of Sagas",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Gain 1 Æ.\nOR\nThe friend gains 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Banner of Schemes",
+  "type": "Spell",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Cast: Deal 1 damage.\nOR\nYou may place a card in hand on top of your deck. If you do, the friend gains 2 charges.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Banner of Siphon",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: The foe loses 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Descent"
+  ]
+ },
+ {
+  "title": "Banner of Transference",
+  "type": "Gem",
+  "cost": 0,
+  "box": "The Abyss",
+  "rules": "Gain 1 Æ.\nOR\nYou may suffer 1 damage. If you do, the friend gains 2 charges.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Abyss"
+  ]
+ },
+ {
+  "title": "Banner of Unity",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nIf the friend has 1 charge or less, the friend gains 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Banner of Valor",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nOR\nThe friend gains 2 charges. The foe gains 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Banner of Vigilance",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Beyond the Breach",
+  "rules": "Gain 1 Æ.\nYou may gain a trinket and place it on top of your deck. If you do, the friend gains 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Beyond the Breach"
+  ]
+ },
+ {
+  "title": "Banner of Vitality",
+  "type": "Gem",
+  "cost": 0,
+  "box": "Promo",
+  "rules": "Gain 1 Æ.\nOR\nYou may suffer 1 damage. If you do, shuffle the friend's turn order card in the discard pile into the turn order deck.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "Promo"
+  ]
+ },
+ {
+  "title": "Banner of Volt",
+  "type": "Spell",
+  "cost": 0,
+  "box": "The Descent",
+  "rules": "Cast: Deal 1 damage.\nOR\nCast: The friend gains 1 charge.\nUse this card only when playing with the Friends and Foes module.",
+  "boxes": [
+   "The Descent"
+  ]
+ }
+]

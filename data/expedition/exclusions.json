@@ -1,0 +1,532 @@
+[
+ {
+  "title": "Maelstrom",
+  "kind": "nemesis",
+  "reason": "Legacy campaign only"
+ },
+ {
+  "title": "Haze Fiend",
+  "kind": "nemesis",
+  "reason": "Legacy campaign only"
+ },
+ {
+  "title": "Brama (Legacy of Gravehold)",
+  "kind": "nemesis",
+  "reason": "Legacy of Gravehold campaign only"
+ },
+ {
+  "title": "Z'hana (Legacy of Gravehold)",
+  "kind": "nemesis",
+  "reason": "Legacy of Gravehold campaign only"
+ },
+ {
+  "title": "Kusiciele Okazji",
+  "kind": "nemesis",
+  "reason": "regional promo without randomizer"
+ },
+ {
+  "title": "Szalony Kotokronikarz",
+  "kind": "nemesis",
+  "reason": "regional promo without randomizer"
+ },
+ {
+  "title": "Legacy Mage",
+  "kind": "mage",
+  "reason": "player-built Legacy character; usable if you own one (equipment optional)"
+ },
+ {
+  "title": "Xae",
+  "kind": "mage",
+  "reason": "digital-only promo"
+ },
+ {
+  "title": "Brimstone Battery",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Fractured Lightning",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Galactum Cache",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Irradiated Jewel",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Leviathan Shell",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Quicksilver Bolt",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Rainbow Surge",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Shifter's Cloak",
+  "kind": "supply_card",
+  "reason": "boost/overheat: Legacy of Gravehold campaign mechanic (optional)"
+ },
+ {
+  "title": "Aether Extract (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Ambush (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Annihilate (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Bladius (Maelstrom: Risen Campaign Minion)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Bladius Attacks",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Brama's Torment (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Brama, Infested (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Calamitous Bane",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Caustic Cocoon (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Caustic Larva",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Caustic Soldier",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Conduct (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Creeping Curse (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Crushing Wave",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Dark Bond",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Daze (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Demolish",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Deplete",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Devil's Pact (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Disrupt",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Divide (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Drain (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Electric Pod (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Endless Chasm (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Enrage (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Eradicate (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Eternal Glare",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Exterminating Blade (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Facet Juggernaut",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Facet Ogre (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Flash of Decay (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Gathering Storm (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Grasp",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Humming Drones",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Humming Hive (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Hunted (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Kinetic Construct (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Leviathan Egg",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Leviathan Hatchling (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Maddening Eidolon",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Maddening Spectre (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Manifest (Mist Revealed Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Marked (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Paralyze",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Phlayl (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Prelatus of Lore (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Ravenous Leviathan (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Ray of Desolation (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Reap",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Sacrifice (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Sap (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Scatter (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Skybound Leviathan",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Smoke Guardian",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Spine Harvester",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Spine Reaper",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Spine Thresher (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Suffocate (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Tempting Offer (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "The Chains of Myth (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "The Chest of Bone (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "The Hands of Griefweaver (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "The Heart of The Mother of Rust (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "The Rust Amalgam's Teeth (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "The Rust Superion's Armor (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "The Wings of Fate Shepherd (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Thunderous Tempest (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Tremor (Campaign)",
+  "kind": "basic_nemesis_card",
+  "reason": "campaign version"
+ },
+ {
+  "title": "Unforeseen Collapse",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Beast)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Follower)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Fusion)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Hunter)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Lurker)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Phantom)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Shadow)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Soldier)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop of Scrolls Campaign Watcher)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Beast)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Follower)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Fusion)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Hunter)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Lurker)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Phantom)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Shadow)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Soldier)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Unnamed (Bishop: Returned Campaign Watcher)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Voracious Corroders (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Voracious Spell Fetter (Campaign)",
+  "kind": "nemesis_card",
+  "reason": "campaign version / replaced"
+ },
+ {
+  "title": "Waylay",
+  "kind": "basic_nemesis_card",
+  "reason": "Legacy Evolve campaign basic"
+ }
+]
