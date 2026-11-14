@@ -165,3 +165,7 @@ Readable version: [docs/LORE.md](docs/LORE.md).
 Text extracted from the [Aeon's End Wiki](https://aeonsend.wiki.gg/) is © its contributors, licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Every page keeps its source URL (`pages.url`);
 the webapp must credit the wiki and share derived lore under the same licence. Aeon's End is © Indie Boards & Cards / Action Phase Games.
+
+The background painting (`frontend/public/art/backdrop-*.webp`) is original art made for this app with OpenAI's
+image model `gpt-image-2.6-flare`, from a prompt describing a scene in the spirit of the box covers (no official art
+was used as input). Card images are not part of the repository (see `scraper/fetch_images.py`).

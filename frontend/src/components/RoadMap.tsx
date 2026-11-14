@@ -8,6 +8,7 @@ interface Props {
 }
 
 const short = (title: string) => title.replace(/ \(.*\)$/, "");
+const ROMAN = ["", "I", "II", "III", "IV", "V", "VI"];
 
 /** The map keeps its secrets: unless revealed, it shows one box per battle (no forks) and only
  *  the nemeses the party has already faced. */
@@ -40,9 +41,16 @@ export function RoadMap({ exp, state, reveal }: Props) {
             diff: known && onPath ? onPath.difficulty : null,
           }];
         }
+        // the battle's breach token: opened once won, glowing while it is the current battle
+        const token = shown.some((n) => n.status === "current") ? "current" : shown.some((n) => n.status === "won") ? "won" : "";
         return (
           <li key={battle} className="roadmap-step">
-            <span className="roadmap-num">Battle {battle}</span>
+            <div className="roadmap-head">
+              <span className={`breach ${token}`} aria-hidden="true">
+                {ROMAN[battle] ?? battle}
+              </span>
+              <span className="roadmap-num">Battle {battle}</span>
+            </div>
             <div className="roadmap-nodes">
               {shown.map((n) => (
                 <div key={n.key} className={`node node-${n.status}`}>

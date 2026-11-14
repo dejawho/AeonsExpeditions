@@ -1,147 +1,307 @@
-/* Dark, candle-lit Gravehold palette. Mobile-first: the app is used at the table on phones/tablets. */
+/* The look of the Aeon's End cards: night-teal mats, gold engraved small capitals, parchment rules boxes,
+   breach tokens with gold rims, red nemesis life badges. Mobile-first: the app is used at the table. */
 :root {
-  --bg: #14111c;
-  --surface: #1e1a29;
-  --surface-2: #282236;
-  --border: #3a3250;
-  --text: #ece6f5;
-  --muted: #a99fbd;
-  --gold: #c9a45c;
-  --aether: #9b7be0;
-  --won: #5fae7a;
-  --danger: #d0645a;
-  --radius: 10px;
+  --bg: #0b1012;
+  --bg-glow: #12262a;
+  --surface: #121a1d;
+  --surface-2: #1a2529;
+  --border: #2e3f44;
+  --text: #e9e4d6;
+  --muted: #9aa7a5;
+  --gold: #d9b45a;
+  --gold-light: #f0d78e;
+  --gold-dark: #8a6a2c;
+  --parchment: #ece1c3;
+  --parchment-edge: #c9b48a;
+  --ink: #2b2016;
+  --ink-muted: #6b5940;
+  --aether: #63d2c6; /* breach glow */
+  --void: #9478dc;
+  --blood: #a8322b; /* nemesis life */
+  --won: #6fb27f;
+  --danger: #d66a5e;
+  --radius: 6px;
+  --title: "Cinzel", Georgia, "Times New Roman", serif;
+  --serif: "EB Garamond", Georgia, "Times New Roman", serif;
   color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
 body {
   margin: 0;
-  background: var(--bg);
+  min-height: 100vh;
   color: var(--text);
   font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+}
+
+/* The painting at the top of every page (art/backdrop-*.webp, generated for this app), fading into the
+   background colour. The left side is darkened for the titles; the home page shows it in full. */
+.backdrop {
+  position: absolute; top: 0; left: 0; right: 0; z-index: -1;
+  height: min(100vh, 820px);
+  background:
+    linear-gradient(180deg, rgba(11, 16, 18, 0.55) 0%, rgba(11, 16, 18, 0.72) 45%, var(--bg) 100%),
+    linear-gradient(90deg, rgba(11, 16, 18, 0.7) 0%, rgba(11, 16, 18, 0.25) 55%, rgba(11, 16, 18, 0.1) 100%),
+    url("/art/backdrop-2560.webp") 60% 30% / cover no-repeat;
+}
+.backdrop.home {
+  /* the whole 16:9 painting, so its dark left part (painted for the text) stays behind the text */
+  height: min(100vh, 56.25vw);
+  background:
+    linear-gradient(180deg, transparent 60%, var(--bg) 100%),
+    linear-gradient(90deg, rgba(11, 16, 18, 0.7) 0%, rgba(11, 16, 18, 0.45) 45%, transparent 65%),
+    url("/art/backdrop-2560.webp") right top / cover no-repeat;
+}
+@media (max-width: 900px) {
+  .backdrop, .backdrop.home { background-image: none; }
+  .backdrop {
+    background:
+      linear-gradient(180deg, rgba(11, 16, 18, 0.55) 0%, rgba(11, 16, 18, 0.75) 45%, var(--bg) 100%),
+      url("/art/backdrop-1280.webp") 68% 30% / cover no-repeat;
+  }
+  /* on a phone the monster fills the top and the text sits below it, on the dark */
+  .backdrop.home {
+    height: min(100vh, 900px);
+    background:
+      linear-gradient(180deg, rgba(11, 16, 18, 0.15) 0%, rgba(11, 16, 18, 0.2) 28%, rgba(11, 16, 18, 0.8) 46%, var(--bg) 62%),
+      url("/art/backdrop-1280.webp") 70% 0 / auto 62% no-repeat;
+  }
 }
 a { color: var(--gold); }
-h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.2; margin: 0.4em 0; }
-h1 { font-size: 1.9rem; }
-h2 { font-size: 1.4rem; }
-h3 { font-size: 1.15rem; }
-h4 { margin: 0.9em 0 0.3em; font-size: 0.95rem; color: var(--gold); }
+h1, h2, h3 { font-family: var(--title); font-weight: 700; line-height: 1.2; margin: 0.4em 0; letter-spacing: 0.03em; }
+h1 { font-size: 1.9rem; color: var(--gold); text-shadow: 0 1px 0 #000, 0 0 18px rgba(217, 180, 90, 0.18); }
+h2 { font-size: 1.35rem; color: var(--gold); }
+h3 { font-size: 1.08rem; color: var(--gold-light); }
+h4 { margin: 1em 0 0.35em; font-family: var(--title); font-weight: 600; font-size: 0.85rem; letter-spacing: 0.06em; color: var(--gold); }
 
-.topbar { padding: 10px 16px; border-bottom: 1px solid var(--border); background: #110e18; }
-.brand { display: inline-flex; gap: 8px; align-items: center; color: var(--text); text-decoration: none; font-weight: 600; }
+/* the tapered gold rule under the titles on the cards ("Breach Mage Elder"), with a small diamond */
+.card > h2, .hero h1, .page > h1, .journal h3, .prologue h2 {
+  position: relative;
+  padding-bottom: 0.45em;
+}
+.card > h2::after, .hero h1::after, .page > h1::after, .journal h3::after, .prologue h2::after {
+  content: "";
+  position: absolute; left: 0; right: 15%; bottom: 0; height: 1px;
+  background: linear-gradient(90deg, var(--gold) 0%, var(--gold-dark) 55%, transparent 100%);
+}
+
+.topbar {
+  padding: 10px 16px;
+  background: rgba(5, 9, 10, 0.6);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(90deg, transparent, var(--gold-dark) 20%, var(--gold) 50%, var(--gold-dark) 80%, transparent) 1;
+}
+.brand {
+  display: inline-flex; gap: 10px; align-items: center; color: var(--gold); text-decoration: none;
+  font-family: var(--title); font-weight: 700; letter-spacing: 0.08em; font-size: 1.05rem;
+}
 .page { max-width: 960px; margin: 0 auto; padding: 16px; }
 section { margin: 20px 0; }
 
-.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; margin: 14px 0; }
+/* panels: a dark mat with a hairline gold frame inside the steel border */
+.card {
+  /* slightly translucent, so the painting glows through at the top of the page */
+  background: linear-gradient(180deg, rgba(26, 37, 41, 0.9), rgba(18, 26, 29, 0.94) 140px);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: inset 0 0 0 1px rgba(217, 180, 90, 0.12), 0 6px 24px rgba(0, 0, 0, 0.35);
+  padding: 16px;
+  margin: 14px 0;
+}
 .muted { color: var(--muted); }
 .small { font-size: 0.87rem; }
 .mono { font-family: ui-monospace, Consolas, monospace; letter-spacing: 0.02em; }
-.eyebrow { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; color: var(--aether); margin: 0; }
+.eyebrow {
+  font-family: var(--title); font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em;
+  font-size: 0.72rem; color: var(--aether); margin: 0;
+}
 .error { color: var(--danger); }
 .row { display: flex; align-items: center; }
 .gap { gap: 10px; }
 .wrap { flex-wrap: wrap; }
 
+/* buttons: primary like the gold ribbon labels on the cards (SPELL, GEM) */
 .btn {
   display: inline-block; border: 1px solid var(--border); background: var(--surface-2); color: var(--text);
-  padding: 9px 16px; border-radius: 8px; cursor: pointer; font: inherit; text-decoration: none;
+  padding: 9px 16px; border-radius: 4px; cursor: pointer; font: inherit; text-decoration: none;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 .btn:hover { border-color: var(--gold); }
+.btn:focus-visible, .chip:focus-visible, .choice:focus-visible { outline: 2px solid var(--aether); outline-offset: 2px; }
 .btn:disabled { opacity: 0.5; cursor: default; }
-.btn.primary { background: var(--gold); color: #1b1408; border-color: var(--gold); font-weight: 600; }
-.btn.danger { border-color: var(--danger); color: #f3c2bd; }
+.btn.primary {
+  background: linear-gradient(180deg, var(--gold-light), var(--gold) 45%, #b28d3c);
+  color: #22180a; border-color: #6e5323;
+  font-family: var(--title); font-weight: 700; letter-spacing: 0.05em;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.45), 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+.btn.primary:hover { filter: brightness(1.08); border-color: #6e5323; }
+.btn.danger { border-color: #6d2a24; background: linear-gradient(180deg, #3a1714, #2a1210); color: #f3c2bd; }
+.btn.danger:hover { border-color: var(--danger); }
 .btn.small { padding: 4px 10px; font-size: 0.85rem; }
 .input {
-  background: #110e18; color: var(--text); border: 1px solid var(--border); border-radius: 8px;
+  background: #081012; color: var(--text); border: 1px solid var(--border); border-radius: 4px;
   padding: 9px 12px; font: inherit; min-width: 0;
 }
+.input:focus { outline: none; border-color: var(--gold); }
 .code-form { margin-top: 12px; }
 .code-form .input { flex: 1 1 260px; }
 .check { display: inline-flex; gap: 8px; align-items: center; margin: 6px 14px 6px 0; }
+input[type="checkbox"] { accent-color: var(--gold); }
 
-.hero { padding: 12px 0; }
+.hero { padding: 12px 0; min-height: min(58vh, 520px); display: flex; flex-direction: column; justify-content: center; }
+.hero > p { max-width: 30em; font-size: 1.08rem; text-shadow: 0 1px 3px #000; }
+.hero .code-form { max-width: 34rem; } /* stays on the dark side of the painting */
+/* the title in the fiery gradient of the game's logo */
+.hero h1 {
+  font-size: 3rem; line-height: 1.1;
+  /* the box also holds the underline space below the letters: the gradient ends at the baseline */
+  background: linear-gradient(180deg, #ffeab0 0%, #f6b24a 30%, #e86a2a 55%, #b8301e 76%);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+  text-shadow: none; filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.9)) drop-shadow(0 0 18px rgba(240, 140, 50, 0.35));
+}
 .form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 8px; }
 .form-grid label { display: flex; flex-direction: column; gap: 4px; color: var(--muted); font-size: 0.9rem; }
 .sticky-actions { position: sticky; bottom: 0; background: linear-gradient(transparent, var(--bg) 30%); padding: 14px 0; z-index: 2; }
 
 /* box picker */
 .wave { border: 1px solid var(--border); border-radius: var(--radius); margin: 12px 0; padding: 8px 12px 12px; }
-.wave legend { padding: 0 6px; color: var(--gold); font-weight: 600; }
+.wave legend { padding: 0 6px; color: var(--gold); font-family: var(--title); font-weight: 600; letter-spacing: 0.05em; }
 .box-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; }
 .box {
-  display: grid; grid-template-columns: auto 1fr; column-gap: 8px; padding: 8px 10px; border-radius: 8px;
-  border: 1px solid var(--border); background: #17131f; cursor: pointer;
+  display: grid; grid-template-columns: auto 1fr; column-gap: 8px; padding: 8px 10px; border-radius: 4px;
+  border: 1px solid var(--border); background: #0e1618; cursor: pointer;
 }
-.box.on { border-color: var(--aether); background: #221b33; }
+.box.on { border-color: var(--gold-dark); background: #1b2420; box-shadow: inset 0 0 0 1px rgba(217, 180, 90, 0.25); }
 .box input { grid-row: span 2; margin-top: 4px; }
 .box-meta { font-size: 0.78rem; color: var(--muted); }
 
-/* road map */
-.roadmap { list-style: none; display: flex; gap: 6px; padding: 0; margin: 12px 0; overflow-x: auto; }
-.roadmap-step { flex: 1 0 120px; display: flex; flex-direction: column; gap: 6px; }
-.roadmap-num { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+/* road map: each battle is a breach token, gold rim and roman numeral, as on the mage mats */
+.roadmap { list-style: none; display: flex; gap: 6px; padding: 4px 0; margin: 12px 0; overflow-x: auto; }
+.roadmap-step { flex: 1 0 120px; display: flex; flex-direction: column; align-items: stretch; gap: 6px; position: relative; }
+.roadmap-step + .roadmap-step::before {
+  /* the trail between two breaches */
+  /* steps are equally wide: from the previous token's rim (half a step + the 6px gap back) to this one's */
+  content: ""; position: absolute; top: 17px; left: calc(-50% + 11px); width: calc(100% - 28px); height: 1px;
+  background: linear-gradient(90deg, var(--gold-dark), var(--gold) 50%, var(--gold-dark));
+}
+.roadmap-head { display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.breach {
+  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%;
+  font-family: var(--title); font-weight: 700; font-size: 0.8rem; color: var(--gold-light);
+  background: radial-gradient(circle at 50% 45%, #1d3a3b, #0a1314 70%);
+  border: 2px solid var(--gold-dark);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.8);
+}
+.breach.won { border-color: var(--gold); background: radial-gradient(circle at 50% 45%, var(--aether), #1b4d4a 55%, #0a1314 80%); color: #08201e; box-shadow: 0 0 10px rgba(99, 210, 198, 0.45); }
+.breach.current { border-color: var(--gold-light); box-shadow: 0 0 0 2px rgba(240, 215, 142, 0.25), 0 0 14px rgba(217, 180, 90, 0.5); }
+.roadmap-num { font-family: var(--title); font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); }
 .roadmap-nodes { display: flex; flex-direction: column; gap: 6px; }
-.node { border: 1px solid var(--border); border-radius: 8px; padding: 6px 8px; background: #17131f; display: flex; flex-direction: column; }
-.node-name { font-weight: 600; font-size: 0.9rem; }
+.node {
+  border: 1px solid var(--border); border-radius: 4px; padding: 6px 8px; background: rgba(10, 18, 20, 0.85);
+  display: flex; flex-direction: column; text-align: center;
+}
+.node-name { font-family: var(--title); font-weight: 600; font-size: 0.82rem; letter-spacing: 0.02em; }
 .node-branch, .node-diff { font-size: 0.72rem; color: var(--muted); }
-.node-won { border-color: var(--won); }
-.node-current { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold) inset; }
-.node-option { border-color: var(--aether); border-style: dashed; }
+.node-won { border-color: rgba(99, 210, 198, 0.55); }
+.node-won .node-name { color: var(--aether); }
+.node-current { border-color: var(--gold); box-shadow: inset 0 0 0 1px var(--gold), 0 0 12px rgba(217, 180, 90, 0.2); }
+.node-current .node-name { color: var(--gold-light); }
+.node-option { border-color: var(--void); border-style: dashed; }
 .node-skipped { opacity: 0.35; }
 
 /* play */
 .play-head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
-.score { text-align: right; }
-.score-num { font-size: 2rem; font-weight: 700; color: var(--gold); margin-right: 4px; }
+.score { display: flex; align-items: center; gap: 8px; }
+.score-num {
+  /* a charge / life token */
+  display: grid; place-items: center; min-width: 54px; height: 54px; padding: 0 6px; border-radius: 50%;
+  font-family: var(--title); font-size: 1.45rem; font-weight: 700; color: var(--gold-light);
+  background: radial-gradient(circle at 50% 40%, #2a3a3c, #0b1214 75%);
+  border: 2px solid var(--gold); box-shadow: 0 0 12px rgba(217, 180, 90, 0.25);
+}
 .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-top: 8px; }
-.tabs button { background: none; border: none; color: var(--muted); padding: 10px 14px; font: inherit; cursor: pointer; border-bottom: 2px solid transparent; }
-.tabs button.active { color: var(--text); border-bottom-color: var(--gold); }
-.story p { font-family: Georgia, "Times New Roman", serif; font-size: 1.05rem; }
-.prologue { border-bottom: 1px solid var(--border); margin-bottom: 14px; }
+.tabs button {
+  background: none; border: none; color: var(--muted); padding: 10px 14px; cursor: pointer;
+  font-family: var(--title); font-weight: 600; font-size: 0.9rem; letter-spacing: 0.05em; border-bottom: 2px solid transparent;
+}
+.tabs button.active { color: var(--gold); border-bottom-color: var(--gold); }
+
+/* the story: a parchment rules box, like the text panel of a nemesis mat */
+.story {
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(255, 255, 255, 0.35), transparent 60%),
+    radial-gradient(ellipse at 50% 120%, rgba(120, 90, 40, 0.25), transparent 60%),
+    var(--parchment);
+  color: var(--ink);
+  border: 1px solid var(--parchment-edge);
+  border-radius: 4px;
+  box-shadow: inset 0 0 22px rgba(110, 80, 30, 0.28), 0 2px 10px rgba(0, 0, 0, 0.35);
+  padding: 6px 18px;
+  margin: 12px 0;
+}
+.story p { font-family: var(--serif); font-size: 1.14rem; line-height: 1.5; margin: 0.7em 0; }
+.story p:first-child::first-letter {
+  font-family: var(--title); font-weight: 700; color: #7a2a1f; font-size: 1.15em;
+}
+.prologue { margin-bottom: 18px; }
 .setup details { border-top: 1px solid var(--border); padding: 8px 0; }
-.setup summary { cursor: pointer; font-weight: 600; padding: 4px 0; }
+.setup summary { cursor: pointer; font-family: var(--title); font-weight: 600; letter-spacing: 0.03em; color: var(--gold-light); padding: 4px 0; }
+.life {
+  /* the nemesis' life, in the red circle of the mat */
+  display: inline-grid; place-items: center; min-width: 30px; height: 30px; padding: 0 4px; margin-left: 6px;
+  border-radius: 50%; vertical-align: middle; font-family: var(--title); font-size: 0.8rem; font-weight: 700;
+  color: #fff; background: radial-gradient(circle at 50% 35%, #d2483d, var(--blood) 60%, #5e1612);
+  border: 2px solid #e9d7b0;
+}
 .chips { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .chip {
-  display: inline-flex; align-items: center; gap: 7px; background: var(--surface-2); border: 1px solid var(--border);
-  border-radius: 999px; padding: 3px 10px 3px 4px; font: inherit; font-size: 0.86rem; color: var(--text); cursor: zoom-in;
+  display: inline-flex; align-items: center; gap: 7px; background: linear-gradient(180deg, #1f2c30, #172124);
+  border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px 3px 4px; font: inherit; font-size: 0.86rem;
+  color: var(--text); cursor: zoom-in;
 }
-.chip:hover { border-color: var(--aether); }
+.chip:hover { border-color: var(--gold); }
 /* a card chip holds a tall thumbnail: a rounded rectangle (not a pill) keeps it inside the border */
-.card-chip { border-radius: 8px; padding: 3px 10px 3px 3px; overflow: hidden; text-align: left; }
-.card-chip img { flex: none; width: 24px; height: 34px; object-fit: cover; border-radius: 5px; background: #110e18; }
+.card-chip { border-radius: 4px; padding: 3px 10px 3px 3px; overflow: hidden; text-align: left; }
+.card-chip img { flex: none; width: 24px; height: 34px; object-fit: cover; border-radius: 3px; background: #081012; }
 .card-chip img.wide { width: 40px; height: 28px; }
 .card-chip:not(:has(img)) { padding-left: 10px; }
 
 .card-image { display: block; border: 0; padding: 0; background: none; cursor: zoom-in; margin: 8px 0 12px; max-width: 100%; }
-.card-image img { display: block; max-width: min(100%, 300px); height: auto; border-radius: 8px; border: 1px solid var(--border); }
+.card-image img { display: block; max-width: min(100%, 300px); height: auto; border-radius: 8px; border: 1px solid var(--gold-dark); box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5); }
 
 .viewer {
-  position: fixed; inset: 0; z-index: 50; background: rgba(8, 6, 12, 0.88); display: grid; place-items: center;
+  position: fixed; inset: 0; z-index: 50; background: rgba(4, 8, 9, 0.9); display: grid; place-items: center;
   padding: 16px; cursor: zoom-out;
 }
 .viewer figure { position: relative; margin: 0; max-width: 100%; max-height: 100%; cursor: default; text-align: center; }
 .viewer img { max-width: 100%; max-height: calc(100vh - 90px); height: auto; border-radius: 12px; box-shadow: 0 10px 40px #000; }
-.viewer figcaption { margin-top: 10px; }
+.viewer figcaption { margin-top: 10px; font-family: var(--title); color: var(--gold-light); }
 .viewer-close { position: absolute; top: -6px; right: -6px; border-radius: 999px; }
 .deck-recipe { border-collapse: collapse; margin: 6px 0 10px; font-size: 0.92rem; }
 .deck-recipe th, .deck-recipe td { border: 1px solid var(--border); padding: 5px 12px; text-align: center; }
 .deck-recipe thead th { color: var(--muted); font-weight: 500; font-size: 0.8rem; }
-.deck-recipe tbody th { color: var(--gold); text-align: left; }
+.deck-recipe tbody th { color: var(--gold); text-align: left; font-family: var(--title); font-weight: 600; }
 .briefing-cta { margin-top: 18px; }
 .encounter { border-top: 1px solid var(--border); margin-top: 14px; padding-top: 6px; }
-.choice-text { color: var(--text); }
-.choices-intro { grid-column: 1 / -1; margin: 0 0 4px; font-family: Georgia, "Times New Roman", serif; }
+.choice-text { color: var(--text); font-family: var(--serif); font-size: 1.08rem; }
+.choices-intro { grid-column: 1 / -1; margin: 0 0 4px; font-family: var(--serif); font-size: 1.1rem; font-style: italic; }
 .gold { color: var(--gold); }
-.callout { border-left: 3px solid var(--aether); background: #1b1726; padding: 10px 14px; border-radius: 6px; margin: 12px 0; }
+.callout {
+  border-left: 3px solid var(--gold); background: rgba(10, 18, 20, 0.7); padding: 10px 14px;
+  border-radius: 4px; margin: 12px 0; box-shadow: inset 0 0 0 1px var(--border);
+}
 .callout ul { margin: 6px 0 0; padding-left: 18px; }
 .actions { margin-top: 16px; }
 .actions .btn { flex: 1 1 140px; padding: 12px; font-size: 1.05rem; }
 .footer-actions { margin-top: 18px; border-top: 1px solid var(--border); padding-top: 12px; }
-.choices { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 10px; }
+.choices { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 10px; margin-top: 12px; }
 .choices h3 { grid-column: 1 / -1; }
 .choice { text-align: left; display: flex; flex-direction: column; gap: 4px; cursor: pointer; color: var(--text); font: inherit; }
-.choice:hover { border-color: var(--aether); }
+.choice:hover { border-color: var(--void); box-shadow: inset 0 0 0 1px rgba(148, 120, 220, 0.35), 0 0 16px rgba(148, 120, 220, 0.2); }
 .rewards { margin: 12px 0; }
 .warnings { color: var(--gold); font-size: 0.86rem; }
 .journal section { border-top: 1px solid var(--border); margin-top: 12px; }
@@ -152,16 +312,21 @@ section { margin: 20px 0; }
 
 @media (max-width: 560px) {
   h1 { font-size: 1.5rem; }
+  .hero h1 { font-size: 2.1rem; }
+  .hero { min-height: 0; padding-top: 34vh; }
+  .story { padding: 4px 14px; }
+  .story p { font-size: 1.08rem; }
   /* the map stays a compact strip that scrolls sideways, so the battle is visible without scrolling */
   .roadmap { scroll-snap-type: x proximity; padding-bottom: 4px; }
   .roadmap-step { flex: 0 0 112px; scroll-snap-align: start; }
   .node { padding: 4px 6px; }
-  .node-name { font-size: 0.82rem; }
+  .node-name { font-size: 0.78rem; }
   .play-head h1 { margin-bottom: 0.2em; }
+  .score-num { min-width: 46px; height: 46px; font-size: 1.2rem; }
 }
 
-/* AI rewrite */
-.ai-box { border: 1px dashed var(--border); border-radius: var(--radius); padding: 10px 14px; margin: 12px 0; }
+/* AI rewrite: the Void colour, a power from beyond */
+.ai-box { border: 1px dashed rgba(148, 120, 220, 0.5); border-radius: var(--radius); padding: 10px 14px; margin: 12px 0; background: rgba(40, 28, 70, 0.18); }
 .ai-box p { margin: 4px 0 8px; }
 .ai-progress { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
-.ai-progress progress { flex: 1 1 160px; min-width: 0; accent-color: var(--aether); }
+.ai-progress progress { flex: 1 1 160px; min-width: 0; accent-color: var(--void); }

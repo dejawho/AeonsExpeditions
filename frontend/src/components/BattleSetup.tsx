@@ -61,7 +61,12 @@ export function BattleSetup({ node, step, added = [] }: { node: BattleNode; step
 
       <details>
         <summary>
-          Nemesis: {node.nemesis} {node.life != null && <span className="muted">· {node.life} life</span>}
+          Nemesis: {node.nemesis}
+          {node.life != null && (
+            <span className="life" title={`${node.life} life`} aria-label={`${node.life} life`}>
+              {node.life}
+            </span>
+          )}
         </summary>
         <CardImage title={node.nemesis} />
         {node.expedition_modifiers.length > 0 && (
