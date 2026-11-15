@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { api } from "../api";
+import { usePlanningBackdrop } from "../art";
 import { BoxPicker } from "../components/BoxPicker";
 import type { Catalog, Settings } from "../types";
 
@@ -34,6 +35,7 @@ export function NewExpedition() {
   const [settings, setSettings] = useState<Settings>({ ...DEFAULTS, ...loadPrefs() });
   const [selected, setSelected] = useState<Set<string>>(new Set());
   const [error, setError] = useState("");
+  usePlanningBackdrop();
 
   useEffect(() => {
     api

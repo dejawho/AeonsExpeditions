@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { BattleSetup, RewardsList } from "../components/BattleSetup";
 import { DefeatDraw } from "../components/DefeatDraw";
 import { RoadMap } from "../components/RoadMap";
+import { SceneBanner, useEraBackdrop } from "../art";
 import { currentStep, orderedNodes, replay } from "../progress";
 import { exportSave, getSave, putSave } from "../storage";
 import type { Action, Chapter, Save } from "../types";
@@ -41,6 +42,7 @@ export function Play() {
   }, [id]);
 
   const state = useMemo(() => (save ? replay(save.expedition, save.actions) : null), [save]);
+  useEraBackdrop(save?.story.era);
 
   if (save === undefined) return <div className="page muted">Loading…</div>;
   if (save === null || !state)
@@ -146,6 +148,9 @@ export function Play() {
 
       {tab === "battle" && (
         <article className="card">
+          {state.phase !== "briefing" && (
+            <SceneBanner scene={state.phase === "completed" ? "ending" : state.phase} />
+          )}
           {isStart && (
             <div className="prologue">
               <h2>Prologue</h2>

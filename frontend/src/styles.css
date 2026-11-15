@@ -36,14 +36,15 @@ body {
 }
 
 /* The painting at the top of every page (art/backdrop-*.webp, generated for this app), fading into the
-   background colour. The left side is darkened for the titles; the home page shows it in full. */
+   background colour. The left side is darkened for the titles; the home page shows it in full. Preview and
+   play pages swap in the painting of the expedition's era (--art-wide / --art-narrow, set by art.tsx). */
 .backdrop {
   position: absolute; top: 0; left: 0; right: 0; z-index: -1;
   height: min(100vh, 820px);
   background:
     linear-gradient(180deg, rgba(11, 16, 18, 0.55) 0%, rgba(11, 16, 18, 0.72) 45%, var(--bg) 100%),
     linear-gradient(90deg, rgba(11, 16, 18, 0.7) 0%, rgba(11, 16, 18, 0.25) 55%, rgba(11, 16, 18, 0.1) 100%),
-    url("/art/backdrop-2560.webp") 60% 30% / cover no-repeat;
+    var(--art-wide, url("/art/backdrop-2560.webp")) 60% 30% / cover no-repeat;
 }
 .backdrop.home {
   /* the whole 16:9 painting, so its dark left part (painted for the text) stays behind the text */
@@ -58,7 +59,7 @@ body {
   .backdrop {
     background:
       linear-gradient(180deg, rgba(11, 16, 18, 0.55) 0%, rgba(11, 16, 18, 0.75) 45%, var(--bg) 100%),
-      url("/art/backdrop-1280.webp") 68% 30% / cover no-repeat;
+      var(--art-narrow, url("/art/backdrop-1280.webp")) 68% 30% / cover no-repeat;
   }
   /* on a phone the monster fills the top and the text sits below it, on the dark */
   .backdrop.home {
@@ -111,6 +112,17 @@ section { margin: 20px 0; }
   padding: 16px;
   margin: 14px 0;
 }
+/* the painted strip at the top of the battle card (art/scenes/, see art.tsx): edge to edge, no text on it */
+.scene-banner { display: block; margin: -16px -16px 14px; }
+.scene-banner img {
+  display: block; width: 100%; height: clamp(110px, 22vw, 200px); object-fit: cover; object-position: 50% 50%;
+  border-radius: var(--radius) var(--radius) 0 0; border-bottom: 1px solid var(--gold-dark);
+}
+/* the band of each painting worth showing: the nemesis' eyes and the mages' lightning, the victors on the ridge... */
+.scene-banner.battle img { object-position: 50% 12%; }
+.scene-banner.victory img { object-position: 50% 48%; }
+.scene-banner.defeat img { object-position: 50% 55%; }
+.scene-banner.ending img { object-position: 50% 58%; }
 .muted { color: var(--muted); }
 .small { font-size: 0.87rem; }
 .mono { font-family: ui-monospace, Consolas, monospace; letter-spacing: 0.02em; }

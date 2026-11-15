@@ -166,6 +166,9 @@ Text extracted from the [Aeon's End Wiki](https://aeonsend.wiki.gg/) is © its c
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Every page keeps its source URL (`pages.url`);
 the webapp must credit the wiki and share derived lore under the same licence. Aeon's End is © Indie Boards & Cards / Action Phase Games.
 
-The background painting (`frontend/public/art/backdrop-*.webp`) is original art made for this app with OpenAI's
-image model `gpt-image-2.6-flare`, from a prompt describing a scene in the spirit of the box covers (no official art
-was used as input). Card images are not part of the repository (see `scraper/fetch_images.py`).
+The background paintings are original art made for this app with OpenAI's image model `gpt-image-2.6-flare`, from
+prompts written for it (no official art was used as input): `frontend/public/art/backdrop-*.webp`, a scene in the
+spirit of the box covers, behind the home page; `frontend/public/art/eras/<era>-*.webp`, one landscape per era of
+`lore/timeline.json`, behind the preview and play pages of an expedition in that era; `frontend/public/art/scenes/`,
+the planning table behind the new-expedition form and the strips at the top of a battle (the clash, victory, defeat,
+the way home). All of them are wired in `frontend/src/art.tsx`. Card images are not part of the repository (see `scraper/fetch_images.py`).

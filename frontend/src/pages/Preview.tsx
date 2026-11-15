@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate, useSearchParams } from "react-router-do
 import { api } from "../api";
 import { AiRewrite } from "../components/AiRewrite";
 import { RoadMap } from "../components/RoadMap";
+import { useEraBackdrop } from "../art";
 import { newId, putSave, requestPersistence } from "../storage";
 import type { Generated, Settings, Story } from "../types";
 import { savePrefs } from "./NewExpedition";
@@ -26,6 +27,7 @@ export function Preview() {
   const [dataChanged, setDataChanged] = useState(false);
   const [reveal, setReveal] = useState(false);
   const shown = useRef<string | null>(null); // share code currently displayed (avoids regenerating it)
+  useEraBackdrop(preview?.story.era);
 
   async function generate(settings: Settings) {
     setBusy(true);
